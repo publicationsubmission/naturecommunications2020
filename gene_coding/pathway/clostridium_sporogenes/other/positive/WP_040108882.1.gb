@@ -1,0 +1,41 @@
+LOCUS       WP_040108882             162 aa            linear   BCT 28-JUN-2015
+DEFINITION  MULTISPECIES: cytidine deaminase [Clostridium].
+ACCESSION   WP_040108882
+VERSION     WP_040108882.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..162
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..162
+                     /product="cytidine deaminase"
+                     /calculated_mol_wt=18436
+     Region          1..159
+                     /region_name="cytidine_deaminase-like"
+                     /note="Cytidine and deoxycytidylate deaminase zinc-binding
+                     region. The family contains cytidine deaminases,
+                     nucleoside deaminases, deoxycytidylate deaminases and
+                     riboflavin deaminases. Also included are the apoBec family
+                     of mRNA editing enzymes. All members...; cl00269"
+                     /db_xref="CDD:320870"
+     Site            order(79..81,116..117,120)
+                     /site_type="active"
+                     /db_xref="CDD:238406"
+     Site            order(79,81,117,120)
+                     /site_type="other"
+                     /note="Zn binding site [ion binding]"
+                     /db_xref="CDD:238406"
+ORIGIN      
+        1 mdridknnyy ldicetvler gtclrrnfaa iivkndeims tgytgaprgr knccdlgyck
+       61 reelkvprgt ryelcrsvha eqnaiisarr qdmiastmyl vgkeyntgky vvnaapcslc
+      121 krfiinsgid kvvirdskek friiqveewi enddsldgdg sy
+//
+
+

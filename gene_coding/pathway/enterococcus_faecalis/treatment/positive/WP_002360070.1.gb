@@ -1,0 +1,40 @@
+LOCUS       WP_002360070             174 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: ribosome maturation factor RimM [Bacilli].
+ACCESSION   WP_002360070
+VERSION     WP_002360070.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF001086.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00122
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..174
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     gene            1..174
+                     /gene="rimM"
+     Protein         1..174
+                     /product="ribosome maturation factor RimM"
+                     /calculated_mol_wt=19677
+     Region          1..171
+                     /region_name="rimM"
+                     /note="16S rRNA-processing protein RimM; Provisional;
+                     PRK00122"
+                     /db_xref="CDD:234650"
+ORIGIN      
+        1 mtdylnvgki vntqgikgev rvisktdfpe eryqkgatll lfqekkapie lvvkshrkhk
+       61 nfdilsfegh pnindvekyr dgilkvakdn laelaedefy yhqiigatvy detgselgki
+      121 keilspgand vwvvqrpkkk dlllpyiegv vtkvdvenqr idvdipegli dden
+//
+
+

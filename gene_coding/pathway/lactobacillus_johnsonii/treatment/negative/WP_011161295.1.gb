@@ -1,0 +1,32 @@
+LOCUS       WP_011161295             203 aa            linear   BCT 11-JUL-2013
+DEFINITION  hypothetical protein [Lactobacillus johnsonii].
+ACCESSION   WP_011161295
+VERSION     WP_011161295.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..203
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=22668
+     Region          50..203
+                     /region_name="YkoI"
+                     /note="Uncharacterized membrane protein YkoI [Function
+                     unknown]; COG3212"
+                     /db_xref="CDD:225753"
+ORIGIN      
+        1 mmsknnkitr llaatavigi igtsaaacsn ndssnqskqs svkketkdkk sntenalkks
+       61 qiklsqteal nkfdekysdk eikeinlkld gnryvyeidg fdkskeyemt inartgkeik
+      121 sssekldlde hlqkgldldk tisrkeasei aekevknsva kewdlkmedg kaiwevtves
+      181 gstkheveid asskkvirse een
+//
+
+

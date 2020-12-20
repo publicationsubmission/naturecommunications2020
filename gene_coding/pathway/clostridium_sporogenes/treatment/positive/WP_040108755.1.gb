@@ -1,0 +1,54 @@
+LOCUS       WP_040108755             356 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: butyrate kinase [Clostridium].
+ACCESSION   WP_040108755
+VERSION     WP_040108755.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 356)
+  AUTHORS   Ward,D.E., Ross,R.P., van der Weijden,C.C., Snoep,J.L. and
+            Claiborne,A.
+  TITLE     Catabolism of branched-chain alpha-keto acids in Enterococcus
+            faecalis: the bkd gene cluster, enzymes, and metabolic route
+  JOURNAL   J. Bacteriol. 181 (17), 5433-5442 (1999)
+   PUBMED   10464218
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02707.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02707
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..356
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..356
+                     /gene="buk"
+     Protein         1..356
+                     /product="butyrate kinase"
+                     /EC_number="2.7.2.7"
+                     /calculated_mol_wt=38967
+     Region          2..356
+                     /region_name="PRK03011"
+                     /note="butyrate kinase; Provisional"
+                     /db_xref="CDD:235099"
+     Site            order(9..12,14,16,154,183..186)
+                     /site_type="other"
+                     /note="nucleotide binding site [chemical binding]"
+                     /db_xref="CDD:212657"
+ORIGIN      
+        1 mgyklliinp gststkigvy edenqileet lrhssqeies yktifdqfef rkevilnvlk
+       61 eknfdvneld aivgrggllk pieggtyrvn ddmiedlkig vqgqhasnlg giianeigkn
+      121 lnipafivdp vvvdemkdia risgmpeikr ksifhalnqk avakryaken nkkyeelnli
+      181 vthmgggasv gthekgkvvd vnnaldgegp fspertgglp vgdlvklcys gkytyeemkk
+      241 kisgkggvva ylntndfrev eeraeegdkd aklivdafif qiakeigkna avlcgkvdai
+      301 lltggiaysk vicegikemv sfiapvvrfp gedellalaq gglrvlkgee qgkeyk
+//
+
+

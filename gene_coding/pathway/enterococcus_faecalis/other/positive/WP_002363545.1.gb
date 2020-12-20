@@ -1,0 +1,40 @@
+LOCUS       WP_002363545             240 aa            linear   BCT 02-DEC-2018
+DEFINITION  MULTISPECIES: response regulator transcription factor
+            [Enterococcus].
+ACCESSION   WP_002363545
+VERSION     WP_002363545.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11433066
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..240
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..240
+                     /product="response regulator transcription factor"
+                     /calculated_mol_wt=27853
+     Region          5..235
+                     /region_name="OmpR"
+                     /note="DNA-binding response regulator, OmpR family,
+                     contains REC and winged-helix (wHTH) domain [Signal
+                     transduction mechanisms, Transcription]; COG0745"
+                     /db_xref="CDD:223816"
+ORIGIN      
+        1 mrtekilvvd ddaavrrliw kalqstgili yqsesiektk divsrvtfdl filddnlehd
+       61 sdgyylvqmi rekyplvpii ffsskkeeed iiaalemgvd syitkpfsln vfkaqviasl
+      121 nrarmirkql nvykkeelqv gdfrfdygry qlfkkdlpis lsskevqliq fflenpeqvf
+      181 skeqiyssvw gtgdvdanti mvfinrlrsk leenpkepcy lrtvwgigyt ftpdgcvqkk
+//
+
+

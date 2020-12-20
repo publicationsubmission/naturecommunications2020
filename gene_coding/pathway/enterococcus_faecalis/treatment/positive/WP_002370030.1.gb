@@ -1,0 +1,39 @@
+LOCUS       WP_002370030             294 aa            linear   BCT 15-JUL-2015
+DEFINITION  MULTISPECIES: LysR family transcriptional regulator [Enterococcus].
+ACCESSION   WP_002370030
+VERSION     WP_002370030.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11426483
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..294
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..294
+                     /product="LysR family transcriptional regulator"
+                     /calculated_mol_wt=32476
+     Region          1..292
+                     /region_name="LysR"
+                     /note="DNA-binding transcriptional regulator, LysR family
+                     [Transcription]; COG0583"
+                     /db_xref="CDD:223656"
+ORIGIN      
+        1 melrvihyfl avvqektisg aakqlhvsqp tlskqlkele eelgvtlfir gnrqiqltpe
+       61 geylakqgqd ilslanktvt nlsqnefing eitigggetk amsflanalq qitsqhsadi
+      121 hlhlysgnad dvierldkgl ldfgliiepa pkqkysyltl pvvdtwglit vkdhplatkn
+      181 vitaadlkee plfisrqaqv psqlsdwlea sldqfrivgt ynllynaslm veaglgsals
+      241 idgiletkqt nlrfiplypa ltakisliwr kntvlstaaa lfleqikksi qrpe
+//
+
+

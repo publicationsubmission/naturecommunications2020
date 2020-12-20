@@ -1,0 +1,46 @@
+LOCUS       WP_002360172             556 aa            linear   BCT 01-JUN-2019
+DEFINITION  formate--tetrahydrofolate ligase [Enterococcus faecalis].
+ACCESSION   WP_002360172
+VERSION     WP_002360172.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF010030.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK13505
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..556
+                     /product="formate--tetrahydrofolate ligase"
+                     /EC_number="6.3.4.3"
+                     /calculated_mol_wt=59424
+     Region          2..556
+                     /region_name="FTHFS"
+                     /note="Formate--tetrahydrofolate ligase; pfam01268"
+                     /db_xref="CDD:307434"
+ORIGIN      
+        1 mktdiniaqa atlkpiqeia etiglsedsl elygkykaki dfptlqslea ksegklilvt
+       61 sinptpageg kstvtiglgd alnqinkktv ialrepslgp vmgikggatg ggyaqvlpme
+      121 einlhftgdm haittannal aalldnhlqq gnelkidsrr viwkravdln dralrqvvvg
+      181 lggpfqgvpr edgfditvas eimailclaq nltdlkerls riivayndqk epvtvkdlnv
+      241 agaltlllkd alkpnlvqti egtpafvhgg pfaniahgcn silatktalh lgdyvvteag
+      301 fggdlggekf ldikvpslgk apdavvivat iralkmhggl akdqlaeenl palqkgfanl
+      361 ekhiqnmqry dvpvvvaine ftqdtekeiq llkeacqalg vpveltsvwa qggaggtnla
+      421 ktvvaeiean tkqfqplynp rqtieekiqa ivqtiyggeq aifspkaqkq iadftkngwd
+      481 qlpicmaktq yslsddpqkl grpegftiti relvpkigag fivaltgdil tmpglpkvpa
+      541 alnmdvdetg qasglf
+//
+
+

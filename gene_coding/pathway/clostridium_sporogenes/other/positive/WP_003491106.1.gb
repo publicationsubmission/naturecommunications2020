@@ -1,0 +1,40 @@
+LOCUS       WP_003491106             320 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: methionine ABC transporter ATP-binding protein
+            [Clostridium].
+ACCESSION   WP_003491106
+VERSION     WP_003491106.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11438975
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+FEATURES             Location/Qualifiers
+     source          1..320
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..320
+                     /product="methionine ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=36067
+     Region          1..320
+                     /region_name="AbcC"
+                     /note="ABC-type methionine transport system, ATPase
+                     component [Amino acid transport and metabolism]; COG1135"
+                     /db_xref="CDD:224058"
+ORIGIN      
+        1 mieisklqkf ygdtevlrni nveidkgdiy glvgisgagk stllrcingl efyeagslkv
+       61 ngievknlne kklrafrkni gmifqqfsll erktvyenva lpmecwgykr qdidkkvkel
+      121 lelvelgdki nskprqlsgg qkqrvaiara ltldpeillc deatsaldpn itnsilellk
+      181 kinrelgiti vvvthqmdvv khvcnkmail skgnleakgk vedifldkpk vleellgele
+      241 dsvivkkgvn ieiiereniq essilsslai dtkvkysliw ggtdkyrdkv lgsfiiniks
+      301 ddkpkivnyl nekhiewrev
+//
+
+

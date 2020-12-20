@@ -1,0 +1,50 @@
+LOCUS       WP_077272604             279 aa            linear   BCT 28-SEP-2019
+DEFINITION  MULTISPECIES: YjjW family glycine radical enzyme activase
+            [Clostridium].
+ACCESSION   WP_077272604
+VERSION     WP_077272604.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 279)
+  AUTHORS   Haft,D.H. and Basu,M.K.
+  TITLE     Biological systems discovery in silico: radical
+            S-adenosylmethionine protein families and their target peptides for
+            posttranslational modification
+  JOURNAL   J. Bacteriol. 193 (11), 2745-2755 (2011)
+   PUBMED   21478363
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR04041.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR04041
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..279
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..279
+                     /gene="yjjW"
+     Protein         1..279
+                     /product="YjjW family glycine radical enzyme activase"
+                     /calculated_mol_wt=31524
+     Region          4..279
+                     /region_name="activase_YjjW"
+                     /note="glycine radical enzyme activase, YjjW family;
+                     TIGR04041"
+                     /db_xref="CDD:274938"
+ORIGIN      
+        1 mmlrglvnki ipfssvdgpg nrtaiffqgc nfdckychnp etintckacg tcafvcpyga
+       61 veflgdsvkw denkckncgl clekcknncg prnkymsvge iikeilktkp fisgitvsgg
+      121 ectlqkdfli dlfekikllg ltifidtngs ldfsknpklt elmdmamvdv ksfdneehkm
+      181 ltkrnndivl knvrylasin klyeirtviv pdlldnknnv feiskliasl npniryklik
+      241 yrpmgirkek ieskiptney menlknmalk ngckniiil
+//
+
+

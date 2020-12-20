@@ -1,0 +1,30 @@
+LOCUS       WP_142429901             308 aa            linear   BCT 16-JUL-2019
+DEFINITION  phage head morphogenesis protein [Enterococcus faecalis].
+ACCESSION   WP_142429901
+VERSION     WP_142429901.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..308
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..308
+                     /product="phage head morphogenesis protein"
+                     /calculated_mol_wt=35491
+ORIGIN      
+        1 msnywaerea khieemlkrh vnyeqeihrr ylqlwktiea eiqqfyvaya gkekisidea
+       61 krraskhdvq ifaekakryv qtrdfskean eqlrlynltm kvnrlellks kiglyltdnt
+      121 nqlqtyftam lteeavaefv rqagilgesi lseetyrlfa kaiiegsfhn atfsqrlwvn
+      181 qdvlkasidr lltvglvagk hpdilarelr klvvidslrg ketadyvarr lmisesariq
+      241 sevqkqsyek ygyeeynliv epsacpicvg iasanphkvs emspginasp ihnwcrcsta
+      301 paykdkkf
+//
+
+

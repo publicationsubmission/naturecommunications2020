@@ -1,0 +1,52 @@
+LOCUS       WP_113886603             939 aa            linear   BCT 18-JUL-2018
+DEFINITION  penicillin-binding protein [Lactobacillus johnsonii].
+ACCESSION   WP_113886603
+VERSION     WP_113886603.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11432910
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..939
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..939
+                     /product="penicillin-binding protein"
+                     /calculated_mol_wt=103624
+     Region          42..770
+                     /region_name="MrcB"
+                     /note="Membrane carboxypeptidase (penicillin-binding
+                     protein) [Cell wall/membrane/envelope biogenesis];
+                     COG0744"
+                     /db_xref="CDD:223815"
+ORIGIN      
+        1 mknlkekirk fltagpevkt lqsesdesqw kfysgivylt lrrvfhyfil iaffglflli
+       61 gfgggyalgi vrnqpiptis elnhqinhaq nsatlyyagn kkiatvrpdt vtkkasesel
+      121 tplvknavtt tedenfyihk gvlpkslvra vlseltgvgv qtggstltqq lvkmqfltsq
+      181 ttwrrkvtem fyahkiekhf skedilrayl naapygknnr genivgikta aegifgksis
+      241 elnlpqaafi aglpqspsvy tpyrlngkvk sdldlamrrk divlfrmyrn gdiskkayla
+      301 akkydlradf lapekapkqk kqsgylynlv mnksasllae nlieqdglkv sdvkqdinry
+      361 nqyltsatel lhqkgyhikt tirkplyqtm qqvvkqnkyg qdrtsrdfds stnkwvntte
+      421 hvengsvvid natgkvlafs ggvdfknsqi nhafdtyrsp gssikpylvy gpaidhklis
+      481 sqtaiadfpt rfgnyiptdy nstvenrfis aqealsksyn lpavnlyskl vndkninlrq
+      541 dmkklglnls ksefenlgla lggtdygfsv adnasafsnf ynngkradpy yieeiqdpsg
+      601 rviykhkqnp rkvfsagtsy imqkmlhqvv tkgtassltg tlkfdyknli gktgtsndyr
+      661 diwfngstpg itisswmgyd nfyghsynld snssetnlnl wanianalyk edpsifklnd
+      721 apsrpssvyk nsvlartgtl pgtvsydgdn idlsgkktta lslspapnat arfgiggstk
+      781 dynlfydyle gknndygkvl iytgktiskk kninslfava dgstsenakn yygknhevyr
+      841 esnnnsssst nrnvgandeq arstgqggnn nsssttrstt strespsssq nnrsessnan
+      901 eanevnsnis psesaptsgs asteatagda aadnaptap
+//
+
+

@@ -1,0 +1,48 @@
+LOCUS       WP_113886588             239 aa            linear   BCT 18-JUL-2018
+DEFINITION  isoprenyl transferase [Lactobacillus johnsonii].
+ACCESSION   WP_113886588
+VERSION     WP_113886588.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF011405.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK14830
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..239
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..239
+                     /product="isoprenyl transferase"
+                     /calculated_mol_wt=27549
+     Region          9..239
+                     /region_name="PRK14830"
+                     /note="undecaprenyl pyrophosphate synthase; Provisional"
+                     /db_xref="CDD:184840"
+     Site            order(15..20,29,33,37,40,59,67,71,78..79,82,131,187,193,
+                     195)
+                     /site_type="active"
+                     /db_xref="CDD:259850"
+     Site            order(138..139,141..142,145..146,162..164,167,181,
+                     192..196,199..201,203..207,209)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:259850"
+ORIGIN      
+        1 mseskkplnh laiimdgngr wakkrhlprf vghrhgmdni rnialaankl gikvltlyaf
+       61 stenwarptd evnylmrlpi dffdkfmpel mennvrvnim gfvdelpekt ylvtqkamae
+      121 tanntgmvln fafnygsrre itagvqeiar kvkvgeidid diskkmvsdh llthslapye
+      181 dpdllirtsg eerlsnfllw qmaytefsfs dklwpdfdkt dleelvkdyq grnrrfgkv
+//
+
+

@@ -1,0 +1,42 @@
+LOCUS       WP_080941254             328 aa            linear   BCT 27-MAY-2019
+DEFINITION  AMP-binding protein [Clostridium sporogenes].
+ACCESSION   WP_080941254
+VERSION     WP_080941254.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012711.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00501.26
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..328
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..328
+                     /product="AMP-binding protein"
+                     /calculated_mol_wt=37050
+     Region          <2..157
+                     /region_name="AFD_class_I"
+                     /note="Adenylate forming domain, Class I superfamily;
+                     cl17068"
+                     /db_xref="CDD:354307"
+ORIGIN      
+        1 mwsifhrigs ieneyptvvy gnalenqcvs vvdknldicp nfvpgeiiig gqalaegylg
+       61 elkltkekfl iresegdrfy rtgdrgrfle ngeieflgrl dnqvkingyr ielaeieaal
+      121 seaptvsdct vvhykqsgke kleafivegl drtesssgfs fnlssimaqa sniekkmnsd
+      181 svkhfnevln caildtahka lreagafgnn nswfevelil kklqvlpcfs tllcrwlnil
+      241 tdngyivreg nlykdlfkdk keenywpllr neplsfiape cvskyiesha rnicslfsgk
+      301 vnplaflfpd gaqklqklym vkqllhni
+//
+
+

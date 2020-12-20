@@ -1,0 +1,44 @@
+LOCUS       WP_004898281             374 aa            linear   BCT 28-SEP-2019
+DEFINITION  DNA replication/repair protein RecF [Lactobacillus johnsonii].
+ACCESSION   WP_004898281
+VERSION     WP_004898281.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF000823.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00064
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..374
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..374
+                     /gene="recF"
+     Protein         1..374
+                     /product="DNA replication/repair protein RecF"
+                     /calculated_mol_wt=42896
+     Region          1..371
+                     /region_name="recF"
+                     /note="recombination protein F; Reviewed; PRK00064"
+                     /db_xref="CDD:234608"
+ORIGIN      
+        1 mylanfelkd frnfeelkin fdphvnifig pnaqgktnll eaiyflaltr shrtnsdkel
+       61 irfgskfagl qgkvhksqle velklrltpn gkkawvnrle qkklsayvgq mnailfsped
+      121 lalvkgapsi rrrfmdlefg qinseylyfl sqyrqvlqqr nnylkqlsik kandlvfldv
+      181 lsdqlagiaa eiisrrikyi kklnsyaqsa hseisgqaek lqifyrpsvk eitpdddvet
+      241 iyqkvitsyk knrpneirkg ttlsgphrdd ldflindkna hdfasqgqqr tislsvklae
+      301 iqlvheltqe ypilllddvm seldhrrqss llnyihgktq tfitttdleg isweivkepk
+      361 vyhisagtis tkes
+//
+
+

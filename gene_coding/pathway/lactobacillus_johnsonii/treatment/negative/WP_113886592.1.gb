@@ -1,0 +1,50 @@
+LOCUS       WP_113886592             250 aa            linear   BCT 31-MAY-2019
+DEFINITION  Stp1/IreP family PP2C-type Ser/Thr phosphatase [Lactobacillus
+            johnsonii].
+ACCESSION   WP_113886592
+VERSION     WP_113886592.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 250)
+  AUTHORS   Kristich,C.J., Little,J.L., Hall,C.L. and Hoff,J.S.
+  TITLE     Reciprocal regulation of cephalosporin resistance in Enterococcus
+            faecalis
+  JOURNAL   MBio 2 (6), e00199-e00111 (2011)
+   PUBMED   22045988
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF033484.1
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..250
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..250
+                     /product="Stp1/IreP family PP2C-type Ser/Thr phosphatase"
+                     /calculated_mol_wt=27428
+     Region          1..246
+                     /region_name="PTC1"
+                     /note="Serine/threonine protein phosphatase PrpC [Signal
+                     transduction mechanisms]; COG0631"
+                     /db_xref="CDD:223704"
+     Site            order(14,18..19,37..39,194,234)
+                     /site_type="active"
+                     /db_xref="CDD:238083"
+ORIGIN      
+        1 miktafassi grvretnqdf vkvfknqnni imgivcdgmg ghqggdvast mavshlghnf
+       61 ektdftdpdl aqkwltvqlr lenetilnta drfsdlngmg ttivlaiaft ekiliahlgd
+      121 srcylyggne fkqitedhsl vhelvkigqi teqqarnhpq kniitetlgv sstvnpefdi
+      181 levhagdifl lctdgltnsl tdpqiqqila tknlslkerc nklineanrl gggdnitvcl
+      241 layvekdgdk
+//
+
+

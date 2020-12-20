@@ -1,0 +1,36 @@
+LOCUS       WP_046869932             435 aa            linear   BCT 09-JUN-2016
+DEFINITION  MFS transporter [Clostridium sporogenes].
+ACCESSION   WP_046869932
+VERSION     WP_046869932.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..435
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..435
+                     /product="MFS transporter"
+                     /calculated_mol_wt=48244
+     Region          1..419
+                     /region_name="MFS_2"
+                     /note="MFS/sugar transport protein; pfam13347"
+                     /db_xref="CDD:315915"
+ORIGIN      
+        1 mgdvgcnfsw mfvgnflmif ytdvfgisms avaglmlfsr fwdaindpii grlsdkthtr
+       61 wgryrpwllf gapltalvli ltfwahphws stikiiymai tycilvlgyt cvnipygtlc
+      121 gamtqnieer akintsrsvs amaaigvini itvpliatlg kgddkkgyll tailygaifa
+      181 ichifcfakt kevvkvpekq kislktqlaa vaknkpykia lvgqflfgmt fygrnadmly
+      241 yftyvegnka lfsnyslcii ipsiigaacf pllfnltnnk grsasifall tgismfcmyf
+      301 ftlgespvpf yvfsalsqff fsgfntaiya iipdcveyge wktglrndgf qyafislgnk
+      361 vgmaigtall agvmgrcgyv anqqqnqavi avikhsfttv pgilwivtav vlffyglnkk
+      421 synkilcein qrnnk
+//
+
+

@@ -1,0 +1,64 @@
+LOCUS       WP_004895097             305 aa            linear   BCT 01-JUN-2019
+DEFINITION  MULTISPECIES: glycine--tRNA ligase subunit alpha [Lactobacillus].
+ACCESSION   WP_004895097
+VERSION     WP_004895097.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00388.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00388
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..305
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     gene            1..305
+                     /gene="glyQ"
+     Protein         1..305
+                     /product="glycine--tRNA ligase subunit alpha"
+                     /EC_number="6.1.1.14"
+                     /calculated_mol_wt=35106
+     Region          2..284
+                     /region_name="glyQ"
+                     /note="glycyl-tRNA synthetase subunit alpha; Validated;
+                     PRK09348"
+                     /db_xref="CDD:236473"
+     Site            23..27
+                     /site_type="other"
+                     /note="motif 1"
+                     /db_xref="CDD:238391"
+     Site            order(24..25,27,42..43,61,63,97)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:238391"
+     Site            order(35,37,62,78,80,82..84,139..140,144,160..161,
+                     163..164,167)
+                     /site_type="active"
+                     /db_xref="CDD:238391"
+     Site            61..63
+                     /site_type="other"
+                     /note="motif 2"
+                     /db_xref="CDD:238391"
+     Site            order(164,167)
+                     /site_type="other"
+                     /note="motif 3"
+                     /db_xref="CDD:238391"
+ORIGIN      
+        1 mseklniqdm ifkleqfwas kgcmimpsyd eqkgagtmsp ytflravgpe pwaacyveps
+       61 rrpadgrygd npnrlyqhhq fqvvikpapk diqqyyldsl rvlgiepleh dirfvednwa
+      121 npsmgcagvg wevwldgmev sqftyfqvvg eldvkptmse itygverlas yiqdvnsvfd
+      181 lewgdgvkyr difkqpeyeh skyafeesdq eqllkffdiy eatakrllsq nlihpaydyi
+      241 lkcshtfnll dargavsvte ragylsrirn lahlaakgfv eerekrgfpl lkhqeetkka
+      301 gqnnd
+//
+
+

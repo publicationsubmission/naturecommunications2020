@@ -1,0 +1,41 @@
+LOCUS       WP_033059477             273 aa            linear   BCT 15-MAY-2017
+DEFINITION  MULTISPECIES: ABC transporter permease [Clostridium].
+ACCESSION   WP_033059477
+VERSION     WP_033059477.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11439449
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..273
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..273
+                     /product="ABC transporter permease"
+                     /calculated_mol_wt=30130
+     Region          14..267
+                     /region_name="DppC"
+                     /note="ABC-type dipeptide/oligopeptide/nickel transport
+                     system, permease component [Amino acid transport and
+                     metabolism, Inorganic ion transport and metabolism];
+                     COG1173"
+                     /db_xref="CDD:224094"
+ORIGIN      
+        1 mkkyceifkk csvigklsfl vtlvfisiai lcpllckypy nipsasslip psiehilgtd
+       61 dlgidlwsqi cyggrisitl gistavlagt fgsfvgiisg yygglvdkfl mrftdlmlvl
+      121 pqlpvmivla affgpnsknv iivlsifswv gpariirskv isirdenyie fakscgasff
+      181 hilrkhilpq ifplvsismv kiiskaiiae sslsflglgd pvskswgmil nhaidfdgiy
+      241 ftnywkwwia apllsiiilv lsfafigkei enf
+//
+
+

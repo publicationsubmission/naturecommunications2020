@@ -1,0 +1,43 @@
+LOCUS       WP_032883807             236 aa            linear   BCT 22-APR-2018
+DEFINITION  MULTISPECIES: ferritin-like domain-containing protein
+            [Clostridium].
+ACCESSION   WP_032883807
+VERSION     WP_032883807.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10090058
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..236
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..236
+                     /product="ferritin-like domain-containing protein"
+                     /calculated_mol_wt=27581
+     Region          21..139
+                     /region_name="Ferritin_like"
+                     /note="Ferritin-like superfamily of diiron-containing
+                     four-helix-bundle proteins; cd00657"
+                     /db_xref="CDD:153097"
+     Site            order(28,58,61,102,128,131)
+                     /site_type="other"
+                     /note="dinuclear metal binding motif [ion binding]"
+                     /db_xref="CDD:153097"
+ORIGIN      
+        1 mprgeipmmn niqfqealee ikravqherk delfneylin iaptreeeki iesirddeyr
+       61 hnkllrriym dftgmevpid eeetianpen yldgikkalf rklrtiekyr awnrgpykdm
+      121 vsniitdeik hsskynylfa lnsnmkvmdm nrspvqdtsk ftpddwvryi tplvnralae
+      181 akaginpehl yqefilagvl vglgktpqea idqveewent gesqllaksk margfy
+//
+
+

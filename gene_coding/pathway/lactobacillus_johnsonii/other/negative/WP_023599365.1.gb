@@ -1,0 +1,49 @@
+LOCUS       WP_023599365             497 aa            linear   BCT 12-JUL-2017
+DEFINITION  peptide MFS transporter [Lactobacillus johnsonii].
+ACCESSION   WP_023599365
+VERSION     WP_023599365.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11459681
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..497
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..497
+                     /product="peptide MFS transporter"
+                     /calculated_mol_wt=54907
+     Region          2..497
+                     /region_name="PTR2"
+                     /note="Dipeptide/tripeptide permease [Amino acid transport
+                     and metabolism]; COG3104"
+                     /db_xref="CDD:225646"
+     Site            order(28,32,128,154,157..158,161,310,343..344,347,414)
+                     /site_type="other"
+                     /note="chemical substrate binding pocket [chemical
+                     binding]"
+                     /db_xref="CDD:340904"
+ORIGIN      
+        1 mnnsttektf fgqprglstl fftemwerfs yygmraillf ymyyavergg lgmnettaas
+       61 imsiygslvy lstvaggwla driwgarstv ffggvlimig hiilalpmae lglyisiafi
+      121 vvgtgllkpn vsdmvgglys lddrrrdagf sifvfginlg salapwlvpw asegfglnlf
+      181 gnhfnfhagf slaavgmffg lvqyvwggrk ylsedgmhpt dpidpetrnk vlkriglgvl
+      241 alavvlglma afgqlnidni itlitivaia lpiyyfvlml rspkvtkeer skvwayiplf
+      301 iaasifwgie esgsvvlalf aaqrtvlhig gwhftaanfq tlnpvfimil tpffvwlwdn
+      361 wkkqpsaagk faaglvfagl symwmalpgm lygtngrvsp fwlvgswfiv eiaemlispi
+      421 glsvttrlap kafrsqmmsl wfladatgqa insqivkyys sktevayfla vgivsvlfgv
+      481 vmffftkkih nlmadae
+//
+
+

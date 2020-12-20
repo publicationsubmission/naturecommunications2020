@@ -1,0 +1,43 @@
+LOCUS       WP_004894320             396 aa            linear   BCT 15-JUN-2019
+DEFINITION  MULTISPECIES: elongation factor Tu [Lactobacillus].
+ACCESSION   WP_004894320
+VERSION     WP_004894320.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00485.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00485
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..396
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     gene            1..396
+                     /gene="tuf"
+     Protein         1..396
+                     /product="elongation factor Tu"
+                     /calculated_mol_wt=43533
+     Region          1..396
+                     /region_name="PRK00049"
+                     /note="elongation factor Tu; Reviewed"
+                     /db_xref="CDD:234596"
+ORIGIN      
+        1 maekehyert kphvnigtig hvdhgkttlt aaittvlaed glaqaedysq idaapeeker
+       61 gitintahve yetknrhyah mdapghadyi knmitgaaqm dgailvvaat dgpmpqtreh
+      121 illarqvgvq yivvflnkvd lvddpelidl vemevrdlls eydypgddvp virgsalkal
+      181 egdpeqqdvi rklmetvdey iptperdtdk pflmpvedvf titgrgtvas gridrgtvkv
+      241 gdeveivglt dkiekstvtg lemfhktldl geagdnvgvl lrgidrdqve rgqvlaapgs
+      301 iqthknfkgq vyilnkdegg rhtpffsdyr pqfyfhttdv tgkielpegt emvmpgdnve
+      361 ftvelikpva iekgtkftir eggktvgagq vteild
+//
+
+

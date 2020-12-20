@@ -1,0 +1,38 @@
+LOCUS       WP_002358755             220 aa            linear   BCT 15-JUL-2015
+DEFINITION  MULTISPECIES: TetR family transcriptional regulator [Enterococcus].
+ACCESSION   WP_002358755
+VERSION     WP_002358755.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012655.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00440.21
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..220
+                     /product="TetR family transcriptional regulator"
+                     /calculated_mol_wt=25122
+     Region          4..>153
+                     /region_name="PRK13756"
+                     /note="tetracycline repressor protein TetR; Provisional"
+                     /db_xref="CDD:172294"
+ORIGIN      
+        1 mepklskdti iaaafsllek sptleqlsmr kvakqlgvqa paiywyfknk qallqsmaea
+       61 ieehfqepal cgewysdlla fmenyydlyq qfpcavaiei qtvpaypqrl rhlnqmmgil
+      121 reagfspemt hlavtslqhl lfgmimdate ekqlvsqvln gddylkeqvl hmkqyvsdne
+      181 ltymeesiqf rhsihqksaf iqavktyldg lqadntsssk
+//
+
+

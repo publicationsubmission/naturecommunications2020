@@ -1,0 +1,38 @@
+LOCUS       WP_046869823             224 aa            linear   BCT 17-MAY-2015
+DEFINITION  hypothetical protein [Clostridium sporogenes].
+ACCESSION   WP_046869823
+VERSION     WP_046869823.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..224
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..224
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=26159
+     Region          <10..211
+                     /region_name="GluZincin"
+                     /note="Gluzincin Peptidase family (thermolysin-like
+                     proteinases, TLPs) which includes peptidases M1, M2, M3,
+                     M4, M13, M32 and M36 (fungalysins); cl14813"
+                     /db_xref="CDD:353839"
+     Site            order(77,81,100)
+                     /site_type="other"
+                     /note="Zn binding site [ion binding]"
+                     /db_xref="CDD:341057"
+ORIGIN      
+        1 mlylsngnln eesayryvdt afetinffne kygkypykdf divetfvpgf nmeytravqm
+       61 mplspvsyda idpilvheia hqwfhsvign nsekesclde sltefassyf lennypkngg
+      121 fkdiinksep inlpinspns kmtletskly yekggtafye lyriigedkf nqlikeyfnk
+      181 ykfknatlnd flaivenncg kevknhmykc fnepnyklde kyik
+//
+
+

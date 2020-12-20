@@ -1,0 +1,40 @@
+LOCUS       WP_086874649             215 aa            linear   BCT 13-JAN-2018
+DEFINITION  amino acid ABC transporter ATP-binding protein [Lactobacillus
+            johnsonii].
+ACCESSION   WP_086874649
+VERSION     WP_086874649.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11438336
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..215
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..215
+                     /product="amino acid ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=23606
+     Region          7..212
+                     /region_name="GlnQ"
+                     /note="ABC-type polar amino acid transport system, ATPase
+                     component [Amino acid transport and metabolism]; COG1126"
+                     /db_xref="CDD:224051"
+ORIGIN      
+        1 msgnkvlelk nisksfgtrk iidklnlsld kgdilsiigp sgagkttllr liaglesads
+       61 gkflhngkef dptdrnnhlv gmvfqdynlf pnlsvmdnit lapimvnkms kaeaekaaap
+      121 vldqldldkf ktlypyqlsg gqkqrvaiar alqmkpeilc ydeptsaldp elvgkvkdif
+      181 lklkqtgmtq viithdhqfg ktvadkilkv epiek
+//
+
+

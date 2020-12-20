@@ -1,0 +1,51 @@
+LOCUS       WP_003494836             608 aa            linear   BCT 01-JUN-2019
+DEFINITION  MULTISPECIES: glutamine--fructose-6-phosphate transaminase
+            (isomerizing) [Clostridium].
+ACCESSION   WP_003494836
+VERSION     WP_003494836.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01135.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01135
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..608
+                     /gene="glmS"
+     Protein         1..608
+                     /product="glutamine--fructose-6-phosphate transaminase
+                     (isomerizing)"
+                     /EC_number="2.6.1.16"
+                     /calculated_mol_wt=67878
+     Region          1..608
+                     /region_name="PRK00331"
+                     /note="glucosamine--fructose-6-phosphate aminotransferase;
+                     Reviewed"
+                     /db_xref="CDD:234729"
+ORIGIN      
+        1 mcgivgyvgf rkasdvivdg ltkleyrgyd sagiavndgk eiefqkykgr lnvlsenles
+       61 kpmegtigig htrwathgvp sdvnshphln mdetiavvhn giienymeik ewlisegvkf
+      121 ksetdtevia hlvdhyyegd llqavfktik klrgayalgv vckdnpeqlv avrkdspliv
+      181 gigenenfia sdvpailkyt rdvyfldnge vvtleknkvt iynekeekit kepfhvmwdv
+      241 eaaskggydh fmikeineqp ngiketlvrr ldedgkirld dikltkedld einkiyivac
+      301 gtaynagitg ryaierfaki avetdvasef ryrnpfiddk tliivvsqsg etadtlavvr
+      361 egkekgarvl aitnvvgssi areaddvfyt wagpevavas tkayttqlva lymialdmgi
+      421 krgtitekfy ndiinelkli pekvqkildq hdeikeiake ikdnehafyi grgldynlsl
+      481 egslkikeis ymhaeafaag elkhgtiali eentpvvatm tqtdlfeksi snikevksrg
+      541 ahviaitqeg nkeaeqvgdr viyiprtndi lqsiiavvph qllayyvail kdrdvdkprn
+      601 laksvtve
+//
+
+

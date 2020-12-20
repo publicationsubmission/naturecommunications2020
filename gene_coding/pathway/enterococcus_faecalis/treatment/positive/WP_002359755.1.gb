@@ -1,0 +1,44 @@
+LOCUS       WP_002359755             145 aa            linear   BCT 05-OCT-2019
+DEFINITION  GNAT family N-acetyltransferase [Enterococcus faecalis].
+ACCESSION   WP_002359755
+VERSION     WP_002359755.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF025054.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13673.5
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..145
+                     /product="GNAT family N-acetyltransferase"
+                     /calculated_mol_wt=16391
+     Region          14..144
+                     /region_name="NAT_SF"
+                     /note="N-Acyltransferase superfamily: Various enyzmes that
+                     characteristicly catalyze the transfer of an acyl group to
+                     a substrate; cl17182"
+                     /db_xref="CDD:354318"
+     Site            order(77..79,89..90)
+                     /site_type="other"
+                     /note="Coenzyme A binding pocket [chemical binding]"
+                     /db_xref="CDD:173926"
+ORIGIN      
+        1 mltikkttql tekeletima iwlqtnleah pfvaptywqe nkafvraalp katlilaeee
+       61 gqiigflglm dnyiagifik kafqgkgigq kllqvakeeq dvlslavyre nqaayafyqk
+      121 qgfvqqkrti detgneechl vwqaq
+//
+
+

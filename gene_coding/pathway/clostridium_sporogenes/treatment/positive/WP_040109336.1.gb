@@ -1,0 +1,51 @@
+LOCUS       WP_040109336             173 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: cob(I)yrinic acid a,c-diamide adenosyltransferase
+            [Clostridium].
+ACCESSION   WP_040109336
+VERSION     WP_040109336.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 173)
+  AUTHORS   Suh,S. and Escalante-Semerena,J.C.
+  TITLE     Purification and initial characterization of the ATP:corrinoid
+            adenosyltransferase encoded by the cobA gene of Salmonella
+            typhimurium
+  JOURNAL   J. Bacteriol. 177 (4), 921-925 (1995)
+   PUBMED   7860601
+  REMARK    Erratum:[J Bacteriol 1995 Apr;177(7):1918]
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00708.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00708
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..173
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..173
+                     /gene="cobO"
+     Protein         1..173
+                     /product="cob(I)yrinic acid a,c-diamide
+                     adenosyltransferase"
+                     /EC_number="2.5.1.17"
+                     /calculated_mol_wt=19419
+     Region          4..172
+                     /region_name="CobA_CobO_BtuR"
+                     /note="ATP:corrinoid adenosyltransferase BtuR/CobO/CobP;
+                     pfam02572"
+                     /db_xref="CDD:308272"
+ORIGIN      
+        1 mkeekgyiqv ytgngkgktt aalgislrav csgkrvffgq ftkgmkysel kaptilpnft
+       61 meqfgldkfi fgnpeeedik lakeglkkme kiltsgdydl vvmdevnial yyglftveev
+      121 idvldkrnpk veviltgrya keeiiekadl vtemkeikhy yekgvparvg ies
+//
+
+

@@ -1,0 +1,54 @@
+LOCUS       WP_046869736             452 aa            linear   BCT 31-MAY-2019
+DEFINITION  murein biosynthesis integral membrane protein MurJ [Clostridium
+            sporogenes].
+ACCESSION   WP_046869736
+VERSION     WP_046869736.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+REFERENCE   1  (residues 1 to 452)
+  AUTHORS   Rudnick,P.A., Arcondeguy,T., Kennedy,C.K. and Kahn,D.
+  TITLE     glnD and mviN are genes of an essential operon in Sinorhizobium
+            meliloti
+  JOURNAL   J. Bacteriol. 183 (8), 2682-2685 (2001)
+   PUBMED   11274131
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01695.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01695
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..452
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     gene            1..452
+                     /gene="murJ"
+     Protein         1..452
+                     /product="murein biosynthesis integral membrane protein
+                     MurJ"
+                     /calculated_mol_wt=50406
+     Region          12..406
+                     /region_name="MATE_MurJ_like"
+                     /note="MurJ/MviN, a subfamily of the multidrug and toxic
+                     compound extrusion (MATE)-like proteins; cd13123"
+                     /db_xref="CDD:240528"
+ORIGIN      
+        1 mklmkttigm iivtltsiil gfvresvtvy klgaswqads fifsvafpgf ifatlggvis
+       61 ttfvplytdl minkskkean dfanifinii vlislilvii geiytgqiik ilapgfkgqt
+      121 yestlrlvki ilpsmvfmgi iycfvgilts fkeliitsal siplhlsiif alifiypskg
+      181 leysvlvvlf gsllqvlmfi pklikndyry tftfnfknsy ikealymigp maigimvqqi
+      241 nimvdkslas tldqgsitsi nlasklniat yssigyllvv lifpilsqya sekniekfsk
+      301 tvisslnvvi glmipitiis iffrrelvnl lfgygkftek dvtytaqill fysleicflg
+      361 irdvlnrafy alkdtktsmk ngiigvlini ilslllirvm eanglalsts ismiiisill
+      421 fkdmknkfin vnltrfylni fkiliagiaq yg
+//
+
+

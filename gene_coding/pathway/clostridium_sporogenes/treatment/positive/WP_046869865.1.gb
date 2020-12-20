@@ -1,0 +1,39 @@
+LOCUS       WP_046869865             212 aa            linear   BCT 13-MAY-2017
+DEFINITION  NAD(P)-dependent oxidoreductase [Clostridium sporogenes].
+ACCESSION   WP_046869865
+VERSION     WP_046869865.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10006783
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..212
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..212
+                     /product="NAD(P)-dependent oxidoreductase"
+                     /calculated_mol_wt=23175
+     Region          1..211
+                     /region_name="YwnB"
+                     /note="Putative NADH-flavin reductase [General function
+                     prediction only]; COG2910"
+                     /db_xref="CDD:225462"
+ORIGIN      
+        1 mkialigstg nagkvilkea lnrgheviai ardvskikgt nenltvmqgd ilkldtledk
+       61 lrevdvlisa fgpkvgkedt lieatnnlia lakklnverl vtmggagslk vqgdvelvht
+      121 egfpedwkpi alahsksldi yrnekeinwt ylspaalisp girtgrysvg deylvvdekg
+      181 eskisfedfa vamvdeietp khirsrftva yk
+//
+
+

@@ -1,0 +1,52 @@
+LOCUS       WP_002385686             727 aa            linear   BCT 20-JUN-2019
+DEFINITION  MULTISPECIES: anaerobic ribonucleoside-triphosphate reductase
+            [Bacilli].
+ACCESSION   WP_002385686
+VERSION     WP_002385686.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF006732.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK09263
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..727
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     gene            1..727
+                     /gene="nrdD"
+     Protein         1..727
+                     /product="anaerobic ribonucleoside-triphosphate reductase"
+                     /EC_number="1.17.4.2"
+                     /calculated_mol_wt=82792
+     Region          15..727
+                     /region_name="PRK09263"
+                     /note="anaerobic ribonucleoside triphosphate reductase;
+                     Provisional"
+                     /db_xref="CDD:236436"
+ORIGIN      
+        1 mmkitdekae dvnlstikvv krdgrlvtfd dqkiydalik aeqkihdqvt plthqkvqsi
+       61 vadvnreiae rftnnvkiye iqnivehtll snneyalaee yihyrtqrdf erskatdinv
+      121 sigklinkdq tvvnenankd sdvfntqrdl tagivgksig lkmlpshvan ahqkgdihyh
+      181 dldyhpytpm tncclidfkg mlnngfkign advespksiq tataqisqii anvassqygg
+      241 csadridell apfaernyek hladaqewie geerqkafar kktkkdifda mqsleyeint
+      301 lftsngqtpf tslgfglgtn wfereiqrai lqiringlgi ekrtaifpkl iftikrgvna
+      361 qptdpnydik qlalecatkr mypdvlnydk iveltgsfkv pmgcrsflqg wkdeqgeevn
+      421 vgrmnlgvvt lnlprialea qgsqekfwqi lnerlaivkd alvyrvervk eakpanapil
+      481 ymygafgkrl atqdavdelf knkratvslg yiglyevasa fyggawednq eaknftldil
+      541 kelkknadnw gneygyhfsv ystpsesltd rfcrldtekf givenitdke yytnsfhydv
+      601 rknptpfekl dfekdypkyc sggfihycey pmlqqnpkal eavwdyaydk vgylgtntpi
+      661 dhcyacgfeg dfhptergfe cpecgnhdpk tcdvvkrtcg ylgnpqarpm vhgrhkeiss
+      721 rvkhlkn
+//
+
+

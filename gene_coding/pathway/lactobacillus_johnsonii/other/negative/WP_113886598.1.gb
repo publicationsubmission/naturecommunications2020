@@ -1,0 +1,46 @@
+LOCUS       WP_113886598             549 aa            linear   BCT 18-JUL-2018
+DEFINITION  amino acid permease [Lactobacillus johnsonii].
+ACCESSION   WP_113886598
+VERSION     WP_113886598.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024910.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13520.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..549
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..549
+                     /product="amino acid permease"
+                     /calculated_mol_wt=60561
+     Region          13..491
+                     /region_name="PRK15238"
+                     /note="inner membrane transporter YjeM; Provisional;
+                     cl26066"
+                     /db_xref="CDD:330887"
+ORIGIN      
+        1 mednktqqkk tyisvlaltm mnvsivagia ndvqqsfygl asvtyfaiga icffiptalv
+       61 aaelasgwsn rggifrwvge glgkgwgltc llilwfqlil nfgmgmpsft atimfytpny
+      121 daavkfaqap qhellimtgw iilywvltyl atkgvkafsn iakygviigs liplavmvil
+      181 aivwvaqghq pvipmtpkgl ipkwngmstl alaagvffsy tgidtnaahi kqlkhpekdf
+      241 tkamfisiil aflifvvgtv iiamiipekq invlytlysv frilgstigm pwlymvlvwa
+      301 llfntiamvv tnmagpsfml gqvggsgflp hwfqknnkhn mpahlmytqi agmtvvaylv
+      361 klipnvegfv illtqtitvl ymfyyilmft aflrlrydqp nrprsfkvpg gkfgawlvgg
+      421 vgiissvfgi vlaiyppaqv kaevgspivy vsvilalvav vlivcfvlyq lskkhpdwvn
+      481 pnnkfapftw eieglkkpgk alsnvpttvm skdqnpmgmp ikrpykpneq vsvdivkane
+      541 nnelstdes
+//
+
+

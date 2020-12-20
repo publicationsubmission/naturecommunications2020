@@ -1,0 +1,38 @@
+LOCUS       WP_003647521             120 aa            linear   BCT 27-MAR-2017
+DEFINITION  MULTISPECIES: Asp23/Gls24 family envelope stress response protein
+            [Lactobacillus].
+ACCESSION   WP_003647521
+VERSION     WP_003647521.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10003467
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     Protein         1..120
+                     /product="Asp23/Gls24 family envelope stress response
+                     protein"
+                     /calculated_mol_wt=12856
+     Region          1..117
+                     /region_name="YloU"
+                     /note="Uncharacterized conserved protein YloU, alkaline
+                     shock protein (Asp23) family [Function unknown]; COG1302"
+                     /db_xref="CDD:224221"
+ORIGIN      
+        1 mavkiktkyg lidisnsvia tvvggaatsn ygvvgmaskn alrdgaytil nrenyrrgvv
+       61 iktndnqivv dvyiivgygl kisevshnvq dsvkynlenl lgiktksvnv ivqgvkildd
+//
+
+

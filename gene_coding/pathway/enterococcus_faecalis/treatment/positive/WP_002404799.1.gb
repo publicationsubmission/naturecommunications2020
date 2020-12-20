@@ -1,0 +1,49 @@
+LOCUS       WP_002404799             120 aa            linear   BCT 28-SEP-2019
+DEFINITION  LPXTG cell wall anchor domain-containing protein [Enterococcus
+            faecalis].
+ACCESSION   WP_002404799
+VERSION     WP_002404799.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 120)
+  AUTHORS   Novick,R.P.
+  TITLE     Sortase: the surface protein anchoring transpeptidase and the LPXTG
+            motif
+  JOURNAL   Trends Microbiol. 8 (4), 148-151 (2000)
+   PUBMED   10754567
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01167.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01167
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..120
+                     /product="LPXTG cell wall anchor domain-containing
+                     protein"
+                     /calculated_mol_wt=12443
+     Region          <51..114
+                     /region_name="5_nucleotid_C"
+                     /note="5'-nucleotidase, C-terminal domain; cl27338"
+                     /db_xref="CDD:332159"
+     Region          85..117
+                     /region_name="LPXTG_anchor"
+                     /note="LPXTG-motif cell wall anchor domain; TIGR01167"
+                     /db_xref="CDD:273478"
+ORIGIN      
+        1 mkkkryliia cllfspsffi nveaseggss svgiefyqnp ttpapkdppp ktdapaadpk
+       61 epagppqgdq rsggstqttt tgsqlprtgs ksqanlsilg laliglagmv hrkkgrhean
+//
+
+

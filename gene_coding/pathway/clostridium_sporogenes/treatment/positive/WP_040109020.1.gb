@@ -1,0 +1,53 @@
+LOCUS       WP_040109020             504 aa            linear   BCT 11-OCT-2019
+DEFINITION  MULTISPECIES: DUF5050 domain-containing protein [Clostridium].
+ACCESSION   WP_040109020
+VERSION     WP_040109020.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF027787.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF16472.3
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..504
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..504
+                     /product="DUF5050 domain-containing protein"
+                     /calculated_mol_wt=58418
+     Region          <146..>331
+                     /region_name="CYK3"
+                     /note="Cytokinesis protein 3, contains TGc
+                     (transglutaminase/protease-like) domain [Cell cycle
+                     control, cell division, chromosome partitioning]; COG5279"
+                     /db_xref="CDD:227604"
+     Region          <292..>378
+                     /region_name="DUF5050"
+                     /note="Domain of unknown function (DUF5050); pfam16472"
+                     /db_xref="CDD:318634"
+     Region          413..490
+                     /region_name="Big_5"
+                     /note="Bacterial Ig-like domain; pfam13205"
+                     /db_xref="CDD:315794"
+ORIGIN      
+        1 mkktrqilyl iilifslnvs nvlaadnikk ypapdvekrs ysttitydky lydsilnglv
+       61 nlkdkvdtst ysknsdevfk vlekvlddhp eifyfdyenc sfwsngilel gyrgnketin
+      121 tmkqqlnnkv qsiidgvvtq dmselekema ihdyivlntk ydeealkgni sseliftsyg
+      181 clvnnlavcd gyakamqlll nkvgvytirv tgngngvsha wnivringkn yqvdatwndp
+      241 vpdsgylryk yfnmsdadia kdhywvksdf pvcndnsfky lqkadyvvkd ldyiyysnne
+      301 ddynlykmki dgsnnqmlte dravnlvyyn dyiyfsnysd ggtlykvknd gteleqildn
+      361 hvenlhysdg yltyynedls kdekmkleqv tyevedkekf nqvfssyknw gqakevpqnk
+      421 iwkisfnrav naenlkdqvy vmdssfnkve didvnvnngg knititkkdl ykrgglyylv
+      481 iskpikdvkg keikepvvmr fkvy
+//
+
+

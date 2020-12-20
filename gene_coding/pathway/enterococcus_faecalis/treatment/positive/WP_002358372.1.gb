@@ -1,0 +1,40 @@
+LOCUS       WP_002358372             272 aa            linear   BCT 13-MAY-2017
+DEFINITION  alpha/beta hydrolase [Enterococcus faecalis].
+ACCESSION   WP_002358372
+VERSION     WP_002358372.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11429202
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..272
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..272
+                     /product="alpha/beta hydrolase"
+                     /calculated_mol_wt=31047
+     Region          <28..272
+                     /region_name="Aes"
+                     /note="Acetyl esterase/lipase [Lipid transport and
+                     metabolism]; COG0657"
+                     /db_xref="CDD:223730"
+ORIGIN      
+        1 mhlknnqtla ngatvtiypt tteptnyvvy lhgggmiygt ksdlpeelke lftsngytvl
+       61 aldyllapnt kidhilrtlt etfqllneei iqnqpfglcg rsaggylmlq ltkqlqilnl
+      121 tpqflvnfyg ytdlefikep rkllkqaisa keiatidqtk pvwddpflsr yllyhysiqq
+      181 allphfyglp engdwsayal sdetlktfpp cfstasssde evpfryskki grtipestfk
+      241 aiyylehdfl kqtkdpsvit lfeqldswlk er
+//
+
+

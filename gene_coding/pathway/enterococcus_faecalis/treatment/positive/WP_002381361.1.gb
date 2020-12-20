@@ -1,0 +1,43 @@
+LOCUS       WP_002381361             522 aa            linear   BCT 25-AUG-2017
+DEFINITION  MULTISPECIES: ABC transporter ATP-binding protein [Enterococcus].
+ACCESSION   WP_002381361
+VERSION     WP_002381361.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11467491
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..522
+                     /product="ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=57647
+     Region          5..502
+                     /region_name="YufO"
+                     /note="ABC-type uncharacterized transport system, ATPase
+                     component [General function prediction only]; COG3845"
+                     /db_xref="CDD:226364"
+ORIGIN      
+        1 msqeenviem rkitkefgtf kandqidlqv kpgeihallg engagkstlm nilsgllept
+       61 sgeiymngek vnitsptaan rlgigmvhqh fmlveaftvt eniilgsept hggildrkka
+      121 kkeieevskq ygldvnpnay irdisvgmqq rveilktlyr ganvlifdep tavltpqeid
+      181 elmiilkelt degksiilit hkldeikkva drctvirrgq sigtvnvkdv ssqqladmmv
+      241 grsvsfktek kpaqpketil sikdlvvkes rgldavknls ldvragevvg iagidgngqt
+      301 eliqalaglt kvengsihln ekeitnrkpr eitemgvahv pedrhkyglv lemtlaenig
+      361 lqtyyqkpys stgilnyrmi nkhareliee ydvrtpnelv paralsggnq qkaiiarevd
+      421 rdpdllivsq ptrgldvgai eyihrrlieq rdknkavllv sfeldeilnv sdriavihag
+      481 eivgivdpke ttenelgllm agysleeara elskveaget ve
+//
+
+

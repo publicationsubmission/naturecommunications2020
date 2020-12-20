@@ -1,0 +1,39 @@
+LOCUS       WP_052691645             184 aa            linear   BCT 02-NOV-2019
+DEFINITION  DUF1003 domain-containing protein [Clostridium sporogenes].
+ACCESSION   WP_052691645
+VERSION     WP_052691645.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF017970.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF06210.9
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..184
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..184
+                     /product="DUF1003 domain-containing protein"
+                     /calculated_mol_wt=20819
+     Region          43..180
+                     /region_name="DUF1003"
+                     /note="Protein of unknown function (DUF1003); cl01831"
+                     /db_xref="CDD:321689"
+ORIGIN      
+        1 mdgknvmsys keelirkile kdkdlkgsni deelfhelis gkiskninna hdnnltlgqr
+       61 tadkiatfgg swtfiitfgv vlsiwiigna vilsnkafdp ypfvflnlil sclaaiqapi
+      121 immsqnrqae rdrltaanny lvnlkseiii eglynkidml idqqeeykkn qeillkkiee
+      181 lksn
+//
+
+

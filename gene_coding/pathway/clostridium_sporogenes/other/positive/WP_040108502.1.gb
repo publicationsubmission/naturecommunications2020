@@ -1,0 +1,57 @@
+LOCUS       WP_040108502             494 aa            linear   BCT 08-AUG-2019
+DEFINITION  MULTISPECIES: HAMP domain-containing protein [Clostridium].
+ACCESSION   WP_040108502
+VERSION     WP_040108502.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012876.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00672.23
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..494
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..494
+                     /product="HAMP domain-containing protein"
+                     /calculated_mol_wt=57352
+     Region          218..266
+                     /region_name="HAMP"
+                     /note="Histidine kinase, Adenylyl cyclase,
+                     Methyl-accepting protein, and Phosphatase (HAMP) domain.
+                     HAMP is a signaling domain which occurs in a wide variety
+                     of signaling proteins, many of which are bacterial. The
+                     HAMP domain consists of two alpha helices...; cd06225"
+                     /db_xref="CDD:100122"
+     Site            order(218..219,222..223,225..226,229..230,232,249..250,
+                     252..253,256..257,259..260,263..264)
+                     /site_type="other"
+                     /note="dimerization interface [polypeptide binding]"
+                     /db_xref="CDD:100122"
+     Region          <274..488
+                     /region_name="BaeS"
+                     /note="Signal transduction histidine kinase [Signal
+                     transduction mechanisms]; cl27674"
+                     /db_xref="CDD:332495"
+ORIGIN      
+        1 mnkilslikf ikdifkytyi itkkviivvp riikvllnkl kirlrfsitf klnfmytlii
+       61 sillflftft vlfgfrffli keaknnlnmy aeivshnikd vpkvpkelid siakkgnvsi
+      121 silekdksii ystnkdikes ygdfkedlpy iitgndnler lilnksfelr neiyyiqvis
+      181 dlqkeneylh lyfiilgiln vfiiiiiikf gsrigkkvvd pinkmnytik kinvqnldkr
+      241 lnvkgfhdel reltqtvndm fdrieesyen qnrfvsdash elrtpiaviq gyanmlyrwg
+      301 kddkevleea vtaikdesen mkelvekllf larvdkktqn ihkeefyink lldevvretr
+      361 lidsshniin esndnilvfa dykllkqalr ifidnslkft pengqitigs hinknkivit
+      421 vedtgsgipk edipyifdrf yrvdkartkd kggtglglsi akwiikehkg sieiksrvni
+      481 gtkisvsisa knkd
+//
+
+

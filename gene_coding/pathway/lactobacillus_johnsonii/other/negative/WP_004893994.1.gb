@@ -1,0 +1,59 @@
+LOCUS       WP_004893994             270 aa            linear   BCT 26-SEP-2017
+DEFINITION  ABC transporter permease [Lactobacillus johnsonii].
+ACCESSION   WP_004893994
+VERSION     WP_004893994.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10003093
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..270
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..270
+                     /product="ABC transporter permease"
+                     /calculated_mol_wt=30632
+     Region          1..244
+                     /region_name="PotB"
+                     /note="ABC-type spermidine/putrescine transport system,
+                     permease component I [Amino acid transport and
+                     metabolism]; COG1176"
+                     /db_xref="CDD:224097"
+     Site            order(72..73,76..77,82,92..95,97..106,109..110,112,
+                     145..146,149,151,154..155,157,161..162,165,182,196..197,
+                     200,207..210,213..214,227..228,238..239)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:119394"
+     Site            order(98..112,207..212)
+                     /site_type="other"
+                     /note="conserved gate region"
+                     /db_xref="CDD:119394"
+     Site            order(112,140,213,225,228,238)
+                     /site_type="other"
+                     /note="putative PBP binding loops"
+                     /db_xref="CDD:119394"
+     Site            order(166..178,184..185,189)
+                     /site_type="other"
+                     /note="ABC-ATPase subunit interface"
+                     /db_xref="CDD:119394"
+ORIGIN      
+        1 mkksklffli pyilwlglfv iapiilitin afkgddgftl knfqqffvng tflrmtlnsf
+       61 wyaflitlit llisypiayi lsqmknqqfw llliilptwi nlllkayafi gifskhglln
+      121 nflrlfgiap anilftdfaf ifvaayieip fmilpiynai cdinpaviqa aydlgaskwq
+      181 tfikvlwpls ksgvesgiqa vfipslslfm ltrliggnrv itlgtaieey fmttmnwsmg
+      241 stigvvlivl mvivmlftss dhhhkkeikl
+//
+
+

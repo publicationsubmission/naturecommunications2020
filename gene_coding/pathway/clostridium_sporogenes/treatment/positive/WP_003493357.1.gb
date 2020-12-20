@@ -1,0 +1,43 @@
+LOCUS       WP_003493357             442 aa            linear   BCT 29-AUG-2015
+DEFINITION  MULTISPECIES: MATE family efflux transporter [Clostridium].
+ACCESSION   WP_003493357
+VERSION     WP_003493357.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10192102
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..442
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..442
+                     /product="MATE family efflux transporter"
+                     /calculated_mol_wt=48860
+     Region          14..438
+                     /region_name="MATE_yoeA_like"
+                     /note="Subfamily of the multidrug and toxic compound
+                     extrusion (MATE)-like proteins similar to Bacillus
+                     subtilis yoeA; cd13138"
+                     /db_xref="CDD:240543"
+ORIGIN      
+        1 metdmtkgkp mgiivrffip mfignlfqqi ynvvdsivvg rfvgnaafaa vgscflimsf
+       61 mtsiliglam gasaffsqly gakqydemkk aistsfffil sisillslit nvflyeiikl
+      121 fqmpkdtvay saeylryilt gliftglyni cayllrsigd sksplyfliv scilntildl
+      181 ifvlvfnmgv lgvglatfia qgisalwcaf ytvkhmkfld fkrgdivfsr klfktilsys
+      241 vltavqqsls sfgmlmiqgl intfgttvma afaacskide fanrplqdls nafstyvaqn
+      301 kgagnierir qgfyailkvi alisfiisiv vfifapnlis ifvkkesidi iqvgvgylri
+      361 vcifyillgc ivmfygffrg mgevnisiil tvvsqgirva layglartsm gftgicwsiv
+      421 igwflsnalg gfmykkvman si
+//
+
+

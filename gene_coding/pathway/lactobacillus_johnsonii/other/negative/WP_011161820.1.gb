@@ -1,0 +1,66 @@
+LOCUS       WP_011161820             330 aa            linear   BCT 20-JUN-2019
+DEFINITION  threonylcarbamoyl-AMP synthase [Lactobacillus johnsonii].
+ACCESSION   WP_011161820
+VERSION     WP_011161820.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 330)
+  AUTHORS   Deutsch,C., El Yacoubi,B., de Crecy-Lagard,V. and Iwata-Reuyl,D.
+  TITLE     Biosynthesis of threonylcarbamoyl adenosine (t6A), a universal tRNA
+            nucleoside
+  JOURNAL   J. Biol. Chem. 287 (17), 13666-13673 (2012)
+   PUBMED   22378793
+REFERENCE   2  (residues 1 to 330)
+  AUTHORS   Harris,K.A., Jones,V., Bilbille,Y., Swairjo,M.A. and Agris,P.F.
+  TITLE     YrdC exhibits properties expected of a subunit for a tRNA
+            threonylcarbamoyl transferase
+  JOURNAL   RNA 17 (9), 1678-1687 (2011)
+   PUBMED   21775474
+REFERENCE   3  (residues 1 to 330)
+  AUTHORS   Na,J.G., Pinto,I. and Hampsey,M.
+  TITLE     Isolation and characterization of SUA5, a novel gene required for
+            normal growth in Saccharomyces cerevisiae
+  JOURNAL   Genetics 131 (4), 791-801 (1992)
+   PUBMED   1325384
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00057.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00057
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..330
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..330
+                     /product="threonylcarbamoyl-AMP synthase"
+                     /calculated_mol_wt=35752
+     Region          3..206
+                     /region_name="SUA5"
+                     /note="tRNA A37 threonylcarbamoyladenosine synthetase
+                     subunit TsaC/SUA5/YrdC [Translation, ribosomal structure
+                     and biogenesis]; COG0009"
+                     /db_xref="CDD:223088"
+     Region          196..325
+                     /region_name="SUA5"
+                     /note="Putative GTP-binding controlling metal-binding;
+                     pfam03481"
+                     /db_xref="CDD:335352"
+ORIGIN      
+        1 metkifnkeq ipeavallrk gelvafptet vyglgalatn ekavksvyaa kgrpsdnpli
+       61 vtvsdeqmme nyvsevpera kklikhfwpg pltiilfvke gtlpdavtgg lptaafrcpn
+      121 ddmthdlisg lgkpivgpsa ntstkpsptt aehvfhdlkg kiagiidngp teiglestiv
+      181 dlsvekptvl rpgeitpeei savlgeevlm nrgttqtkgv pkapgmkyrh yapsapvliv
+      241 dkeedfskiq wddetgvaal devlekidsp nkyslgktid kaahnlfgal ryfdgedkik
+      301 riyvqgfdhg aisaaymnrl nkaaaghhfh
+//
+
+

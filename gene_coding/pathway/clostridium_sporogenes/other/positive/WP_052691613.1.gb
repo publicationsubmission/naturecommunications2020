@@ -1,0 +1,44 @@
+LOCUS       WP_052691613             477 aa            linear   BCT 30-MAY-2019
+DEFINITION  glutamate decarboxylase [Clostridium sporogenes].
+ACCESSION   WP_052691613
+VERSION     WP_052691613.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01788.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01788
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..477
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..477
+                     /product="glutamate decarboxylase"
+                     /EC_number="4.1.1.15"
+                     /calculated_mol_wt=54277
+     Region          34..449
+                     /region_name="Beta_elim_lyase"
+                     /note="Beta-eliminating lyase; cl18945"
+                     /db_xref="CDD:354370"
+ORIGIN      
+        1 mlvnsictss ldinkccreg iftpsfppig nindkkisae eayqiinsee yydsnpqlnl
+       61 atfvttwmep tgtevfkdyl dinyidkliy petnelekrc vsilanlyna grcdkptgts
+      121 tigsteaall aglnykfkwk kwwdgldiga peiifgsnvq vcwekfakyf evkpiiipvg
+      181 sdnrinfvev arkisdrtic ivgilgdtft gnydnikaln divdnynsnh qwkvpihvda
+      241 asggfvapfc dkqkkipwdf rlkwvksini sghkygmvya glgwaiwrnr edideelvfk
+      301 vnylggeqdd fslnfsknas niiaqyynlt rlgrqgyeei ikylfdiqhy lmekfytlkv
+      361 lgneifevvk nspgipivil kltqeakdmg ldlakiayki kiygwsipay plpvpfedei
+      421 virivlrvgf nyamaeqlye dvlktielll esessnyikl gkgssgcane kiylhtf
+//
+
+

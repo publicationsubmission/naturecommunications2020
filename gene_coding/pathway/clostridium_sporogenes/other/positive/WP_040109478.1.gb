@@ -1,0 +1,71 @@
+LOCUS       WP_040109478             338 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: type I glyceraldehyde-3-phosphate dehydrogenase
+            [Clostridium].
+ACCESSION   WP_040109478
+VERSION     WP_040109478.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 338)
+  AUTHORS   Mittenhuber,G.
+  TITLE     Phylogenetic analyses and comparative genomics of vitamin B6
+            (pyridoxine) and pyridoxal phosphate biosynthesis pathways
+  JOURNAL   J. Mol. Microbiol. Biotechnol. 3 (1), 1-20 (2001)
+   PUBMED   11200221
+REFERENCE   2  (residues 1 to 338)
+  AUTHORS   Fillinger,S., Boschi-Muller,S., Azza,S., Dervyn,E., Branlant,G. and
+            Aymerich,S.
+  TITLE     Two glyceraldehyde-3-phosphate dehydrogenases with opposite
+            physiological roles in a nonphotosynthetic bacterium
+  JOURNAL   J. Biol. Chem. 275 (19), 14031-14037 (2000)
+   PUBMED   10799476
+REFERENCE   3  (residues 1 to 338)
+  AUTHORS   Boschi-Muller,S., Azza,S., Pollastro,D., Corbier,C. and Branlant,G.
+  TITLE     Comparative enzymatic properties of GapB-encoded
+            erythrose-4-phosphate dehydrogenase of Escherichia coli and
+            phosphorylating glyceraldehyde-3-phosphate dehydrogenase
+  JOURNAL   J. Biol. Chem. 272 (24), 15106-15112 (1997)
+   PUBMED   9182530
+REFERENCE   4  (residues 1 to 338)
+  AUTHORS   Zhao,G., Pease,A.J., Bharani,N. and Winkler,M.E.
+  TITLE     Biochemical characterization of gapB-encoded erythrose 4-phosphate
+            dehydrogenase of Escherichia coli K-12 and its possible role in
+            pyridoxal 5'-phosphate biosynthesis
+  JOURNAL   J. Bacteriol. 177 (10), 2804-2812 (1995)
+   PUBMED   7751290
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01534.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01534
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..338
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..338
+                     /gene="gap"
+     Protein         1..338
+                     /product="type I glyceraldehyde-3-phosphate dehydrogenase"
+                     /calculated_mol_wt=37273
+     Region          1..338
+                     /region_name="Gp_dh_N"
+                     /note="Glyceraldehyde 3-phosphate dehydrogenase, NAD
+                     binding domain; cl27764"
+                     /db_xref="CDD:332585"
+ORIGIN      
+        1 mgikvglngf grigravlri aqdkfpedve ivalnaratt etlvhlfkyd scygrfngev
+       61 eivsndkmkv ngkeikifre ndpenlpwke lgvdiviest gifkdrekam khieagakkv
+      121 iitapgkned itivlgvnen eynpekhnii snascttncl apfakvlddn fgivrglmtt
+      181 vhsytndqri ldkthkdlrr araaaesiip tttgaakava kvlpslkgkl ngfalrvptp
+      241 tvsltdlvce lktkvtaeei neafkkaaeg emkgvlgyse eplvsvdykg dprssivdgl
+      301 stmvleddmv kvvswydnew gyscrtvdlv nyvakfmr
+//
+
+

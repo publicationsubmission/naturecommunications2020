@@ -1,0 +1,40 @@
+LOCUS       WP_086874545             295 aa            linear   BCT 11-JAN-2018
+DEFINITION  alpha/beta hydrolase [Lactobacillus johnsonii].
+ACCESSION   WP_086874545
+VERSION     WP_086874545.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF017808.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF06028.9
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..295
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..295
+                     /product="alpha/beta hydrolase"
+                     /calculated_mol_wt=32685
+     Region          40..293
+                     /region_name="Abhydrolase"
+                     /note="alpha/beta hydrolases; cl21494"
+                     /db_xref="CDD:328752"
+ORIGIN      
+        1 mklklvslit llalvltgcs fqnkpnrana ahkyyvekse tpknnlnvip tlffhgglsn
+       61 yhgeenmvka aqeagvtnsv iradvnangk vkligtipnn avnpivevny rnnvqldfke
+      121 ngryarnvvq tlqneygikk vnmvghslgn tsimyyllqa ahnpnlprln kqvsigghfd
+      181 gldfkqlpia irqpanlrvn negkpnkmna tyremaklrt lyptkeidvl niigniggns
+      241 dgivknassl sleylvapma ksyrvvtitg knaehgqlty nkqvekqiin flwlq
+//
+
+

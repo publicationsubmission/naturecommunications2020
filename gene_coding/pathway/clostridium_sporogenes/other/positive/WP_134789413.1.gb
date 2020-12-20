@@ -1,0 +1,44 @@
+LOCUS       WP_134789413             230 aa            linear   BCT 11-JUL-2019
+DEFINITION  2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+            [Clostridium sporogenes].
+ACCESSION   WP_134789413
+VERSION     WP_134789413.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR03532.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR03532
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..230
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     gene            1..230
+                     /gene="dapD"
+     Protein         1..230
+                     /product="2,3,4,5-tetrahydropyridine-2,6-dicarboxylate
+                     N-acetyltransferase"
+                     /calculated_mol_wt=24473
+     Region          8..230
+                     /region_name="DapD_Ac"
+                     /note="2,3,4,5-tetrahydropyridine-2,6-dicarboxylate
+                     N-acetyltransferase; TIGR03532"
+                     /db_xref="CDD:132571"
+ORIGIN      
+        1 msynltdpye iakyikeakk stpikayieg dlsdcdftni ekfnsgdlyi lfgeseeilv
+       61 lieknknkik ncrieqdrrk saiplldmlk vnariepgai irdkviigen avimmgavin
+      121 igaeigeetm vdmnavvgar gklgknvhlg agavvagvle ppssnpctie dnvliganav
+      181 ilegvkigkg svvaagsivt tdvpenvvva gapakiikev dvktkdktkl
+//
+
+

@@ -1,0 +1,61 @@
+LOCUS       WP_002358842             341 aa            linear   BCT 12-APR-2019
+DEFINITION  MULTISPECIES: sensor histidine kinase [Bacilli].
+ACCESSION   WP_002358842
+VERSION     WP_002358842.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11428470
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..341
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..341
+                     /product="sensor histidine kinase"
+                     /calculated_mol_wt=39740
+     Region          10..332
+                     /region_name="BaeS"
+                     /note="Signal transduction histidine kinase [Signal
+                     transduction mechanisms]; COG0642"
+                     /db_xref="CDD:223715"
+     Region          223..332
+                     /region_name="HATPase"
+                     /note="Histidine kinase-like ATPase domain; cl00075"
+                     /db_xref="CDD:350890"
+     Site            order(234,238,241,264,266,268,270,298..301,317,319,
+                     324..325,327)
+                     /site_type="other"
+                     /note="ATP binding site [chemical binding]"
+                     /db_xref="CDD:340391"
+     Site            238
+                     /site_type="other"
+                     /note="Mg binding site [ion binding]"
+                     /db_xref="CDD:340391"
+     Site            order(268,270,298,300)
+                     /site_type="other"
+                     /note="G-X-G motif"
+                     /db_xref="CDD:340391"
+     Site            order(280,301)
+                     /site_type="other"
+                     /note="ATP-lid"
+                     /db_xref="CDD:340391"
+ORIGIN      
+        1 mtilkylkdr wllligwlff lfltcfilwl apnvrldwtv vgyifllqsv flslfltidy
+       61 ylkrkwwlsl atekeppslq eylntaekee ellvqtying llqehqqtmq qainnqqdqk
+      121 dyidswvhei kvplaaitll vqsveddipe kkyyllenel gkideyveqv lyyarldsfs
+      181 rdyllqeysl keivqsvvrt qanyfiqkrl qfsiegedea vltdrkwvif ifrqllsnav
+      241 kytpeggtit vlisknkqgi ylslkdsgig ipmqdqrrif dkgftgengr kseqhstglg
+      301 lylahslakk lghdltvest egqgttmtlf fpslsyynev k
+//
+
+

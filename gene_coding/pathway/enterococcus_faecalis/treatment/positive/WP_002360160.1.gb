@@ -1,0 +1,42 @@
+LOCUS       WP_002360160             367 aa            linear   BCT 12-JUL-2017
+DEFINITION  aminopeptidase P family protein [Enterococcus faecalis].
+ACCESSION   WP_002360160
+VERSION     WP_002360160.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11414248
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..367
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..367
+                     /product="aminopeptidase P family protein"
+                     /calculated_mol_wt=40803
+     Region          1..367
+                     /region_name="PepP"
+                     /note="Xaa-Pro aminopeptidase [Amino acid transport and
+                     metabolism]; COG0006"
+                     /db_xref="CDD:223085"
+ORIGIN      
+        1 mnqekiadlk nwmhqekidf tyisdpghia yfsgyeseph ervlalfiat ddqsflftpa
+       61 levedaekss wtypvygyld senpwekiaa llnkrtqgtp rfalekqals larfdqlkty
+      121 fptsdfshdv tplieklqli ktepeiqrll eagswadvaf eigfkaiqag vaeqeivaei
+      181 eyqlkrqgir smsfdtlvlt gkngasphgv pgetkiephd lvlfdlgvvh ngycsdatrt
+      241 vsylepsdfq keiygivlea qlaateavkp gvtagelddi argvitkagy geyfnhrlgh
+      301 gigttvheyp slvhgndlvi eegmcfsiep giyipgkvgv riedclhvtk tgsepftktt
+      361 kelqiie
+//
+
+

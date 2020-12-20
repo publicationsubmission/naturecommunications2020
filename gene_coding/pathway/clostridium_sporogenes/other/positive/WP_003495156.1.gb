@@ -1,0 +1,35 @@
+LOCUS       WP_003495156              69 aa            linear   BCT 22-JUL-2019
+DEFINITION  MULTISPECIES: flagellar FlbD family protein [Clostridium].
+ACCESSION   WP_003495156
+VERSION     WP_003495156.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10533612
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..69
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..69
+                     /product="flagellar FlbD family protein"
+                     /calculated_mol_wt=7785
+     Region          1..58
+                     /region_name="FlbD"
+                     /note="Flagellar protein (FlbD); pfam06289"
+                     /db_xref="CDD:310707"
+ORIGIN      
+        1 miqvtgmnhe sftlnaehie kieqvpesli tlvngkkyiv tetpdeiikk vkkyksdiit
+       61 lgiqgefrk
+//
+
+

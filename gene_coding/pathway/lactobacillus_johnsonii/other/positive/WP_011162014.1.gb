@@ -1,0 +1,39 @@
+LOCUS       WP_011162014             295 aa            linear   BCT 14-MAY-2017
+DEFINITION  DegV family protein [Lactobacillus johnsonii].
+ACCESSION   WP_011162014
+VERSION     WP_011162014.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10017369
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..295
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..295
+                     /product="DegV family protein"
+                     /calculated_mol_wt=32738
+     Region          3..283
+                     /region_name="DegV"
+                     /note="EDD domain protein, DegV family; TIGR00762"
+                     /db_xref="CDD:273257"
+ORIGIN      
+        1 mkialitdst sdispeeaka nditvvpipv iigdkqymdg vditaeklfe lerdgapfpk
+       61 tsqpspgtml elcqklkneg yeaiiaiplt sgisgfynsl vtlahnhpef nlypydpamt
+      121 vrsmgnlvla aakmikngwe pkeilsklde irdtidvlfv vddlnnlvrg grlsnasafi
+      181 gtmlqikpll tfkkddyqiv sfdkvrsmkr avkkaeniti erinnspikd klslavynsn
+      241 dleqatkvkn dfqaafpnmt ikmfnfssvi atylgekslg itwmadidkm dfskk
+//
+
+

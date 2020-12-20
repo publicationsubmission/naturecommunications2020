@@ -1,0 +1,48 @@
+LOCUS       WP_003490942             182 aa            linear   BCT 09-JUN-2016
+DEFINITION  MULTISPECIES: GGDEF domain-containing protein [Clostridium].
+ACCESSION   WP_003490942
+VERSION     WP_003490942.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10112692
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..182
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..182
+                     /product="GGDEF domain-containing protein"
+                     /calculated_mol_wt=21147
+     Region          31..180
+                     /region_name="GGDEF"
+                     /note="Diguanylate-cyclase (DGC) or GGDEF domain; cd01949"
+                     /db_xref="CDD:143635"
+     Site            order(67,110)
+                     /site_type="metal-binding"
+                     /note="metal binding site [ion binding]"
+                     /db_xref="CDD:143635"
+     Site            order(72,75..76,80,84,106,108..111)
+                     /site_type="active"
+                     /db_xref="CDD:143635"
+     Site            order(102,130)
+                     /site_type="other"
+                     /note="I-site"
+                     /db_xref="CDD:143635"
+ORIGIN      
+        1 msyeymtreq livelekkdk iieniarcas tdsltsvlnr krgledlyre ielakinken
+       61 ltigfadvnn lkyindnygh itgdyvlitl cniikdnirk sdfifryggd efiivlpkts
+      121 ikessivwnr isdkikevsr nfkceigmsc gfveyeeyyn kslkelikma dfkmyesksk
+      181 ig
+//
+
+

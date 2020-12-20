@@ -1,0 +1,53 @@
+LOCUS       WP_014567430             647 aa            linear   BCT 11-APR-2019
+DEFINITION  M13 family metallopeptidase [Lactobacillus johnsonii].
+ACCESSION   WP_014567430
+VERSION     WP_014567430.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10171382
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..647
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..647
+                     /product="M13 family metallopeptidase"
+                     /calculated_mol_wt=73336
+     Region          22..645
+                     /region_name="M13"
+                     /note="Peptidase family M13 includes neprilysin,
+                     endothelin-converting enzyme I; cd08662"
+                     /db_xref="CDD:189000"
+     Site            order(455..456,493,496..497,500,556,585..586,607,613)
+                     /site_type="active"
+                     /db_xref="CDD:189000"
+     Site            order(496,500,556)
+                     /site_type="other"
+                     /note="Zn binding site [ion binding]"
+                     /db_xref="CDD:189000"
+ORIGIN      
+        1 mrkyfsvrgg agdltkpdin trpqdnlyla vnsewlskak ipadrtstgi nlildmried
+       61 qlmkdfakfa dgkkeiptip nfakainlyk laidfdkrnk eqaepikadl ekltslnsfe
+      121 efnkqaadlf akgydlpfni fvmedmkdtd hnalyaegpg tflpdttayq sddaekllst
+      181 lekqtvkllv magveeeqak twaskgiefd kklakvlkst eewadyaavy npvkladfea
+      241 kfenfdinaf lkqllpelpd qvieaepryf dhineflnns efdeikswmi vkfinggany
+      301 lsqdfreaaf pfrqavygvp empaqdkhay rlanaafdev vgiyygkayf gddakndvis
+      361 miknmlkvye qriqdndwls estkkqaivk lqalklkigy peknqavfdr lvvdlnksly
+      421 enqalinqek ikdnlqklnq vpdrsvwamp gnlnnacydp qkndltfpag ilqapfydak
+      481 qsraanyggi gatighevsh afdnngaqfd ekgnmknwwt kedfaefnkr tkavadifdg
+      541 lqygpaklng kqvvseniad lsglscaiaa nkaeggemrd lfetyakswm qkqrpesita
+      601 evqsdvhapq ptrvnipvqn qdefykaynv tpedgmwldp edritiw
+//
+
+

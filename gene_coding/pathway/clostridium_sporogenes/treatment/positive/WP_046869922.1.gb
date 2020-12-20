@@ -1,0 +1,60 @@
+LOCUS       WP_046869922             402 aa            linear   BCT 02-JUN-2019
+DEFINITION  phosphopentomutase [Clostridium sporogenes].
+ACCESSION   WP_046869922
+VERSION     WP_046869922.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF009049.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK12383
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..402
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..402
+                     /product="phosphopentomutase"
+                     /EC_number="5.4.2.7"
+                     /calculated_mol_wt=44148
+     Region          1..402
+                     /region_name="PRK12383"
+                     /note="putative mutase; Provisional"
+                     /db_xref="CDD:237085"
+     Site            order(10,84,126..127,146,148,150,152,182,184,186,221,225,
+                     253,297,302,338..339,350)
+                     /site_type="active"
+                     /db_xref="CDD:293733"
+     Site            order(10,84,148,297,302,338..339,350)
+                     /site_type="other"
+                     /note="Mn binding site [ion binding]"
+                     /db_xref="CDD:293733"
+     Site            order(84,126..127,146,148,152,182,184,186,221,253,297,302,
+                     339,350)
+                     /site_type="other"
+                     /note="substrate binding site [chemical binding]"
+                     /db_xref="CDD:293733"
+     Site            order(126..127,148,150,184,186,221,225)
+                     /site_type="other"
+                     /note="activator binding site [chemical binding]"
+                     /db_xref="CDD:293733"
+ORIGIN      
+        1 mnrfivivld gfgvgymkda kvvrpldvga ntckhilekn pelklpnlek lglmnalgee
+       61 igilkfqena tfgkaelahf gadtfmghqe imgtlpklpi kegfitvink vyeelknrgy
+      121 kveikegkeg kflivnnalt iadnieadlg qaynitaald impfedvltv gkivrehsrv
+      181 srvitfgged itlqnilnav eekgngfigi napksgvynk gyqcihlgyg inaevqiptr
+      241 lgkkgidvtl lgkvadivsn eygksiscvd teevlkltik emksmdkgfi ctnvqetdlc
+      301 ghrenveeyf kklsiadkyl geimkelqee dillvmadhg ndptighsrh tremvpllvd
+      361 gpkvkkvslg irntlsdvga tvadyfgitc pengtsflds it
+//
+
+

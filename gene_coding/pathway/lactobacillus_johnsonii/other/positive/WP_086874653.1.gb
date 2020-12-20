@@ -1,0 +1,29 @@
+LOCUS       WP_086874653             284 aa            linear   BCT 24-MAY-2017
+DEFINITION  transcriptional regulator [Lactobacillus johnsonii].
+ACCESSION   WP_086874653
+VERSION     WP_086874653.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..284
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..284
+                     /product="transcriptional regulator"
+                     /calculated_mol_wt=32925
+ORIGIN      
+        1 mkirealrke rlaqhktqaa wiknismsvs hyseietgya ksgkeadids eklilllksn
+       61 hvdiikffes vngsykiner triiedisnq lsvafnnndl ekvekityel ermstvpkit
+      121 yyravliray lkdemtsmdk atrakinqyi yqkdnwvtdn ealtifgnsm pisdpgilma
+      181 rmgkvlryyk nlencpatfq rrvstvcvny lytalcirki dkyvsetmal irtlpfddrf
+      241 glkilitqyf edmrngnkks mqqlkdvlrh agltklanrl qnes
+//
+
+

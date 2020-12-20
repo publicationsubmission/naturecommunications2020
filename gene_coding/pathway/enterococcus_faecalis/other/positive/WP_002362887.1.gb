@@ -1,0 +1,49 @@
+LOCUS       WP_002362887             612 aa            linear   BCT 30-MAY-2019
+DEFINITION  elongation factor 4 [Enterococcus faecalis].
+ACCESSION   WP_002362887
+VERSION     WP_002362887.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF003893.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05433
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..612
+                     /gene="lepA"
+     Protein         1..612
+                     /product="elongation factor 4"
+                     /EC_number="3.6.5.n1"
+                     /calculated_mol_wt=68333
+     Region          7..607
+                     /region_name="PRK05433"
+                     /note="GTP-binding protein LepA; Provisional"
+                     /db_xref="CDD:235462"
+ORIGIN      
+        1 mnnkemkarq ekirnfsiia hidhgkstla drilektntv ssremqdqll dsmdlererg
+       61 itiklnaiel nytakdgety tfhlidtpgh vdftyevsrs laacegavlv vdaaqgieaq
+      121 tlanvylald ndleilpvin kidlpaadpe rvrteiedvi gidaseavla sakagigied
+      181 ileqvveyvp apsgdieapl kalifdsiyd syrgvvlnir vidgvvrpgd kiqmmsngkt
+      241 fdvtevgvfs pkpiardylm vgdvgyitas iktvqdtrvg dtvtladnpa aealpgyrkm
+      301 npmvycglyp idtsryndlr ealeklqlnd aalqfepets qalgfgfrcg flgllhmdvv
+      361 qerlerefnl elittapsvi yhvnktdgtt vvvdnpaefp epvtiesvee pyvkaqimvp
+      421 ndyvgavmel sqrkrgefit mdylddyrvn vvyeiplsei vfdffdklks stkgyasldy
+      481 emagyrtsrl vkmdillnae kvdalsfivh rdfafergka iveklkklip rqqfevpvqa
+      541 aigqkivars dikalrknvl akcyggdvsr krkllekqke gkkrmkqigs vevpqeafma
+      601 vlkmdeddqk ks
+//
+
+

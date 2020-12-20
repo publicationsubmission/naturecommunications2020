@@ -1,0 +1,40 @@
+LOCUS       WP_003649950             228 aa            linear   BCT 02-DEC-2018
+DEFINITION  MULTISPECIES: response regulator transcription factor
+            [Lactobacillus].
+ACCESSION   WP_003649950
+VERSION     WP_003649950.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11433066
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..228
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     Protein         1..228
+                     /product="response regulator transcription factor"
+                     /calculated_mol_wt=25434
+     Region          1..228
+                     /region_name="OmpR"
+                     /note="DNA-binding response regulator, OmpR family,
+                     contains REC and winged-helix (wHTH) domain [Signal
+                     transduction mechanisms, Transcription]; COG0745"
+                     /db_xref="CDD:223816"
+ORIGIN      
+        1 mkilvvdddk eivellsiyl knegyepiaa ysgkealtkl stnpeialmi ldimmpqmsg
+       61 ievikevrkd seipilvvsa ktsdmdkiqg litgaddyvv kpfnplevma rvrsllrrsq
+      121 kevkddkpdv levgplvink dshevktltg kviqltalef gilymlashp nrvfsadeif
+      181 ervwqqesvv saktvmvhvs hlrdkiqkat dgeeviqtvw gvgykvea
+//
+
+

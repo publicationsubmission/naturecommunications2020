@@ -1,0 +1,26 @@
+LOCUS       WP_002360534             134 aa            linear   BCT 21-DEC-2016
+DEFINITION  MULTISPECIES: hypothetical protein [Enterococcus].
+ACCESSION   WP_002360534
+VERSION     WP_002360534.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..134
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..134
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=15090
+ORIGIN      
+        1 mskcfgllmi lfvlsgcsgs rnsqqevvie ksanndkarq fvdqknphlg tqleaesytk
+       61 qeaieflqng lgiptndsaf hytfkqsnkg syvvqiisek nsvskenelf gyyqvyqdgi
+      121 ivkmmekdqt fqen
+//
+
+

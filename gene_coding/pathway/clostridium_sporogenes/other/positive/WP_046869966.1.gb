@@ -1,0 +1,69 @@
+LOCUS       WP_046869966             824 aa            linear   BCT 10-OCT-2019
+DEFINITION  DUF3298 domain-containing protein [Clostridium sporogenes].
+ACCESSION   WP_046869966
+VERSION     WP_046869966.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF023166.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF11738.6
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..824
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..824
+                     /product="DUF3298 domain-containing protein"
+                     /calculated_mol_wt=95326
+     Region          200..230
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     Region          271..306
+                     /region_name="WG_beta_rep"
+                     /note="WG containing repeat; pfam14903"
+                     /db_xref="CDD:317328"
+     Region          306..337
+                     /region_name="WG_beta_rep"
+                     /note="WG containing repeat; pfam14903"
+                     /db_xref="CDD:317328"
+     Region          381..412
+                     /region_name="WG_beta_rep"
+                     /note="WG containing repeat; pfam14903"
+                     /db_xref="CDD:317328"
+     Region          452..480
+                     /region_name="WG_beta_rep"
+                     /note="WG containing repeat; pfam14903"
+                     /db_xref="CDD:317328"
+     Region          733..807
+                     /region_name="DUF3298"
+                     /note="Protein of unknown function (DUF3298); pfam11738"
+                     /db_xref="CDD:314579"
+ORIGIN      
+        1 mfkkklfnii nkylpmgsqi iveednnnep liiradlngy glgeiivayr wqgenyvmvl
+       61 eryynqwcvi dnikgkgydi sylkvapitd ntidnliigw rrgaiwseld ilqwtpygfk
+      121 rvidegiyys kvevenmksv kamngkneia lwlhdtaeay kvevyrwslg klvkaedvyp
+      181 yyfekvidfy krkvkeepdf pvywyylada qvkgkmyeda lksidkalei pkaypskrel
+      241 lklkdyilss ikcknislyp apintikgak wgyinekgef likpiydlal efqcnglavv
+      301 eidnfygiid dngdyivkhk ygfisefseg raividnerf niinekgdel isktqnysyi
+      361 gnfkegraqy giidpnkgyl ygyldrdgkd iipaqyeyan dfykekavvr ikeneyalin
+      421 vdgeilnkye yasvgnlreg llsfkedigg kygfidedgn vvikpqftya qdfsegravv
+      481 nasgniinny gvidkegnyi itpkyndiil lgdnrmavgi aidktspfig skyaiadteg
+      541 niltdfiyyg vsnykngias vydnsntffi dkegnkvenl pvvegsgtlt ienelikayv
+      601 dyrisyfdie gnliweensv ihlndqykvi eekykpnkdy lvyypklkgm edktledevn
+      661 nrlkilsevk pieenvqley sylgdfkief fdknllvlel hgynfpfgaa hgmpskiyak
+      721 idlttgefye lkdlfkedsd yvkvlsdiig eqiknnpeys yifpdsyngi kedqpfyvsk
+      781 dalyiyfypy eiapyaagfp tfkipyedim niinqlgefw rsfn
+//
+
+

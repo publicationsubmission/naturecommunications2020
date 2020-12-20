@@ -1,0 +1,48 @@
+LOCUS       WP_002355233             578 aa            linear   BCT 20-JUN-2019
+DEFINITION  MULTISPECIES: septation ring formation regulator EzrA
+            [Enterococcus].
+ACCESSION   WP_002355233
+VERSION     WP_002355233.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF003410.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK04778
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..578
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     gene            1..578
+                     /gene="ezrA"
+     Protein         1..578
+                     /product="septation ring formation regulator EzrA"
+                     /calculated_mol_wt=68022
+     Region          21..574
+                     /region_name="PRK04778"
+                     /note="septation ring formation regulator EzrA;
+                     Provisional"
+                     /db_xref="CDD:179877"
+ORIGIN      
+        1 mknnwiiilv lviviiaavl yligyfmrkk nqeqldelev rkealfdlpv feeiddikkm
+       61 hlvgqsqnsf rewnqrwvel strsfaeles qiyevenqne ifrfmkakka vveanetmte
+      121 meaevevirn glkelresee rnslevqkal dvyeelsksl kddkasfgpa yseiqkqlrn
+      181 veieftqfvt lntsgdpiea revledaerh tyeledlmkr ippmyeelne tfpdqlkeie
+      241 egynqlladd yvfpeqnfae eiqhakkrve nsmadlekte iaavevanrd tataidalye
+      301 vmereieakk yvvtnqkiid dyishslknn rqlmieldhv sqsytlnnne lgrsrgfqte
+      361 ieeiirrqkd leprmkehtv pyseiqafyk ecykilddie nqqleidasl kelrkgekva
+      421 qekvdeyefr lrsikryvek qrlpglsady leffyvatdr iedlsralnk mrinmdeinr
+      481 lcdlceddle lldkktkdlv naaalteqmm qyanryrhth eniraaldks mylfstefry
+      541 qdaldeigta leavepgafk riedfyfkni nnpnltai
+//
+
+

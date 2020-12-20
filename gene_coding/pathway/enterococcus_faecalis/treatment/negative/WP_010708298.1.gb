@@ -1,0 +1,68 @@
+LOCUS       WP_010708298             701 aa            linear   BCT 07-JUN-2013
+DEFINITION  copper-translocating P-type ATPase [Enterococcus faecalis].
+ACCESSION   WP_010708298
+VERSION     WP_010708298.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11576488
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+FEATURES             Location/Qualifiers
+     source          1..701
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..701
+                     /product="copper-translocating P-type ATPase"
+                     /calculated_mol_wt=76914
+     Region          62..697
+                     /region_name="P-type_ATPase_Cu-like"
+                     /note="P-type heavy metal-transporting ATPase, similar to
+                     Archaeoglobus fulgidus CopB, a Cu(2+)-ATPase; cd07552"
+                     /db_xref="CDD:319850"
+     Site            order(348,350,654..655,682,686)
+                     /site_type="other"
+                     /note="putative HM ion binding site [ion binding]"
+                     /db_xref="CDD:319850"
+     Site            348..350
+                     /site_type="other"
+                     /note="HM-ATPase signature motif"
+                     /db_xref="CDD:319850"
+     Site            order(392..394,458,474..476,503,543..545,565,568,571,590,
+                     593)
+                     /site_type="other"
+                     /note="putative ATP binding site [chemical binding]"
+                     /db_xref="CDD:319850"
+     Site            392..398
+                     /site_type="other"
+                     /note="P-type ATPase signature motif"
+                     /db_xref="CDD:319850"
+     Site            392
+                     /site_type="phosphorylation"
+                     /note="phosphorylation site [posttranslational
+                     modification]"
+                     /db_xref="CDD:319850"
+ORIGIN      
+        1 msakhnheqh qekqptmshd kmnhmnhdma heqmamshqh egmkgmnhsm hmgnfkqkfw
+       61 lslilaipii vlspmmgfql pfqftfpgsd wlvlilatvl ffyggqpfls garmelqqks
+      121 pammtliamg isvsyfysly afymnhftnq ahvmdffwel atlivimllg hwiemnaisn
+      181 agdalkkmae llpdtvkrmt ehgeeeiplq dvqegdrliv rsgdkiptdg kilkgsttvd
+      241 esmvtgeskt veknigdsvi ggavngngmi eisvtgtgen sylskvmemv kqaqsekskl
+      301 esisdrvakw lfyialfvgv lafigwllvt kdlslaferm vtvfiiacph alglaiplvi
+      361 arstsiaakn glllknrnal eqankveyvl ldktgtlteg qftvtglelm skqftreeal
+      421 kyigalekna nhplaigimn ylnkqavqpy eahnlqalsg vglvatvqnq evkivnekev
+      481 arlqltfdet iktnyqeqgn tlsyliiagq lvallalgdk vkpeaktfia elqaqgitpv
+      541 mltgdnqtaa savanylgmk eyyaellped kekivqqylt eghqvmmvgd gindapslar
+      601 asigiaigag tdvaidsadv vltdsdpkdi lrfldlakqt rrkmiqnlww gagynivaip
+      661 laagvlapig ivlnpavgav lmslstiiva anamtlhisk k
+//
+
+

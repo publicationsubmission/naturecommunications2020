@@ -1,0 +1,44 @@
+LOCUS       WP_086874932             539 aa            linear   BCT 12-JAN-2018
+DEFINITION  ABC transporter ATP-binding protein [Lactobacillus johnsonii].
+ACCESSION   WP_086874932
+VERSION     WP_086874932.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11438555
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..539
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..539
+                     /product="ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=61000
+     Region          28..513
+                     /region_name="MdlB"
+                     /note="ABC-type multidrug transport system, ATPase and
+                     permease component [Defense mechanisms]; COG1132"
+                     /db_xref="CDD:224055"
+ORIGIN      
+        1 mkekevqinl kwvlsvlpvn liviiiilav tssfegving yvlgqmtnis fhnfanvgtf
+       61 lllvftayli tyvsaylfll ttqkaiqyln eklkytffts dfykqkdlnv sssdvinkvt
+      121 sisnqiqkqy fqplfnliqc lmtiisttiv vlktnlllgl iyiilsllsm vpnqigkkrm
+      181 nqkmdswsec nsslitvmkd ifqgkneirk fdvknlffrk fistlseeee ryfqlnrvqf
+      241 svqfcawmcs iiadvipmgv gllmvayhld gveigtivtl sltadhvlgg irefssyqtq
+      301 itstknirni kiiqddtdka vkttsqnqls vngisfardk klifkhvnlq mkdrdkviit
+      361 gdsgvgkstl lniisgqltp isgqvkfgqg sialsdsvli sqkpwlfkgt iaenlslyqs
+      421 fsekrlikvl kevhlwkelg aqplnfeves ngtnlsggqa qrlviargll rkknlfllde
+      481 itssldkens tkirtliyql pvmmievahn idfnlvkkyk ikiytltkdg iinerhlen
+//
+
+

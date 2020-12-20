@@ -1,0 +1,37 @@
+LOCUS       WP_002355123              70 aa            linear   BCT 23-SEP-2019
+DEFINITION  MULTISPECIES: DNA-dependent RNA polymerase auxiliary subunit
+            epsilon family protein [Bacilli].
+ACCESSION   WP_002355123
+VERSION     WP_002355123.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10538121
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..70
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..70
+                     /product="DNA-dependent RNA polymerase auxiliary subunit
+                     epsilon family protein"
+                     /calculated_mol_wt=8405
+     Region          2..69
+                     /region_name="DUF1447"
+                     /note="Protein of unknown function (DUF1447); pfam07288"
+                     /db_xref="CDD:336660"
+ORIGIN      
+        1 miykvyyqet kirnpkredt kslymeadsd vivrqlveen tpynieyvql ldekhlayeq
+       61 ehadftltef
+//
+
+

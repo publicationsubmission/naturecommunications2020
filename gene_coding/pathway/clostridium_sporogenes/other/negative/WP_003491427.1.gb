@@ -1,0 +1,69 @@
+LOCUS       WP_003491427             233 aa            linear   BCT 20-AUG-2018
+DEFINITION  MULTISPECIES: polyphosphate polymerase domain-containing protein
+            [Clostridium].
+ACCESSION   WP_003491427
+VERSION     WP_003491427.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10166793
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..233
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..233
+                     /product="polyphosphate polymerase domain-containing
+                     protein"
+                     /calculated_mol_wt=27740
+     Region          9..224
+                     /region_name="PolyPPase_VTC_like"
+                     /note="Polyphosphate(polyP) polymerase domain of yeast
+                     vacuolar transport chaperone (VTC) proteins VTC-2, -3 and-
+                     4, and similar proteins; cd07750"
+                     /db_xref="CDD:143622"
+     Site            order(9,11,195,197)
+                     /site_type="other"
+                     /note="putative metal binding residues [ion binding]"
+                     /db_xref="CDD:143622"
+     Site            order(9,11,13)
+                     /site_type="other"
+                     /note="signature motif"
+                     /db_xref="CDD:143622"
+     Site            order(10,64,67,207,211)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:143622"
+     Site            order(13,50,62,65,73,75,89,91,96,98,147,149,160,195,197,
+                     220..223)
+                     /site_type="other"
+                     /note="polyP binding site"
+                     /db_xref="CDD:143622"
+     Site            order(13,50,73,75,89,98,147,149,164,195,220..223)
+                     /site_type="active"
+                     /db_xref="CDD:143622"
+     Site            order(13,50,73,75,89,98,147,149,164,195,220..222)
+                     /site_type="other"
+                     /note="substrate binding site [chemical binding]"
+                     /db_xref="CDD:143622"
+     Site            order(50,73,89,221..223)
+                     /site_type="other"
+                     /note="acceptor-phosphate pocket"
+                     /db_xref="CDD:143622"
+ORIGIN      
+        1 mrnggkkfrh elkyyinynd yisvrnriky vlkldqnade sgeyfirsly yddiydsaly
+       61 eknfgvnirk kyririynms dkviklerkn kvgqyvckes atisrkeyye iingnykslv
+      121 ssnhplkrdf yweiknkila pkvivdydre ayvgkisetr itfdknlrvs ytdnnifnen
+      181 iatqtiiamp kmimevkfne flpesvrkmi cidaedlsai skyvfcrvqk nni
+//
+
+

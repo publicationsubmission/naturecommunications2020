@@ -1,0 +1,45 @@
+LOCUS       WP_004898444             316 aa            linear   BCT 11-OCT-2019
+DEFINITION  linear amide C-N hydrolase [Lactobacillus johnsonii].
+ACCESSION   WP_004898444
+VERSION     WP_004898444.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF014345.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF02275.16
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..316
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..316
+                     /product="linear amide C-N hydrolase"
+                     /calculated_mol_wt=34824
+     Region          2..316
+                     /region_name="CBAH"
+                     /note="Linear amide C-N hydrolases, choloylglycine
+                     hydrolase family; pfam02275"
+                     /db_xref="CDD:308087"
+     Site            order(2,18,20,26,60,67,132,136,141)
+                     /site_type="active"
+                     /db_xref="CDD:238303"
+ORIGIN      
+        1 mctglrftdd qgnlyfgrnl dvgqdygegv iitprnyplp ykfldntttk kavigmgivv
+       61 dgypsyfdcy nedglgiagl nfphfakfsd gpidgkinla syeimlwvtq nfthvsevke
+      121 alknvnlvne aintsfavap lhwiisdsde aiivevskqy gmkvfddkvg vltnspdfnw
+      181 hltnlgnytg lnphdataqs wngqkvapwg vgtgslglpg dsipadrfvk aaylnvnypt
+      241 akgekanvak ffnilksvam ikgsvvndqg kdeytvytac yssgsktyyc nfeddfelkt
+      301 yklddhtmns tslvty
+//
+
+

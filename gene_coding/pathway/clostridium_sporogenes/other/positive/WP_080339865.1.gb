@@ -1,0 +1,36 @@
+LOCUS       WP_080339865             116 aa            linear   BCT 03-APR-2019
+DEFINITION  MULTISPECIES: cell wall-binding repeat-containing protein
+            [Clostridium].
+ACCESSION   WP_080339865
+VERSION     WP_080339865.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10513923
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..116
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..116
+                     /product="cell wall-binding repeat-containing protein"
+                     /calculated_mol_wt=12952
+     Region          45..>100
+                     /region_name="CW_binding_2"
+                     /note="Putative cell wall binding repeat 2; pfam04122"
+                     /db_xref="CDD:309306"
+ORIGIN      
+        1 mcylnikeni emkntkisii ltllliiglp ikanadsnkh ynvlrlwgnn ryqtayaisn
+       61 evtdnnckni ilangysfvd sltgaaltkk lnapillvsn emykgspmdl weirgf
+//
+
+

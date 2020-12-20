@@ -1,0 +1,44 @@
+LOCUS       WP_002381335             485 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: glutamate--tRNA ligase [Enterococcus].
+ACCESSION   WP_002381335
+VERSION     WP_002381335.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF002387.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK01406
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..485
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..485
+                     /product="glutamate--tRNA ligase"
+                     /EC_number="6.1.1.17"
+                     /calculated_mol_wt=55202
+     Region          1..485
+                     /region_name="gltX"
+                     /note="glutamyl-tRNA synthetase; Reviewed; PRK01406"
+                     /db_xref="CDD:234953"
+ORIGIN      
+        1 mtkvrvryap sptghlhign artalfnylf arhndgefii riedtdqkrn iedgeksqle
+       61 nlawlgmewd espahpgeyg pyrqserkei yqplidqlls snraykcyct peeleaerea
+      121 qqargemphy agtcanltps eqaakeaagl epvirfrvpr nteykfddiv kgeitfesdn
+      181 iggdfviqkr dgmptynfav avddhlmkis hvlrgddhia ntpkqlmiye afewtppvfg
+      241 hmtliinset gkklskrdet ilqfieqyre lgylpeamfn fiallgwspv geeeifsqed
+      301 liklfdeqrl skspaafdak klewinnqym kqmdlgeltd mcipylvadg rveenpspek
+      361 iewlkqlvsl yqpqmsyaae ivelsnlffn ehpvlddaak eflqgetvpt vlhafkeqle
+      421 aldvfdvpsi kaaikavqke tgvkgknlfm piriavsgqm hgpelgetie llgkekaldh
+      481 lnkvl
+//
+
+

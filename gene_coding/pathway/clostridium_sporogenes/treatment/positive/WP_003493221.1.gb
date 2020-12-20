@@ -1,0 +1,63 @@
+LOCUS       WP_003493221             292 aa            linear   BCT 20-JUN-2019
+DEFINITION  MULTISPECIES: ribosome small subunit-dependent GTPase A
+            [Clostridium].
+ACCESSION   WP_003493221
+VERSION     WP_003493221.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 292)
+  AUTHORS   Himeno,H., Hanawa-Suetsugu,K., Kimura,T., Takagi,K., Sugiyama,W.,
+            Shirata,S., Mikami,T., Odagiri,F., Osanai,Y., Watanabe,D., Goto,S.,
+            Kalachnyuk,L., Ushida,C. and Muto,A.
+  TITLE     A novel GTPase activated by the small subunit of ribosome
+  JOURNAL   Nucleic Acids Res. 32 (17), 5303-5309 (2004)
+   PUBMED   15466596
+REFERENCE   2  (residues 1 to 292)
+  AUTHORS   Daigle,D.M. and Brown,E.D.
+  TITLE     Studies of the interaction of Escherichia coli YjeQ with the
+            ribosome in vitro
+  JOURNAL   J. Bacteriol. 186 (5), 1381-1387 (2004)
+   PUBMED   14973029
+REFERENCE   3  (residues 1 to 292)
+  AUTHORS   Daigle,D.M., Rossi,L., Berghuis,A.M., Aravind,L., Koonin,E.V. and
+            Brown,E.D.
+  TITLE     YjeQ, an essential, conserved, uncharacterized protein from
+            Escherichia coli, is an unusual GTPase with circularly permuted
+            G-motifs and marked burst kinetics
+  JOURNAL   Biochemistry 41 (37), 11109-11117 (2002)
+   PUBMED   12220175
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00157.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00157
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..292
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..292
+                     /gene="rsgA"
+     Protein         1..292
+                     /product="ribosome small subunit-dependent GTPase A"
+                     /calculated_mol_wt=33593
+     Region          1..290
+                     /region_name="PRK00098"
+                     /note="GTPase RsgA; Reviewed"
+                     /db_xref="CDD:234631"
+ORIGIN      
+        1 mkgtiikgig gfyyikldds eeiieckarg kfrhteltpm igdyveisid knnkgaieki
+       61 ydrkselfrp avanvtqalv vfsfknpdin idllnkflll ceynnlkaiv cfnkmdlvnk
+      121 edykdiifmi eqagydiifl nakeeknmdi ikklikdnvt vfcgpsgvgk stmlnkiigk
+      181 etmltgnise klkrgkhttr hseliyvdeg llvdtpgfss ldisfmeken llhcipefrd
+      241 figeckftgc lhyrepncvv kkaveeghin knrydfyikt leeimnrrkk kw
+//
+
+

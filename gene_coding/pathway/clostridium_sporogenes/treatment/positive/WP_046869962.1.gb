@@ -1,0 +1,42 @@
+LOCUS       WP_046869962             236 aa            linear   BCT 17-MAY-2015
+DEFINITION  alpha/beta hydrolase [Clostridium sporogenes].
+ACCESSION   WP_046869962
+VERSION     WP_046869962.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 12118179
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..236
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..236
+                     /product="alpha/beta hydrolase"
+                     /calculated_mol_wt=27355
+     Region          23..215
+                     /region_name="Abhydrolase_5"
+                     /note="Alpha/beta hydrolase family; pfam12695"
+                     /db_xref="CDD:289465"
+     Region          24..219
+                     /region_name="Abhydrolase_6"
+                     /note="Alpha/beta hydrolase family; pfam12697"
+                     /db_xref="CDD:289467"
+ORIGIN      
+        1 mirenlkikn ipailwgnks dklfiavhgn msnkedeiil afveeitakg yqvisfdlpe
+       61 hgerkyknyp ckaqncvkdl niimdyaktl snnislfacs mgayfsllay shkflkqslf
+      121 lspvvnmeai innmmicfgv sedrlkeeke istsigqily wdyycyvkeh pvitwntkts
+      181 ilygeeddlc kfevisafgk rfncdleimn eaghyfhtek qisflknwlr tqiyvk
+//
+
+

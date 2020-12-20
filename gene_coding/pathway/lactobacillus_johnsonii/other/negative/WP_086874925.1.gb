@@ -1,0 +1,54 @@
+LOCUS       WP_086874925             270 aa            linear   BCT 27-JUL-2017
+DEFINITION  Cof-type HAD-IIB family hydrolase [Lactobacillus johnsonii].
+ACCESSION   WP_086874925
+VERSION     WP_086874925.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..270
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..270
+                     /product="Cof-type HAD-IIB family hydrolase"
+                     /calculated_mol_wt=29486
+     Region          6..268
+                     /region_name="HAD_Pase"
+                     /note="phosphatase, similar to Escherichia coli Cof and
+                     Thermotoga maritima TM0651; belongs to the haloacid
+                     dehalogenase-like superfamily; cd07516"
+                     /db_xref="CDD:319818"
+     Site            order(10..14,44..45,199,221..223,225..226)
+                     /site_type="active"
+                     /db_xref="CDD:319818"
+     Site            10..14
+                     /site_type="other"
+                     /note="HAD signature motif I"
+                     /db_xref="CDD:319818"
+     Site            44
+                     /site_type="other"
+                     /note="HAD signature motif II"
+                     /db_xref="CDD:319818"
+     Site            199
+                     /site_type="other"
+                     /note="HAD signature motif III"
+                     /db_xref="CDD:319818"
+     Site            order(221..222,226)
+                     /site_type="other"
+                     /note="HAD signature motif IV"
+                     /db_xref="CDD:319818"
+ORIGIN      
+        1 mknikiiaid vdgtllnskk eltpkvrnai lkaksagiki viatgrplsg vekiltelgl
+       61 ndqedqyvvc fgggvvetta gnvlfekklt ydnyldleti slklglhfha sapdriytad
+      121 rdigdytlye anlvnlgisy rtpaemkdip iikcmyvdek dlldqkiadh rpfahlddei
+      181 tftktapfyy eanpkgvskg nalkflchkl nlssenlmai gdeendlsmi klagigvamg
+      241 navpavkeaa qrvtsdcdhd gvaeaiekil
+//
+
+

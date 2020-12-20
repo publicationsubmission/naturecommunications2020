@@ -1,0 +1,40 @@
+LOCUS       WP_002354705             285 aa            linear   BCT 03-NOV-2016
+DEFINITION  MULTISPECIES: MurR/RpiR family transcriptional regulator [Bacilli].
+ACCESSION   WP_002354705
+VERSION     WP_002354705.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11448252
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..285
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..285
+                     /product="MurR/RpiR family transcriptional regulator"
+                     /calculated_mol_wt=32103
+     Region          1..278
+                     /region_name="RpiR"
+                     /note="DNA-binding transcriptional regulator, MurR/RpiR
+                     family, contains HTH and SIS domains [Transcription];
+                     COG1737"
+                     /db_xref="CDD:224651"
+ORIGIN      
+        1 mnplnliecl eqkerytyne gliidfilsh tervlhmsiy elaeatnsst stivrlckkt
+       61 etsgfkefki rlsrdleihy qairnvdanm pflaqdsdll iakkiaqltt etvqstqqll
+      121 teamlnksid llltaenila vgvsnsyirl tdfqtkllri qlfihlipyq aeqfylaina
+      181 tkndvailvs ysgntaeivn earifaeggt piiaitsdln sqlakyatvi lpipnvehad
+      241 fkvstfssql aieyilnvly scifsrnfdk nytsqkntpt silkf
+//
+
+

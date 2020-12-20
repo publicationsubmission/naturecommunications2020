@@ -1,0 +1,70 @@
+LOCUS       WP_086875106             672 aa            linear   BCT 02-FEB-2018
+DEFINITION  SP_1767 family glycosyltransferase [Lactobacillus johnsonii].
+ACCESSION   WP_086875106
+VERSION     WP_086875106.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR03728.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR03728
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..672
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..672
+                     /product="SP_1767 family glycosyltransferase"
+                     /calculated_mol_wt=78151
+     Region          2..229
+                     /region_name="GT8_A4GalT_like"
+                     /note="A4GalT_like proteins catalyze the addition of
+                     galactose or glucose residues to the lipooligosaccharide
+                     (LOS) or lipopolysaccharide (LPS) of the bacterial cell
+                     surface; cd04194"
+                     /db_xref="CDD:133037"
+     Site            order(7..9,11..12,82,85,101..103,128,136..138,169..170,
+                     192,220,222..223,226)
+                     /site_type="other"
+                     /note="Ligand binding site"
+                     /db_xref="CDD:133037"
+     Site            order(101,103,220)
+                     /site_type="metal-binding"
+                     /db_xref="CDD:133037"
+     Region          <247..397
+                     /region_name="Glycosyltransferase_GTB_type"
+                     /note="Glycosyltransferases catalyze the transfer of sugar
+                     moieties from activated donor molecules to specific
+                     acceptor molecules, forming glycosidic bonds. The acceptor
+                     molecule can be a lipid, a protein, a heterocyclic
+                     compound, or another carbohydrate...; cl10013"
+                     /db_xref="CDD:324558"
+     Region          407..672
+                     /region_name="glyco_access_1"
+                     /note="glycosyltransferase, SP_1767 family; TIGR03728"
+                     /db_xref="CDD:163440"
+ORIGIN      
+        1 mktivlngdy gfldkiettv ksiiyhnqkv kiyvinpdip hewfinlnqy lnqigsqivd
+       61 kkidqaylnn vnssfkgikn iafarilipe likedkvlyl dcdivvnanl delfnidlen
+      121 kwvcgvrdyq vpaefnsgml linnkkwkes nivsslleka kdpnlrngdq tvinevfkdr
+      181 ieeldlsydy qigfekaafw gnlqkttqfl dkvkktkiih fitedkpfnl vstvslrnkw
+      241 whyrrlewse iiskyssfdk skikdlsfdg eaflltrmad vqnieqliqk lpnirfniaa
+      301 ytpmaflllk ltqydnvrlf ptiigktldr eineadiyld inygpkadei ierimkrrip
+      361 ifsfdqtksq nldydnyqvf rdnqidemae aiketvktna pkynirvkdm deslnlilqd
+      421 nksvirfgdg efdlirgasi pyqtynsela drlkdiilrg qfnntlvclp dvftkperyq
+      481 dftqsfykts ffpnnesflk eigqtgnwyg stfisrpyid lgdksksaty fnklkqlwsg
+      541 rdllivegal trsgvgndlf tntksikril apsknayqki dqieqmiren aedrlillml
+      601 gptakvvvdd lqdlenqiid lghidseyew fkmgathkvk lenkhtaefn fdeninavhd
+      661 kayeneiivk ie
+//
+
+

@@ -1,0 +1,41 @@
+LOCUS       WP_113886643             380 aa            linear   BCT 28-JUL-2019
+DEFINITION  DUF2974 domain-containing protein [Lactobacillus johnsonii].
+ACCESSION   WP_113886643
+VERSION     WP_113886643.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10567749
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..380
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..380
+                     /product="DUF2974 domain-containing protein"
+                     /calculated_mol_wt=43003
+     Region          73..294
+                     /region_name="Abhydrolase"
+                     /note="alpha/beta hydrolases; cl21494"
+                     /db_xref="CDD:328752"
+ORIGIN      
+        1 mgkildyvrw rgdltldrep fnsldaglfa afaylpfdss vkghtleaat krliqkktli
+       61 hsdkveaqli nlsdryknmr fldwshlsqk kppvqftamt ieldpqtilv ayrgtdgsmv
+      121 glnedvdmsy qpeifgqsva adyldkiaqt ypdkqiyttg hskggnfaay aisavspkiq
+      181 dqiikaysfd gpglmketyd qlefqraipk mityvpegsi fgmmldhper vivvkskmkh
+      241 lmqqhnplhw evarnsfvma pclsnasrii rstfiswntk iprekreelw lafftalesq
+      301 kitdarqltt nkirgaiqfs haylsldpkt rlianeivsd itttarqyin lpflnhtehl
+      361 eplgndsskg pivddsydgs
+//
+
+

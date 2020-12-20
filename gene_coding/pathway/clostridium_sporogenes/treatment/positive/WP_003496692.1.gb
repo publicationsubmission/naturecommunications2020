@@ -1,0 +1,56 @@
+LOCUS       WP_003496692             417 aa            linear   BCT 02-OCT-2019
+DEFINITION  MULTISPECIES: aminotransferase class V-fold PLP-dependent enzyme
+            [Clostridium].
+ACCESSION   WP_003496692
+VERSION     WP_003496692.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012488.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00266.17
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..417
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..417
+                     /product="aminotransferase class V-fold PLP-dependent
+                     enzyme"
+                     /calculated_mol_wt=48107
+     Region          78..412
+                     /region_name="AAT_I"
+                     /note="Aspartate aminotransferase (AAT) superfamily (fold
+                     type I) of pyridoxal phosphate (PLP)-dependent enzymes.
+                     PLP combines with an alpha-amino acid to form a compound
+                     called a Schiff base or aldimine intermediate, which
+                     depending on the reaction, is the...; cl18945"
+                     /db_xref="CDD:327488"
+     Site            order(113..114,117,199,230,233,260,263)
+                     /site_type="other"
+                     /note="pyridoxal 5'-phosphate binding pocket [chemical
+                     binding]"
+                     /db_xref="CDD:99742"
+     Site            263
+                     /site_type="active"
+                     /note="catalytic residue [active]"
+                     /db_xref="CDD:99742"
+ORIGIN      
+        1 mklwrkytqe emdekitksl ertlnydntk tigipgtkld dtvfydghsf ikhspylrtf
+       61 iqnpnhigch tydkadilfg gtfdiereli qllaidvlng ddkefdgyvt qggteaniqa
+      121 mwvyrnyfkk erkakheeia iitsadthys aykgsdllni diikvpvefy srkiqedtld
+      181 sivkeakeig kkyfivisnm gttmfgsvdd pdlyanifdk ynleykihvd gafggfiypi
+      241 nnkecktdfs nknvssitld ghkmlqapyg tgvfvcrqnl ihntlteeat yienldvtis
+      301 gsrsganava iwmvlasygp ygwmekinkl rnrtewlceq lddmgikyyk ennmnivtie
+      361 eqyvtkeiae kyflvpevhn htnkwykivv mehveldiln slvcdlrkqn kehlkai
+//
+
+

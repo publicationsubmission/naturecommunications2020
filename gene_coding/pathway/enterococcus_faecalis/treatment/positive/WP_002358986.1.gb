@@ -1,0 +1,51 @@
+LOCUS       WP_002358986             181 aa            linear   BCT 13-MAY-2017
+DEFINITION  cysteine hydrolase [Enterococcus faecalis].
+ACCESSION   WP_002358986
+VERSION     WP_002358986.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10087237
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..181
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..181
+                     /product="cysteine hydrolase"
+                     /calculated_mol_wt=20167
+     Region          3..173
+                     /region_name="cysteine_hydrolases"
+                     /note="Cysteine hydrolases; This family contains
+                     amidohydrolases, like CSHase (N-carbamoylsarcosine
+                     amidohydrolase), involved in creatine metabolism and
+                     nicotinamidase, converting nicotinamide to nicotinic acid
+                     and ammonia in the pyridine nucleotide cycle. It...;
+                     cd00431"
+                     /db_xref="CDD:238245"
+     Site            order(8,102,135)
+                     /site_type="active"
+                     /note="catalytic triad [active]"
+                     /db_xref="CDD:238245"
+     Site            130..131
+                     /site_type="other"
+                     /note="conserved cis-peptide bond"
+                     /db_xref="CDD:238245"
+ORIGIN      
+        1 mkalisidyt ndfvatdgkl ttgaagqaie talvqqtkhy fdngdfvvfa idghdpldry
+       61 hpenklfpph nvlgtdgrnl fgsladfyqa hkneasvywm nkrhysafsg tdldirlrer
+      121 gitelcltgv ctdicvlhta vdaynlgyql miperavasf deqghewalr hfkqtlgati
+      181 l
+//
+
+

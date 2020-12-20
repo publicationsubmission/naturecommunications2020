@@ -1,0 +1,48 @@
+LOCUS       WP_002359711             589 aa            linear   BCT 19-JUN-2019
+DEFINITION  DNA helicase RecQ [Enterococcus faecalis].
+ACCESSION   WP_002359711
+VERSION     WP_002359711.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01389.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01389
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..589
+                     /gene="recQ"
+     Protein         1..589
+                     /product="DNA helicase RecQ"
+                     /EC_number="3.6.4.12"
+                     /calculated_mol_wt=67119
+     Region          4..584
+                     /region_name="recQ"
+                     /note="ATP-dependent DNA helicase RecQ; TIGR01389"
+                     /db_xref="CDD:273594"
+ORIGIN      
+        1 msalqellkd tfgyddfrpg qetiirhvlr qenvlgimpt gggksicyql pallldnltl
+       61 visplislmk dqvdalnlmg ipatyinsti syqemnhriq lavnkevkll yvaperlesy
+      121 dfqqmlthvp idllavdeah cisqwghdfr psylrlaeii dqfqqqptvi altatatpqv
+      181 aedivkqlri pseneiktgf arenlsfqvv kdqnrdvfll eylkmntgqs giiyastrke
+      241 veriyhllen kkiaagmyhg gmseqlrsen qeaflydqvq vmvatnafgm ginksnvrfv
+      301 ihaqvpgnie syyqeagrag rdglpsdavl mfapqdlqiq qyfieqsemt idykqkeylk
+      361 lremsqyana qmclqkyilr yfgeegtdcg rcsncldnre lvditvdaqk vlscvkrmge
+      421 rfgkglvgkv ltgskdqkid qwhfdrlpty glmkgrtqke vtqlidylta erylipsdgq
+      481 fpllsvsteg vqvllgkrkv frkedqkvrk vavddalfer lrelrmdmaq etgvppyvvf
+      541 sdstlkemce klpqttiqll qikgvgqnkl dkygtaflev ikeyqeikk
+//
+
+

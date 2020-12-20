@@ -1,0 +1,51 @@
+LOCUS       WP_002358939             831 aa            linear   BCT 13-MAY-2017
+DEFINITION  ATP-dependent Clp protease ATP-binding subunit [Enterococcus
+            faecalis].
+ACCESSION   WP_002358939
+VERSION     WP_002358939.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11425426
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..831
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..831
+                     /product="ATP-dependent Clp protease ATP-binding subunit"
+                     /calculated_mol_wt=92561
+     Region          5..817
+                     /region_name="ClpA"
+                     /note="ATP-dependent Clp protease ATP-binding subunit ClpA
+                     [Posttranslational modification, protein turnover,
+                     chaperones]; COG0542"
+                     /db_xref="CDD:223616"
+ORIGIN      
+        1 mdelftesak avlaiaqeea kyfrhqsvgs ehlllalvle pngiagktlr qlntdtedir
+       61 eeiehlsgyg tmqspmgnnn lylpysprak qifayagdea krlgaqkigt ehlllgllrd
+      121 eeilasrilv nlglslskmr qlllkkmgvs epnsaqrrrn gqsknapqgt ptldslardl
+      181 tklareqsld pvvgrgtevr rliqilsrrt knnpvlvgep gvgktaiaeg laqkivnrev
+      241 pedmqgkrlm mldmgalvag tkyrgefedr lkkvvdeiyq dgqvilfide lhtligagga
+      301 egaidasnil kpalargelq tigattldey qkyiekdaal errfariqva eptpeeaeei
+      361 lkglrsryek hhgveitdea lhaavqlsir ylndrqlpdk aidlmdesaa kvrldkadqp
+      421 seinelrtei sqlitekeea iqnqsfesaa rirqkekqvm ekleeliavk ekslsgystq
+      481 vteedvagvv sqwtgvplqq lekkeserlm eletilhqrv vgqneaveav srairrarsg
+      541 lkdparpigs fmflgptgvg ktelakalae amfgseeali rvdmsefmek ystsrligsp
+      601 pgyvgyeegg qltekirqrp ysvilldeve kahpdvfnil lqvlddghlt dakgrkvdfr
+      661 ntilimtsnl gataireekh vgfnvkdisk nhelmqkrim eelkkafrpe flnridetvv
+      721 fhslkqeeih eivkimsqsv vkrmaeqevk vkitpaaiev igkvgfdpey garpirralq
+      781 kevedrlsea llsgqiqlgd kvtlgaskgk itlnvrapka pkteakelqt v
+//
+
+

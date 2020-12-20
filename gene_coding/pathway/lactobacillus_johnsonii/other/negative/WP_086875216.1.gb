@@ -1,0 +1,44 @@
+LOCUS       WP_086875216             331 aa            linear   BCT 01-JUN-2019
+DEFINITION  PTS mannose transporter subunit IIAB [Lactobacillus johnsonii].
+ACCESSION   WP_086875216
+VERSION     WP_086875216.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF011670.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK15088
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..331
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..331
+                     /gene="manX"
+     Protein         1..331
+                     /product="PTS mannose transporter subunit IIAB"
+                     /calculated_mol_wt=35981
+     Region          2..323
+                     /region_name="PRK15088"
+                     /note="PTS system mannose-specific transporter subunits
+                     IIAB; Provisional"
+                     /db_xref="CDD:185045"
+ORIGIN      
+        1 mvgivlashg gfadgifqsa emifgkqenl ahvilkpdeg pddirakmer avasfddqdq
+       61 vlflidlwgg tpfnqannlv kehedtwaiv sgmnlpmvie algqrmasdn ahdiakaivk
+      121 pgrdgiktqp eslmpkeetk aapsnnaqpq gaipegtvig dghikyvlar idsrllhgqv
+      181 atgwtkamnp nriivvsdnv akdkirktmi keaapagvpa nvvpinkmle vvkdprfgnt
+      241 kalilfenpe dalkaieggm dikelnvgsm aysdgkvnvn tvlamdqkdi dtykklkdlg
+      301 vkfdvrkvps dgkqnmdell dkaqklvdek k
+//
+
+

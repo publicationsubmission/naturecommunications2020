@@ -1,0 +1,44 @@
+LOCUS       WP_040109277             289 aa            linear   BCT 28-JUN-2015
+DEFINITION  MULTISPECIES: AraC family transcriptional regulator [Clostridium].
+ACCESSION   WP_040109277
+VERSION     WP_040109277.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11454549
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..289
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..289
+                     /product="AraC family transcriptional regulator"
+                     /calculated_mol_wt=33528
+     Region          7..105
+                     /region_name="AraC"
+                     /note="AraC-type DNA-binding domain and AraC-containing
+                     proteins [Transcription]; COG2207"
+                     /db_xref="CDD:225117"
+     Region          133..289
+                     /region_name="AraC_E_bind"
+                     /note="Bacterial transcription activator, effector binding
+                     domain; smart00871"
+                     /db_xref="CDD:214874"
+ORIGIN      
+        1 mdyiksleka imyieenlne dlktedvaks igysyyhftr lfegllgeti gnyirkrrit
+       61 kaaqdlmytd kkiidialdf qfkspeafar afkkiydisp teyrknridv lkgnkkyidn
+      121 erlkhilnni tiqpvikvis evkvigikgk tslknnllpd lwnafnksss kiinraeplk
+      181 yygicendrp nnefgenvay seivgievts fdyipdgmva kvipqgkyvv fthkgsihkl
+      241 qetyeyiwgt wipfskveld mrddfelyde gfkgvnnhls eidiyipik
+//
+
+

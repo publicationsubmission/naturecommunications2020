@@ -1,0 +1,73 @@
+LOCUS       WP_113886662             894 aa            linear   BCT 07-OCT-2018
+DEFINITION  cation-translocating P-type ATPase [Lactobacillus johnsonii].
+ACCESSION   WP_113886662
+VERSION     WP_113886662.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11550611
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..894
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..894
+                     /product="cation-translocating P-type ATPase"
+                     /calculated_mol_wt=97129
+     Region          27..744
+                     /region_name="P-type_ATPase_Ca_prok"
+                     /note="prokaryotic P-type Ca(2+)-ATPase similar to
+                     Synechococcus elongatus sp. strain PCC 7942 PacL and
+                     Listeria monocytogenes LMCA1; cd02089"
+                     /db_xref="CDD:319781"
+     Site            order(331..333,428,450..452,495,550..552,599,602,605,624,
+                     627)
+                     /site_type="other"
+                     /note="putative ATP binding site [chemical binding]"
+                     /db_xref="CDD:319781"
+     Site            331..337
+                     /site_type="other"
+                     /note="P-type ATPase signature motif"
+                     /db_xref="CDD:319781"
+     Site            331
+                     /site_type="phosphorylation"
+                     /note="phosphorylation site [posttranslational
+                     modification]"
+                     /db_xref="CDD:319781"
+     Site            order(685,689..690,692..693,717,720..721)
+                     /site_type="other"
+                     /note="putative cation binding site [ion binding]"
+                     /db_xref="CDD:319781"
+     Region          708..876
+                     /region_name="Cation_ATPase_C"
+                     /note="Cation transporting ATPase, C-terminus; pfam00689"
+                     /db_xref="CDD:307026"
+ORIGIN      
+        1 mdsqkqppay sqtkdelfsn letssaglse tevdrrlkky ghnvlnekpp ksilnmlkeq
+       61 ifdpmilill gaatfsalln ewveagviff ivvinsiigi iqekkaqasl aalktmsapt
+      121 atvirngsek ivsaselvvg dlviltngdm vpadlrltqs nnlkiaeasl tgesissekn
+      181 aaavlspdcp lgdrknmayt ssivtygrgs givtktgmnt eigqiagmle dddtsdtplk
+      241 rklnavgkil tiigliicvl ifaigafygr pllpqflvai slaisiipeg lpatatiima
+      301 lgvqrmakeh aliknlpave tlgnatvics dktgtltlnk mtvthlangd dflnkkilka
+      361 qkavknnnay kdlmyaaslc ndaslspasp eeiigdpteg aliplaqdfg ysvsslrkey
+      421 prlgeypfds irkrmstihe inneyvaytk galdellplc dyiatsngmq kltktdkeni
+      481 lalsykmsdq alrvlgfasr tilnlpqene dieqhlvflg avgmidpard evkasikmar
+      541 eagiktimit gdhkntavai aknlgiyang ntvisgteln emadseldqa vksttvfarv
+      601 spndklriiq slkrneevva mtgdgvndsp alkaadigva mgisgtdvak dvsdmillnd
+      661 sfttitaaik egrkvyrniq kviqfllvgn iaeittlfia tlfnwdapll avhilwvnla
+      721 taslpalalg vdpasknimk hkpvktgtlf erdlvwrvis qgifvalmtl laywigdtfd
+      781 npiagqtmaf cvlalsqmfr afnqhsntdp iwirgnkini wlivsfivsa vlmgvilftp
+      841 nlqslfhltn ltsrqwlvvi ilslfsilqv elmklikrsv ksrqqsrale svtd
+//
+
+

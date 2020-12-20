@@ -1,0 +1,41 @@
+LOCUS       WP_004898668             153 aa            linear   BCT 20-JUN-2019
+DEFINITION  transcription elongation factor GreA [Lactobacillus johnsonii].
+ACCESSION   WP_004898668
+VERSION     WP_004898668.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF001263.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00226
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..153
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..153
+                     /gene="greA"
+     Protein         1..153
+                     /product="transcription elongation factor GreA"
+                     /calculated_mol_wt=17165
+     Region          1..153
+                     /region_name="greA"
+                     /note="transcription elongation factor GreA; Reviewed;
+                     PRK00226"
+                     /db_xref="CDD:234693"
+ORIGIN      
+        1 mvyyqkmtpe gyqeikdeia rlkkdrprri kilqearsmg dlsenseytt akmelghlqs
+       61 rlryldkqlr yseiiqkdes gtidlgsnvt llfdgddeae kyrivgrmea dlakgkisfd
+      121 splgqalmkq kagatvtvea pagsydvkii avn
+//
+
+

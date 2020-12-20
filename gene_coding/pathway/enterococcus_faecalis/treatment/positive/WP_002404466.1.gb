@@ -1,0 +1,43 @@
+LOCUS       WP_002404466             351 aa            linear   BCT 27-MAY-2013
+DEFINITION  endonuclease subunit UvrC [Enterococcus faecalis].
+ACCESSION   WP_002404466
+VERSION     WP_002404466.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..351
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..351
+                     /product="endonuclease subunit UvrC"
+                     /calculated_mol_wt=39690
+     Region          56..>272
+                     /region_name="EEP"
+                     /note="Exonuclease-Endonuclease-Phosphatase (EEP) domain
+                     superfamily; cl00490"
+                     /db_xref="CDD:321002"
+     Region          <200..348
+                     /region_name="EEP"
+                     /note="Exonuclease-Endonuclease-Phosphatase (EEP) domain
+                     superfamily; cl00490"
+                     /db_xref="CDD:321002"
+     Site            order(216,254,341)
+                     /site_type="other"
+                     /note="putative phosphate binding site [ion binding]"
+                     /db_xref="CDD:197306"
+ORIGIN      
+        1 mkkffkylgs lmvlllsial iligyltfre frpravepva inkqfseqti ekqqsislvt
+       61 ynigyaglgq tedffmdggk tvqpvnkamv qqnltgieet lkelpamiyl fqevdrrsqr
+      121 syevnqeeel qkqlqlnsaf aynfkvdyvp ipwppigrve sglltlsnek iteakrialp
+      181 npfrwpvsis nlkralletr fsikgtdkel vvfnlhleay dngdgkiaqs kkladvlsqe
+      241 yakgnyviag gdfnqvfkgs hrypdlgeag wvpgeidpad lpkhfslayd dqqptvrvln
+      301 kpytgsyets qvyvidgfiv sdnvavhsvk tkdeqfkytd hqpvkmevgl k
+//
+
+

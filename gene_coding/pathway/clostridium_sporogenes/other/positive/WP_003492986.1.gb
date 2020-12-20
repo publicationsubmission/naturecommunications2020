@@ -1,0 +1,58 @@
+LOCUS       WP_003492986             328 aa            linear   BCT 09-OCT-2019
+DEFINITION  MBL fold metallo-hydrolase [Clostridium sporogenes].
+ACCESSION   WP_003492986
+VERSION     WP_003492986.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012955.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00753.25
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..328
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..328
+                     /product="MBL fold metallo-hydrolase"
+                     /calculated_mol_wt=38352
+     Region          13..237
+                     /region_name="metallo-hydrolase-like_MBL-fold"
+                     /note="mainly hydrolytic enzymes and related proteins
+                     which carry out various biological functions; MBL-fold
+                     metallohydrolase domain; cl23716"
+                     /db_xref="CDD:329029"
+     Site            order(70,72,74..75,169..170,188,231)
+                     /site_type="active"
+                     /db_xref="CDD:293792"
+     Site            order(70,72,74,169,188,231)
+                     /site_type="metal-binding"
+                     /note="metal binding site [ion binding]"
+                     /db_xref="CDD:293792"
+     Site            order(70,72,169,188)
+                     /site_type="metal-binding"
+                     /note="metal binding site [ion binding]"
+                     /db_xref="CDD:293792"
+     Site            order(74,188,231)
+                     /site_type="metal-binding"
+                     /note="metal binding site [ion binding]"
+                     /db_xref="CDD:293792"
+ORIGIN      
+        1 mretyeniyl eelslpnspl kylnfyiikg kdksmiidtg fncedtkkrm meifeeldlk
+       61 pentilflth lhsdhtglaa yfqdmgltiy iskidgdlln gsveksgpmw kgtiqrakwq
+      121 gleeeqleie dnpgykfrpm dyinfkpaip geyirigeyn feiidlkght pgmvglyekk
+      181 hkilfcgdhi laritpnitf wgfeygdmlg tylknlkcvy nmdidylfss hrfliedhcr
+      241 rinelclhhq erldeikevl rkfgactvrk vtkelhwnik skgwddfpks qkwfaageah
+      301 ahlehlkalg evtmeeekgv lyykmaki
+//
+
+

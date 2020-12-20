@@ -1,0 +1,46 @@
+LOCUS       WP_086874799             216 aa            linear   BCT 20-JUL-2017
+DEFINITION  DsbA family oxidoreductase [Lactobacillus johnsonii].
+ACCESSION   WP_086874799
+VERSION     WP_086874799.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10122494
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..216
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..216
+                     /product="DsbA family oxidoreductase"
+                     /calculated_mol_wt=24458
+     Region          3..208
+                     /region_name="DsbA_FrnE"
+                     /note="DsbA family, FrnE subfamily; FrnE is a DsbA-like
+                     protein containing a CXXC motif. It is presumed to be a
+                     thiol oxidoreductase involved in polyketide biosynthesis,
+                     specifically in the production of the aromatic antibiotics
+                     frenolicin and nanaomycins; cd03024"
+                     /db_xref="CDD:239322"
+     Site            order(11,14)
+                     /site_type="active"
+                     /note="catalytic residues [active]"
+                     /db_xref="CDD:239322"
+ORIGIN      
+        1 mrmsfwmdya spfcyiafhk lteavkavgi dqnkldynfr afqidptate nptqtrgekl
+       61 mqkdgltqkq lherfqnite qardagltin yantlpvntm kalrltkwan dtqsnqktak
+      121 lidaifkayf venqniadnd vlvklakdag lddssakkil tseeykdvvi edendlanrn
+      181 adavpyfeig hyhdegvptk ealieainnl iyqkan
+//
+
+

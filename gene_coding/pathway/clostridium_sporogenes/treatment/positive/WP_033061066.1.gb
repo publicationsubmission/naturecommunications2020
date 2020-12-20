@@ -1,0 +1,58 @@
+LOCUS       WP_033061066             136 aa            linear   BCT 10-APR-2019
+DEFINITION  MULTISPECIES: helix-turn-helix transcriptional regulator
+            [Clostridium].
+ACCESSION   WP_033061066
+VERSION     WP_033061066.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11443584
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..136
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..136
+                     /product="helix-turn-helix transcriptional regulator"
+                     /calculated_mol_wt=15712
+     Region          3..120
+                     /region_name="HipB"
+                     /note="Transcriptional regulator, contains XRE-family HTH
+                     domain [Transcription]; COG1396"
+                     /db_xref="CDD:224314"
+     Region          6..62
+                     /region_name="HTH_XRE"
+                     /note="Helix-turn-helix XRE-family like proteins.
+                     Prokaryotic DNA binding proteins belonging to the
+                     xenobiotic response element family of transcriptional
+                     regulators; cd00093"
+                     /db_xref="CDD:238045"
+     Site            order(9,13,38)
+                     /site_type="other"
+                     /note="non-specific DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238045"
+     Site            order(12,37)
+                     /site_type="other"
+                     /note="salt bridge"
+                     /db_xref="CDD:238045"
+     Site            order(19..20,31,34,38..39)
+                     /site_type="other"
+                     /note="sequence-specific DNA binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:238045"
+ORIGIN      
+        1 maeikdrlkc erlrkdlnqt elakllnvsk qtvsnwengn ripdtltlsk ladffncsvd
+       61 yilgrsenrn giiskanidg nnyefeldkn ifpngitreq minyikelee rnkelekead
+      121 lsrklkeagf nfnpnk
+//
+
+

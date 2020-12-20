@@ -1,0 +1,38 @@
+LOCUS       WP_002355354             233 aa            linear   BCT 13-DEC-2017
+DEFINITION  MULTISPECIES: MgtC/SapB family protein [Bacteria].
+ACCESSION   WP_002355354
+VERSION     WP_002355354.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (eubacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11441694
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..233
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     Protein         1..233
+                     /product="MgtC/SapB family protein"
+                     /calculated_mol_wt=25505
+     Region          1..217
+                     /region_name="SapB"
+                     /note="Uncharacterized membrane protein YhiD, involved in
+                     acid resistance [Function unknown]; COG1285"
+                     /db_xref="CDD:224204"
+ORIGIN      
+        1 mlqltipeii lrlvlamvmg gaigferqyk nrpagmrthi lvcmgaaiia liqsqiaina
+       61 lkdalanpal tgvirsdqar liaqvvsgig flgagtiivt kqsvtgltta aslwtvaglg
+      121 iavgmgyyti altsfigvlf altivkriih vptikkleir yqhkqetkef inqyfeekhi
+      181 eiydvnfnvs wvddtkiytn iytidlpkgl tyadviedls vsnnvtklrl inv
+//
+
+

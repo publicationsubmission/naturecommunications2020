@@ -1,0 +1,35 @@
+LOCUS       WP_003495171             185 aa            linear   BCT 27-MAY-2019
+DEFINITION  MULTISPECIES: helix-turn-helix domain-containing protein
+            [Clostridium].
+ACCESSION   WP_003495171
+VERSION     WP_003495171.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF014814.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF02796.13
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..185
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..185
+                     /product="helix-turn-helix domain-containing protein"
+                     /calculated_mol_wt=21294
+ORIGIN      
+        1 mvafllivig silifinfka ikkekgsfse tlkgsienid eykeeiglir kefaetlidi
+       61 qkemeylkke lnvlkhtyen nieaedfykk nhstnypkes egnllqpkyi dnknaenisk
+      121 einkkniqkd iltndndkns leddnsikvn evsklleegh tvekiceiln igkgevilik
+      181 elylk
+//
+
+

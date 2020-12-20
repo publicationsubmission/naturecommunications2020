@@ -1,0 +1,42 @@
+LOCUS       WP_086874527             447 aa            linear   BCT 28-JUL-2019
+DEFINITION  MFS transporter [Lactobacillus johnsonii].
+ACCESSION   WP_086874527
+VERSION     WP_086874527.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 13022776
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..447
+                     /product="MFS transporter"
+                     /calculated_mol_wt=49020
+     Region          20..401
+                     /region_name="MFS_1"
+                     /note="Major Facilitator Superfamily; cl26865"
+                     /db_xref="CDD:331686"
+ORIGIN      
+        1 mqkenlnntn tikekknykk aplmpihlrv ftavllgqia cgfslgisgt alssaskyit
+       61 isdlwtglig agsliglags iligrlsdki grrkllmlnm yilgflsltq lltnnlilif
+      121 siriliglmi avdytvgnal ltewlpkged skrqshlliy wtigfiasyl tgtfitgfgs
+      181 ynwqiilstg aipafiaaif rsifplpasp swlasrgkvk kankvikkhm ghkwglpqkl
+      241 kkakpvkevs wtilfsrkyl rqtlvgglfy acqafaffgi siflpillqs mhvtdqkisg
+      301 iiynggmfig vlfgilifnk isrraflisn fllsslligf lainkninsn iqliifcifa
+      361 ivlssglvld ypyptelfdi kvrgtgvgtc itisrfgaaa gtfllpiltn lggahlamit
+      421 cafvlfaafv icliwapets pqfkqnn
+//
+
+

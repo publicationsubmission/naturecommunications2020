@@ -1,0 +1,42 @@
+LOCUS       WP_040108859             460 aa            linear   BCT 28-JUN-2015
+DEFINITION  MULTISPECIES: radical SAM protein [Clostridium].
+ACCESSION   WP_040108859
+VERSION     WP_040108859.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11425241
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..460
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..460
+                     /product="radical SAM protein"
+                     /calculated_mol_wt=53279
+     Region          97..394
+                     /region_name="SkfB"
+                     /note="Radical SAM superfamily enzyme, MoaA/NifB/PqqE/SkfB
+                     family [General function prediction only]; COG0535"
+                     /db_xref="CDD:223609"
+ORIGIN      
+        1 mkvikllqks akdkmvktaa gllstnpekn vdrlftliek tiakdednlk rlkvvedeyy
+       61 nnpsthefvq nlfkttdknc mqkfftnffa navwygmpkr eklfkedeik tpfvilisps
+      121 mrcnlrctgc yaanyskedd ipyeevdrii eeareigiyy fiilggepff neymldiyek
+      181 yndciftpft ngtlfngela drvqklgnii pmfslegfek etdarrgkgv fkqvmhgmdl
+      241 lrergvlfgv statgrnnid tvisdefinm liekgakmsw yfifmpvged pdfnlmltpe
+      301 qriylgkkvr kirnekpyfa idffndapyv ggciagkyyc hinshedvep cifahfatdn
+      361 lknkklidvf kspffkelrd rqpyndnllk pcmmidnpkv irevasktga kptdkgaemm
+      421 lhdevfknkl dklakdfdpl aekawkedfh ekgnyemskg
+//
+
+

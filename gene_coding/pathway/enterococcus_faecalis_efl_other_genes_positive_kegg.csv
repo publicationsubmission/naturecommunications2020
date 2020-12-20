@@ -1,0 +1,4 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"efl03030","DNA replication","1/1","18/978",0.0184049079754602,0.0224948875255625,NA,"EF62_1482",1
+"efl03430","Mismatch repair","1/1","22/978",0.0224948875255625,0.0224948875255625,NA,"EF62_1482",1
+"efl03440","Homologous recombination","1/1","22/978",0.0224948875255625,0.0224948875255625,NA,"EF62_1482",1

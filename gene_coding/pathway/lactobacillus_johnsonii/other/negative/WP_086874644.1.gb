@@ -1,0 +1,44 @@
+LOCUS       WP_086874644             472 aa            linear   BCT 19-JUN-2019
+DEFINITION  cysteine--tRNA ligase [Lactobacillus johnsonii].
+ACCESSION   WP_086874644
+VERSION     WP_086874644.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF001328.1
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00260
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..472
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..472
+                     /product="cysteine--tRNA ligase"
+                     /EC_number="6.1.1.16"
+                     /calculated_mol_wt=54687
+     Region          1..472
+                     /region_name="cysS"
+                     /note="cysteinyl-tRNA synthetase; Validated; PRK00260"
+                     /db_xref="CDD:234705"
+ORIGIN      
+        1 mimkvfntlt rkkeefkplv agkvsmyvcg ptvynyihig narsviafdt irryfeyrgy
+       61 dvnyvsnftd vddkminear kehttvekla eryikafmed tealniepat lhpratheik
+      121 eiidfvqdli dkgfayevdg dvyycarkfp nygqlsdqni aeleegaseh ineeeqskke
+      181 dpidfalwka qkaedeivwd spwgmgrpgw hiecsvmstk ylgdtidihg ggqdlefphh
+      241 eneiaqseak tgkkfvnywm hngfvtvgkk qekmskslhn fvtvhdilkq idpqvlrfym
+      301 ssvqyrrpin ysedglkqae tvlkryqntl rnldarlnde netledsglr ddltqakaef
+      361 ieamdddfnv qnalsimydl attlnnhlkk dqvdkpalkr akklliawle ifgvsfkeeq
+      421 aendteierl iaqrdearkn kdwaesdrlr delqakgivi edtpqgtrwh ra
+//
+
+

@@ -1,0 +1,110 @@
+LOCUS       WP_113886680             573 aa            linear   BCT 18-NOV-2018
+DEFINITION  ABC transporter ATP-binding protein [Lactobacillus johnsonii].
+ACCESSION   WP_113886680
+VERSION     WP_113886680.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10125002
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..573
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..573
+                     /product="ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=64118
+     Region          7..224
+                     /region_name="ABC_cobalt_CbiO_domain1"
+                     /note="First domain of the ATP-binding cassette component
+                     of cobalt transport system; cd03225"
+                     /db_xref="CDD:213192"
+     Site            40..47
+                     /site_type="other"
+                     /note="Walker A/P-loop"
+                     /db_xref="CDD:213192"
+     Site            order(43..44,46..48,93,170..171,204)
+                     /site_type="other"
+                     /note="ATP binding site [chemical binding]"
+                     /db_xref="CDD:213192"
+     Site            90..93
+                     /site_type="other"
+                     /note="Q-loop/lid"
+                     /db_xref="CDD:213192"
+     Site            146..155
+                     /site_type="other"
+                     /note="ABC transporter signature motif"
+                     /db_xref="CDD:213192"
+     Site            166..171
+                     /site_type="other"
+                     /note="Walker B"
+                     /db_xref="CDD:213192"
+     Site            174..177
+                     /site_type="other"
+                     /note="D-loop"
+                     /db_xref="CDD:213192"
+     Site            200..206
+                     /site_type="other"
+                     /note="H-loop/switch region"
+                     /db_xref="CDD:213192"
+     Region          237..310
+                     /region_name="DUF3744"
+                     /note="ATP-binding cassette cobalt transporter; pfam12558"
+                     /db_xref="CDD:315271"
+     Region          304..513
+                     /region_name="ABC_cobalt_CbiO_domain1"
+                     /note="First domain of the ATP-binding cassette component
+                     of cobalt transport system; cd03225"
+                     /db_xref="CDD:213192"
+     Site            337..344
+                     /site_type="other"
+                     /note="Walker A/P-loop"
+                     /db_xref="CDD:213192"
+     Site            order(340..341,343..345,384,461..462,494)
+                     /site_type="other"
+                     /note="ATP binding site [chemical binding]"
+                     /db_xref="CDD:213192"
+     Site            381..384
+                     /site_type="other"
+                     /note="Q-loop/lid"
+                     /db_xref="CDD:213192"
+     Site            437..446
+                     /site_type="other"
+                     /note="ABC transporter signature motif"
+                     /db_xref="CDD:213192"
+     Site            457..462
+                     /site_type="other"
+                     /note="Walker B"
+                     /db_xref="CDD:213192"
+     Site            465..468
+                     /site_type="other"
+                     /note="D-loop"
+                     /db_xref="CDD:213192"
+     Site            490..496
+                     /site_type="other"
+                     /note="H-loop/switch region"
+                     /db_xref="CDD:213192"
+ORIGIN      
+        1 mtdpiiefkd fsfkynsqae ptlkninlki nkgekillag psgrgkstig rclnglipni
+       61 dqgevegkcl vngkditnts lfdfsfttst ilqdadsqfi gltvgediaf alendcqpkd
+      121 kmhqtvnqwa delkikellt qspqslsggq kqivalagvl vdespillfd eplanldpas
+      181 glktmaiidk iqkelnatvi iiehrveevl sqpidriilv negtivadqp tnellhshtl
+      241 ekigvreply lkaltaanvn lssikeldki stlpvseqis dklaawtkqt kitkketdnl
+      301 pllkldhvgh qysknqpypl kdisttinqg dfisivgqng agkttlcrti cgfisnegki
+      361 tlkdqnlsdl sikeraekig yvmqdpnqmi sqkmifdeia lglrlrnvde etikqkvnqt
+      421 lkicglypfr hwpisalsfg qkkrvtiaai lvlepeiiil deptagqdwk tyteimsflk
+      481 hlntmgktii iithdmhlml eytsrslaft kgkliadttp ielltnqdli kkaslkrtsl
+      541 ydlakhynlp dpnkfvqayi nfeqqnwkde yye
+//
+
+

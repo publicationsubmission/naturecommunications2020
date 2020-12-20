@@ -1,0 +1,32 @@
+LOCUS       WP_046869905             155 aa            linear   BCT 17-MAY-2015
+DEFINITION  hypothetical protein [Clostridium sporogenes].
+ACCESSION   WP_046869905
+VERSION     WP_046869905.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..155
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..155
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=18399
+     Region          1..>130
+                     /region_name="YwqK"
+                     /note="Antitoxin component YwqK of the YwqJK
+                     toxin-antitoxin module [Defense mechanisms]; COG2849"
+                     /db_xref="CDD:225405"
+ORIGIN      
+        1 meikilakey vlnngvdfen lweeycsdri ldnseeegge pftgltyety pngnlryycy
+       61 ykngfphgdf iqfyddekik smqymqrgrt yglrkiwnnn gvleseanye ygvcltfknw
+      121 neegilieek lkpteddikl rnsqeewykk aigrd
+//
+
+

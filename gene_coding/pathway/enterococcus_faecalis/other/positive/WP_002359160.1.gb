@@ -1,0 +1,98 @@
+LOCUS       WP_002359160             880 aa            linear   BCT 28-NOV-2019
+DEFINITION  valine--tRNA ligase [Enterococcus faecalis].
+ACCESSION   WP_002359160
+VERSION     WP_002359160.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 880)
+  AUTHORS   Fukunaga,R. and Yokoyama,S.
+  TITLE     Structural basis for non-cognate amino acid discrimination by the
+            valyl-tRNA synthetase editing domain
+  JOURNAL   J. Biol. Chem. 280 (33), 29937-29945 (2005)
+   PUBMED   15970591
+REFERENCE   2  (residues 1 to 880)
+  AUTHORS   Tardif,K.D. and Horowitz,J.
+  TITLE     Functional group recognition at the aminoacylation and editing
+            sites of E. coli valyl-tRNA synthetase
+  JOURNAL   RNA 10 (3), 493-503 (2004)
+   PUBMED   14970394
+REFERENCE   3  (residues 1 to 880)
+  AUTHORS   Fukai,S., Nureki,O., Sekine,S., Shimada,A., Vassylyev,D.G. and
+            Yokoyama,S.
+  TITLE     Mechanism of molecular interactions for tRNA(Val) recognition by
+            valyl-tRNA synthetase
+  JOURNAL   RNA 9 (1), 100-111 (2003)
+   PUBMED   12554880
+REFERENCE   4  (residues 1 to 880)
+  AUTHORS   Hountondji,C., Lazennec,C., Beauvallet,C., Dessen,P.,
+            Pernollet,J.C., Plateau,P. and Blanquet,S.
+  TITLE     Crucial role of conserved lysine 277 in the fidelity of tRNA
+            aminoacylation by Escherichia coli valyl-tRNA synthetase
+  JOURNAL   Biochemistry 41 (50), 14856-14865 (2002)
+   PUBMED   12475234
+REFERENCE   5  (residues 1 to 880)
+  AUTHORS   Fukai,S., Nureki,O., Sekine,S., Shimada,A., Tao,J., Vassylyev,D.G.
+            and Yokoyama,S.
+  TITLE     Structural basis for double-sieve discrimination of L-valine from
+            L-isoleucine and L-threonine by the complex of tRNA(Val) and
+            valyl-tRNA synthetase
+  JOURNAL   Cell 103 (5), 793-803 (2000)
+   PUBMED   11114335
+REFERENCE   6  (residues 1 to 880)
+  AUTHORS   Heck,J.D. and Hatfield,G.W.
+  TITLE     Valyl-tRNA synthetase gene of Escherichia coli K12. Primary
+            structure and homology within a family of aminoacyl-TRNA
+            synthetases
+  JOURNAL   J. Biol. Chem. 263 (2), 868-877 (1988)
+   PUBMED   3275660
+REFERENCE   7  (residues 1 to 880)
+  AUTHORS   Hartlein,M., Frank,R. and Madern,D.
+  TITLE     Nucleotide sequence of Escherichia coli valyl-tRNA synthetase gene
+            valS
+  JOURNAL   Nucleic Acids Res. 15 (21), 9081-9082 (1987)
+   PUBMED   3317277
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF004349.1
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05729
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..880
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..880
+                     /product="valine--tRNA ligase"
+                     /EC_number="6.1.1.9"
+                     /calculated_mol_wt=101399
+     Region          3..879
+                     /region_name="valS"
+                     /note="valyl-tRNA synthetase; Reviewed; PRK05729"
+                     /db_xref="CDD:235582"
+ORIGIN      
+        1 mseeknlptk yqpteieagr yqkwldqdlf kpsgdkkakp ysivipppnv tgklhlghaw
+       61 dttlqdmiir qkrmqgfdtl wlpgmdhagi atqakveekl aqqgisrydl grekfvdqvw
+      121 ewkeeyashi reqwakmgls ldysrerftl deglseavrk vfvslyekdl iyrgeyiinw
+      181 dpkaktalsd ievihkdieg afyhmsypls dgsgvveiat trpetmlgdt aiavhpeder
+      241 yqeligktvv lplvdkeipi iaddyvdmef gtgvvkitpa hdpndfevgn rhdlprvnvm
+      301 nedgtmnela gkyegmdrfa arkaivsdlk elgrlikiet mnhsvghser tgvvveprls
+      361 tqwfvkmgpl aekaienqet edavefyppr fnqtflrwme nvhdwvisrq lwwghqipaw
+      421 yhketgemyv gmeapadsen wvqdsdvldt wfssalwpfs tmgwpdease dyqryfptst
+      481 lvtgydiiff wvsrmifqsl eftgerpfqn vlihglirde qgrkmskslg ngidpmdvie
+      541 kygadalrwf lsngsapgqd vrfsyekmda swnfinkiwn asrfvimnve gmtaadidfs
+      601 gektvadrwi ltrlnetvar vtelfdrfef geagrqlynf iwddfcdwyi emskeilyge
+      661 neaakqttrs ilvytldqil rllhpimpfv teeiwekiph qgeslvvaey pvvheefnde
+      721 aaargmevlk evirsvrnir aevntplskp itlliktndt eveefltant sylerfcnpe
+      781 elvisreiea pelamsavlt gaelflplag linieeeiar lekeldkwtk evkrvqgkls
+      841 nerfvsnapd evveaerake kdylekqeav keriaqlrsi
+//
+
+

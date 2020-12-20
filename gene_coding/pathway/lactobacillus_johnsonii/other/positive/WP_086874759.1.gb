@@ -1,0 +1,70 @@
+LOCUS       WP_086874759             654 aa            linear   BCT 27-JUL-2019
+DEFINITION  PTS sugar transporter subunit IIA [Lactobacillus johnsonii].
+ACCESSION   WP_086874759
+VERSION     WP_086874759.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 13241210
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..654
+                     /product="PTS sugar transporter subunit IIA"
+                     /calculated_mol_wt=71708
+     Region          16..470
+                     /region_name="gph"
+                     /note="sugar (Glycoside-Pentoside-Hexuronide) transporter;
+                     TIGR00792"
+                     /db_xref="CDD:273270"
+     Region          490..610
+                     /region_name="PTS_EIIA_1"
+                     /note="phosphoenolpyruvate-dependent sugar
+                     phosphotransferase system, EIIA 1; pfam00358"
+                     /db_xref="CDD:334030"
+     Site            order(508..510,514,537..538,540..541,547..549,555..557,
+                     559,563,565..566,578,610)
+                     /site_type="other"
+                     /note="HPr interaction site"
+                     /db_xref="CDD:238128"
+     Site            order(508,510,514,538,540,544,557,559,563,565..566,568,
+                     610)
+                     /site_type="other"
+                     /note="glycerol kinase (GK) interaction site [polypeptide
+                     binding]"
+                     /db_xref="CDD:238128"
+     Site            order(542,544,559,561)
+                     /site_type="active"
+                     /db_xref="CDD:238128"
+     Site            559
+                     /site_type="phosphorylation"
+                     /note="phosphorylation site [posttranslational
+                     modification]"
+                     /db_xref="CDD:238128"
+ORIGIN      
+        1 mkshgksgkq ilsyasfclg nlghsafygv mstyfvifit ssmfsgmqas iadkliglit
+       61 glmvviriae lvidpilgni vdntktkwgk fkpwilvgtl vsallllvlf tgifglaqks
+      121 wllfavlfil iyigfdifys lsdvsywgmv palsedshar giytslgafs gtigwnglti
+      181 ivvpivtsvt ymvtgkheeg aagwlafaav isalaivcal ivcfgtkekh niirnsakqk
+      241 tslkqvfgai fhndqilwps layllyslay iitngvlfym ykfvigkpne fwvvgviati
+      301 igfcispsfp ilnkyiprkw lfvagqtcmv layvlfifgr nnvilmdlgl vllninfaql
+      361 vtvltltdai eygqlkngqr neavvlavrp midkftgavs nalvsyvaia agmtgtataa
+      421 dmtahdintf niialyipli lavlsiivfl tkvtlsekkh aavveelkdk laegkiendk
+      481 eepdasvtne ivyapadgkl mnlseviden nkpfpgkgfa ikpsrgriya pfngkikftf
+      541 vtkhafeivs deglqvvvhv glgtvnlrgk gfktyyddgq nvrkgdllle fdrdlaleng
+      601 yqdtvivfyt qprkivkise vetgktvkhg eevvsvefre alknsektmg lqae
+//
+
+

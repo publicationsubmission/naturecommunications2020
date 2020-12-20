@@ -1,0 +1,36 @@
+LOCUS       WP_003492644             125 aa            linear   BCT 10-APR-2019
+DEFINITION  MULTISPECIES: L,D-transpeptidase [Clostridium].
+ACCESSION   WP_003492644
+VERSION     WP_003492644.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 13014342
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..125
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..125
+                     /product="L,D-transpeptidase"
+                     /calculated_mol_wt=13838
+     Region          16..124
+                     /region_name="YkuD"
+                     /note="L,D-transpeptidase catalytic domain; pfam03734"
+                     /db_xref="CDD:309016"
+ORIGIN      
+        1 mfyylypyte fyraiyrivi ntkahtltlf rnnnvyktyk vavgkpstpt pkgtfkiinr
+       61 avnpggpfga rwlglnipyg dygihgtnnp ssigksvsng cirmfnnqvi elsnlvpigt
+      121 tvtiv
+//
+
+

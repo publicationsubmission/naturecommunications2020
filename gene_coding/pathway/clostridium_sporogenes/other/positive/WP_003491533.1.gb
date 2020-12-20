@@ -1,0 +1,41 @@
+LOCUS       WP_003491533             371 aa            linear   BCT 13-MAY-2017
+DEFINITION  MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Clostridium].
+ACCESSION   WP_003491533
+VERSION     WP_003491533.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11428914
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..371
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..371
+                     /product="NAD(P)/FAD-dependent oxidoreductase"
+                     /calculated_mol_wt=42685
+     Region          1..367
+                     /region_name="FixC"
+                     /note="Dehydrogenase (flavoprotein) [Energy production and
+                     conversion]; COG0644"
+                     /db_xref="CDD:223717"
+ORIGIN      
+        1 meiaimgagi sglscaitle qygitptife krnrvgdrfi ngeamfniln kpvkdsihyi
+       61 aenyhinlkp idqvnklyvh sknelgtvdg eigytnirgr hknsyesqle kqvkcdinfn
+      121 snyeyedlck efdyvvlatg dgeysshlgn yrcdltctik gvtvegkfvt ssphvwfnyd
+      181 ilpmgyawli pfsekeanlv iaypdypsni kldinymwek fynlacenld qnfnitdefe
+      241 itrymmgicn kpkidntyfv gncfgtispg lgfgqfnsil tgiysaydic gvvnyekltk
+      301 nlfknynhsl ifrrfmenlt ddqldfhvkn ldnkiidtvf dklcgnksnv dilklstpim
+      361 rlwnnykefk n
+//
+
+

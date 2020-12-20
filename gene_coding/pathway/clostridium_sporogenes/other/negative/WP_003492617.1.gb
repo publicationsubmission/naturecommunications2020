@@ -1,0 +1,43 @@
+LOCUS       WP_003492617             341 aa            linear   BCT 01-JUN-2019
+DEFINITION  MULTISPECIES: branched-chain amino acid aminotransferase
+            [Clostridium].
+ACCESSION   WP_003492617
+VERSION     WP_003492617.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF009897.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK13357
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..341
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..341
+                     /product="branched-chain amino acid aminotransferase"
+                     /EC_number="2.6.1.42"
+                     /calculated_mol_wt=38057
+     Region          1..341
+                     /region_name="PRK13357"
+                     /note="branched-chain amino acid aminotransferase;
+                     Provisional"
+                     /db_xref="CDD:237363"
+ORIGIN      
+        1 mnkevnidwk slgfdyiktd fryiskwkdg kwdegqlved nmisinesst alhygqqcfe
+       61 glkayrtkdn kiqlfrpdrn aermqdsckr ilmpevptek fidacikvvk anehyvppyg
+      121 sgatlylrpf vigvgdnigv kpaqeyifsv fcipvgpyfk ggmvpvnfti adydraapyg
+      181 tgavkvggny agslyphela vkkgfadciy ldpathtkie evgaanffgi tkdnkfitpk
+      241 spsilpsitk ysllhiakey lkmeveerdv lidnldefke agacgtaavi tpiggieykg
+      301 klhvfhsete vgpitkklyd tlygiqfgev eapqgwivev k
+//
+
+

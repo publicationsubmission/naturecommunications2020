@@ -1,0 +1,50 @@
+LOCUS       WP_003494665             405 aa            linear   BCT 31-MAY-2019
+DEFINITION  MULTISPECIES: YgeY family selenium metabolism-linked hydrolase
+            [Clostridium].
+ACCESSION   WP_003494665
+VERSION     WP_003494665.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 405)
+  AUTHORS   Haft,D.H., Paulsen,I.T., Ward,N. and Selengut,J.D.
+  TITLE     Exopolysaccharide-associated protein sorting in environmental
+            organisms: the PEP-CTERM/EpsH system. Application of a novel
+            phylogenetic profiling heuristic
+  JOURNAL   BMC Biol. 4, 29 (2006)
+   PUBMED   16930487
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR03526.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR03526
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..405
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..405
+                     /product="YgeY family selenium metabolism-linked
+                     hydrolase"
+                     /calculated_mol_wt=45601
+     Region          6..400
+                     /region_name="selenium_YgeY"
+                     /note="putative selenium metabolism hydrolase; TIGR03526"
+                     /db_xref="CDD:132565"
+ORIGIN      
+        1 metikkeeil klaekykeem skflrdmari psescdekdv vlrikeemek vgfdkveidp
+       61 mgnvlgfigh gkhviamdah idtvgigdkn lwnydpyegy eddeiiigrg vtdqeggmas
+      121 mvyagkiike lgleddytli vtgtvqeedc dglcwqyivn edkikpefvv iteptslniy
+      181 rghrgrmeik vtthgvschg sapergdnai fkmapilnel kalnenlkyd eflgkgtltv
+      241 seiffsspsr cavadgctis vdrrltdget weyaiqqikn lpsvkaange vemysyerps
+      301 ytglvyptec ffptwvlked hpicetavkc ykdlfksepk vdkwtfstna vsimgrygip
+      361 cigfgpghed qahapnertw keelvksaam yalipityvk efank
+//
+
+

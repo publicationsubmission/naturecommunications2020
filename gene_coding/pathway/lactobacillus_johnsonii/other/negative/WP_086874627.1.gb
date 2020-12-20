@@ -1,0 +1,36 @@
+LOCUS       WP_086874627             231 aa            linear   BCT 11-JAN-2018
+DEFINITION  NAD-dependent protein deacetylase [Lactobacillus johnsonii].
+ACCESSION   WP_086874627
+VERSION     WP_086874627.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..231
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..231
+                     /product="NAD-dependent protein deacetylase"
+                     /calculated_mol_wt=25440
+     Region          18..220
+                     /region_name="SIR2"
+                     /note="SIR2 superfamily of proteins includes silent
+                     information regulator 2 (Sir2) enzymes which catalyze
+                     NAD+-dependent protein/histone deacetylation, where the
+                     acetyl group from the lysine epsilon-amino group is
+                     transferred to the ADP-ribose moiety of NAD+; cl00195"
+                     /db_xref="CDD:320810"
+ORIGIN      
+        1 mnnilklkem llashftvai tgagisnncg iadmekmnvl naietslapl vqmhpehsyn
+       61 llrksflkgi fekgpslthr kistlekdgl iqgtittnid hlhslagstq vaeiqgsyai
+      121 nkcsqcghhn dnieiwnngh ahrcskcngl mlsfpvyshv gvyekamtqa kqwmtkaelv
+      181 livgskgnys yylnnlspst siiqinpqvt qfdniatlni kdeadnvfkk l
+//
+
+

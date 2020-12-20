@@ -1,0 +1,32 @@
+LOCUS       WP_079996726              69 aa            linear   BCT 22-MAR-2017
+DEFINITION  hypothetical protein [Enterococcus faecalis].
+ACCESSION   WP_079996726
+VERSION     WP_079996726.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..69
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..69
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=7749
+     Region          <2..>40
+                     /region_name="RadC"
+                     /note="DNA repair protein RadC, contains a
+                     helix-hairpin-helix DNA-binding motif [Replication,
+                     recombination and repair]; cl26989"
+                     /db_xref="CDD:331810"
+ORIGIN      
+        1 mrkrtlfigt lnqsiaylgd ifreairdnv aqiiiahnhp tktsmrfssv lpftpfrvll
+       61 ccislsidk
+//
+
+

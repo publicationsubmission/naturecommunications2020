@@ -1,0 +1,39 @@
+LOCUS       WP_002358659             209 aa            linear   BCT 20-AUG-2016
+DEFINITION  IS6 family transposase [Enterococcus faecalis].
+ACCESSION   WP_002358659
+VERSION     WP_002358659.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF033587.1
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..209
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..209
+                     /product="IS6 family transposase"
+                     /calculated_mol_wt=24810
+     Region          1..200
+                     /region_name="Rve"
+                     /note="Transposase (or an inactivated derivative)
+                     [Mobilome: prophages, transposons]; COG3316"
+                     /db_xref="CDD:225853"
+ORIGIN      
+        1 mnhfkgkqfk kdviivavgy ylrynlsyre vqellydrgi nvchttiyrw vqeyskvlyd
+       61 lwkkknrqsf yswkmdetyi kikgrwhyly raidadgltl diwlrkkrdt qaivtdkaps
+      121 lgsafrklqs vglytktehr tvkylnnlie qdhrpikrrn kfyqslrtas stikgmetir
+      181 giykknrrng tlfgfsvste ikvlmgipa
+//
+
+

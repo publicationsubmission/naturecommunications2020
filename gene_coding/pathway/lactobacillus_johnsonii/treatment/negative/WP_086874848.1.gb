@@ -1,0 +1,49 @@
+LOCUS       WP_086874848             307 aa            linear   BCT 08-OCT-2019
+DEFINITION  tyrosine recombinase XerC [Lactobacillus johnsonii].
+ACCESSION   WP_086874848
+VERSION     WP_086874848.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 307)
+  AUTHORS   Yates,J., Aroyo,M., Sherratt,D.J. and Barre,F.X.
+  TITLE     Species specificity in the activation of Xer recombination at dif
+            by FtsK
+  JOURNAL   Mol. Microbiol. 49 (1), 241-249 (2003)
+   PUBMED   12823825
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02224.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02224
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..307
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..307
+                     /gene="xerC"
+     Protein         1..307
+                     /product="tyrosine recombinase XerC"
+                     /calculated_mol_wt=35577
+     Region          10..303
+                     /region_name="recomb_XerC"
+                     /note="tyrosine recombinase XerC; TIGR02224"
+                     /db_xref="CDD:274042"
+ORIGIN      
+        1 mskendklik qfqdylnyer nyskntvnsy lndlneakef fkenggfsgw dqvksrdvei
+       61 flqdlatqnr srttqarkms slrsfyrflv krevldndpm qtislrlgek klpqffyeke
+      121 mrqvfdslag hdklvvrnra mfelfyatgm rlsemaslkl dqidfdlkii lvhgkgnkdr
+      181 yvpfgkdaas alkeycdesr lallgksedl gyvflnnrgq kltgrgieyi mqqvfikagv
+      241 ggkvhphmlr hsfatemlnn gadlrsvqel lgheslsttq iythvtmkhl qadyqkffpr
+      301 kdkkdea
+//
+
+

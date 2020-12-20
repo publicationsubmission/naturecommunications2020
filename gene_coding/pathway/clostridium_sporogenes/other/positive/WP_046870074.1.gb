@@ -1,0 +1,28 @@
+LOCUS       WP_046870074             229 aa            linear   BCT 17-MAY-2015
+DEFINITION  hypothetical protein [Clostridium sporogenes].
+ACCESSION   WP_046870074
+VERSION     WP_046870074.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..229
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..229
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=26223
+ORIGIN      
+        1 milnkrikre lknnifryga lffmlvlgms mvigtsaatd svintikecn kknniengef
+       61 svfvplsgkd keylkrkgvq ieenfymdfd ldnsstlrvf knrkginlvq lnegklavkd
+      121 neivlekhya knhnysvndi iriadkkyiv tgigtvpdyn lvmanpsdis sniqkfsisf
+      181 vsekayntlk ssgrfkssee ycysyilkge mtdkelkdyl vnmdlirkr
+//
+
+

@@ -1,0 +1,55 @@
+LOCUS       WP_040108460             269 aa            linear   BCT 02-JUN-2019
+DEFINITION  MULTISPECIES: sulfur carrier protein ThiS adenylyltransferase ThiF
+            [Clostridium].
+ACCESSION   WP_040108460
+VERSION     WP_040108460.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF006395.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK08644
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..269
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..269
+                     /gene="thiF"
+     Protein         1..269
+                     /product="sulfur carrier protein ThiS adenylyltransferase
+                     ThiF"
+                     /calculated_mol_wt=29862
+     Region          1..58
+                     /region_name="ThiS-like"
+                     /note="ThiS-like ubiquitin; pfam14453"
+                     /db_xref="CDD:316933"
+     Region          57..269
+                     /region_name="PRK08644"
+                     /note="thiamine biosynthesis protein ThiF; Provisional"
+                     /db_xref="CDD:236320"
+     Site            order(91,93,95,115,117,126,138,180,186)
+                     /site_type="other"
+                     /note="putative ATP binding site [chemical binding]"
+                     /db_xref="CDD:238764"
+     Site            order(95,187,207..208,214)
+                     /site_type="other"
+                     /note="putative substrate interface [chemical binding]"
+                     /db_xref="CDD:238764"
+ORIGIN      
+        1 mnikingkpi ttncstlhdl rkkhygdekn iitifngfqt fddykisend evnfiekgkm
+       61 ppkdefeslm carhtphvfe kvkaskvaia glgglgsnia vnlartgvgh lhlidfdive
+      121 psnlnrqqyk ikhlglykte alkneieein pfikvtidtv kvtekniqsl fknediicea
+      181 fdnptakaml vntlleyypl kkivsasgma gyessntivt kkitdnfylc gdratgamvg
+      241 rglmaprvsi caghqsnmvl rlilgikev
+//
+
+

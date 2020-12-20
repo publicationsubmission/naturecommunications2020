@@ -1,0 +1,53 @@
+LOCUS       WP_086874672             641 aa            linear   BCT 09-APR-2019
+DEFINITION  ABC-F family ATP-binding cassette domain-containing protein
+            [Lactobacillus johnsonii].
+ACCESSION   WP_086874672
+VERSION     WP_086874672.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11422934
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..641
+                     /product="ABC-F family ATP-binding cassette
+                     domain-containing protein"
+                     /calculated_mol_wt=72858
+     Region          1..532
+                     /region_name="Uup"
+                     /note="ATPase components of ABC transporters with
+                     duplicated ATPase domains [General function prediction
+                     only]; COG0488"
+                     /db_xref="CDD:223562"
+     Region          556..631
+                     /region_name="ABC_tran_CTD"
+                     /note="ABC transporter C-terminal domain; pfam16326"
+                     /db_xref="CDD:318533"
+ORIGIN      
+        1 miiaqaqdle qrfggntifs nisfsvpdna riglvgpnga gkttllkimt gqqepttgqf
+       61 tinkglkvgy iaqenalded ktiwdemltv fnnlieknkr itkmqeqiad hpededllkr
+      121 ydqlaydfeq eggftyqaei ksilngfnfk entwqkvirt lsggektrla fvklllqkpp
+      181 vllldeptny ldldtldwle aflknyqgai itvshdqyfl dhlanqifel nfgklttfkg
+      241 nysqyvkere lmnnqqeaay ekqqekikke eefiqknlvr asttkraqsr rkaldkmgri
+      301 kppkhkqkvr inftsdrpsg kevliakdlt igypdktmvs didfqvnknd rvaiigpngi
+      361 gkstllktim kklepkdgsi kygasldigy ydqelqsldp sktvldtiwd rhktmpekdv
+      421 rsilasflft aedidktvgq lsggqkarlt ltvlslekdn fllmdeptnh ldieakevle
+      481 qaldnydgtl lfvshdryfi nelankiisv rdghakiyng nysyyldeka kqaaavqeak
+      541 aeqtenttsa nqnkgklsyq eqkardsqkr kleravsdae ariekleaee qeiqtemanp
+      601 diaasfeklg plqeklsavq eqldqantdw enalealdef e
+//
+
+

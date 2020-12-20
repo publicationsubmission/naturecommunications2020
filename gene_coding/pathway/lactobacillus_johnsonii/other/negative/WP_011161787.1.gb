@@ -1,0 +1,48 @@
+LOCUS       WP_011161787             189 aa            linear   BCT 16-MAY-2018
+DEFINITION  GNAT family N-acetyltransferase [Lactobacillus johnsonii].
+ACCESSION   WP_011161787
+VERSION     WP_011161787.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11418962
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..189
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..189
+                     /product="GNAT family N-acetyltransferase"
+                     /calculated_mol_wt=21738
+     Region          16..172
+                     /region_name="RimI"
+                     /note="Ribosomal protein S18 acetylase RimI and related
+                     acetyltransferases [Translation, ribosomal structure and
+                     biogenesis]; COG0456"
+                     /db_xref="CDD:223532"
+     Region          <100..168
+                     /region_name="Acetyltransf_1"
+                     /note="Acetyltransferase (GNAT) family; pfam00583"
+                     /db_xref="CDD:334159"
+     Site            order(117..119,129..130)
+                     /site_type="other"
+                     /note="Coenzyme A binding pocket [chemical binding]"
+                     /db_xref="CDD:173926"
+ORIGIN      
+        1 mirkakltdf plvypilkqi fdemdmdtik alpesqfydl mkhgfysphy ryshnrmwve
+       61 tddldrpigl ivmygyddqg lidislksay pkvglpldav ifsdkealph ewyldaiavs
+      121 pkhwgkgigq klikiapgia rqngykkisl nvdqdnpraa rlydymgfkt tstmtigdrm
+      181 ydhmikkvn
+//
+
+

@@ -1,0 +1,35 @@
+LOCUS       WP_046869739             387 aa            linear   BCT 17-MAY-2015
+DEFINITION  hypothetical protein [Clostridium sporogenes].
+ACCESSION   WP_046869739
+VERSION     WP_046869739.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..387
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=44698
+     Region          2..373
+                     /region_name="Wzy_C"
+                     /note="O-Antigen ligase; cl04850"
+                     /db_xref="CDD:322840"
+ORIGIN      
+        1 mnlsvspgqt irmtifviif yfyikqrkgn iilaiilfsl fliqeylysc idfinfkddv
+       61 lfvsklyfnl flmlllkqyy ykkdtdenki ingiiigaii igltiivtkf lnigvssygd
+      121 tgykgifigl nditavlvma tpfvlykliy sykkikygic fliilgaavl lgtktaiigi
+      181 illtfyytlf gikgknkykk yiftllfmmi ivyvfyvyff dvykltilrr heyfysnldf
+      241 isyllsgrnq llnigyeywk nkwyhmtlgv gftrgstwis sfilghgmie mdildilyfy
+      301 gfivlgiyiy nllpvflksi lksvteksml kksffisfli gsvvsflggh vllsplagvy
+      361 fcivfaysnn yiksatkstv hktnrni
+//
+
+

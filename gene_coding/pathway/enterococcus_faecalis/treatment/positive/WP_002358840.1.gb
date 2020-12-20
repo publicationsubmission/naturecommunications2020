@@ -1,0 +1,53 @@
+LOCUS       WP_002358840             290 aa            linear   BCT 27-AUG-2016
+DEFINITION  VOC family protein [Enterococcus faecalis].
+ACCESSION   WP_002358840
+VERSION     WP_002358840.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11164829
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..290
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..290
+                     /product="VOC family protein"
+                     /calculated_mol_wt=33229
+     Region          2..127
+                     /region_name="3-dmu-9_3-mt"
+                     /note="3-demethylubiquinone-9 3-methyltransferase;
+                     pfam06983"
+                     /db_xref="CDD:284416"
+     Site            order(4..9,25,57..58,61,75..80,82,86,115,125)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:319899"
+     Region          135..245
+                     /region_name="PhnB_like"
+                     /note="Escherichia coli PhnB and similar proteins;
+                     cd06588"
+                     /db_xref="CDD:319899"
+     Site            order(135..140,160,185..186,189,205..210,212,216,235,245)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:319899"
+ORIGIN      
+        1 mpkfspclwf ntqaeeatnf yttifekgai lsktnyvnee hqpqgtslmt ieftlanqti
+       61 iglnggpefs ftpassffve cttlpqtetl wknltadgqi lmpfgeypfs plygwvvdkf
+      121 gvswqvsfsg keqtivptfm fanekygeaa kalsewlaif gpgeiiekve yedgniaqal
+      181 ftlqeqpfrv mdardkhdfd ftmafsiyid cenqeeidrl wqqvtakgke wpcgwmedqf
+      241 gvswqtgnpe lkrylsdsnp aranevtkkl yqmkkidlnq lkevydkynh
+//
+
+

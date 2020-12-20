@@ -1,0 +1,52 @@
+LOCUS       WP_046869992             216 aa            linear   BCT 19-JUN-2019
+DEFINITION  stage II sporulation protein R [Clostridium sporogenes].
+ACCESSION   WP_046869992
+VERSION     WP_046869992.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+REFERENCE   1  (residues 1 to 216)
+  AUTHORS   Wu,M., Ren,Q., Durkin,A.S., Daugherty,S.C., Brinkac,L.M.,
+            Dodson,R.J., Madupu,R., Sullivan,S.A., Kolonay,J.F., Haft,D.H.,
+            Nelson,W.C., Tallon,L.J., Jones,K.M., Ulrich,L.E., Gonzalez,J.M.,
+            Zhulin,I.B., Robb,F.T. and Eisen,J.A.
+  TITLE     Life in hot carbon monoxide: the complete genome sequence of
+            Carboxydothermus hydrogenoformans Z-2901
+  JOURNAL   PLoS Genet. 1 (5), e65 (2005)
+   PUBMED   16311624
+  REMARK    Erratum:[PLoS Genet. 2006 Apr;2(4):e60. Haft, Daniel H [added]]
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02837.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02837
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..216
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     gene            1..216
+                     /gene="spoIIR"
+     Protein         1..216
+                     /product="stage II sporulation protein R"
+                     /calculated_mol_wt=25103
+     Region          40..164
+                     /region_name="Spore_II_R"
+                     /note="Stage II sporulation protein R (spore_II_R);
+                     pfam09551"
+                     /db_xref="CDD:312902"
+ORIGIN      
+        1 mkrilvfmls iiviffigfn ffnlvygsts seqknisnki irfhvlansd siedqslklk
+       61 vkdeiikymm pkldksnsid esrkilkend keikkiaeni inkngykysv ntylgqeqfp
+      121 iktygnitlp qgqyeaykii igngqgqnww cvmfpplcfv dvtkgevstk eteqkmkkvl
+      181 keeelrsinn sknsyeikfk vveeinkikk ikktly
+//
+
+

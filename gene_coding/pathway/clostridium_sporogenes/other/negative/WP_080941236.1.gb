@@ -1,0 +1,39 @@
+LOCUS       WP_080941236             239 aa            linear   BCT 03-APR-2017
+DEFINITION  ZIP family metal transporter [Clostridium sporogenes].
+ACCESSION   WP_080941236
+VERSION     WP_080941236.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10001406
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..239
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..239
+                     /product="ZIP family metal transporter"
+                     /calculated_mol_wt=25814
+     Region          1..239
+                     /region_name="ZupT"
+                     /note="Zinc transporter ZupT [Inorganic ion transport and
+                     metabolism]; COG0428"
+                     /db_xref="CDD:223505"
+ORIGIN      
+        1 mskllfiivm gtiislsgtm igaiigislk npsekllskf mgfsaglmls ivifdlipea
+       61 lntwdcfgvl iflvlgiliv yfidkntnsv dinmhkkvaf mtalglilhn fpegilmgvg
+      121 fqagnrlglk maliisihdi pegiavatpl iasnekkskt lfyvfltaip tlfgvflgsy
+      181 ianisknfls illslasgim iyvvcaemip esrnlgdkvt syfymivgii agliiikll
+//
+
+

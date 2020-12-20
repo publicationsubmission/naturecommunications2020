@@ -1,0 +1,48 @@
+LOCUS       WP_002359274             720 aa            linear   BCT 30-SEP-2019
+DEFINITION  DEAD/DEAH box helicase [Enterococcus faecalis].
+ACCESSION   WP_002359274
+VERSION     WP_002359274.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012492.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00270.27
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..720
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..720
+                     /product="DEAD/DEAH box helicase"
+                     /calculated_mol_wt=83806
+     Region          99..>445
+                     /region_name="BRR2"
+                     /note="Replicative superfamily II helicase [Replication,
+                     recombination and repair]; cl28231"
+                     /db_xref="CDD:333051"
+ORIGIN      
+        1 mdwnkvdiys vkelsfedsf slakftsnls lsnkkdiark iiihileiwe nidsstkeiw
+       61 mdivesagfy pylisnstmd ttseirkafh ssnyldnvvf hkeqkylstl iekkenivvs
+      121 aptsfgksll iqeivasrkf kniliiqptl alinetrikl kpyqeynyni vvntsqkmee
+      181 knifiltaer ileypnfpiv dycildefyk vsssrdders dvlnialkki ldnnktifyf
+      241 lgpnideisq gfenhynakf iktdytlvdt kveminidfq tdkprsmeke rklklfkmls
+      301 ekekeqsivy lsspdralkv akeyleylst nnllakeqql pinewiqeni nsnwsfnkli
+      361 qqkigvhsgt ipkhlthsii dyfnkgllqv lfctstiieg vntsaknvfi fdekkgpnri
+      421 dyfdfsnirg ragrllehft gyvyvfhpip ekekmeldip ffdqekisde ilinfekkev
+      481 ksehisrfee lmnydddllk vikknavsvs gqkkiienik itlkekpelv lwsgipkyea
+      541 layilnicwd nllkdtettr pmtrnklpvv aynsliskst seslnnefky lkdnnpkwtn
+      601 qrvldqavtn yfreqrhwis ykvpkwigvv dslqkevckq mgvinvgdyt yaasqleneg
+      661 mnstlsilld mgipssaink lkyavdgitd frdlvkhvkr iadsnqysli eyeknkiydl
+//
+
+

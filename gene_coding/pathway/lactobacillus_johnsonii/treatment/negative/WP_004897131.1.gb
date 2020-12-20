@@ -1,0 +1,53 @@
+LOCUS       WP_004897131             880 aa            linear   BCT 18-JUN-2019
+DEFINITION  translation initiation factor IF-2 [Lactobacillus johnsonii].
+ACCESSION   WP_004897131
+VERSION     WP_004897131.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF003689.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05306
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..880
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..880
+                     /gene="infB"
+     Protein         1..880
+                     /product="translation initiation factor IF-2"
+                     /calculated_mol_wt=98532
+     Region          1..880
+                     /region_name="infB"
+                     /note="translation initiation factor IF-2; Validated;
+                     PRK05306"
+                     /db_xref="CDD:235401"
+ORIGIN      
+        1 makkriyeva keldienkiv vkkaqdlgfd vkshmssldd kqvsklvdsl kstnttpste
+       61 kdsknssrke kakikvsvga irrrdnkneh dnrhgnnkhr nnnfkkqqnn rrenedkktt
+      121 sakpaardll nkfkkkqrae aselnaqtea srrkwhqeqn pqrskvkkve ntrkpkeekl
+      181 egaaavkarv qasqkpvgpk iikpsparnk akrptvkkve piapvvpapq keetkptrkk
+      241 dftrkkrevp dyerersehs dkarrrrnkk nkrinqskev kkqptqrker plpetlvyee
+      301 gmnaqdlgkl lhrepaeivk klfmlgvmtn qnqsldkdti ellaaeygie aeekvhedis
+      361 didtlytkem eeskaskhqe krppvvtimg hvdhgkttll drlrhtnvse heaggitqri
+      421 gayqvriddr litfldtpgh aafsnmrarg aeitdivilv vaaddgvmpq tieaidhaks
+      481 agvpiivavn kidkpganpd hvmeqlmkyg lvpedwggdt ifvkisaktg knveellqmi
+      541 llqadvmelk adpdqkaigt viearldkgr gsvadilvqq gtlkvgdpiv vgdtfgrvrv
+      601 mtndkgrrvk katpstpvei tglndvpeaa dklvvfddek tarsvgeqra knalekqren
+      661 vqhvtldnlf dtmkkenmke vdivlkadvq gsaealqqsl ekievegvrv niihsgvgai
+      721 nesdvtlaga snafivgfnv rptntaksqa dsegvdirly niiykvmddv eaamkgmlep
+      781 tyeekvtgnl tvretwkvsk igtiagafvd ngyvtrdsgi rvirdgivky dgkvaslkrf
+      841 kddvkevkqg fdcgitienf ndikvddqle ayemqevpvk
+//
+
+

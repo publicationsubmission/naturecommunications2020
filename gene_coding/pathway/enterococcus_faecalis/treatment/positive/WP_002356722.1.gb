@@ -1,0 +1,29 @@
+LOCUS       WP_002356722             110 aa            linear   BCT 25-AUG-2017
+DEFINITION  MULTISPECIES: PadR family transcriptional regulator [Bacilli].
+ACCESSION   WP_002356722
+VERSION     WP_002356722.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..110
+                     /product="PadR family transcriptional regulator"
+                     /calculated_mol_wt=12571
+     Region          12..95
+                     /region_name="HTH"
+                     /note="Helix-turn-helix domains; cl21459"
+                     /db_xref="CDD:354815"
+ORIGIN      
+        1 migsdairgy ndtfilsilq sgasygyais krireiskeq ysikettlys aftrlekngy
+       61 iesfpgevth gkkrtyyqit hageryleek llewevtkdv veafvkemgk
+//
+
+

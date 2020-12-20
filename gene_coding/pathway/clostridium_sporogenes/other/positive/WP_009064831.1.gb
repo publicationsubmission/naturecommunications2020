@@ -1,0 +1,39 @@
+LOCUS       WP_009064831             198 aa            linear   BCT 12-JUL-2017
+DEFINITION  MULTISPECIES: TetR/AcrR family transcriptional regulator
+            [Bacteria].
+ACCESSION   WP_009064831
+VERSION     WP_009064831.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (eubacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11442015
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     Protein         1..198
+                     /product="TetR/AcrR family transcriptional regulator"
+                     /calculated_mol_wt=22841
+     Region          4..>143
+                     /region_name="AcrR"
+                     /note="DNA-binding transcriptional regulator, AcrR family
+                     [Transcription]; COG1309"
+                     /db_xref="CDD:224228"
+ORIGIN      
+        1 mndvrepiqk rsietkkkil dagfalfcek gyyktntiei akragistga lysyfkdkkq
+       61 iyiaafhdyl enisghllek lslqqpfsla sfvenwicyy idlyadtsha laqlrmmise
+      121 dtdinrhfsn feneyflkik ellnkngitq ddlfekvytc cilidalrqe ksafshngld
+      181 fnifkdqvtk tvivllss
+//
+
+

@@ -1,0 +1,42 @@
+LOCUS       WP_003495114             275 aa            linear   BCT 27-OCT-2016
+DEFINITION  MULTISPECIES: SGNH/GDSL hydrolase family protein [Clostridium].
+ACCESSION   WP_003495114
+VERSION     WP_003495114.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10083122
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..275
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..275
+                     /product="SGNH/GDSL hydrolase family protein"
+                     /calculated_mol_wt=32506
+     Region          <129..251
+                     /region_name="SGNH_hydrolase"
+                     /note="SGNH_hydrolase, or GDSL_hydrolase, is a diverse
+                     family of lipases and esterases. The tertiary fold of the
+                     enzyme is substantially different from that of the
+                     alpha/beta hydrolase family and unique among all known
+                     hydrolases; its active site closely...; cd00229"
+                     /db_xref="CDD:238141"
+ORIGIN      
+        1 mkdrkyniti ffliiifial ivvgtmrdkk nyaskkvnkf vqtinknkes fkkddketnk
+       61 dnkeqenlsl yekinkkkei tmlsigddma nsmsveekdk whrnikkyie dtykikvdtk
+      121 viwkekskid ealdnykkve tktydlifit lgeynigyep teklaskyee lireiiknnp
+      181 ksdlylivqs sirldknype aiikianhyn lnivdmrkaf knsnenyitl ttdgilpnkk
+      241 gynlytkeii kslekniksq kvikyeekqv lyktk
+//
+
+

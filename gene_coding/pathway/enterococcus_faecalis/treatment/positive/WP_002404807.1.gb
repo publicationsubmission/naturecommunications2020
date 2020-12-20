@@ -1,0 +1,52 @@
+LOCUS       WP_002404807             526 aa            linear   BCT 10-OCT-2019
+DEFINITION  DUF3991 domain-containing protein [Enterococcus faecalis].
+ACCESSION   WP_002404807
+VERSION     WP_002404807.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024553.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13154.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..526
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..526
+                     /product="DUF3991 domain-containing protein"
+                     /calculated_mol_wt=61202
+     Region          125..205
+                     /region_name="DUF3991"
+                     /note="Protein of unknown function (DUF3991); pfam13154"
+                     /db_xref="CDD:315748"
+     Region          209..>282
+                     /region_name="TOPRIM"
+                     /note="Topoisomerase-primase domain. This is a nucleotidyl
+                     transferase/hydrolase domain found in type IA, type IIA
+                     and type IIB topoisomerases, bacterial DnaG-type primases,
+                     small primase-like proteins from bacteria and archaea, OLD
+                     family nucleases from...; cl00718"
+                     /db_xref="CDD:321128"
+ORIGIN      
+        1 mnkedyqklm eqakkvtits vmdeqgmdyi dmrnfaqsve hdslmidkrk nrfywnsqie
+       61 dgkvvsgdti dfvkrffnks hmealtylae eeheklttqe kmaktkepfq yyfqhantfq
+      121 earnylvner kispvlvdtl hkkgfiqqdk ynqcvfvwsd tgkavgasii gseynpekyg
+      181 krgrfkgiar nsesnfgfnv tlgtpnrlyv fespvdllsy wtmnpqlknc mlaemeglke
+      241 qsvykfmnnm ivskgatpye giylgidndp agqrffdnls klsytdkegr dvefkrcvah
+      301 dldipkanip iyseaanqyq vdwrmiaath kaltnfspeg ktanawdiqe ffsgedfdlt
+      361 lesqrvaqkl seielapqqy diprlfqvqe gldpiklrgl hrkvstyyed yqnlgyrptd
+      421 alvkdwndal qyqvftlqea rlleavyqrn neeemkiikd eqtkkykals lsqrqfepff
+      481 eadspgeaam lvknygfqav dkedrqkyqt krspeskket awamsr
+//
+
+

@@ -1,0 +1,43 @@
+LOCUS       WP_002363430             502 aa            linear   BCT 02-DEC-2018
+DEFINITION  MULTISPECIES: HAMP domain-containing histidine kinase [Bacilli].
+ACCESSION   WP_002363430
+VERSION     WP_002363430.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11428264
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..502
+                     /product="HAMP domain-containing histidine kinase"
+                     /calculated_mol_wt=58177
+     Region          183..498
+                     /region_name="BaeS"
+                     /note="Signal transduction histidine kinase [Signal
+                     transduction mechanisms]; COG0642"
+                     /db_xref="CDD:223715"
+ORIGIN      
+        1 mkrtikkele gpsltikwaf assffifvvf tifavityks svslivakek enveatiaev
+       61 tnrlananen ltvtdvfdyl ktpserdeny ynkhtavegs fmemdsfise lgqpelylsv
+      121 ydtnqklvfk tqneydkllq ldrqlpvvrt vfdktgfysv epifsketre kigyiqafye
+      181 lssfyeirnh llltlvvlev islivssvlg filssyflkp lkvlrdtmdt irkdpqsdvh
+      241 mpeintrdel adiseifnem ldrmrryieq qeqfvedvsh elrtpvaime ghlnllnrwg
+      301 kddpeildes lkaslqeisr mkslvqemld lsraeqvdtq yanertdakq vvyqvfnnfq
+      361 lvypefhitl dddlptevel kiyrnhfeql liilldnaik ystdrkevhi sisrtmnefe
+      421 iavqdfgegi teedlekifd rfyrvdkara rnkggnglgl siakqlveny kgridaesvl
+      481 hqgtifrifi piagikeesn vq
+//
+
+

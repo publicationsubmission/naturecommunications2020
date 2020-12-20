@@ -1,0 +1,43 @@
+LOCUS       WP_086874894             374 aa            linear   BCT 11-JAN-2018
+DEFINITION  class I SAM-dependent RNA methyltransferase [Lactobacillus
+            johnsonii].
+ACCESSION   WP_086874894
+VERSION     WP_086874894.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11414754
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..374
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..374
+                     /product="class I SAM-dependent RNA methyltransferase"
+                     /calculated_mol_wt=42602
+     Region          2..370
+                     /region_name="RlmL"
+                     /note="23S rRNA G2445 N2-methylase RlmL [Translation,
+                     ribosomal structure and biogenesis]; COG0116"
+                     /db_xref="CDD:223194"
+ORIGIN      
+        1 mkeytlyatm gagfesvvak elnnlgyett tengrvffkg tqkdivrtnl wlrsadrvki
+       61 llkefkatsf dqlydevysy dwaellpvda qfpvkgrsvr sklhsepdvq sivkkaivdk
+      121 ltdqyrrrgf lpesgaeypl dihlykdtar lsldttgqsl fkrgyrvehg gaplkenfaa
+      181 glieltpfdg shpfidpmtg sgtiaieaal kaknvapgiw rkfafdnfdw fdkklhpelv
+      241 eeakaqekke hapilandid qsileiskvn ahnagvlqdi kfkqvavkdf stdlengviv
+      301 anppygkrlk dreaaekiye emgqtlrplt sfsqyyltsd pqfekyfgak atkkrkfyng
+      361 nlrtdyyqyw ankr
+//
+
+

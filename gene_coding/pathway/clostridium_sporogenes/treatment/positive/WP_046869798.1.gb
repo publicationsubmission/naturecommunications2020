@@ -1,0 +1,42 @@
+LOCUS       WP_046869798             668 aa            linear   BCT 17-MAY-2015
+DEFINITION  chitinase [Clostridium sporogenes].
+ACCESSION   WP_046869798
+VERSION     WP_046869798.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..668
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..668
+                     /product="chitinase"
+                     /calculated_mol_wt=75173
+     Region          <87..152
+                     /region_name="E_set"
+                     /note="Early set domain associated with the catalytic
+                     domain of sugar utilizing enzymes at either the N or C
+                     terminus; cl28984"
+                     /db_xref="CDD:355860"
+ORIGIN      
+        1 mknlktinka nalalsaail lgvstpacal eknkeernin kvnlksnnss yvlsnsktnp
+       61 kvldrpisvp sdfqlskdnw dgspnytism dmwygangdv wklyengklv hevklvnnsp
+      121 naqhgevkft nksngtykyt aelinaagvt ksknaivhev tkndtpidvp lpesvsgqpa
+      181 vgytvldeda nnfewavfis npnknyiwqg ssfslwgmsf dtdneitsvs nadsfkqngk
+      241 nviinvkqde rllpynttri fvvkgkkrss kaptnfksnl irgdisyptf aslpssftkn
+      301 kpdlnekdli tnkvdyynpk vkvntgnklm ynnpasdtql iipmpkkipv pingvnglri
+      361 wmpskylamg igtgteyfgl npnfmvglsi kenftcglap lesgyteniv tvdgkkwswp
+      421 iqkkhpdgpf qqekgnfnei kkqypdyfpd saehqnyvtl ktgepddpsy ihaamssyms
+      481 ltmtreflya ipnndfsgtl keakdpwaef vlvdnaynrg vygllqrklf tehrdklins
+      541 tdinkefnls gfanhieniq nvikamdset anfydanitw ndmenylkel rlyygrnvpn
+      601 dadwnimkad vkkaydvlsk hwggdhvslr ydfltllrvc ekhlpenkqp apsgaswieq
+      661 vnsannih
+//
+
+

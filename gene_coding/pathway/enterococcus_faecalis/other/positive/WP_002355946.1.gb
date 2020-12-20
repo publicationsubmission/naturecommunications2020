@@ -1,0 +1,57 @@
+LOCUS       WP_002355946            1109 aa            linear   BCT 30-MAY-2019
+DEFINITION  MULTISPECIES: DNA polymerase III subunit alpha [Enterococcus].
+ACCESSION   WP_002355946
+VERSION     WP_002355946.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF004226.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05673
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1109
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     gene            1..1109
+                     /gene="dnaE"
+     Protein         1..1109
+                     /product="DNA polymerase III subunit alpha"
+                     /EC_number="2.7.7.7"
+                     /calculated_mol_wt=126569
+     Region          1..1109
+                     /region_name="DnaE"
+                     /note="DNA polymerase III, alpha subunit [Replication,
+                     recombination and repair]; COG0587"
+                     /db_xref="CDD:223660"
+ORIGIN      
+        1 msfpqlhtvt sysllsstvr irsyvkqaka lgyqtlaitd invlhgavef yeacqeagiq
+       61 piiglrleyt paekeghsel llfaknlkgy qqlmqlsssk mttegpfyla ehqsllsdlf
+      121 avtlsakgev aqtffedeqq avhafqqlas yfdpqslfve hsfsmnqqrn palfsfyqre
+      181 qlpgvalqev rhltreegfa vtvlesiken nqlnitsqtp eieglnylre aettmeqmlq
+      241 iagsevvqnt iqlaencrvd iplhqkllph fpvpdnqtag sylrslclek lpervphlne
+      301 vyqkrlekel tiihnmgfdd yflivwdvmd fchnnqivtg agrgsaagsl vsyvlsitdv
+      361 dpikydllfe rflnperytm pdidldipdn rreevlayvs qkyghyhmaq iatfgtmaak
+      421 mvlrdvarvf glsqseanrw saavpnklki tleeayqesk rmqelvnfsp nnqllyktav
+      481 qleglprhvs thaagvvisd enllnlvplq pgsneilltq ftmndvekig llkmdflglr
+      541 nlsiiddtlt avkrvynrti rlnqipldde ttlalfrkge tsgvfqfesa girnvlrklg
+      601 ptsiediaav nalyrpgpmq nidvfirrkk gleqisypep slapilenty giivyqeqim
+      661 qvaakmagfs lgqadilrra iskkkkdvld eernhfvnga lqqgypqeta nqvydyierf
+      721 anygfnrsha faysfigfqm aylkvhypsa fyvallhsvr hnptkikeyi gearknkqti
+      781 lqpsinqshy sfylnqqqqi lfgfsslkgi rrdfiqniln errengpykt fdefllridr
+      841 kwlkveniep liaigafdei apnrrqlavg lesniqsill sggsmdllet lkpkeeeiad
+      901 ypleerleqe eqylgvylsg hpteefkktr lakqtqlvhe lvenqptkll iyvknirtir
+      961 tkkgeqmafv dgddttgsis ltlfptvfrq lrqsvekgqv yyvegkvers tynqelqilv
+     1021 qriekaqqve tsisdetcfi ritkdveqtd vfqkmkevls rhaghipviv yfektgkkiv
+     1081 lneenwvaht sasqqqlayv lgeqnvifk
+//
+
+

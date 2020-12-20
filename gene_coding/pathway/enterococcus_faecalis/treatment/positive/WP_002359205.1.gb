@@ -1,0 +1,44 @@
+LOCUS       WP_002359205             465 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: oxaloacetate decarboxylase subunit alpha
+            [Enterococcus].
+ACCESSION   WP_002359205
+VERSION     WP_002359205.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF008985.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK12331
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..465
+                     /product="oxaloacetate decarboxylase subunit alpha"
+                     /EC_number="4.1.1.112"
+                     /calculated_mol_wt=51829
+     Region          2..449
+                     /region_name="PRK12331"
+                     /note="oxaloacetate decarboxylase; Provisional"
+                     /db_xref="CDD:183446"
+ORIGIN      
+        1 mskkirftet vlrdgqqsli atrmptsdml piiktmdeag fhalemwgga tfdscvryln
+       61 edpwerlrqi rkevkntklq mllrgqnllg yrhyaddvvr afveksveng idiirifdal
+      121 ndvrnlqtai qttkeagghc qaaisyttse ihtidyfvkl akelsqtgad sicikdmagv
+      181 ltpqtgfelv skmkdaidlp levhthatsg isemtylkva eagadiidta issfaggtsq
+      241 patesvaial edlgfetgln mekvteiady fnpirdrfrs egilnpkvkd tepktliyqv
+      301 pggmlsnlls qlteqglqdk yeevlaevpk vradlgyppl vtplsqmvgt qalmnvisge
+      361 ryslipneik dyvrgeygks papiaeeikq kiigdeevit crpadllkpe lhsleneiqq
+      421 yakseedvll yamfpqqgkd flgrredpfy dvplqkvtvk ldlpe
+//
+
+

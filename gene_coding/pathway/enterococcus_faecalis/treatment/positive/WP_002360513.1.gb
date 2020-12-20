@@ -1,0 +1,51 @@
+LOCUS       WP_002360513             329 aa            linear   BCT 15-JUL-2018
+DEFINITION  ABC transporter substrate-binding protein [Enterococcus faecalis].
+ACCESSION   WP_002360513
+VERSION     WP_002360513.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10156897
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..329
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..329
+                     /product="ABC transporter substrate-binding protein"
+                     /calculated_mol_wt=34918
+     Region          36..317
+                     /region_name="PBP1_ABC_uncharacterized_transporter"
+                     /note="Type I periplasmic ligand-binding domain of
+                     uncharacterized ABC-type transport systems that are
+                     predicted to be involved in the uptake of amino acids,
+                     peptides, or inorganic ions; cd06325"
+                     /db_xref="CDD:107320"
+     Site            order(71,73,217,247)
+                     /site_type="other"
+                     /note="zinc binding site [ion binding]"
+                     /db_xref="CDD:107320"
+     Site            order(103..105,123..125,179,228,253)
+                     /site_type="other"
+                     /note="putative ligand binding site [chemical binding]"
+                     /db_xref="CDD:107320"
+ORIGIN      
+        1 mknkrltfvv sllaiyliga ffvnqkvtns kketvtvgvl qfvshpalde iykgveeglk
+       61 engydkgknl eiifqngqad qsklaimsqq lvqkkadvli giatpaaqal snttqeipii
+      121 lgaitdpvsa glvkdnqkpg gnitgvsdqs plsaqmdllk elipaakkig ilyasseens
+      181 ryqvaeaqka aeakgltvkt yavpssneia qtvqvmtket dviyiptdnt ianamqtvvg
+      241 eanrtktpii psvdtmveqg glatvginqh algvqagkma aevlsgksqp attpiytfnt
+      301 gdtiinekqa qklgitipae lakksklin
+//
+
+

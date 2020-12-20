@@ -1,0 +1,43 @@
+LOCUS       WP_033060697             341 aa            linear   BCT 18-MAR-2018
+DEFINITION  MULTISPECIES: IS6 family transposase [Clostridium].
+ACCESSION   WP_033060697
+VERSION     WP_033060697.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF033587.1
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..341
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..341
+                     /product="IS6 family transposase"
+                     /calculated_mol_wt=39646
+     Region          7..36
+                     /region_name="Zn_Tnp_IS1"
+                     /note="InsA N-terminal domain; pfam03811"
+                     /db_xref="CDD:281762"
+     Region          180..313
+                     /region_name="DDE_Tnp_IS240"
+                     /note="DDE domain; cl26089"
+                     /db_xref="CDD:330910"
+ORIGIN      
+        1 mskaskihcp kchnsnlykf gkdkygnqky qckecrrqfa paaekrqlig yprcplcgkg
+       61 tfihhnysny inyrcndkrc nhsffiakpt ailpssntki dgkldfkgmr fpihiilmal
+      121 dlyflnesst rrisqylfrl fnvkvshvti anwtkkfaay fklksdrllk dvvlsdsdew
+      181 hadetvvfin gkrhylwlvi dsesrliisy hlspyrdakq afslfndakk fgspraivtd
+      241 rlpsynvpik stfedtvhik vqsfrddisn niiesfnktf kswykglrgf nsfdsankli
+      301 smfifhynfl rphyslrdls paevigvtys tkaknnwlla a
+//
+
+

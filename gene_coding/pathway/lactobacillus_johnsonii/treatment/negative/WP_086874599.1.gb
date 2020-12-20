@@ -1,0 +1,44 @@
+LOCUS       WP_086874599             532 aa            linear   BCT 12-JAN-2018
+DEFINITION  APC family permease [Lactobacillus johnsonii].
+ACCESSION   WP_086874599
+VERSION     WP_086874599.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11425014
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..532
+                     /product="APC family permease"
+                     /calculated_mol_wt=59187
+     Region          1..461
+                     /region_name="PotE"
+                     /note="Amino acid transporter [Amino acid transport and
+                     metabolism]; COG0531"
+                     /db_xref="CDD:223605"
+ORIGIN      
+        1 mnkghkislf saimlalnsl igsgwlfgsg saakiagpaa ilswiigavi iiaialtyve
+       61 lgtmfpesgg mskyaqyshg pmlgfiaawa nwislvtlvp meavaavqym sswpwkwanw
+      121 thhfmqdgni ttpglllvfv fmiiftlinf wsikimthft nlisvfkvll ptitiimlfa
+      181 ssfhptnfgh dvktfmpygs raifeaasga giimsydafq tviniggelk nprkniirgv
+      241 lismfataai yillqvafig avdpamlakn swhgidfasp fadiaillgi nwlvillymd
+      301 afvspfgtgv afvatasral aamtytkhlp awlgrlnrry lvprfamiad lilamilvsv
+      361 frnwnllatv itcatliayl tgpvttitlr kiapdlerpy kpnymrwfap ltfvltslai
+      421 ywtmwpttiq vilvilvgip iyfyyevkyq kkdfksqfkh aawllgylvf isimsycgsd
+      481 gfggqnwiky pwdflliaiv slifykvaid tglekvdpaa ikvnekiklk ed
+//
+
+

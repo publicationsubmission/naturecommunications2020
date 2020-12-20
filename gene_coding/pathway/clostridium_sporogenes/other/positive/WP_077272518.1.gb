@@ -1,0 +1,50 @@
+LOCUS       WP_077272518             241 aa            linear   BCT 30-MAY-2019
+DEFINITION  MULTISPECIES: D-proline reductase (dithiol) protein PrdB
+            [Clostridium].
+ACCESSION   WP_077272518
+VERSION     WP_077272518.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 241)
+  AUTHORS   Bouillaut,L., Self,W.T. and Sonenshein,A.L.
+  TITLE     Proline-dependent regulation of Clostridium difficile Stickland
+            metabolism
+  JOURNAL   J. Bacteriol. 195 (4), 844-854 (2013)
+   PUBMED   23222730
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR04483.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR04483
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..241
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..241
+                     /gene="prdB"
+     Protein         1..241
+                     /product="D-proline reductase (dithiol) protein PrdB"
+                     /EC_number="1.21.4.1"
+                     /calculated_mol_wt=25742
+     Region          4..241
+                     /region_name="GRDB"
+                     /note="Glycine/sarcosine/betaine reductase selenoprotein B
+                     (GRDB); cl19416"
+                     /db_xref="CDD:327551"
+ORIGIN      
+        1 msltitkglq seifvpitpd pvwapvtkel kdmtvaiata agvhlkkdkr fnlagdftyr
+       61 lipgdaktad mmvshggydn sdvnkdinam fpidrlrelv dtgfikavap thigfmgggg
+      121 nqqkfreetg pevakilkee gvdavlmtag ugtchrsavl vqraiekagi ptiiiaalpp
+      181 vvrqtgtpra vaprvpmgan agepnnvemq taivkdtleq likipsagki vplpyeyiak
+      241 v
+//
+
+

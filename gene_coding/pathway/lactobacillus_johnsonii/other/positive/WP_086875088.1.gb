@@ -1,0 +1,39 @@
+LOCUS       WP_086875088             237 aa            linear   BCT 12-JAN-2018
+DEFINITION  GntR family transcriptional regulator [Lactobacillus johnsonii].
+ACCESSION   WP_086875088
+VERSION     WP_086875088.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11450764
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..237
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..237
+                     /product="GntR family transcriptional regulator"
+                     /calculated_mol_wt=27406
+     Region          1..234
+                     /region_name="MngR"
+                     /note="DNA-binding transcriptional regulator, GntR family
+                     [Transcription]; COG2188"
+                     /db_xref="CDD:225099"
+ORIGIN      
+        1 mteakykkie ailkqriidq typlnsllpk eielaaefnt srptinhaih nlvqqgfleq
+       61 rkrlgtivkr nkiaqefthv iqsynqemnd kglkartkvi sfdkinptse iqnalnlyps
+      121 dsvfklvrlr yvdttpivkv ttyipaklvp eldkidfsqv slydelrkrn lpvthvtrkl
+      181 evkqasstis ktlkikendp vfyfhsygyt krdqkieysi atyrgdlnsf iidlnln
+//
+
+

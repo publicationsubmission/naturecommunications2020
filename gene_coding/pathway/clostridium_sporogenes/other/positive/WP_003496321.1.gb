@@ -1,0 +1,56 @@
+LOCUS       WP_003496321             467 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: glutamate decarboxylase [Clostridium].
+ACCESSION   WP_003496321
+VERSION     WP_003496321.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01788.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01788
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..467
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..467
+                     /product="glutamate decarboxylase"
+                     /EC_number="4.1.1.15"
+                     /calculated_mol_wt=53559
+     Region          17..448
+                     /region_name="AAT_I"
+                     /note="Aspartate aminotransferase (AAT) superfamily (fold
+                     type I) of pyridoxal phosphate (PLP)-dependent enzymes.
+                     PLP combines with an alpha-amino acid to form a compound
+                     called a Schiff base or aldimine intermediate, which
+                     depending on the reaction, is the...; cl18945"
+                     /db_xref="CDD:327488"
+     Site            order(125..126,129,210,245,248,275,278)
+                     /site_type="other"
+                     /note="pyridoxal 5'-phosphate binding site [chemical
+                     binding]"
+                     /db_xref="CDD:99743"
+     Site            278
+                     /site_type="active"
+                     /note="catalytic residue [active]"
+                     /db_xref="CDD:99743"
+ORIGIN      
+        1 mlyssknkqs ndtyatpifg itkdnysipk ykinensiap niayrmikde lmnegnarln
+       61 latfcqtyme dkatklmaet lqknaidkse ypqtteienr cvniisdlwn vpkdtnflgt
+      121 stvgsseacm lgglsmkfrw rdqaeklgid inkkkpnlii ssgyqvcwek fcvywdiemr
+      181 tvpmdednls lnidkvfdyv deytigiigi lgitytgkfd dikaldeale kynndhdikv
+      241 yihvdaasgg fftpfinpei lwdfrlknvv sinasghkyg lvypgigwvl wkdqkylpkd
+      301 lifevsylgg kmptlainfs rsgsqiigqy ynflrfgfeg ykkihertke vamyiskele
+      361 ntglfsiynd gsnlpivcyk lkeqskvkwn lydladrlam kgwqipaypl penlnhiiiq
+      421 rivcrsdlgy nlaellikdf ktaindlnna hilfhekenq gsygfth
+//
+
+

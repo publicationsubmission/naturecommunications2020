@@ -1,0 +1,46 @@
+LOCUS       WP_002360210             313 aa            linear   BCT 26-SEP-2017
+DEFINITION  NADP-dependent oxidoreductase [Enterococcus faecalis].
+ACCESSION   WP_002360210
+VERSION     WP_002360210.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10143069
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..313
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..313
+                     /product="NADP-dependent oxidoreductase"
+                     /calculated_mol_wt=33940
+     Region          1..309
+                     /region_name="MDR_like_2"
+                     /note="alcohol dehydrogenase and quinone reductase-like
+                     medium chain degydrogenases/reductases; cd05289"
+                     /db_xref="CDD:176191"
+     Site            order(40..42,45,127,131,153..158,177..178,180,194,
+                     213..214,236..237,255..257)
+                     /site_type="other"
+                     /note="putative NAD(P) binding site [chemical binding]"
+                     /db_xref="CDD:176191"
+ORIGIN      
+        1 mkavvinqyg skevleeaev tlpelsehqv lvkeyvtsin pidwklregy lkqmfdwsfp
+       61 iilgwdvagv itevgsqvtd wqvgdkvfar pettrfgtya evtivddhll akipetisfe
+      121 eaaavplagl tawqalfdhg hlkegetvli hagaggvgty aiqlakeaga hvittasakn
+      181 hallkkigad evidyhttnf aevladvdlv fdtmggevqk nsfavlkpnt grlvsivgie
+      241 dkqlaaeknv saesiwlqpn geqlqkiadl maagkvksii gevfpfsrqg iydahalset
+      301 hhavgkivvq mae
+//
+
+

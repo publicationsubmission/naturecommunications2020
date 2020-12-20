@@ -1,0 +1,33 @@
+LOCUS       WP_040109200             560 aa            linear   BCT 18-JUN-2016
+DEFINITION  MULTISPECIES: hypothetical protein [Clostridium].
+ACCESSION   WP_040109200
+VERSION     WP_040109200.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..560
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=65138
+ORIGIN      
+        1 medfkilkfv dkfkfiyekl gvnyasmrti lklkllmdnr rvptiykdre nedkkntfkk
+       61 slllyglmgv flavfifips pmvvkmsini gaimflimst miadfssvll dirdknilnt
+      121 kpldpktina aksthiliyi tsisgaiagp tligglikyk fkffiifffq iilisfftmf
+      181 ftailyyfil kifdgeklkd iinyfqivls ivlalgyqii prvfdftgvn vsfeikwwsy
+      241 lvppvwfgap yslilehntg reyvllsimc vaipiiifgi yykfilpyfe enlqkldssi
+      301 skkgspeevk gvrhkryayi fcrdkienvf frfsrnmist erkfklklyp tlgfavifpf
+      361 imfinsfsky esfsqafnef skgnyyfsiy lsvfmlaani ellsesekyk gawiykvlpi
+      421 dkpgkiqkgv lkgfilryvf pvflsvciif lvicglrilp dtivmllsll ilmvvmesly
+      481 kkelpfykdf qsnggssiit fiissivtvi lfglhkfirg fieynfaiyi ymgiliiini
+      541 ilwksmfnis wnqiqrndvq
+//
+
+

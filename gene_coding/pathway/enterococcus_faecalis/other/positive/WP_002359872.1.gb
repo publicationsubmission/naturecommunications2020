@@ -1,0 +1,81 @@
+LOCUS       WP_002359872            1259 aa            linear   BCT 01-JUN-2019
+DEFINITION  DNRLRE domain-containing protein [Enterococcus faecalis].
+ACCESSION   WP_002359872
+VERSION     WP_002359872.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 1259)
+  AUTHORS   Osumi,N., Kakehashi,Y., Matsumoto,S., Nagaoka,K., Sakai,J.,
+            Miyashita,K., Kimura,M. and Asakawa,S.
+  TITLE     Identification of the gene for disaggregatase from Methanosarcina
+            mazei
+  JOURNAL   Archaea 2 (3), 185-191 (2008)
+   PUBMED   19054745
+REFERENCE   2  (residues 1 to 1259)
+  AUTHORS   Adindla,S., Inampudi,K.K., Guruprasad,K. and Guruprasad,L.
+  TITLE     Identification and analysis of novel tandem repeats in the cell
+            surface proteins of archaeal and bacterial genomes using
+            computational tools
+  JOURNAL   Comp. Funct. Genomics 5 (1), 2-16 (2004)
+   PUBMED   18629042
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF033679.1
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1259
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..1259
+                     /product="DNRLRE domain-containing protein"
+                     /calculated_mol_wt=138280
+     Region          <270..>421
+                     /region_name="Beta_helix"
+                     /note="Right handed beta helix region; cl26242"
+                     /db_xref="CDD:331063"
+     Region          665..729
+                     /region_name="Big_4"
+                     /note="Bacterial Ig-like domain (group 4); pfam07532"
+                     /db_xref="CDD:311468"
+     Region          1003..1061
+                     /region_name="Big_4"
+                     /note="Bacterial Ig-like domain (group 4); pfam07532"
+                     /db_xref="CDD:311468"
+     Region          <1095..1142
+                     /region_name="Big_4"
+                     /note="Bacterial Ig-like domain (group 4); pfam07532"
+                     /db_xref="CDD:311468"
+ORIGIN      
+        1 mrkkayfksv tiflsillvf sqlqlfslpa ygetvsdqpl lfrsvgvaqs gttyyvdgeg
+       61 gnnandgqsp asawrdfekv nqtefqpgdh vllnaqstwn nqllhpkgng taaqkividf
+      121 ydtndkgeti fettrrpiin gggtystgtf kraisgavql vnqeywdisn levtntpeld
+      181 nlegykkpgd aqragilvlg yeqnrtfnsv tirnnyvhdv qteyylnlsg ntatkrlkav
+      241 ggiivlgswf dengnvvtaa ndhrtttgfn diliennviq rvglegirtk adsdtsrgnt
+      301 fyktfsniti rnnylediag dgivlseaks ggvvegnvav rmcnadygtq nyagvwamsv
+      361 ddglfqynev ygikygfnda eaydvdmqsn nviyqynysh hntggflllm sdqknsviry
+      421 nisandgggn rgtgkdnpgg aggynykeqs ifhywvkndg aamptihnnt iyvgdgists
+      481 lfgegnssdn sstvanfynn ilykegtgql kflsnyptng tqpierkmvd npekyfknnv
+      541 iwpkeiatek sgatveklvs sgnifekpql eitdnpekak elaeqefttl kptkdnvvef
+      601 tskerlrqra qmfqlketsp aigkglsevn saaedffgns lknkvldiga qqastieksi
+      661 ryqnqvleis satgvypnlp eqaeltyeev vneevvatgk kefklqweai pqekintagt
+      721 vevaatvigl pidavkvtak vsfegelgeg kdtvklkiaq tayvqksdgn raysdiaggt
+      781 aaissgdayk ypygvnytgn yalklknass agynrriyve idtqelknyq slksanleln
+      841 vmrydawnga gntnderlkn tqfqvdvygt dtnwmsntit wnngpnnlnv pneefiarqs
+      901 ftnssimnnq ntisidisny lrkliqsgek ipaklsflla itdsrlpgyd sdnagfdafs
+      961 kegaqkayqd flagkltlpt gqqltedsla pkivlsnvfe vkhesievtt eagqapnlpe
+     1021 kttifysdgs qrevtvnwse vpassyqkeg tftvvgraag vsmpiianvk vtakhivgfk
+     1081 elptldrltg tsrgelnlpt eviaklddgs etklkviswd ddvsnyspss ppgtyqfpaa
+     1141 veekigianp derkifqvvq thaiperiqf atetatiksg enyqiqskvi gqaphtetda
+     1201 wssqvtyelv tpdagntvsv denglirtea ttaagnyqik vtskvlpvvt aqfsikvtk
+//
+
+

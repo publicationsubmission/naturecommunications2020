@@ -1,0 +1,42 @@
+LOCUS       WP_003493029             313 aa            linear   BCT 02-AUG-2016
+DEFINITION  MULTISPECIES: ABC transporter ATP-binding protein [Clostridium].
+ACCESSION   WP_003493029
+VERSION     WP_003493029.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11418519
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..313
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..313
+                     /product="ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=33971
+     Region          7..310
+                     /region_name="DppD"
+                     /note="ABC-type dipeptide/oligopeptide/nickel transport
+                     system, ATPase component [Amino acid transport and
+                     metabolism, Inorganic ion transport and metabolism];
+                     COG0444"
+                     /db_xref="CDD:223521"
+ORIGIN      
+        1 mnkdiciknl kvefptkegn vsavdsislk inmgkvlgli getgsgksvl glsilgllss
+       61 nalisgeily edtdllsldi nslrnlrgrd ialipqnpgt alnpimkvgk qisegmnank
+      121 ktrkikvlsl lkelflpnpi kvadsypfel sggmkqrvla smglcgnpnw iiadeptkgl
+      181 daivrdqvye tlkkitnisn cgmllithdl mlsknlcddi avmyagdive mgkacdvlen
+      241 snhpytkgli fsqphkglkp megaspslis ppkgckfspr cpnkmpicsl knpdfytmen
+      301 gskvrcflfd ksk
+//
+
+

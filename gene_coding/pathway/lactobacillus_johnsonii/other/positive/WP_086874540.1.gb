@@ -1,0 +1,59 @@
+LOCUS       WP_086874540             269 aa            linear   BCT 29-JUL-2019
+DEFINITION  helix-turn-helix domain-containing protein [Lactobacillus
+            johnsonii].
+ACCESSION   WP_086874540
+VERSION     WP_086874540.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024252.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF12844.5
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..269
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..269
+                     /product="helix-turn-helix domain-containing protein"
+                     /calculated_mol_wt=30945
+     Region          4..66
+                     /region_name="HTH_19"
+                     /note="Helix-turn-helix domain; pfam12844"
+                     /db_xref="CDD:338518"
+     Site            order(8,12,36)
+                     /site_type="other"
+                     /note="non-specific DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238045"
+     Site            order(11,35)
+                     /site_type="other"
+                     /note="salt bridge"
+                     /db_xref="CDD:238045"
+     Site            order(18..19,29,32,36..37)
+                     /site_type="other"
+                     /note="sequence-specific DNA binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:238045"
+     Region          65..>236
+                     /region_name="RGG_Cterm"
+                     /note="transcriptional activator, Rgg/GadR/MutR family,
+                     C-terminal domain; TIGR01716"
+                     /db_xref="CDD:273772"
+ORIGIN      
+        1 mtigeallnl rkqlgltqte matnvvstsf yskvernihd igtndllqil nkhqinatyf
+       61 fenlndkeni sedimdkisv afeqksrdkl lkikqeidll pnnrqteyyk lqlqltlevy
+      121 lpkakeipie lknklkqyil vnnnwnihsl qifretmriy didelnflvg tilakysnpn
+      181 ilqsslqeci gaicinyldn cyeknstkli qevlsyisti nskgpvlfik llgkyyasvf
+      241 qkdpatcqei tnvlklagys dfvsmlpki
+//
+
+

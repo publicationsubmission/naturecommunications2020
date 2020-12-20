@@ -1,0 +1,31 @@
+LOCUS       WP_003493506             174 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: formylmethanofuran dehydrogenase subunit E
+            [Clostridium].
+ACCESSION   WP_003493506
+VERSION     WP_003493506.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..174
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..174
+                     /product="formylmethanofuran dehydrogenase subunit E"
+                     /calculated_mol_wt=19775
+     Region          2..170
+                     /region_name="FmdE"
+                     /note="FmdE, Molybdenum formylmethanofuran dehydrogenase
+                     operon; cl27395"
+                     /db_xref="CDD:332216"
+ORIGIN      
+        1 mkeglwekct sfhghscpgl aigykaaeaa ietmnikfse deeivcvten dacgvdaiqv
+       61 llgcslgkgn iihkdsgkma fsffnrknge airiifspke kredrneymn yilnedykel
+      121 fqfkepsysl peraklfkni tceickesta ehririmdgk mvcsdcfkey srvl
+//
+
+

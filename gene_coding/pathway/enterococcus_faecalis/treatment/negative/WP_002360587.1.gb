@@ -1,0 +1,51 @@
+LOCUS       WP_002360587             807 aa            linear   BCT 02-JUN-2019
+DEFINITION  phenylalanine--tRNA ligase subunit beta [Enterococcus faecalis].
+ACCESSION   WP_002360587
+VERSION     WP_002360587.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF001871.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00629
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..807
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..807
+                     /product="phenylalanine--tRNA ligase subunit beta"
+                     /EC_number="6.1.1.20"
+                     /calculated_mol_wt=88445
+     Region          1..807
+                     /region_name="pheT"
+                     /note="phenylalanyl-tRNA synthetase subunit beta;
+                     Reviewed; PRK00629"
+                     /db_xref="CDD:234804"
+ORIGIN      
+        1 mlvsykwlne yvnlsnvtpq eladkmsvtg ievegvavpe eglkkivvge vkecvphpns
+       61 dhlsicqvdi geeelsqivc gapnvkagik vivalpgsri agnqkikkgk mrgevsngmi
+      121 csleelgysd nvvpkayaeg iyylpqeavn gtpvfpyldm ddaiielsit pnradalsmr
+      181 gvayevgaiy rqtpqfndpe lkedasdnvg nyvtvtveds qdapayqirv ikdvtiaesp
+      241 qwlqnrlmne girpinnvvd vtnyilllfg qplhafdyqk ldskeilvrr ataaeelitl
+      301 dgetrqltee nivitngktp vglagvmgga nseisqettt valeaalfnp lpirktskqf
+      361 nlrsesssrf ekginqatvg lacdvaaami aeladgtvvs gtavgsevav keaqvavtle
+      421 rinqylgtal deatvneife algfayevnr gayeitippr rwditieadi ieevariygy
+      481 dhlpstlpsg etvagsltka qhvtrqlksl leghgtseai syaltteeks rqfmmkesqt
+      541 trlqwpmsee rsvlrmnlis gllddvaynv arknnniafy evgrvfyqte dptknlptee
+      601 nhlalaltgn tmvkdwqtka tavdfytvkg lvesivavlg ltekisyqat taipemhpgr
+      661 tawiylegev vgfvgqvhpt takaydipkt yvaelnlqql vaieaggvty eavskfpavs
+      721 rdiallvdet vtnqelvkti sdnagkylke ihlfdvyqge klgagkksma ysltfvnaea
+      781 tlvdeeinrs mekvekalie khqvevr
+//
+
+

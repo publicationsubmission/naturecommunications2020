@@ -1,0 +1,54 @@
+LOCUS       WP_002356483             192 aa            linear   BCT 27-JUL-2019
+DEFINITION  MULTISPECIES: CYTH domain-containing protein [Enterococcus].
+ACCESSION   WP_002356483
+VERSION     WP_002356483.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10166815
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..192
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..192
+                     /product="CYTH domain-containing protein"
+                     /calculated_mol_wt=21758
+     Region          5..187
+                     /region_name="CYTH-like_Pase_1"
+                     /note="Uncharacterized subgroup 1 of the CYTH-like
+                     superfamily; cd07762"
+                     /db_xref="CDD:143627"
+     Site            order(6,8,10,39,55,57,59,68,77,124,126,139,152,154,182)
+                     /site_type="active"
+                     /note="putative active site [active]"
+                     /db_xref="CDD:143627"
+     Site            order(6,8,152,154)
+                     /site_type="other"
+                     /note="putative metal binding residues [ion binding]"
+                     /db_xref="CDD:143627"
+     Site            order(6,8,10)
+                     /site_type="other"
+                     /note="signature motif"
+                     /db_xref="CDD:143627"
+     Site            order(8,10,39,55,59,68,77,126,152)
+                     /site_type="other"
+                     /note="putative triphosphate binding site [ion binding]"
+                     /db_xref="CDD:143627"
+ORIGIN      
+        1 msehleiefk tlvspqdfkr lidhfaiqkt dfftqtnhyf dtddfqlkaq rmglrirvla
+       61 drgeltlkvp apeglleind plsletanhf ikrnhlpteg avakklqelg ieiasihlig
+      121 slktaraekq ipqgllalde swynqqhdfe lelevteaes gkqafqtlma dlnipitlap
+      181 nkiqrmmrtt ap
+//
+
+

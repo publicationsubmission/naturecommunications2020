@@ -1,0 +1,39 @@
+LOCUS       WP_086875023             503 aa            linear   BCT 11-DEC-2017
+DEFINITION  ABC-F type ribosomal protection protein [Lactobacillus johnsonii].
+ACCESSION   WP_086875023
+VERSION     WP_086875023.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..503
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..503
+                     /product="ABC-F type ribosomal protection protein"
+                     /calculated_mol_wt=57898
+     Region          1..495
+                     /region_name="Uup"
+                     /note="ATPase components of ABC transporters with
+                     duplicated ATPase domains [General function prediction
+                     only]; COG0488"
+                     /db_xref="CDD:223562"
+ORIGIN      
+        1 msninisnls fryqdssdni fnnlnldlds swklglvgrn grgkttflnl lrgnlrgtgk
+       61 iqaklefnyf pltvnnqdql tlyalqeqvs feqwelerel nlmkvdpeli wqpfnslsgg
+      121 eqtkillals finknsfpli deptnhlded srmqviaylq qhsngyivvs hdraflnqvt
+      181 nhilaiente ihlyqgdfas yedtktkrdk fnqdkneklq gqirslnesr krvkgyslqs
+      241 ennkkasahk neihafinkg ffshkaakim krsknlerrm dkniqdkkgl mtniesisel
+      301 emnfhpnyhg tlleaqhldl tvqnkklfed vnltiknhgi valegkngsg kstflknilk
+      361 pdknvisqgk ldivnglkis ylpqnfieys gtlsqfaeke kisyenllni lrkmgfpres
+      421 fatkieemsm gqqkrvaiak slveeadiyl wdepanyldv fnqdqlinml rkeqpamlli
+      481 ehdkyfisqv tdkriklgdi kak
+//
+
+

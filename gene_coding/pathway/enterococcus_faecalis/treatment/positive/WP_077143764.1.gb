@@ -1,0 +1,90 @@
+LOCUS       WP_077143764             412 aa            linear   BCT 02-DEC-2018
+DEFINITION  MULTISPECIES: tetratricopeptide repeat protein [Enterococcus].
+ACCESSION   WP_077143764
+VERSION     WP_077143764.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF025910.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF14559.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..412
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..412
+                     /product="tetratricopeptide repeat protein"
+                     /calculated_mol_wt=46957
+     Region          <19..407
+                     /region_name="PEP_TPR_lipo"
+                     /note="putative PEP-CTERM system TPR-repeat lipoprotein;
+                     TIGR02917"
+                     /db_xref="CDD:274350"
+     Region          29..55
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276808"
+     Region          60..87
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276808"
+     Site            order(102..103,105,129,132..133,136..137,139..140,163,166,
+                     170,173..174,177)
+                     /site_type="other"
+                     /note="putative protein binding surface [polypeptide
+                     binding]"
+                     /db_xref="CDD:276809"
+     Region          127..157
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     Region          162..193
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     Region          198..227
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     Region          266..294
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     Site            order(301,304..305,308..309,311,333,336..337,340..341,
+                     343..344,367,370..371,374..375,378)
+                     /site_type="other"
+                     /note="putative protein binding surface [polypeptide
+                     binding]"
+                     /db_xref="CDD:276809"
+     Region          301..328
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     Region          331..361
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+     Region          366..394
+                     /region_name="TPR repeat"
+                     /note="TPR repeat [structural motif]"
+                     /db_xref="CDD:276809"
+ORIGIN      
+        1 mvqalqaenl aeaqlmfeea lkkddentla dlgetllslg fleeakqifq qlleqfpdad
+       61 glniplaeia ienneiddaf iylekipets dsyvqsllvt adlyqvlgip evseaklkea
+      121 anlmpeepli qfalgelyft ngqfveaitr yqsivesgta qisaislner lgssysmlgd
+      181 feeavpylea avkeeqtddr lfqlaftylq lhenqkaial fqqlktlnph yqslylylae
+      241 alqeeeqlee akavieegia enpfqvelyq fasenayrlh diagaenwll kalelgektd
+      301 esrltlsnly iteerfeevi tilndleetd hpyaewnlak ayneledfav akvhyeqaaq
+      361 elshepeflk eyalflreeg elekakhlly hylehepgdv dmqsvladme er
+//
+
+

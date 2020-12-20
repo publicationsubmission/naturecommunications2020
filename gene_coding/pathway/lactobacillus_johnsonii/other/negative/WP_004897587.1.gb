@@ -1,0 +1,58 @@
+LOCUS       WP_004897587             333 aa            linear   BCT 21-OCT-2017
+DEFINITION  MULTISPECIES: rod shape-determining protein [Lactobacillus].
+ACCESSION   WP_004897587
+VERSION     WP_004897587.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11487002
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..333
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     Protein         1..333
+                     /product="rod shape-determining protein"
+                     /calculated_mol_wt=34878
+     Region          2..331
+                     /region_name="PRK13927"
+                     /note="rod shape-determining protein MreB; Provisional"
+                     /db_xref="CDD:237562"
+     Site            order(12,14..17,71,131,153,155..158,179..180,204,207..208,
+                     285..287,289..290,312,315)
+                     /site_type="other"
+                     /note="nucleotide binding site [chemical binding]"
+                     /db_xref="CDD:212668"
+     Site            order(12,153)
+                     /site_type="other"
+                     /note="Mg binding site [ion binding]"
+                     /db_xref="CDD:212668"
+     Site            order(38,54,62,146,148,168,200,202,227,235,238,268,271,
+                     303,327)
+                     /site_type="other"
+                     /note="putative protofilament interaction site
+                     [polypeptide binding]"
+                     /db_xref="CDD:212668"
+     Site            order(140..141,149,277..279,304,306,309)
+                     /site_type="other"
+                     /note="RodZ interaction site [polypeptide binding]"
+                     /db_xref="CDD:212668"
+ORIGIN      
+        1 mfglgsknig idlgtantlv yiegkgivlr epsvvakntq tgeviavgse akemigrtpg
+       61 sivairpmkd gviadydtta amlkyfmekt vgnskpaami cvpsgvteve kravidaarv
+      121 agareayvie epfaaaigag lpvmdptgsm vvdigggttd vatislggiv ssrstrmagd
+      181 kfnssiatyi hqnynllige rtaetikiqi asasvekake iesmnirgrd lvtglpksid
+      241 inaedvakai qevvqniiva iketleetsp eiaadvidhg ivltgggall knlpevisda
+      301 tkvpvfiaqd pldcvaigtg eslknievmr krr
+//
+
+

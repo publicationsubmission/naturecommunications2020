@@ -1,0 +1,54 @@
+LOCUS       WP_011161709             719 aa            linear   BCT 19-JUN-2019
+DEFINITION  peptide cleavage/export ABC transporter [Lactobacillus johnsonii].
+ACCESSION   WP_011161709
+VERSION     WP_011161709.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 719)
+  AUTHORS   Franke,C.M., Tiemersma,J., Venema,G. and Kok,J.
+  TITLE     Membrane topology of the lactococcal bacteriocin ATP-binding
+            cassette transporter protein LcnC. Involvement of LcnC in
+            lactococcin a maturation
+  JOURNAL   J. Biol. Chem. 274 (13), 8484-8490 (1999)
+   PUBMED   10085080
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01193.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01193
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..719
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..719
+                     /product="peptide cleavage/export ABC transporter"
+                     /calculated_mol_wt=81020
+     Region          12..717
+                     /region_name="bacteriocin_ABC"
+                     /note="ABC-type bacteriocin transporter; TIGR01193"
+                     /db_xref="CDD:130261"
+ORIGIN      
+        1 mlfkyksvyv pqvdemdcgv aclamilkqy hsrislahlr heartnlegt talglvktaq
+       61 kfnlkteavk admslfnddg iqypfiahvl kqgellhyyv vlkntknyll iadpdpsvgv
+      121 ikmpkdrfaq ewtgialfmv pnenfepike kknnlwslfp ymfkqkrlmi niilaallmt
+      181 iisicssyfv qgiidtyips gtyqtlsila vglliayvfn sifsygqnfl lnvlgqrlsi
+      241 dlnlqyirhi felpmeffvt rrtgeitsrf sdasriidal astvislfld lsivivmglv
+      301 laaqsmtlfg itllalpiya vvilgftkkf eklnneqmes navlsssvie diqgietika
+      361 lnsentryrr idsqfvdylk ksfkysktes lqtalktfiq lslnviilwv gakvvmqgql
+      421 sigqlmtfna llayfidplq niinlqprlq sasvaqnrln evyqvksefn qktaiedckl
+      481 legnieyknv dyrygygadv lkdinlkinq gekltivgms gsgkstmvkl lvdffspskg
+      541 qvilnghats einkhslrsy vnyvpqtpyi fsgtvrenll lgcrpditee dvieacqiae
+      601 idqeianlpl qfetkldena kilsggqkqr ltiarallsp akvfifdevt sgldtitekr
+      661 vidnlmklkd ktiifiahrl aiaeradkvv vidrgqivee gshselmnmh gfyydlvkg
+//
+
+

@@ -1,0 +1,51 @@
+LOCUS       WP_002385351             505 aa            linear   BCT 15-APR-2019
+DEFINITION  MULTISPECIES: multidrug efflux MFS transporter [Bacilli].
+ACCESSION   WP_002385351
+VERSION     WP_002385351.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 13025406
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..505
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..505
+                     /product="multidrug efflux MFS transporter"
+                     /calculated_mol_wt=54337
+     Region          37..490
+                     /region_name="MFS_LmrB_MDR_like"
+                     /note="Bacillus subtilis lincomycin resistance protein
+                     (LmrB) and similar multidrug resistance (MDR) transporters
+                     of the Major Facilitator Superfamily; cd17503"
+                     /db_xref="CDD:341046"
+     Site            order(44..45,48..49,52,84,134..135,137..139,142,162,
+                     165..166,169,293,296..297,300..302,305,333,337,389..390,
+                     394,398,414,417..418,421..422,425)
+                     /site_type="other"
+                     /note="putative chemical substrate binding pocket
+                     [chemical binding]"
+                     /db_xref="CDD:341046"
+ORIGIN      
+        1 mqfnlkltek gaiyvtsqqp vdihgkpynr sllvgvllig tfctilnqtl lttalptlmk
+       61 efdisassvq wlttgfllvn gimipisawl inkfsskkly itamstflig tiicfvaqdf
+      121 gmlltgrlvq aagvgvsmpl lqtimlsifp pekrgaamgt tgiviglapa lgptlsgwii
+      181 dsytwrdlfg mvipivvlvl ilasflmknv iqlsnpsidv lsvilstlgf gsllygfssv
+      241 gdkgwgspqv ygflivgaiv lclftyrqlh leqpflelrv fkskvftvaa ilsgvtnmam
+      301 igaemvlply iqnirgesaf hsglmllpga lvmglmmpvt grifdkigar rlaitgmfil
+      361 taatlpfafl tkatpiiyii vlyairmfgi smvmmpvtts gmnalpmnll shgtavnntf
+      421 rqvassigta vlisvltnvt kdglpasdll ktapltyrdq atnatlngyh aaffvatifg
+      481 vlglaitffl nkkeampvke vgamk
+//
+
+

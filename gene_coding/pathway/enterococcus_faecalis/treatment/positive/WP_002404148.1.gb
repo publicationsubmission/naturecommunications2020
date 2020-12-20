@@ -1,0 +1,44 @@
+LOCUS       WP_002404148             275 aa            linear   BCT 03-JUN-2018
+DEFINITION  MULTISPECIES: glycosyltransferase [Enterococcus].
+ACCESSION   WP_002404148
+VERSION     WP_002404148.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012745.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00535.24
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..275
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..275
+                     /product="glycosyltransferase"
+                     /calculated_mol_wt=31601
+     Region          7..210
+                     /region_name="Glyco_tranf_GTA_type"
+                     /note="Glycosyltransferase family A (GT-A) includes
+                     diverse families of glycosyl transferases with a common
+                     GT-A type structural fold; cl11394"
+                     /db_xref="CDD:353239"
+     Site            order(11,13,41,96,98)
+                     /site_type="active"
+                     /db_xref="CDD:132997"
+ORIGIN      
+        1 metvpisilm siyknekpey lidtmesilr qtiqpeeifl vkdgpltlel devideykrk
+       61 lgnqlslysl senkglgial aegvlncrne liarmdtddi mvedrlevqy klfkenssla
+      121 ivggniiefe gnvtnilgrr ivpesneeir rfskrrnpfn hmtvmykked iiqvgnykpl
+      181 kgfedyylwi rllkqdkkaa ninkilvyar ggkdmysrrg gikylvpglk arkviyregl
+      241 gsfsdfifvs avhsiisllp ngirgviyqk rlrnk
+//
+
+

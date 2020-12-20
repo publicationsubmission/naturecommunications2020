@@ -1,0 +1,37 @@
+LOCUS       WP_040109147             185 aa            linear   BCT 15-MAY-2017
+DEFINITION  MULTISPECIES: SMI1/KNR4 family protein [Clostridium].
+ACCESSION   WP_040109147
+VERSION     WP_040109147.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10629818
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..185
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..185
+                     /product="SMI1/KNR4 family protein"
+                     /calculated_mol_wt=21083
+     Region          28..162
+                     /region_name="SUKH_6"
+                     /note="SMI1-KNR4 cell-wall; pfam14568"
+                     /db_xref="CDD:317027"
+ORIGIN      
+        1 mfddnilknl wddcdysyke yisdyptdei ikqveqeily klpesyielm rihnggllkk
+       61 dairtetpts waedhigitg lfsialdksc slcgefgsrf wieeweypdi gvaiadcpsa
+      121 ghdmifldyr ecgpkgepsv vhidqeydya itkladnfkd ficnliseee fdlegeslgn
+      181 gsyis
+//
+
+

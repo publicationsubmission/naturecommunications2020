@@ -1,0 +1,46 @@
+LOCUS       WP_086874693             164 aa            linear   BCT 11-APR-2019
+DEFINITION  PTS sugar transporter subunit IIB [Lactobacillus johnsonii].
+ACCESSION   WP_086874693
+VERSION     WP_086874693.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10510877
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..164
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..164
+                     /product="PTS sugar transporter subunit IIB"
+                     /calculated_mol_wt=17882
+     Region          2..153
+                     /region_name="PTSIIB_sorb"
+                     /note="PTS system sorbose subfamily IIB component;
+                     pfam03830"
+                     /db_xref="CDD:309091"
+     Site            order(6,10,13)
+                     /site_type="active"
+                     /db_xref="CDD:237975"
+     Site            13
+                     /site_type="phosphorylation"
+                     /note="phosphorylation site [posttranslational
+                     modification]"
+                     /db_xref="CDD:237975"
+ORIGIN      
+        1 miaqlrvddr lihgqvalvw tkeldtpgiv vandnaanne mvqmtlkmat ptgkkllirn
+       61 vddaikvfnn pkgakmrifa ltnnvqdalk iaknvkdieg invanvgrft edadnaiqls
+      121 stlmmtpeel ealkelakld ipvfhqivpn naktpissil kdan
+//
+
+

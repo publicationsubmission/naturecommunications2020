@@ -1,0 +1,43 @@
+LOCUS       WP_011162562             439 aa            linear   BCT 24-MAY-2013
+DEFINITION  PTS sugar transporter subunit IIC [Lactobacillus johnsonii].
+ACCESSION   WP_011162562
+VERSION     WP_011162562.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10003683
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..439
+                     /product="PTS sugar transporter subunit IIC"
+                     /calculated_mol_wt=49164
+     Region          26..418
+                     /region_name="CelB"
+                     /note="Phosphotransferase system cellobiose-specific
+                     component IIC [Carbohydrate transport and metabolism];
+                     COG1455"
+                     /db_xref="CDD:224372"
+ORIGIN      
+        1 mekiifktiv rlrrlaffrv tdrtlmmlmp lavvgsifqf lwqsvfspts lisnifyfdk
+       61 wlpdqifnas wyacqgvtsv ifgtfglfta yfsaqytarl yqkdaqmagv sgmlalllca
+      121 yrfrdirdfq lsfnwrflni nsflfallig fgtglifrfl gtdyhhrhae saqvikqraf
+      181 nsfrpmlatw liglvigila slvhvrmiat nfyqffqsqg qnnlnlgifi pllllallln
+      241 wcgigqplvs ltaggdsatn vanlnyalth gsswnvpnpy vgnslyqsyg kfggngltlv
+      301 iligilifik kndiarvarw sfiptlfgsn qgaligipii lnplfllpyv flpvvnmlla
+      361 asmiaihlip asaynvlsgt pgplyafiat ngnwqalifs mllfafdill ylpivkmakd
+      421 vqdeidllnd eeagyeyvk
+//
+
+

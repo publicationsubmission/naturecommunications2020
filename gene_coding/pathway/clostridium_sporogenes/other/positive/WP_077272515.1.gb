@@ -1,0 +1,29 @@
+LOCUS       WP_077272515             117 aa            linear   BCT 29-MAR-2017
+DEFINITION  MULTISPECIES: hypothetical protein [Clostridium].
+ACCESSION   WP_077272515
+VERSION     WP_077272515.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..117
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..117
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12759
+     Region          <1..107
+                     /region_name="NADB_Rossmann"
+                     /note="Rossmann-fold NAD(P)(+)-binding proteins; cl21454"
+                     /db_xref="CDD:328723"
+ORIGIN      
+        1 myndkgtihy vniqnngtid cipkdscier tcyvdkagah plnakalpsk ikgllqvine
+       61 yealtveagv hgdygaalqa lvihplvess iakdllddii renihylpqf kkcivge
+//
+
+

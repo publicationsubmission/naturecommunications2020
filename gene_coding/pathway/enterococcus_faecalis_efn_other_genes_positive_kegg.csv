@@ -1,0 +1,4 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"efn03030","DNA replication","1/1","15/962",0.0155925155925154,0.0197505197505197,NA,"DENG_01177",1
+"efn03430","Mismatch repair","1/1","18/962",0.0187110187110184,0.0197505197505197,NA,"DENG_01177",1
+"efn03440","Homologous recombination","1/1","19/962",0.0197505197505197,0.0197505197505197,NA,"DENG_01177",1

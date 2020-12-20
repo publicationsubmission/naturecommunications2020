@@ -1,0 +1,45 @@
+LOCUS       WP_040109193             153 aa            linear   BCT 11-JUL-2019
+DEFINITION  MULTISPECIES: 5-hydroxymethylcytidine 5'-monophosphate nucleosidase
+            subunit BcmB [Clostridium].
+ACCESSION   WP_040109193
+VERSION     WP_040109193.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 153)
+  AUTHORS   Cooper,L.E., O'Leary,S.E. and Begley,T.P.
+  TITLE     Biosynthesis of a thiamin antivitamin in Clostridium botulinum
+  JOURNAL   Biochemistry 53 (14), 2215-2217 (2014)
+   PUBMED   24654570
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: BlastRule
+            Evidence Accession :: NBR007609
+            Evidence Source    :: NCBI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..153
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..153
+                     /gene="bcmB"
+     Protein         1..153
+                     /product="5-hydroxymethylcytidine 5'-monophosphate
+                     nucleosidase subunit BcmB"
+                     /calculated_mol_wt=17562
+     Region          2..106
+                     /region_name="TIR_2"
+                     /note="TIR domain; cl23749"
+                     /db_xref="CDD:329054"
+ORIGIN      
+        1 mnkrvflaap fkgaikekqs imkeqekkri edlilfleek glkvdnahrr eewganfmsp
+       61 dqctkldyda ikecdlfiaf pgvpvspgth ieigwasamg keiilllaek eenyaylirg
+      121 lhtvsnvhyi iyneekeylq kldlyldgen nev
+//
+
+

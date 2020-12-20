@@ -1,0 +1,38 @@
+LOCUS       WP_033061206             220 aa            linear   BCT 11-JAN-2018
+DEFINITION  MULTISPECIES: TrkA family potassium uptake protein [Clostridium].
+ACCESSION   WP_033061206
+VERSION     WP_033061206.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11426271
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..220
+                     /product="TrkA family potassium uptake protein"
+                     /calculated_mol_wt=23796
+     Region          4..215
+                     /region_name="TrkA"
+                     /note="Trk K+ transport system, NAD-binding component
+                     [Inorganic ion transport and metabolism]; COG0569"
+                     /db_xref="CDD:223643"
+ORIGIN      
+        1 mgrkqfvvig lgrfgtsvak tlytlgndvl aidssedivq siadsvthsv qidatdensl
+       61 rslgirnfdv avitigsdiq astmatllvk emgvkyiiak anteihakvl ykigadrvvf
+      121 perdmgvrva hnlvstnild yielspnysi aeivtpkpwh gktlnelnir anyginvval
+      181 krgeeinvsp vaedtiesgd iivaigseed ltkveimnvd
+//
+
+

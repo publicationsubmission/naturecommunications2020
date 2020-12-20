@@ -1,0 +1,45 @@
+LOCUS       WP_046869803             512 aa            linear   BCT 19-DEC-2017
+DEFINITION  MBL fold metallo-hydrolase [Clostridium sporogenes].
+ACCESSION   WP_046869803
+VERSION     WP_046869803.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11440939
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..512
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..512
+                     /product="MBL fold metallo-hydrolase"
+                     /calculated_mol_wt=58111
+     Region          1..459
+                     /region_name="YSH1"
+                     /note="RNA processing exonuclease, beta-lactamase fold,
+                     Cft2 family [Translation, ribosomal structure and
+                     biogenesis]; COG1236"
+                     /db_xref="CDD:224157"
+ORIGIN      
+        1 meikflgaac cvtgschllk ikdknilldc gtyqgkdevg drnfsfkfdv kdidcvilsh
+       61 ahidhsgrip llyklgyrgk vistkatadl csimlpdsgh ilesevewkn rkrirsgldp
+      121 ieplytlkta qmstslfegy nyneyieifp nlkirfldsg hllgsaitel yitendkefk
+      181 ivysgdlgnt nlpilkdpvq vdyadyllme ttygnrvhdn insqlkqlih iikdtfkkgg
+      241 nviipsfavg rtqeviyaln kyvesnilkn ikvyvdspla seatkifney tidfdedaqk
+      301 llkegdnple fnglyftnsp qesmelnkik tgaiiisasg mceagrirhh lkhnlwrrec
+      361 sivfvgyqae gtlgqkilsg akkvklfgee iavnaeiynl pslsghadkn gllnwlenfk
+      421 ekpkevilih gekdsrdyfk nllveknynt fspnigdiys sefkgqrrse vknkitnlln
+      481 siedidslnk edllnlikkk yikiktiiyi kf
+//
+
+

@@ -1,0 +1,40 @@
+LOCUS       WP_045517991             143 aa            linear   BCT 02-NOV-2019
+DEFINITION  flagellar assembly protein FliW [Clostridium sporogenes].
+ACCESSION   WP_045517991
+VERSION     WP_045517991.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF009793.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK13285
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     gene            1..143
+                     /gene="fliW"
+     Protein         1..143
+                     /product="flagellar assembly protein FliW"
+                     /calculated_mol_wt=16562
+     Region          1..143
+                     /region_name="PRK13285"
+                     /note="flagellar assembly protein FliW; Provisional"
+                     /db_xref="CDD:237334"
+ORIGIN      
+        1 mklntkyhgc ieyeerdviy fqkgipgfee lkkfiifpvk dndvfsvfhs iekedmgiiv
+       61 tspfniekey eiqlekeqik slklqdekdt lvlntvtlss didkitanlr apivinikek
+      121 igeqiiinsd kyqvkhplfk eea
+//
+
+

@@ -1,0 +1,36 @@
+LOCUS       WP_077272623              61 aa            linear   BCT 27-MAY-2019
+DEFINITION  MULTISPECIES: IS3 family transposase [Clostridium].
+ACCESSION   WP_077272623
+VERSION     WP_077272623.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024729.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13333.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..61
+                     /product="IS3 family transposase"
+                     /calculated_mol_wt=7328
+     Region          2..>41
+                     /region_name="rve_3"
+                     /note="Integrase core domain; cl22978"
+                     /db_xref="CDD:328977"
+ORIGIN      
+        1 menffallkq emyygktyts feelnnainn yiyfynnkri keklgwcssv efrllkepkl
+       61 s
+//
+
+

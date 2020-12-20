@@ -1,0 +1,42 @@
+LOCUS       WP_003490169             270 aa            linear   BCT 11-DEC-2017
+DEFINITION  MULTISPECIES: MetQ/NlpA family ABC transporter substrate-binding
+            protein [Clostridium].
+ACCESSION   WP_003490169
+VERSION     WP_003490169.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10003704
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..270
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..270
+                     /product="MetQ/NlpA family ABC transporter
+                     substrate-binding protein"
+                     /calculated_mol_wt=29988
+     Region          1..270
+                     /region_name="NlpA"
+                     /note="ABC-type metal ion transport system, periplasmic
+                     component/surface antigen [Inorganic ion transport and
+                     metabolism]; COG1464"
+                     /db_xref="CDD:224381"
+ORIGIN      
+        1 mkkkilyiam vttlilglvt lsgcgsskqd ikekkkivvg atpephaeil kkvkpilekk
+       61 gytleikeft dyitpntalq dgeidanfyq hipyleefnk ekktdlsytv kvhlepmgvy
+      121 sktikdlkel ktgatiavpn dptnesralr llekegiikl kegelvskld itenpknikv
+      181 eeldaaqlpr tlgdaevavi ntnyavsanl nplkdalaie skdspyanvi vvktenknae
+      241 yikalneain seeikkyiee qykgaiipaf
+//
+
+

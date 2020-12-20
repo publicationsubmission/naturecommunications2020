@@ -1,0 +1,71 @@
+LOCUS       WP_086875168             306 aa            linear   BCT 27-JUL-2019
+DEFINITION  PTS mannose/fructose/sorbose transporter subunit IIAB
+            [Lactobacillus johnsonii].
+ACCESSION   WP_086875168
+VERSION     WP_086875168.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 13307214
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..306
+                     /product="PTS mannose/fructose/sorbose transporter subunit
+                     IIAB"
+                     /calculated_mol_wt=33518
+     Region          4..120
+                     /region_name="PTS_IIA_man"
+                     /note="PTS_IIA, PTS system, mannose/sorbose specific IIA
+                     subunit. The bacterial phosphoenolpyruvate: sugar
+                     phosphotransferase system (PTS) is a multi-protein system
+                     involved in the regulation of a variety of metabolic and
+                     transcriptional processes. This family...; cd00006"
+                     /db_xref="CDD:237978"
+     Site            order(9,23..24,35,69,100)
+                     /site_type="other"
+                     /note="active pocket/dimerization site"
+                     /db_xref="CDD:237978"
+     Site            order(9,64,69)
+                     /site_type="active"
+                     /db_xref="CDD:237978"
+     Site            9
+                     /site_type="phosphorylation"
+                     /note="phosphorylation site [posttranslational
+                     modification]"
+                     /db_xref="CDD:237978"
+     Region          153..297
+                     /region_name="PTSIIB_sorb"
+                     /note="PTS system sorbose subfamily IIB component;
+                     pfam03830"
+                     /db_xref="CDD:309091"
+     Site            order(154,158,161)
+                     /site_type="active"
+                     /db_xref="CDD:237975"
+     Site            161
+                     /site_type="phosphorylation"
+                     /note="phosphorylation site [posttranslational
+                     modification]"
+                     /db_xref="CDD:237975"
+ORIGIN      
+        1 mdnflivshg eyakatlasc emiagklsnv kaiafkqtmn qddlldeisq taesfeqvpt
+       61 iivdiaggtp anaalryqqt hpevkvysgl clplllaavm gtpmeeaikq akeniapvgk
+      121 ppedsstqte keshqsnepn enaeiepqtm hnvriderli hgqvatmwtn alrltrimvv
+      181 gddivkndiq ktalktacph gvhlsiltak gaarrinegk ykgqtvlvlv knpgvlrqmv
+      241 dngvnlpein vgnmstkads rqvaksvait aedvdnfnyl nehgchlyhq mvpaedkeef
+      301 mellkk
+//
+
+

@@ -1,0 +1,36 @@
+LOCUS       WP_033061208             447 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: ATP synthase subunit J [Clostridium].
+ACCESSION   WP_033061208
+VERSION     WP_033061208.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..447
+                     /product="ATP synthase subunit J"
+                     /calculated_mol_wt=48160
+     Region          30..418
+                     /region_name="TrkG"
+                     /note="Trk-type K+ transport system, membrane component
+                     [Inorganic ion transport and metabolism]; cl28089"
+                     /db_xref="CDD:332910"
+ORIGIN      
+        1 mkmkhirrrf tpvqilalgf avvivigail lmlpissqsg qrtpfldclf tatsavcvtg
+       61 lvvvdtgtyw tyfgktviml lieigglgfm sfatllallv gkkitlkerl vmqealntfs
+      121 iqglvkmary vltftfsiqg agalllstqf ipkyglakgl yygvfhsvsa fcnagfdlfg
+      181 nfssltsvyn npviilvias liiiggigfy vwyeiyhykg hrklsthskl vlsatallls
+      241 vgtvlmfife srnpgtignm tlgnkilssf faavtprtag fnsistsdmt magnfltiil
+      301 mfiggasgst aggikittag vlimtvvcvv kgkpdteink kriakeivyr alaitiislt
+      361 lvitvtmils itevkvpfey ymyeatsafa tvgltlgltt klttagkivv lltmyagrvg
+      421 pltlatafar klknssikyp eekilvg
+//
+
+

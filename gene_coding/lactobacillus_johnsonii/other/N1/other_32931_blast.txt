@@ -1,0 +1,14 @@
+# BLASTX 2.4.0+
+# Query: Sample:N1,Pos:32931 <unknown description>
+# Database: User specified sequence set (Input: lactobacillus_johnsonii_protein.faa)
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+Sample:N1,Pos:32931	WP_113886544.1	96.296	27	1	0	2	82	142	168	2.27e-15	62.8
+Sample:N1,Pos:32931	WP_113886544.1	100.000	8	0	0	84	107	178	185	0.59	23.5
+Sample:N1,Pos:32931	WP_086874771.1	88.235	34	4	0	98	199	21	54	7.89e-15	62.4
+Sample:N1,Pos:32931	WP_003647824.1	37.037	27	15	1	144	70	34	60	0.57	23.1
+Sample:N1,Pos:32931	WP_086874769.1	46.667	15	8	0	32	76	128	142	1.9	21.9
+Sample:N1,Pos:32931	WP_086874725.1	35.484	31	19	1	32	124	20	49	3.1	21.6
+Sample:N1,Pos:32931	WP_086874767.1	47.059	17	9	0	129	79	1	17	7.1	20.8
+Sample:N1,Pos:32931	WP_011161707.1	45.000	20	11	0	168	109	316	335	10.0	20.4
+# BLAST processed 1 queries

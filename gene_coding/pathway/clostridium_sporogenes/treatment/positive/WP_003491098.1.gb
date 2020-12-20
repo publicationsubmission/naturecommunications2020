@@ -1,0 +1,33 @@
+LOCUS       WP_003491098             350 aa            linear   BCT 04-AUG-2015
+DEFINITION  MULTISPECIES: methylcobamide--CoM methyltransferase [Clostridium].
+ACCESSION   WP_003491098
+VERSION     WP_003491098.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..350
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..350
+                     /product="methylcobamide--CoM methyltransferase"
+                     /calculated_mol_wt=38355
+     Region          7..343
+                     /region_name="URO-D"
+                     /note="Uroporphyrinogen decarboxylase (URO-D); pfam01208"
+                     /db_xref="CDD:307389"
+ORIGIN      
+        1 mikeemtpke riiafskgee tdriicipdm gvtmvpfigv tareyyhsaq lmadleialf
+       61 krlrhdgvsi stslrgvaea mgakvgypdy gisyliepai ncvdaieslk vvdplkdgnl
+      121 ptlleairlt rdaledevdv gaamsgpfsv aasvvgtenl lkwmikypkk vhtlmdivae
+      181 snnryieeva klgvsigfad pvsstslisp kqfrefslpa lkrninkike ktggapaihi
+      241 cgkskelwed vvnagisnfs idnaedleea knimgdrvvi tgnvppvdvv yrgnkeaifk
+      301 svkecikkgh dskkgyilst gcqipmhtpi eniemfmeag ktygkypidl
+//
+
+

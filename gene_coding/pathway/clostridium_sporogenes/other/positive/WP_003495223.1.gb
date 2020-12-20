@@ -1,0 +1,38 @@
+LOCUS       WP_003495223             224 aa            linear   BCT 18-NOV-2019
+DEFINITION  MULTISPECIES: glycosyltransferase family 2 protein [Clostridium].
+ACCESSION   WP_003495223
+VERSION     WP_003495223.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11500020
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..224
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..224
+                     /product="glycosyltransferase family 2 protein"
+                     /calculated_mol_wt=25575
+     Region          2..220
+                     /region_name="glyco_like_mftF"
+                     /note="transferase 2, rSAM/selenodomain-associated;
+                     TIGR04283"
+                     /db_xref="CDD:275103"
+ORIGIN      
+        1 mvsiivpvln eertienlli nlkrlkgeke iliidggskd sttdiaspyg kvikskkgrs
+       61 nqmncgares ngnilwfvhs dstvhyestv aiekaikdgy igggfpiyfy dlnslfmkyi
+      121 sktsniradk fniyygdqgi fvkkdiflnm ggypsldime dlefsfrlrk lgnlkllpyy
+      181 igtsarrfkk ggqfkthilm hklrilyfmg vpteklnkiy qeer
+//
+
+

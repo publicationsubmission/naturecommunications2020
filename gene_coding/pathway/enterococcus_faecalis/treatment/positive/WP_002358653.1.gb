@@ -1,0 +1,31 @@
+LOCUS       WP_002358653             190 aa            linear   BCT 25-AUG-2017
+DEFINITION  MULTISPECIES: hypothetical protein [Bacilli].
+ACCESSION   WP_002358653
+VERSION     WP_002358653.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..190
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..190
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=20801
+     Region          7..188
+                     /region_name="Abhydrolase"
+                     /note="alpha/beta hydrolases; cl21494"
+                     /db_xref="CDD:354836"
+ORIGIN      
+        1 mkqffqkgsk pnqlvvafhg tggneyqllt tiatlypeas vlsylgtegv geqrrffapl
+       61 vngalpranf dervtaflee vwqpqklyde vifigysnga nfilgllekn ptiantvill
+      121 hpsnlgyqyv sgefatkviv ttgaqdelsi pgqvlslanq lkkhfpvdfl lvdgghglse
+      181 eevtkikevl
+//
+
+

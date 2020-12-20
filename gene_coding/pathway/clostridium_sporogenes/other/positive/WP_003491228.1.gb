@@ -1,0 +1,37 @@
+LOCUS       WP_003491228             175 aa            linear   BCT 08-OCT-2019
+DEFINITION  MULTISPECIES: YeeE/YedE family protein [Clostridium].
+ACCESSION   WP_003491228
+VERSION     WP_003491228.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF016064.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF04143.12
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..175
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..175
+                     /product="YeeE/YedE family protein"
+                     /calculated_mol_wt=19468
+     Region          8..>169
+                     /region_name="Sulf_transp"
+                     /note="Sulphur transport; cl19477"
+                     /db_xref="CDD:327562"
+ORIGIN      
+        1 mkcikdrlkk pwpywiggil lgilnvalla itevawhvts gfllwgaavl dfwgaeplkw
+       61 dffnifnvqy keillnhslv inkftilnia viigsliatl fasqfnikki knrkqviial
+      121 iggiimgyga rlasgcnigs fligissfsl hgwiywifit lgafigtlil kkfil
+//
+
+

@@ -1,0 +1,49 @@
+LOCUS       WP_003495166             688 aa            linear   BCT 20-JUN-2019
+DEFINITION  MULTISPECIES: flagellar biosynthesis protein FlhA [Clostridium].
+ACCESSION   WP_003495166
+VERSION     WP_003495166.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01398.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01398
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..688
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..688
+                     /gene="flhA"
+     Protein         1..688
+                     /product="flagellar biosynthesis protein FlhA"
+                     /calculated_mol_wt=75255
+     Region          1..688
+                     /region_name="flhA"
+                     /note="flagellar biosynthesis protein FlhA; Validated;
+                     PRK06012"
+                     /db_xref="CDD:235672"
+ORIGIN      
+        1 megtnrrfki knnidiiaaf gvigivlmii iplpssildv llalnitfsv viilitmftt
+       61 evlqfssfpt lllittlfrl glnisstrli lrdayagkii etfgslvtgg nyvigiiifl
+      121 iiviiqfvvi tsgasrvsev sarftldamp gkqmsidadl naglideqga kekrqnlqke
+      181 adfygsmdga skfvkgdava gliitfinii agiiigvvml kmdigtaaqt yirltigdgl
+      241 vgqipallis tasgilvtrs gsdenlgtvl akqltgfpkv laiasvvllf lamipglphl
+      301 aflilaiana vaayllfkea keqvimqeea qqmeiteies kepenvmnlv svepmeveig
+      361 ygliplades aggdllqrit svrrqcaiem gvvvqpirir dnlqlktney iikirgttit
+      421 kgelmpnmll cmdptgevei pgikgmepaf glpavwinkd qreeaelkgl tvvdpttvmv
+      481 thlteiiknh syellgrqev klildsmkek ysavteelip dlmtigeiqk vlqnllkerv
+      541 sikdmvtile sladnsrntk dievlteyvr fslarsicnp lidenaaltv itldpsieqt
+      601 innniqksmq gsfpaldpdt tssilnglkq kldevyfynn qavvlvspni rpafrrliem
+      661 vfpavnvlsl nevpndveir tegvvtlq
+//
+
+

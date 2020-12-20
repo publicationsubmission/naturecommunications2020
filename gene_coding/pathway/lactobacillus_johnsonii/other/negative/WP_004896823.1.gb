@@ -1,0 +1,60 @@
+LOCUS       WP_004896823             465 aa            linear   BCT 10-OCT-2019
+DEFINITION  dipeptidase PepV [Lactobacillus johnsonii].
+ACCESSION   WP_004896823
+VERSION     WP_004896823.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 465)
+  AUTHORS   Jozic,D., Bourenkow,G., Bartunik,H., Scholze,H., Dive,V.,
+            Henrich,B., Huber,R., Bode,W. and Maskos,K.
+  TITLE     Crystal structure of the dinuclear zinc aminopeptidase PepV from
+            Lactobacillus delbrueckii unravels its preference for dipeptides
+  JOURNAL   Structure 10 (8), 1097-1106 (2002)
+   PUBMED   12176387
+REFERENCE   2  (residues 1 to 465)
+  AUTHORS   Hellendoorn,M.A., Franke-Fayard,B.M., Mierau,I., Venema,G. and
+            Kok,J.
+  TITLE     Cloning and analysis of the pepV dipeptidase gene of Lactococcus
+            lactis MG1363
+  JOURNAL   J. Bacteriol. 179 (11), 3410-3415 (1997)
+   PUBMED   9171382
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01886.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01886
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..465
+                     /gene="pepV"
+     Protein         1..465
+                     /product="dipeptidase PepV"
+                     /EC_number="3.4.13.-"
+                     /calculated_mol_wt=51280
+     Region          2..465
+                     /region_name="PRK07318"
+                     /note="dipeptidase PepV; Reviewed"
+                     /db_xref="CDD:235988"
+ORIGIN      
+        1 meeldykkla qekkdailnd lkeliaidss edlnntskey pvgpgpvkam kkflsfakrd
+       61 gfdtenfdny agrinmgsgd krvgiighmd vvpagegwkt dpfkmtikdg kiygrgsadd
+      121 kgpslaayyg mlilkehgfk pkkkidfvlg tneetnwvgi dyylkhqpap dvafspdaef
+      181 piingeqgiv tlkldfkfdp sqgdvklwtf qsgiatnvip qtahaqlegd idgikekfdl
+      241 flkehklegk aemlsgrlal tltghgahas apetgrnaat ylalfldsln fdgqaknflh
+      301 flatvehkdf ngkklgifhh ddlmgdltss psmfnfegqn ayllnnvryp qgiepeemvk
+      361 ninekfgdil darvegsaea phyvpgddpi vktllsvyek qtgkkghevi igggtygrlf
+      421 khgvafgaqp egaplvmhqp neymkvddli nsiaiyaeai yeltk
+//
+
+

@@ -1,0 +1,40 @@
+LOCUS       WP_002390030             148 aa            linear   BCT 13-MAY-2018
+DEFINITION  MULTISPECIES: GNAT family N-acetyltransferase [Bacilli].
+ACCESSION   WP_002390030
+VERSION     WP_002390030.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10456837
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..148
+                     /product="GNAT family N-acetyltransferase"
+                     /calculated_mol_wt=17324
+     Region          14..127
+                     /region_name="Acetyltransf_1"
+                     /note="Acetyltransferase (GNAT) family; pfam00583"
+                     /db_xref="CDD:334159"
+     Site            order(75..77,87..88)
+                     /site_type="other"
+                     /note="Coenzyme A binding pocket [chemical binding]"
+                     /db_xref="CDD:173926"
+ORIGIN      
+        1 meihfekvts dnrkavenlq vfaeqqtfie smaenlkesd qfpewesagi ydgnqligya
+       61 mygrwqdgrv wldrflidqr fqgqgygkaa crllmlmlie kyqtnklyls vydtnssair
+      121 lyqqlgfvfn geldtngerv mewtyqnk
+//
+
+

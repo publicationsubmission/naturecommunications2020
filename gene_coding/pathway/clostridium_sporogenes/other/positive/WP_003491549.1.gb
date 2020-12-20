@@ -1,0 +1,43 @@
+LOCUS       WP_003491549             332 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: tryptophan--tRNA ligase [Clostridium].
+ACCESSION   WP_003491549
+VERSION     WP_003491549.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00233.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00233
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..332
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..332
+                     /gene="trpS"
+     Protein         1..332
+                     /product="tryptophan--tRNA ligase"
+                     /EC_number="6.1.1.2"
+                     /calculated_mol_wt=37764
+     Region          5..332
+                     /region_name="PRK00927"
+                     /note="tryptophanyl-tRNA synthetase; Reviewed"
+                     /db_xref="CDD:234866"
+ORIGIN      
+        1 mednkkvifs giqpsgnltl gnylgalknw vklqdeydcy ycvvdlhait vkqepkdlrr
+       61 rtlevlaiyi asgidpdknt ifiqshvpth ceagwllncn tyigelfrmt qykdksqryg
+      121 esvsagllty pvlmaadill yntdlvpvgk dqkqhleitr dlaqrfnnly sptfkipepy
+      181 ipeagakimd lqdptkkmsk ssdnensyil imdppdairr kinrcvtdsl givkytddqp
+      241 giknlmtils titgmdmeei ekkyagkgya qfkndvaeai iselepiqnk vnelltnkey
+      301 lesiykkgae kaykasykml rkmqkkigfi pr
+//
+
+

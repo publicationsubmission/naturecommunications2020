@@ -1,0 +1,37 @@
+LOCUS       WP_003496603              60 aa            linear   BCT 29-JUN-2018
+DEFINITION  MULTISPECIES: aspartyl-phosphate phosphatase Spo0E family protein
+            [Clostridium].
+ACCESSION   WP_003496603
+VERSION     WP_003496603.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10559368
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..60
+                     /product="aspartyl-phosphate phosphatase Spo0E family
+                     protein"
+                     /calculated_mol_wt=6822
+     Region          7..50
+                     /region_name="SpoOE-like"
+                     /note="Spo0E like sporulation regulatory protein;
+                     pfam09388"
+                     /db_xref="CDD:312777"
+ORIGIN      
+        1 mseledllkd idilrqqlne linkkqgnlv dpevvtaskv lnaalnqynk fideklkknr
+//
+
+

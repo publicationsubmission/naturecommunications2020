@@ -1,0 +1,57 @@
+LOCUS       WP_002359009             858 aa            linear   BCT 16-JUN-2019
+DEFINITION  DNA mismatch repair protein MutS [Enterococcus faecalis].
+ACCESSION   WP_002359009
+VERSION     WP_002359009.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 858)
+  AUTHORS   Eisen,J.A.
+  TITLE     A phylogenomic study of the MutS family of proteins
+  JOURNAL   Nucleic Acids Res. 26 (18), 4291-4300 (1998)
+   PUBMED   9722651
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01070.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01070
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..858
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..858
+                     /gene="mutS"
+     Protein         1..858
+                     /product="DNA mismatch repair protein MutS"
+                     /calculated_mol_wt=96736
+     Region          1..858
+                     /region_name="PRK05399"
+                     /note="DNA mismatch repair protein MutS; Provisional"
+                     /db_xref="CDD:235444"
+ORIGIN      
+        1 mpqktkntpm meqylsikaq ykdaflfyrl gdfyelfyed ainaaqilel tltsrnrnad
+       61 dpipmcgvpy haaqgyidtl ieqgykvaic eqvedpkttk gmvkrevvql vtpgtvmnsk
+      121 gleakdnnyl tavltdgnqf gfayvdlstg elktavlade egvlneasal qtkemvlgsg
+      181 ipeslkenls lrlniifstq etveenaefs fltnelinpl eieitgklls ylsvtqkrsl
+      241 shiqkaveyq pdhflkmdhy skfnlelsqs irtgqkkgtl lwlldetkta mggrllkqwl
+      301 drpliqerqi ktrqemvqsl lnayferldl qaaltnvydl erlagrvafg svngrdliql
+      361 rtsleqvpti rqlivginqg ewddllvdln pvedlvalia taineeaplq itegnvikdg
+      421 yndqldeyrd amrngkqwla eleakerqet giknlkigyn rvfgyfieit ksnlanleeg
+      481 kyerkqtlan aerfitpelk elerlileae eksveleyql flavreqvkt nidrlqtlak
+      541 tisavdvlqs fatiseryqy vrptlrsntk nlaivegrhp vvekvlghqe yipnsirmnp
+      601 etdillitgp nmsgkstymr qlaltvvmaq igcfvpaesa empifdqift rigasddlia
+      661 gqstfmvemm eanqalrhat pnslilfdel grgtatydgm alaqaiieyi hrevqaktlf
+      721 sthyheltvl detlkglkni hvgavekdge vvflhkmmeg padksygihv akiaglpspl
+      781 leraatilsa leaeettips svhheevsev heeteqlslf kevsteelsv idtlkkmnll
+      841 emtpldalnm lhqlqkri
+//
+
+

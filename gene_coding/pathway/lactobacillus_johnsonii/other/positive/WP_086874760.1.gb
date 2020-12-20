@@ -1,0 +1,58 @@
+LOCUS       WP_086874760             955 aa            linear   BCT 28-NOV-2019
+DEFINITION  excinuclease ABC subunit UvrA [Lactobacillus johnsonii].
+ACCESSION   WP_086874760
+VERSION     WP_086874760.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 955)
+  AUTHORS   Kulkarni,A.S., Khalap,N. and Joshi,V.P.
+  TITLE     Haemophilus influenzae UvrA: overexpression, purification, and in
+            cell complementation
+  JOURNAL   Protein Expr. Purif. 37 (2), 462-467 (2004)
+   PUBMED   15358371
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF001503.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00349
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..955
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..955
+                     /product="excinuclease ABC subunit UvrA"
+                     /EC_number="3.1.25.-"
+                     /calculated_mol_wt=106061
+     Region          1..937
+                     /region_name="uvrA"
+                     /note="excinuclease ABC subunit A; Reviewed; PRK00349"
+                     /db_xref="CDD:234734"
+ORIGIN      
+        1 mandkivihg arehnlkdis lsipkdklvv itglsgsgks slafdtlyae grrryvesls
+       61 syarqflgqm dkadvdsidg lnpaisidqk ttshnprstv gtvteindyl rllwarvghp
+      121 icpndgtlie rqsvdqmvdr vmdlpersri qilapvirsk rgehkevfkr iqragyvrvi
+      181 vdgemheitd efeldknkrh sidivvdrlv vkenirsrlf dsveaalrla dgymdvdvik
+      241 gerinfseyy acpicgftvg emeprlfsfn apfgacpdcd glgmklsvde dlvipdkdks
+      301 lndgalvpwa nskyytamle qactalkipl dkpykkltkr qkdlilngsk gkkikfhleg
+      361 dfgvndtvqe fegilnninr ryhhpmskfm rdamgkymte ltcstchgkr lnekalavkv
+      421 ngkdiaeasd lsiakaleff nsvklseqee miakpilkev rdrltflinv gldyltlsrs
+      481 agtlsggeaq rirlatqigs nlsgvmyild epsiglhqrd ndrlisslkk mrdlgnsliv
+      541 vehddetmkq adylvdmgpg agvyggkvma agtpeevmqn phsltgeyls gkkivpvple
+      601 rrkgngkkit vtgakennlk disvdfplgk lvvvtgvsgs gkstlvnlil kralaqklnn
+      661 nsakpgkyes ikgyknieki ididqspigr tprsnpatyt svfddiralf aqtneakmrg
+      721 ytkarfsfnv kggrceachg dgiikiemnf lpdvyvpcev chgtrynset levtyrekni
+      781 sqvlnmtine ackffenipk ihrklqtivd vglgyvklgq sattlsggea qrmklaselq
+      841 klstgnnfyi ldepttglht ddikrllevl qrlvdegntv liiehnldvi knadwlidlg
+      901 peggdgggqv vatgtpeeva qvkesytgqy lkpvlerdte ltkqminnkk eqges
+//
+
+

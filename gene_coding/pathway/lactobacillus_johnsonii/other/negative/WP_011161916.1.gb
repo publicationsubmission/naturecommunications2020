@@ -1,0 +1,42 @@
+LOCUS       WP_011161916             450 aa            linear   BCT 04-JUL-2017
+DEFINITION  APC family permease [Lactobacillus johnsonii].
+ACCESSION   WP_011161916
+VERSION     WP_011161916.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 12146941
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..450
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..450
+                     /product="APC family permease"
+                     /calculated_mol_wt=49060
+     Region          11..407
+                     /region_name="AA_permease_2"
+                     /note="Amino acid permease; pfam13520"
+                     /db_xref="CDD:316078"
+ORIGIN      
+        1 mtnkssvpkk lsfisiyflg inavigsgtf llpsviyrym nltailvllc tavtvsmial
+       61 cyadlssrft qsgaawlysy nafgrfsgye lgiftwflgc ttlsaevval ltilksflpi
+      121 fknnavyisg viflillfsi inffgrswvk ivnnisaaak iitllvfiiv gaffikkahf
+      181 tpviphaalt gvgpffkhfg aaftpifylf tgfsfipiaa kqmnnpekni prvliavmts
+      241 vtildclmll vaiglsgqkl gsysnplasa lktgvgqwgf afmivgmlis ifgvafsasf
+      301 ntpsliasla tehgmlpkwi gkknkhdapw vgiiftavls galatqsylf lvsctvlasf
+      361 vqyvpsilav ikfkhsneyp thgfslpgky tipiialiis cymvtnftpk tlllgavvav
+      421 iaaacyffid kdeklekehe dflaklrrkn
+//
+
+

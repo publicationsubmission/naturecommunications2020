@@ -1,0 +1,60 @@
+LOCUS       WP_052691700             816 aa            linear   BCT 03-OCT-2019
+DEFINITION  phage tail tape measure protein [Clostridium sporogenes].
+ACCESSION   WP_052691700
+VERSION     WP_052691700.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+REFERENCE   1  (residues 1 to 816)
+  AUTHORS   Pedersen,M., Ostergaard,S., Bresciani,J. and Vogensen,F.K.
+  TITLE     Mutational analysis of two structural genes of the temperate
+            lactococcal bacteriophage TP901-1 involved in tail length
+            determination and baseplate assembly
+  JOURNAL   Virology 276 (2), 315-328 (2000)
+   PUBMED   11040123
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01760.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01760
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..816
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..816
+                     /product="phage tail tape measure protein"
+                     /calculated_mol_wt=87235
+     Region          1..282
+                     /region_name="PhageMin_Tail"
+                     /note="Phage-related minor tail protein; cl26558"
+                     /db_xref="CDD:331379"
+     Region          <449..>666
+                     /region_name="Neuromodulin_N"
+                     /note="Gap junction protein N-terminal region; cl26511"
+                     /db_xref="CDD:331332"
+ORIGIN      
+        1 magwktqdml dglppilnla iasgeelgst sdivtdalta fglkakdagm fsdvlaaass
+       61 nantnvgmmg atfqyaapva galgytvqdt aiaiglmana gikadkagta irtgltnlvk
+      121 ptdamatamd kygisikdad gkvkpfreti tmlrdklgnl dkatqaqvvs tifgkeamsg
+      181 wlsvinaspa dvnkltnaid tskgatdkma atmsknakgs itemksaleg agikifevla
+      241 psitsaanki seladkfskl spetqknivk fgamaiatag itkgvgslli gigntkialg
+      301 alglkigata tttatagatm attgakagll stafsgikga gglaaggvak lagalgmsvp
+      361 vlgiavagva avgfgayklh knlkqdavpa vdlfdkklkt tkttmdqygn kitttatktv
+      421 nftnqtkkav gqfvkdsdkv nktvfnlcan qtkitaktak diaqqyvnmg nqikqaedtk
+      481 ykerlasfke flnnnntmsa edkaqalqkm qeahdkqqqq tdnytkriaq ildnarnnnr
+      541 aitaqeqqei ndiqekmkve gvkklstseq esktilsrlk qygtritaeq asdiiknaek
+      601 qrsgsvdkan qqynqtvaqi kkmrdedhsi tkdqatkmia eaerqkkgsi ekaeqhkngv
+      661 vkqiqkmnsd tlkdidttdg himtkweklk swfannpivr wiksktsgdp epqkkwtgdr
+      721 yfsggltylh dapgrnsnye lydlprgtri fnhdasqdlv mqtaesvatk vannvlkgfn
+      781 gtnginvtqh iyspvptpse larqsknnlr elalnw
+//
+
+

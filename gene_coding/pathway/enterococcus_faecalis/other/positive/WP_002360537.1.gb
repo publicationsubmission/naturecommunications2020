@@ -1,0 +1,42 @@
+LOCUS       WP_002360537             234 aa            linear   BCT 31-MAY-2019
+DEFINITION  acetolactate decarboxylase [Enterococcus faecalis].
+ACCESSION   WP_002360537
+VERSION     WP_002360537.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01252.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01252
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..234
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..234
+                     /gene="budA"
+     Protein         1..234
+                     /product="acetolactate decarboxylase"
+                     /EC_number="4.1.1.5"
+                     /calculated_mol_wt=25540
+     Region          6..222
+                     /region_name="AAL_decarboxy"
+                     /note="Alpha-acetolactate decarboxylase; pfam03306"
+                     /db_xref="CDD:308752"
+ORIGIN      
+        1 mseqyvyqhg tlgglmeslm agtaeigtll tqgdfgigtl egsngeiill dgtlyhanqt
+       61 geitilegee ltpyaavtrf qedgafpvst etdenikaqi lekispnffa aikisglfak
+      121 mhvrvapkqe kpyppfveaa rnqpeftaen iqgtvvgfft pklfhgasaa gfhlhfised
+      181 hqfgghilnf gikqgtvswm etaelrqhfp vhdadyrnke idiakalsai eeae
+//
+
+

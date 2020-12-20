@@ -1,0 +1,38 @@
+LOCUS       WP_002404533             140 aa            linear   BCT 12-OCT-2019
+DEFINITION  ImmA/IrrE family metallo-endopeptidase [Enterococcus faecalis].
+ACCESSION   WP_002404533
+VERSION     WP_002404533.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF017885.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF06114.11
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..140
+                     /product="ImmA/IrrE family metallo-endopeptidase"
+                     /calculated_mol_wt=16686
+     Region          25..>92
+                     /region_name="DUF955"
+                     /note="Domain of unknown function (DUF955); cl01076"
+                     /db_xref="CDD:321329"
+ORIGIN      
+        1 mylklkells dynlklvyme meesgfyypk privflnekl hedraeafhl ahelghfias
+       61 hyeyttlyds siifhskfet eankiaiiil lnifvenelt desqfkldnf mdfysinsnl
+      121 rtecfdvchs yfkknysyaq
+//
+
+

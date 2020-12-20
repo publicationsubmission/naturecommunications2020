@@ -1,0 +1,41 @@
+LOCUS       WP_077272592             336 aa            linear   BCT 09-APR-2019
+DEFINITION  MULTISPECIES: helix-turn-helix transcriptional regulator
+            [Clostridium].
+ACCESSION   WP_077272592
+VERSION     WP_077272592.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11454391
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..336
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..336
+                     /product="helix-turn-helix transcriptional regulator"
+                     /calculated_mol_wt=38863
+     Region          215..321
+                     /region_name="AraC"
+                     /note="AraC-type DNA-binding domain and AraC-containing
+                     proteins [Transcription]; COG2207"
+                     /db_xref="CDD:225117"
+ORIGIN      
+        1 mlkesdmiqe hellnkiasi qkcdkdgyrt iykmdclngv gtmmvykvft gieliinefe
+       61 sttclcnvst ndniieinhc eegrqecefl ngsylylgeg dlsihtmnnh ahtmgfplky
+      121 ykgisvllyl deiardvpei lkdisidiyg lkekfcinne cfvmrandki knifselyyv
+      181 pesvqkayfk lkvlellmfl niidvskkrq geyysqqqve tikqikklit edfkhrytiq
+      241 elskkycisq ttlktyfkgi ygtsmasymk eyrmkqaavm lretsnsvad iaisvsyqsq
+      301 skfaasfkei igispfeyrk kclaeanish qeyict
+//
+
+

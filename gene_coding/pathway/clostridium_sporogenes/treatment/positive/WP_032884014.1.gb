@@ -1,0 +1,37 @@
+LOCUS       WP_032884014              71 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: SirA family protein [Clostridium].
+ACCESSION   WP_032884014
+VERSION     WP_032884014.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..71
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..71
+                     /product="SirA family protein"
+                     /calculated_mol_wt=7857
+     Region          6..71
+                     /region_name="SirA_like_N"
+                     /note="SirA_like_N, a protein of unknown function with an
+                     N-terminal SirA-like domain. The SirA, YedF, YeeD protein
+                     family is present in bacteria as well as archaea. SirA
+                     (also known as UvrY, and YhhP) belongs to a family of a
+                     two-component response...; cd03421"
+                     /db_xref="CDD:239513"
+     Site            order(7..8,11,14..17,19)
+                     /site_type="other"
+                     /note="CPxP motif"
+                     /db_xref="CDD:239513"
+ORIGIN      
+        1 mlvlvqidar gvscpqpvlm tkkalaynke gidvivdnmt argnvqrfmk nsgykvtiee
+       61 keddfilsar k
+//
+
+

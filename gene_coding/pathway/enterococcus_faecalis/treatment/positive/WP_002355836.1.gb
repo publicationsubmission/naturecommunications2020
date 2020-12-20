@@ -1,0 +1,43 @@
+LOCUS       WP_002355836             327 aa            linear   BCT 02-JUN-2019
+DEFINITION  MULTISPECIES: phosphate acetyltransferase [Bacilli].
+ACCESSION   WP_002355836
+VERSION     WP_002355836.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00651.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00651
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..327
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     gene            1..327
+                     /gene="pta"
+     Protein         1..327
+                     /product="phosphate acetyltransferase"
+                     /EC_number="2.3.1.8"
+                     /calculated_mol_wt=35428
+     Region          1..326
+                     /region_name="eutD"
+                     /note="phosphotransacetylase; Reviewed; PRK09653"
+                     /db_xref="CDD:236609"
+ORIGIN      
+        1 melfdslkfk vvrrnikivf peatdprilg aaarlksdel vepiligdpt dianaamarg
+       61 intsnfiiin pndyekwdem veafverrng katkedaeki lkdvnyfgtm ltymgiadgm
+      121 vsgaihstgd tvrpalqiik tkpgvsrtsg aflmirgrdq erylfsdcai nvnptaqela
+      181 eiavdsakta elfdiepkvs llsfstkgsa kapevtkvae atkiaqelap eyaidgelqf
+      241 dasyvssvaq lkapnskvag eatvfvfpdl qsgnigykia qrlgnfeaig pilqglnkpv
+      301 sdlsrganee dvyklsiita aqtlmnd
+//
+
+

@@ -1,0 +1,37 @@
+LOCUS       WP_032883753             207 aa            linear   BCT 27-JUL-2019
+DEFINITION  MULTISPECIES: DUF1836 domain-containing protein [Clostridium].
+ACCESSION   WP_032883753
+VERSION     WP_032883753.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10556141
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..207
+                     /product="DUF1836 domain-containing protein"
+                     /calculated_mol_wt=24423
+     Region          25..129
+                     /region_name="DUF1836"
+                     /note="Domain of unknown function (DUF1836); pfam08876"
+                     /db_xref="CDD:312426"
+ORIGIN      
+        1 menenlekik yinklakeis nntivdyedf pkydlflsqv idylndkfee edytnnivqn
+       61 yikneviskp qdgkkrgytk lhlvqlvlls ymrpllttee iknvftlafn eindrsddii
+      121 swenaykifs diqkdsfkdf larqqfdedk lkdiitklel dsdeenriti flivmtlicq
+      181 asaikklvkk ivndytnnid skldyee
+//
+
+

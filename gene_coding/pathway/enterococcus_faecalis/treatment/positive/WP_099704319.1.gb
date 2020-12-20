@@ -1,0 +1,35 @@
+LOCUS       WP_099704319             671 aa            linear   BCT 17-JUL-2019
+DEFINITION  MULTISPECIES: hypothetical protein [Bacteria].
+ACCESSION   WP_099704319
+VERSION     WP_099704319.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (eubacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..671
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     Protein         1..671
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=78913
+ORIGIN      
+        1 mpgtdtfkey ldymerseat rnehfdqfna fspdnsmdsi aavegsnetm fstyndymsn
+       61 pkktsalftn nydqapeevi rymkeyfema qenksplwql vfsfrnewli ennyldpetn
+      121 qlktqhiyqa trlaiaelek keglkgewtg avhyntdnih vhvgyveknp trewifykhp
+      181 kepsktgwqf kgkflqksik atkrtfvnel mqnkeqlsml etyvthqkkl aesckeqftq
+      241 gkyeqlftdl lqklpsnqyf wkygfaerhk fkpeldkivd lfmetdgket mdeilprlqk
+      301 isddyeeayg nprneptyld kqlygksgly srignmilqe aknypellak rktglmnesd
+      361 feqfnfetei esegliepfd slemtmpqee naeesmiydd vlphellees heevnnieeq
+      421 ikvkqsenkm dqalktlhdy ftereeskds rnlkivdqlk aekesskkei rgmflheveg
+      481 nqfaepvssf thetlgrkii lpsknkahyi sietskdkev dsnlqsfsgn nqrailqqip
+      541 tathvlgekq wqlnnrqire deienaikiv tikkdesgsf vfetkdvydi sqtdklpkke
+      601 rnanykieka tekngqkrvt kvsnrkpvvs hkksdyefkk qlrqlrksce rsvqrylnek
+      661 ayqeleqsmn i
+//
+
+

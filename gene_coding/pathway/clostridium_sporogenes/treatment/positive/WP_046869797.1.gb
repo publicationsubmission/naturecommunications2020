@@ -1,0 +1,52 @@
+LOCUS       WP_046869797             655 aa            linear   BCT 28-JUL-2019
+DEFINITION  M6 family metalloprotease domain-containing protein, partial
+            [Clostridium sporogenes].
+ACCESSION   WP_046869797
+VERSION     WP_046869797.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR03296.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR03296
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: incomplete on the amino end.
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         <1..655
+                     /product="M6 family metalloprotease domain-containing
+                     protein"
+     Region          99..380
+                     /region_name="Peptidase_M11"
+                     /note="Gametolysin peptidase M11; cl21618"
+                     /db_xref="CDD:354892"
+     Region          598..641
+                     /region_name="ChiA1_BD"
+                     /note="chitin-binding domain of Chi A1-like proteins;
+                     cd12214"
+                     /db_xref="CDD:213177"
+ORIGIN      
+        1 asgdefynyf hdsngrailk dektgyyvyg kyvkdevqps rervtesnie nlkqidsdsr
+       61 vnmkdvklpk dkiqerrkll nadkpaqrak nsgklnnivi fikfsdqdef ktslskydne
+      121 fnskdqvsvn nyfkeisydk ldinttfypk pngntilsyt dshprsyytn vpenqrvake
+      181 qtllkntves vrnqipsdln vdsdndgkvd nvcfiikgat tewssllwph kwnmfydvri
+      241 nnkridtynf qledhlntqg vgvlshemfh tlgapdlyhy hqesrctndp vgpwdimast
+      301 shtpqstgay mkmnygkwid dikeinkpgk ysinkignda nnsyiikspn sdkeyfvvey
+      361 rkregkydln lhgegllvyr intafagkgn idgadiggtg iggdevylyr pngslnnigd
+      421 likaplgynr ssigskelfl sdgrdsgisl knistlgdta nfdvvingqt gngetgyekl
+      481 plkynvnfnd tktlskaedi sgecvygkki nnielylngs kymdaergrl ndpenkykgy
+      541 dlskaafkfs vdfsrfsdgn ypyeiritte dgqkisikqg ylkvkkqtgg tedkdikewk
+      601 pgtsykvgdi vtynnykykc lqahnaivtw epsktpalwq efikykliin htalr
+//
+
+

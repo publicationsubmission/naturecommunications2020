@@ -1,0 +1,32 @@
+LOCUS       WP_033060672             222 aa            linear   BCT 02-NOV-2019
+DEFINITION  GlcNAc-PI de-N-acetylase [Clostridium sporogenes].
+ACCESSION   WP_033060672
+VERSION     WP_033060672.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..222
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..222
+                     /product="GlcNAc-PI de-N-acetylase"
+                     /calculated_mol_wt=25629
+     Region          6..190
+                     /region_name="PIG-L"
+                     /note="GlcNAc-PI de-N-acetylase; cl00929"
+                     /db_xref="CDD:321254"
+ORIGIN      
+        1 msnsrhpdde ilgvggtilk qskdgdecfa lilgegmtsr ynkreladsi kveklykdtf
+       61 kagkivgykk fymeelpdnr fdsvslldii kiieeyieni kpdiiythfg gylnidqkit
+      121 feavlttirp igneyvkeiy afetvsstew nfnstfnfkp nyfiditetl deklkamecy
+      181 kselrefphp rlnknlkasa lkwgsviske yveafeviri ik
+//
+
+

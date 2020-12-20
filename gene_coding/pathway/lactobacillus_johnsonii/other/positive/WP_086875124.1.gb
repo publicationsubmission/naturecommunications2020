@@ -1,0 +1,47 @@
+LOCUS       WP_086875124             665 aa            linear   BCT 11-JAN-2018
+DEFINITION  AAA family ATPase [Lactobacillus johnsonii].
+ACCESSION   WP_086875124
+VERSION     WP_086875124.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012234.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00004.27
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..665
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..665
+                     /product="AAA family ATPase"
+                     /calculated_mol_wt=74232
+     Region          406..660
+                     /region_name="T7SS_EccA"
+                     /note="type VII secretion AAA-ATPase EccA; cl28523"
+                     /db_xref="CDD:333343"
+ORIGIN      
+        1 mtvfvvgpdd rgffkkqrtt wefedalnqa sdgddilikr dyqfpledqn yvinkslnis
+       61 gedntfvlgg fiikngaqvk lnnltlqhyh dknnslqvtn nsqliathvs mvneattgqn
+      121 ypiiyvddga taqfndlyve kdkigdsahr iyiekgnlei knstlnckit sieanltlqn
+      181 ttlsygesnv lslsantvat lqnvtvtggv kekdypcvfs sestlnivss iikepnysga
+      241 lylqkaaqak venslidsly lydqskidvg ntsrivesit ledhsaltge tllldgrdng
+      301 kinifakges nlkldwigla fesspnikie dnvtfnvpev yvlkfdstnd eydldennqy
+      361 tivkdnlqnd ieyfttqkke snsnqpskie kdqkdlpkgp qksgmqqlde migletvkqq
+      421 vkefiavtvl nkkreekgln tssqtlhslf lgnpgtgktt varivghvly ekgviaedkl
+      481 ietsradlva gyvgqtaekt rkvlesalgg ilfvdeaytl asggqndfgk eaideilkfm
+      541 edhrsnimii fagytndmek fletnpglrs ripnkfdfed ytvdemvqig lfalkkqqyh
+      601 vnpssyadll knnlskdndn sngrwvrnln dkiikkqavr valsdsysee dlinitdadl
+      661 davrl
+//
+
+

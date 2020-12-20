@@ -1,0 +1,38 @@
+LOCUS       WP_086875080             181 aa            linear   BCT 11-JAN-2018
+DEFINITION  DUF177 domain-containing protein [Lactobacillus johnsonii].
+ACCESSION   WP_086875080
+VERSION     WP_086875080.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10495743
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..181
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..181
+                     /product="DUF177 domain-containing protein"
+                     /calculated_mol_wt=20634
+     Region          59..175
+                     /region_name="DUF177"
+                     /note="Uncharacterized ACR, COG1399; pfam02620"
+                     /db_xref="CDD:335010"
+ORIGIN      
+        1 mlkfsysqik nsrnplthvd envelskeff drskelleda knvhvtgdlf ydepfvtgnf
+       61 tveadvvaps trslkpvkmh qkfnftenys eveptqeqld eedtivtvkd dtidlqkave
+      121 dnlllslpsv iltpeeeakg dfpegegwkv vsqeayqeqq sneenpafak lkdlfkdekn
+      181 k
+//
+
+

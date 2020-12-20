@@ -1,0 +1,44 @@
+LOCUS       WP_033061408             463 aa            linear   BCT 20-JUN-2019
+DEFINITION  MULTISPECIES: dipeptidase PepV [Clostridium].
+ACCESSION   WP_033061408
+VERSION     WP_033061408.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF005591.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK07318
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..463
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..463
+                     /gene="pepV"
+     Protein         1..463
+                     /product="dipeptidase PepV"
+                     /calculated_mol_wt=51038
+     Region          1..463
+                     /region_name="PRK13004"
+                     /note="peptidase; Reviewed; cl27543"
+                     /db_xref="CDD:332364"
+ORIGIN      
+        1 meinkiieel kgdlidstae likiksiege akegkpygeg vasalekale iseklgfktv
+       61 nvdgyvgyae ygegddyigv lghldlvpeg dgwkyppyga eihdgkmygr gttddkgpim
+      121 aalyglkaik eaklplskkv rilfgtneet gsneishyla kekppilgft pdaeypiiya
+      181 ekgitrfdvv kkleiksdkq iklkyvkggd apnivpdyce agiecpdpdm iiksveycan
+      241 kngidlkake keglvvvesv gvaahgstpe vgknaimqmf kfladlplgh cdelqfirff
+      301 nnnvanetdg ksfgvclede psgkttfnvg ivsmnndeir laldirypvt ykaedlmerf
+      361 nkkiegtgie ienfenlpsl yfnaehklik slqkvykeqt gkeptllaig ggtyakdmpn
+      421 mvafgpifpg dpdiihkkne yikiedliln akiyghaiye lak
+//
+
+

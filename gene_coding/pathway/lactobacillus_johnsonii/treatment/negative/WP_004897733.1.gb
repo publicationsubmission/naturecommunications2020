@@ -1,0 +1,42 @@
+LOCUS       WP_004897733             411 aa            linear   BCT 12-JUL-2017
+DEFINITION  insulinase family protein [Lactobacillus johnsonii].
+ACCESSION   WP_004897733
+VERSION     WP_004897733.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11427472
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..411
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..411
+                     /product="insulinase family protein"
+                     /calculated_mol_wt=46349
+     Region          18..410
+                     /region_name="PqqL"
+                     /note="Predicted Zn-dependent peptidase [General function
+                     prediction only]; COG0612"
+                     /db_xref="CDD:223685"
+ORIGIN      
+        1 mkkldvttrd yksgfrakvi rrplfaqkfm giivdfggsd pqklcggahf lehklftkkd
+       61 gdisqrfeel gastnaftty netmfyasft ehwrqvlpli felvgtthft ksnvakeski
+      121 iaqelamyqd dpnwqvnyel mqmmfpktsl aedltgtkss lkkmtpeilq eiydnnyvsc
+      181 rmefvacggf senqtkeilr evgkleskyl iskkvapkkl sivnsqkehn kiiasdlits
+      241 rvgigiklpd fkkvglrnst aqsifemmlq aklgvtspwf ekmqkqgiln spmelqvsyt
+      301 tagnfatiig asskpdlflk niksqllevp vteesfvfqk kealaqtire fddlstiaie
+      361 eaeyglendn fnsaaqaiqs lsfnefytav enildksdif tttlkgkeea n
+//
+
+

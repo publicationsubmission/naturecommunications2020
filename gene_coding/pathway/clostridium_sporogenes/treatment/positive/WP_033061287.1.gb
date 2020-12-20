@@ -1,0 +1,57 @@
+LOCUS       WP_033061287             260 aa            linear   BCT 01-JUN-2019
+DEFINITION  MULTISPECIES: short-chain-enoyl-CoA hydratase [Clostridium].
+ACCESSION   WP_033061287
+VERSION     WP_033061287.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF004475.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05809
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..260
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..260
+                     /product="short-chain-enoyl-CoA hydratase"
+                     /EC_number="4.2.1.150"
+                     /calculated_mol_wt=28362
+     Region          1..259
+                     /region_name="crotonase-like"
+                     /note="Crotonase/Enoyl-Coenzyme A (CoA) hydratase
+                     superfamily. This superfamily contains a diverse set of
+                     enzymes including enoyl-CoA hydratase, napthoate synthase,
+                     methylmalonyl-CoA decarboxylase, 3-hydoxybutyryl-CoA
+                     dehydratase, and dienoyl-CoA isomerase; cl23717"
+                     /db_xref="CDD:329030"
+     Site            order(25,27,59,63..67,106,108..110,132..133,136)
+                     /site_type="other"
+                     /note="substrate binding site [chemical binding]"
+                     /db_xref="CDD:119339"
+     Site            order(65,110)
+                     /site_type="other"
+                     /note="oxyanion hole (OAH) forming residues"
+                     /db_xref="CDD:119339"
+     Site            order(90,98,119..122,134..137,143,145..147,149..150,
+                     155..156,158..159,161..162,165,176,179,194,197..198)
+                     /site_type="other"
+                     /note="trimer interface [polypeptide binding]"
+                     /db_xref="CDD:119339"
+ORIGIN      
+        1 mesknilldk knhiailsln resvlnalnt qvlkdintil ddiendedty vviitgkgka
+       61 fiagadisem knktpkegri fgelgqnvcr kienmekpti aaingyalgg gcelamscdi
+      121 riasekakfg qpevglgitp gfggtqrlsr lvglskakel ilttniiksq ealniglvnk
+      181 vvpaedllke aimlaekivs kpqsavryak sainrgyetd ietgmiiekd vfglcfated
+      241 qkegmeaflk krkpnfinky
+//
+
+

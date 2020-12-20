@@ -1,0 +1,46 @@
+LOCUS       WP_113886625             694 aa            linear   BCT 18-JUL-2018
+DEFINITION  muramidase [Lactobacillus johnsonii].
+ACCESSION   WP_113886625
+VERSION     WP_113886625.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..694
+                     /product="muramidase"
+                     /calculated_mol_wt=73932
+     Region          1..197
+                     /region_name="FlgJ"
+                     /note="Flagellum-specific peptidoglycan hydrolase FlgJ
+                     [Cell wall/membrane/envelope biogenesis, Cell motility];
+                     COG1705"
+                     /db_xref="CDD:224619"
+     Region          <318..485
+                     /region_name="RNase_E_G"
+                     /note="Ribonuclease E/G family; cl26557"
+                     /db_xref="CDD:331378"
+ORIGIN      
+        1 mkkrtftgia taalittagi svtnnlkpdn plktgegtvq aatyqqefld kaipaattas
+       61 skygtytsvm laqatvesaw gqsglaqepn nnlfgikgsy ngqsvnmntg eygnggyytt
+      121 nagfrkypsy tesfedngal lrnqmgnyys gtwvensnny aqatqnglqg kyatdpnyak
+      181 tinsviatng fdkydpvtqv vnenrtvaqt tpvmsapvdp svgtqvdtar vgqnvnvtky
+      241 itynngvkra figngwinal afspitnntt annatantnn snkqttttnn qasqpvktpv
+      301 aqtqqaqpqa paapvkaatv etkkvaevkt paqtttlnvk aetkaaqpvk qlatslaats
+      361 vkkeevkkea vkaepakttp vkveapkaen ketnsapvvk apevkttntv knaetvkket
+      421 tpvvkvaevk kaeapvvkpa ktvkkettpv vkvaevkkae apvvkpvetv kkettpavkt
+      481 tpveesakvv eapvvkpkkv evkevkttpv tisaktvvkp tasvenvapv qsyqsavsta
+      541 aannsygtqw istntapkaa stvlvkvtkt tqvlsapngq klnqqveags afvviaskya
+      601 ngnlyyeisn gkwimakytt qeaqitaksg vltinskpdy gvavwrvpgq dqisgkflkd
+      661 gsswryfrva nvngqtwydl ggnqwisaks vlvr
+//
+
+

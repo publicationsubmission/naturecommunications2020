@@ -1,0 +1,49 @@
+LOCUS       WP_010708117             380 aa            linear   BCT 28-JUL-2019
+DEFINITION  site-specific integrase [Enterococcus faecalis].
+ACCESSION   WP_010708117
+VERSION     WP_010708117.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 13224521
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..380
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..380
+                     /product="site-specific integrase"
+                     /calculated_mol_wt=44158
+     Region          178..351
+                     /region_name="INT_ICEBs1_C_like"
+                     /note="C-terminal catalytic domain of integrases from
+                     bacterial phages and conjugate transposons; cd01189"
+                     /db_xref="CDD:271189"
+     Site            order(181..182,185,202,256,258,331..332,335..336,345)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:271189"
+     Site            order(209,322,325..326)
+                     /site_type="active"
+                     /db_xref="CDD:271189"
+ORIGIN      
+        1 maepkklang kwqlrfkykd pitnewknkm itrstkkacr daetefkski mrgenteaik
+       61 lldfydiwvd tfkknkvsag rmqkialtrk nlhdffgdkq llkgvtkvky qqwinwlakp
+      121 gninekglav etvsnrhniv ksmflealdm qyihsnptrn ikltgqvpek ksnktisidd
+      181 ltkfkealls renttskyfi lvqlytgary qevaaltwds idesneviki knaykydagq
+      241 yrigptksea gvrnidvpss lfyylkkyem eqkkkilrgd lrnpqnfafv skknswpisn
+      301 ssvnkyiket celanieris shsfrharsd llilaeadpi yiktqlghke iiqsyeyasa
+      361 teanrkknke kyenkykdil
+//
+
+

@@ -1,0 +1,51 @@
+LOCUS       WP_033061201             793 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: phenylalanine--tRNA ligase subunit beta
+            [Clostridium].
+ACCESSION   WP_033061201
+VERSION     WP_033061201.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF001878.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00629
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..793
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..793
+                     /product="phenylalanine--tRNA ligase subunit beta"
+                     /EC_number="6.1.1.20"
+                     /calculated_mol_wt=89380
+     Region          1..793
+                     /region_name="pheT"
+                     /note="phenylalanyl-tRNA synthetase subunit beta;
+                     Reviewed; PRK00629"
+                     /db_xref="CDD:234804"
+ORIGIN      
+        1 mkvpvkwlnd yididispke lgdrltlsgs kveevvttgd eiqnvvtgki meirkhpdad
+       61 klsicqvdig kdeniqivta atnmkemdii pvalhgstlh gglkikkgkl rgevsngmfc
+      121 seeelglagd epvyglmild qdtpigedik kvlkmessii dfeitsnrpd clsvigiare
+      181 taatlnkkyt ipvvefspkc senikdylkv evkdtlcrry margiknvki eqspgwmqer
+      241 lleagvrpin nivditnfvm lelgqpmhaf dtkeiktnti vverakegee fttldetere
+      301 ldgdilnikd gdrtvaiagi mgglnsevke dtkeiileca nfdgtniris skklglrtea
+      361 ssrfekdldp nlvelamdra ckliqelgag dvmegsvdvy enklephmle vdsnwinkfl
+      421 gtdiskeemq eyldrldlnt eikgeilevh vptfrcdlni kediaeeiar iygynnipit
+      481 tiksvtmqag knekqrlddk vietlmasgl nqsisysfvs pkvfdkinlk ednilrrvvk
+      541 iknplgedfs imrtttipsm meslsrnysr nndhaalfei gkiyipkedp telpdeknil
+      601 tlglygdvdy fnlkgiveni lgglgidnwk lkrqeenstf hpgrtaelyi kkdyvgilge
+      661 ihpdvqdnyd ieerchvael nldvlyrysn vkkeysqlpk fpavtrdiav ivddtilvqe
+      721 ieniiknggg nilesiqlfd vykgkqipeg kksiaysivy rnaqrtlkds evnkvhdkiv
+      781 rtlehklgaq lrd
+//
+
+

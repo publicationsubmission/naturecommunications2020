@@ -1,0 +1,41 @@
+LOCUS       WP_002359240             328 aa            linear   BCT 28-MAR-2017
+DEFINITION  LLM class flavin-dependent oxidoreductase [Enterococcus faecalis].
+ACCESSION   WP_002359240
+VERSION     WP_002359240.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10022642
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..328
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..328
+                     /product="LLM class flavin-dependent oxidoreductase"
+                     /calculated_mol_wt=36726
+     Region          3..326
+                     /region_name="oxido_grp_1"
+                     /note="luciferase family oxidoreductase, group 1;
+                     TIGR03558"
+                     /db_xref="CDD:274646"
+ORIGIN      
+        1 mklnildqlt vpknqsasdt lqeakelaql aeklgytriw yaehhgsdaf asatpeilva
+       61 hiasatekir vgaggimtmh yapfkvaetf ktlaalypdr idlgmgrspg gsplttlaln
+      121 ngqppqldqf dklpeillfl reefpedhly skisavprev llpqpwllga skesarsage
+      181 yginfsfaqf ihghlpkevl sayykhfrpv teqqepqvsa ayftfaadtk eeaeyhaasf
+      241 ehyifatehg lpnkflspee alafpysemd klvleqnkqr fvigssqeva effhqqeelg
+      301 lteamlitpg ydkqtrfqsf erlakell
+//
+
+

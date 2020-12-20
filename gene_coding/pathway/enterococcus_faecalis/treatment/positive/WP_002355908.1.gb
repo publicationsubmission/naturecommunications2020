@@ -1,0 +1,37 @@
+LOCUS       WP_002355908             122 aa            linear   BCT 09-OCT-2019
+DEFINITION  MULTISPECIES: DUF4828 domain-containing protein [Firmicutes].
+ACCESSION   WP_002355908
+VERSION     WP_002355908.1
+KEYWORDS    RefSeq.
+SOURCE      Firmicutes
+  ORGANISM  Firmicutes
+            Bacteria.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF027436.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF16110.3
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..122
+                     /organism="Firmicutes"
+                     /db_xref="taxon:1239"
+     Protein         1..122
+                     /product="DUF4828 domain-containing protein"
+                     /calculated_mol_wt=13864
+     Region          38..116
+                     /region_name="DUF4828"
+                     /note="Domain of unknown function (DUF4828); pfam16110"
+                     /db_xref="CDD:318357"
+ORIGIN      
+        1 mkkhwtflvg aslltglags ilwkknkqlp spqelqhnyt ghwwfvdvkk atqhtleits
+       61 sfnvfidgkq thallveltp krlvildklg yhliiqceng vpatlydead detytlerai
+      121 yn
+//
+
+

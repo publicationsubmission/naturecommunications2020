@@ -1,0 +1,57 @@
+LOCUS       WP_086874824             614 aa            linear   BCT 15-JUN-2019
+DEFINITION  AAA family ATPase [Lactobacillus johnsonii].
+ACCESSION   WP_086874824
+VERSION     WP_086874824.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024700.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13304.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..614
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..614
+                     /product="AAA family ATPase"
+                     /calculated_mol_wt=71101
+     Region          29..>72
+                     /region_name="RecF"
+                     /note="Recombinational DNA repair ATPase RecF
+                     [Replication, recombination and repair]; cl26227"
+                     /db_xref="CDD:331048"
+     Region          53..346
+                     /region_name="AAA_21"
+                     /note="AAA domain, putative AbiEii toxin, Type IV TA
+                     system; pfam13304"
+                     /db_xref="CDD:315880"
+     Region          <303..427
+                     /region_name="AAA"
+                     /note="ATPases associated with a variety of cellular
+                     activities; cl28181"
+                     /db_xref="CDD:333001"
+ORIGIN      
+        1 mniadklans ksliedikkm qendvfksyi yqirfpfykn flenseinft fpltvfvgkn
+       61 gsgkssllha lygcpyrysi reywfstatd piedgngkne rqsliykysg isskdnkyke
+      121 nqevllhrah rpgtktkkkd pdywesakpv krlgmnveer cspikeevql ldfrqqlsay
+      181 dkffyfgnid dlktdtrqnf irgispklee sltnnriyca kgkiqnkkve ilskedleii
+      241 syilnakyis gkllehkfyr ewgysalitk davkyteana gsgeyaiikl vhrlnkiqkp
+      301 tlilldepet slypgaqerl lnyllwiirk tksqvvisth serfvsklpd dsikaihydp
+      361 tsskssilen cqpptvfndl eipivnkski ivedkaaell lkmiaeneki inlsiqnigc
+      421 gasylkknsi lqsalsddqk tyyildgdqk idkepldink lnvdelknpk lidelvekis
+      481 krisfpsskp rksenknlaf dkikhnsqik ylrffysnvf flpkndpeti fydenirkql
+      541 eemvgaesqk atnanpkqkm hdlfkiingr engtsdqyym ylklfikswi skenndysqi
+      601 asllkkiskk ieev
+//
+
+

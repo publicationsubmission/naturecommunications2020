@@ -1,0 +1,60 @@
+LOCUS       WP_010708116            1229 aa            linear   BCT 19-JUN-2019
+DEFINITION  pyruvate:ferredoxin (flavodoxin) oxidoreductase [Enterococcus
+            faecalis].
+ACCESSION   WP_010708116
+VERSION     WP_010708116.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02176.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02176
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1229
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..1229
+                     /gene="nifJ"
+     Protein         1..1229
+                     /product="pyruvate:ferredoxin (flavodoxin) oxidoreductase"
+                     /calculated_mol_wt=136098
+     Region          4..1171
+                     /region_name="pyruv_ox_red"
+                     /note="pyruvate:ferredoxin (flavodoxin) oxidoreductase,
+                     homodimeric; TIGR02176"
+                     /db_xref="CDD:131231"
+ORIGIN      
+        1 mrkmktmdgn aaaayisyaf telaaiypit psstmaelvd qwsaegkkni fgqpvkvvem
+       61 qseagaagvv hgslktgalt ttytasqgll lmipnmykia gellpsvfhv asralttnal
+      121 nifgdqgdvm aarqtgfaml sessvqevmd lapvahlasi easvpfmnff dgfrtsheiq
+      181 kvavldyeel aplvnqekla efrrrsmnpn hpsvsgmnqn pdihfqqret inpyyeklpg
+      241 ivqkymtein rlrgtnydlv tyygaedaee vivtmgsvaq tieqtvdylq eqgrkvgfln
+      301 vhlyrpfpve tflekipqsv kaiavldrtk epgaggepll ldvqsamyet dirptiiggr
+      361 yglgskdvlp nqivavfdel mkersamkkr ftigidddlt ytslevgkpl dltnpktyqa
+      421 kfwgfgsdgt vganksaiki igdhtdkyaq gffyydskks ggltvshlrf getpirstyl
+      481 iehsdfvach taaylhtydl vkglkkggtf llntiwndeq larflpnqlk rylaeneiqf
+      541 ytinavklas evglggrint ametaffkla qimpfeqvlp ilkeealksy ghksmkvvek
+      601 niqaidktve llhqvpvpae wktlevqprk rsenvsdfvh eivepinrqe gnalsvatla
+      661 kngmtdgrmp lgtaavekrg valevpewis drctmcneca fvcphaairp fladeeemte
+      721 apegfivrdl rgadglkyri qvsvkdctgc glcveacpak gkalvmkpye egkeqamnwa
+      781 famtlrqken pakpntvlgs qfnkpllefs gacsgcgetp yvklltqmfg drmlianatg
+      841 cssiwgaaag vtpyttneqg qgpawsnsll ednaefgygm llatqarrer laskmtkafs
+      901 vasdslrllm edwiahlses egtqqraakl raalleektn qplleaiydd qdlfvkpsqw
+      961 miggdgwayd igyggidhvl asgadvnmlv ldnevysntg gqtskatpas aiakfaasgk
+     1021 yaskkdlgmm amtyenvyva qiasganqmq tikafeeaek fpgpsiiiay tpcithglag
+     1081 gmsqtlkeak davhsgywsl yrynpllrek gkepmtldfk kpdfslmkef mrqqvrfasl
+     1141 essqpdtael lfnktindak rrfynyarla gqeekirakl ekqsepeita penekprvkk
+     1201 eravdpeaea rraarraera akrkqreqd
+//
+
+

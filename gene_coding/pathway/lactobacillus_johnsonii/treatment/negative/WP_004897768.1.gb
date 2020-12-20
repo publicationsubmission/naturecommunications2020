@@ -1,0 +1,47 @@
+LOCUS       WP_004897768             306 aa            linear   BCT 20-JUN-2019
+DEFINITION  tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+            [Lactobacillus johnsonii].
+ACCESSION   WP_004897768
+VERSION     WP_004897768.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF000919.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00091
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..306
+                     /gene="miaA"
+     Protein         1..306
+                     /product="tRNA (adenosine(37)-N6)-dimethylallyltransferase
+                     MiaA"
+                     /EC_number="2.5.1.75"
+                     /calculated_mol_wt=34920
+     Region          1..305
+                     /region_name="miaA"
+                     /note="tRNA delta(2)-isopentenylpyrophosphate transferase;
+                     Reviewed; PRK00091"
+                     /db_xref="CDD:234626"
+ORIGIN      
+        1 mqkiivligp tgigktelal elapkinaei isgdsmqiyq evsigtakpt deelkrvkhy
+       61 linqrsifee ysvkdfvaeg tkavdkivad gaiplvvggt gfyinalvnq lqlgepgeyq
+      121 tsvdpqweey lkengenklw dllqakdpaa aekiapqnsr rslraltvis rtgklfseqq
+      181 rkinprydal ilglnsdree vyqrinmrvd kmmehgllqe akfvyenrsr ehqviqaigy
+      241 keffpyfsge ktldecvnkl kqasrkyakr qltyfkhqlp vvwldplqde kvsekalrki
+      301 neflnk
+//
+
+

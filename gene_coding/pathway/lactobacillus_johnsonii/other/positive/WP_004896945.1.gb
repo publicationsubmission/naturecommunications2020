@@ -1,0 +1,48 @@
+LOCUS       WP_004896945             227 aa            linear   BCT 18-JUN-2019
+DEFINITION  phosphate signaling complex protein PhoU [Lactobacillus johnsonii].
+ACCESSION   WP_004896945
+VERSION     WP_004896945.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 227)
+  AUTHORS   Gardner,S.G., Johns,K.D., Tanner,R. and McCleary,W.R.
+  TITLE     The PhoU protein from Escherichia coli interacts with PhoR, PstB,
+            and metals to form a phosphate-signaling complex at the membrane
+  JOURNAL   J. Bacteriol. 196 (9), 1741-1752 (2014)
+   PUBMED   24563032
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02135.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02135
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..227
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..227
+                     /gene="phoU"
+     Protein         1..227
+                     /product="phosphate signaling complex protein PhoU"
+                     /calculated_mol_wt=25608
+     Region          5..214
+                     /region_name="phoU_full"
+                     /note="phosphate transport system regulatory protein PhoU;
+                     TIGR02135"
+                     /db_xref="CDD:273990"
+ORIGIN      
+        1 mhevfldelr klntrfmgmg idvseaieea tqafvehdkk laqslvkddq kvsraatkve
+       61 krtlklmalq qpvasdfrnv isilkatndl erigenansi awetirvkgn pripeveaii
+      121 ksmskkvnfm ldqvlkayvq gdeklareva kkddevdedy vkarkliisg ikqdpeaava
+      181 sssyfmvirl lerigdhvvn laqwviykms gelvdlntkd tdemtel
+//
+
+

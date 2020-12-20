@@ -1,0 +1,37 @@
+LOCUS       WP_086875190             507 aa            linear   BCT 13-JAN-2018
+DEFINITION  lactate permease [Lactobacillus johnsonii].
+ACCESSION   WP_086875190
+VERSION     WP_086875190.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..507
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..507
+                     /product="lactate permease"
+                     /calculated_mol_wt=53397
+     Region          7..500
+                     /region_name="Lactate_perm"
+                     /note="L-lactate permease; cl00701"
+                     /db_xref="CDD:294462"
+ORIGIN      
+        1 mrktmwinfl walvpiiwli islgiigmpa sractiglii tiadavlmfk qpiinilsga
+       61 legiimgiwp imyvilaalf iyqittdsgs mgtiekllss ittdkrilvl iiawgfggfl
+      121 esiagfgtav aicagilisl glepiqasvi clvanstata fgaiglpvlt laevtnlndv
+      181 qlgfivtlql vilvilvpfi lviltgksik alkgivfitl msgvgmaipq viiakftgae
+      241 lpalvgslfs ilvtvwltkr ktgsveeven esvseilkac spfilvfifv llasslcppv
+      301 nnfltsvtth lhvylgknpn dlpinwlssp gtlillagii ggkiqglsls qmfkillnvl
+      361 ktigmttitv caivglakvm vyagmtkala valvsllgpa yplfapliga lgtfltgsat
+      421 sanvlfgnlq ysaaqslgvs kywivasnmt gatagmlspq niavatgain keglegkilk
+      481 ettkwgsiyl litcvflylv glitklv
+//
+
+

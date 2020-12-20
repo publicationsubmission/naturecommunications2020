@@ -1,0 +1,39 @@
+LOCUS       WP_002357832             295 aa            linear   BCT 25-AUG-2017
+DEFINITION  MULTISPECIES: LysR family transcriptional regulator [Bacilli].
+ACCESSION   WP_002357832
+VERSION     WP_002357832.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11426483
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..295
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..295
+                     /product="LysR family transcriptional regulator"
+                     /calculated_mol_wt=34009
+     Region          1..295
+                     /region_name="LysR"
+                     /note="DNA-binding transcriptional regulator, LysR family
+                     [Transcription]; COG0583"
+                     /db_xref="CDD:223656"
+ORIGIN      
+        1 melfrlhyfl elckvkqftk aaenlaisqa alskqikile atlgaelfnr qgqtttltpa
+       61 glilekycwr itnelvsiee elkeinhssn hiyvatylcd leyklndllm ttltdrssnl
+      121 qvhtiiteni lqsletmdad fgisfadlpl pehigkidlf tanyqfilrn dhpalakatt
+      181 eeilkeltmy pfvrlntefs eqnkltnwld ttfsnfspek viqvdtlsli thlvshsdsf
+      241 aivpeytniq lldnsihtlt yqelpkrnma vyylkeryms rqlqqllaec qkqfq
+//
+
+

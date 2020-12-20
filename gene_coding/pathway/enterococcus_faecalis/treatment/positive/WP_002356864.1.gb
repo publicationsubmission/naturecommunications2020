@@ -1,0 +1,41 @@
+LOCUS       WP_002356864             126 aa            linear   BCT 25-AUG-2017
+DEFINITION  MULTISPECIES: VOC family protein [Bacilli].
+ACCESSION   WP_002356864
+VERSION     WP_002356864.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10170093
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..126
+                     /product="VOC family protein"
+                     /calculated_mol_wt=14589
+     Region          4..126
+                     /region_name="VOC_Bs_YwkD_like"
+                     /note="vicinal oxygen chelate (VOC) family protein
+                     Bacillus subtilis YwkD and similar proteins; cd08352"
+                     /db_xref="CDD:319940"
+     Site            order(8,76,123)
+                     /site_type="other"
+                     /note="putative metal binding site [ion binding]"
+                     /db_xref="CDD:319940"
+ORIGIN      
+        1 mffkeihhva inasnyqatk nfyveklgfe vlrenhrpek ndikldlklg sqeleifisd
+       61 qfparpsype alglrhlafk vehieeviaf lneqgietep lrvddftgek mtfffdpdgl
+      121 plelhe
+//
+
+

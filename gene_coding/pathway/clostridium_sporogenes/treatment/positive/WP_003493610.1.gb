@@ -1,0 +1,40 @@
+LOCUS       WP_003493610             124 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: S-adenosylmethionine decarboxylase proenzyme
+            [Clostridium].
+ACCESSION   WP_003493610
+VERSION     WP_003493610.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF002851.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK03124
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..124
+                     /product="S-adenosylmethionine decarboxylase proenzyme"
+                     /EC_number="4.1.1.50"
+                     /calculated_mol_wt=13656
+     Region          1..119
+                     /region_name="PRK03124"
+                     /note="S-adenosylmethionine decarboxylase proenzyme;
+                     Provisional"
+                     /db_xref="CDD:235105"
+ORIGIN      
+        1 mnglgrhila eiygcnasll ndkhyienlm vesalksgae vrevifhkfn pqgvsgvvii
+       61 seshltihtw pelgyaavdv ftcgdtvnpw eacnymtekl naknmtatei krgvfygpvn
+      121 iekd
+//
+
+

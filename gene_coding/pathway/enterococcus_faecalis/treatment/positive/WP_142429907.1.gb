@@ -1,0 +1,31 @@
+LOCUS       WP_142429907             368 aa            linear   BCT 16-JUL-2019
+DEFINITION  N-acetylmuramoyl-L-alanine amidase [Enterococcus faecalis].
+ACCESSION   WP_142429907
+VERSION     WP_142429907.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..368
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..368
+                     /product="N-acetylmuramoyl-L-alanine amidase"
+                     /calculated_mol_wt=40259
+ORIGIN      
+        1 mkktvkllva igmslsimlp vganayqieq dpinfdgyfp gyatnelivl hesgngnnvg
+       61 pnsldnetay mkrnwqnayv syfvgsggrv kqlapagqiq wgagptanak ayaqielart
+      121 nnketfkkdy aayvnlirdl atqigatfdl ddgtgygivs hdwvsktwwg dhtdpygyla
+      181 swgiskaqla qdlqtglped ghdvivnpgk pnkpkykvgq nvrfttiykt pdapieqhin
+      241 antlwtqvgt itqkldgrkn lyriensgkl lgyandgdia elwenskprp akvftigvne
+      301 givlragsps lyapvygiwp kdaqfrydsv hvadgyvwlg gtdsngtriy ipvgpndgdp
+      361 sntwgtgy
+//
+
+

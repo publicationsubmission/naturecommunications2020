@@ -1,0 +1,49 @@
+LOCUS       WP_002357946             609 aa            linear   BCT 02-JUN-2019
+DEFINITION  MULTISPECIES: cell wall metabolism sensor histidine kinase WalK
+            [Bacilli].
+ACCESSION   WP_002357946
+VERSION     WP_002357946.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF033092.0
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     gene            1..609
+                     /gene="walK"
+     Protein         1..609
+                     /product="cell wall metabolism sensor histidine kinase
+                     WalK"
+                     /calculated_mol_wt=69496
+     Region          7..600
+                     /region_name="HK_WalK"
+                     /note="cell wall metabolism sensor histidine kinase WalK;
+                     NF033092"
+                     /db_xref="CDD:333752"
+ORIGIN      
+        1 mkkkvhffqs vnfkialsfi lllliaiqii ggyfirelea ttisdfkknm dsqvvqlsnt
+       61 lstqmsnkdl ersdvdanlk kalsdfsnad isearivddk giiratndln qqniigkknd
+      121 yrdlndftsk kyqaldndkr vyvnvqpiqs ptgetvigvl yvksnlenky qeitntasif
+      181 ftasiiaaai siivtlliar sitkpigemr eqairiargd yagkvevhgk delgqlaetf
+      241 nqlserieea qetmeaernr ldsvlthmtd gviatdrrgk vitinemals llnvknenvi
+      301 gtsllelldi eedytlrkll eepdellidr stsdreedqm iirvdftmir resgfitglv
+      361 cvlhdvteqe knererrefv snvshelrtp ltsmrsyiea lsegawenpe iapnflkvtl
+      421 eetdrmirmi ndllnlsrmd sgnthlqley vnfnelinfv ldrfdmmien eqknykirre
+      481 ftkrdlwvel dtdkviqvld nilnnaikys pdggvitcrl vethnnvvfs isdqglgipk
+      541 kdlgkvferf yrvdkarara qggtglglai skevirahng siwvestege gstfyislpy
+      601 epyeedwwe
+//
+
+

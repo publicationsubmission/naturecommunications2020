@@ -1,0 +1,4 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"efa03030","DNA replication","1/1","21/996",0.0210843373493976,0.0251004016064256,NA,"EF1044",1
+"efa03430","Mismatch repair","1/1","24/996",0.0240963855421688,0.0251004016064256,NA,"EF1044",1
+"efa03440","Homologous recombination","1/1","25/996",0.0251004016064256,0.0251004016064256,NA,"EF1044",1

@@ -1,0 +1,49 @@
+LOCUS       WP_002358783             369 aa            linear   BCT 30-SEP-2019
+DEFINITION  amidohydrolase/deacetylase family metallohydrolase [Enterococcus
+            faecalis].
+ACCESSION   WP_002358783
+VERSION     WP_002358783.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR03583.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR03583
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..369
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..369
+                     /product="amidohydrolase/deacetylase family
+                     metallohydrolase"
+                     /EC_number="3.5.2.3"
+                     /calculated_mol_wt=40584
+     Region          3..368
+                     /region_name="EF_0837"
+                     /note="probable amidohydrolase EF_0837/AHA_3915;
+                     TIGR03583"
+                     /db_xref="CDD:132622"
+     Site            order(58,60,186,209,270)
+                     /site_type="active"
+                     /db_xref="CDD:238617"
+ORIGIN      
+        1 mdydllikng qtvdgmpvei aikeekiaav aatilgsake tihlepgtyv sagwidnhvh
+       61 cfekmalyyd ypdeigvkkg vttvidagtt gaenihefyd laqqaktnvf glvniskwgi
+      121 vaqdeladls kvqaslvkka iqelpdfvvg ikarmsrtvi gdngitplel akqiqqenqe
+      181 iplmvhigsa pphldeiltl mekgdvlthc fngkengild qatdkikdfa wqaynkgvvf
+      241 dighgtdsfn fhvaetalre gmkaasistd iyirnrengp vydlattmek lrvvgydwpe
+      301 iiekvtkapa enfhltqkgt leigkdadlt iftiqaeekt ltdsngltrv akeqirpikt
+      361 iiggqiydn
+//
+
+

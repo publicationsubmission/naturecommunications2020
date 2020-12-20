@@ -1,0 +1,38 @@
+LOCUS       WP_003493349             126 aa            linear   BCT 23-JUL-2017
+DEFINITION  MULTISPECIES: metal-dependent transcriptional regulator
+            [Clostridium].
+ACCESSION   WP_003493349
+VERSION     WP_003493349.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11442477
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..126
+                     /product="metal-dependent transcriptional regulator"
+                     /calculated_mol_wt=14226
+     Region          1..>124
+                     /region_name="MntR"
+                     /note="Mn-dependent transcriptional regulator, DtxR family
+                     [Transcription]; COG1321"
+                     /db_xref="CDD:224240"
+ORIGIN      
+        1 mekltfvmen yleaiyelse esngvkmthi aeklgvtkas tnsamitlae kglitnekyk
+       61 kifltplglk iarftykkhr iikdfliktl nidspiadkd acaiehviss dsvyamekfl
+      121 lehenk
+//
+
+

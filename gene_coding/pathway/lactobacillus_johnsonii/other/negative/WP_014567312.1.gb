@@ -1,0 +1,60 @@
+LOCUS       WP_014567312            1432 aa            linear   BCT 19-JUN-2019
+DEFINITION  PolC-type DNA polymerase III [Lactobacillus johnsonii].
+ACCESSION   WP_014567312
+VERSION     WP_014567312.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF001688.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00448
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1432
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..1432
+                     /product="PolC-type DNA polymerase III"
+                     /EC_number="2.7.7.7"
+                     /calculated_mol_wt=162528
+     Region          4..1432
+                     /region_name="polC"
+                     /note="DNA polymerase III PolC; Validated; PRK00448"
+                     /db_xref="CDD:234767"
+ORIGIN      
+        1 mtkknelfkk lldqikfpdk fedndivqng eienvdvyan erkwkihvff dtpldfetyr
+       61 slnqlihetf epfvnvellv qtrdgsskkl paywtyaiqn stnlkpavre flqgqapyle
+      121 kekwliptqn qvvngllseq vlaelnkefr rygffnikft tkvdetnide nlrsleqeqa
+      181 qhesamqefy ekqpaepkkk mpvkstrmgn kkvdkkakfi qikdledgsg nvaieghifn
+      241 tdihelksgs viftgeitdy tdsisfkkfv sdkdqidylk gikpgvwarm qgyaaddqyq
+      301 hdvvfnirnl eliehkgree kyegekkrve lhlhtnmsql datstasdfi ktakkfgqka
+      361 iaitdhadvq sfpeayhtga sekmkilygy eanmiddhal lvlnptemdy rnreyvifdv
+      421 ettglssvyd tiieigavkm kngevlerfd efinphhpls dttinltsit demvgvadde
+      481 kdvikkfkef ygdrplcghn vqfdvgfvna alrragleei tqpvvdtlev srllhpeqtr
+      541 htldslakky nvvlehhhra nqdaeatgyl mfklldafne rfheadlgkm ndyakygqvy
+      601 krakpshmsv lalnqeglkn myklvslast kyfyriprtp kselrkyhkg llfgsgcwqg
+      661 dvfismmqkg ydearekarf ydylevqppa ayqtlieddl ikdedelhei iqniyklgke
+      721 lnkpvvatsd shyvepheai yrkillaaqk gnsnrnknlp dlhfystqem ldafsflged
+      781 vakeividnt nkladqieei apiksglypp hienadqemk dltynkayel ygkplpkive
+      841 drielelnsi isngyaviyl isqrlvaksn kdgylvgsrg svgsslvatm sgitevnpla
+      901 phyrcpncky skffengeyg sgydlpdkec pkcgtplvkd gqdipfatfl gfhgdkvpdi
+      961 dlnfsgdyqp vahnyirvmf gpdnsfragt iatvadktay gyvkhyeden elhlrnaeld
+     1021 rlaagasgvk rttgqhpagi vvvpddmdiy dftpvqypad dlsaawltth fdfhsihdni
+     1081 lkfdilghdd ptmirmlqdl sgvdpltipp ddpgvmslfs speilgvtpe qiqsktgtlg
+     1141 vpefgtkfvr gmleetkptt fsellqisgl shgtdvwlgn aedlinngtc klknvigcrd
+     1201 nimmdlihwg vkpevafftm esvrhgrgis denmeilkkn dkipdwyips clkikymfpk
+     1261 ahatayilma lriawfkvyy pviyyasyfs vradlfdlva mshgkntvka amkeiqdkgm
+     1321 dvsakdksll tvleianecl ergikikmvd vneseatdfk iiddhtilap fnavpglgdn
+     1381 aakqivaara eqkflskedl atrgkvsqti meyfenngvl egmpdqnqls lf
+//
+
+

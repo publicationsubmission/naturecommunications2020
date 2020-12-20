@@ -1,0 +1,58 @@
+LOCUS       WP_002357967              89 aa            linear   BCT 28-NOV-2019
+DEFINITION  MULTISPECIES: type B 50S ribosomal protein L31 [Bacilli].
+ACCESSION   WP_002357967
+VERSION     WP_002357967.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+REFERENCE   1  (residues 1 to 89)
+  AUTHORS   Akanuma,G., Nanamiya,H., Natori,Y., Nomura,N. and Kawamura,F.
+  TITLE     Liberation of zinc-containing L31 (RpmE) from ribosomes by its
+            paralogous gene product, YtiA, in Bacillus subtilis
+  JOURNAL   J. Bacteriol. 188 (7), 2715-2720 (2006)
+   PUBMED   16547061
+REFERENCE   2  (residues 1 to 89)
+  AUTHORS   Nanamiya,H., Akanuma,G., Natori,Y., Murayama,R., Kosono,S.,
+            Kudo,T., Kobayashi,K., Ogasawara,N., Park,S.M., Ochi,K. and
+            Kawamura,F.
+  TITLE     Zinc is a key factor in controlling alternation of two types of L31
+            protein in the Bacillus subtilis ribosome
+  JOURNAL   Mol. Microbiol. 52 (1), 273-283 (2004)
+   PUBMED   15049826
+REFERENCE   3  (residues 1 to 89)
+  AUTHORS   Makarova,K.S., Ponomarev,V.A. and Koonin,E.V.
+  TITLE     Two C or not two C: recurrent disruption of Zn-ribbons, gene
+            duplication, lineage-specific gene loss, and horizontal gene
+            transfer in evolution of bacterial ribosomal proteins
+  JOURNAL   Genome Biol. 2 (9), RESEARCH0033 (2001)
+   PUBMED   11574053
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF002462.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK01678
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..89
+                     /product="type B 50S ribosomal protein L31"
+                     /calculated_mol_wt=9994
+     Region          1..85
+                     /region_name="rpmE2"
+                     /note="50S ribosomal protein L31 type B; Reviewed;
+                     PRK01678"
+                     /db_xref="CDD:234969"
+ORIGIN      
+        1 mkqdihpnyq pvvfmdsttg fkflsgstkg ssetvewedg ntypllrvev tsdshpfytg
+       61 rqkftqadgr vdrfnkkygl kdenanpda
+//
+
+

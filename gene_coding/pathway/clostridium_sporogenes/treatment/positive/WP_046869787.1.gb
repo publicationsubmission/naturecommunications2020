@@ -1,0 +1,42 @@
+LOCUS       WP_046869787             151 aa            linear   BCT 17-MAY-2015
+DEFINITION  MarR family transcriptional regulator [Clostridium sporogenes].
+ACCESSION   WP_046869787
+VERSION     WP_046869787.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 12204203
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..151
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..151
+                     /product="MarR family transcriptional regulator"
+                     /calculated_mol_wt=17351
+     Region          29..129
+                     /region_name="HTH_MARR"
+                     /note="helix_turn_helix multiple antibiotic resistance
+                     protein; smart00347"
+                     /db_xref="CDD:197670"
+     Site            order(54,57,103)
+                     /site_type="other"
+                     /note="putative Zn2+ binding site [ion binding]"
+                     /db_xref="CDD:238042"
+ORIGIN      
+        1 mnntqlneis qdlydlllnl hkkllnpdel kknfplppsh akviiylkhn gncsiskiak
+       61 dlliskpnmt piidklisen mvtrytdskd rrvirvelte kgsifikdqe klvktllaek
+      121 isnlssedlq ylsdhiiqik niifknklif l
+//
+
+

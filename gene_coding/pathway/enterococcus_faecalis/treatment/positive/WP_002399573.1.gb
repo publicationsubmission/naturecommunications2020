@@ -1,0 +1,32 @@
+LOCUS       WP_002399573             444 aa            linear   BCT 13-JUN-2016
+DEFINITION  hypothetical protein [Enterococcus faecalis].
+ACCESSION   WP_002399573
+VERSION     WP_002399573.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..444
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..444
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=49789
+ORIGIN      
+        1 mgkcnteqvl smigvnkltk aqelffsvlq dndscvkikt sdyleiigdk safnkylrpe
+       61 dafnclaegc rntggllitg nefplgatfk kvtdatdfya gattfyldlp kdgtytiefk
+      121 iaaindnsfv nadvyrkkft gtkgynpifi dfsvvpeevl gegwqanerg vyvsitvtte
+      181 eeiplkqihi ssisfynsie elqndevvti gciteyggdm tmdvadsvcf gakydpssas
+      241 itrtftggkt sgnywllnpf mrrgdlskgw tvvkekdkvr eltidgrryg yillnglskq
+      301 ecsfskalva secnftdael tkvnlpdvav lnekqyqiik hgeydgyliv herligqpll
+      361 yaypkevsie qyvgeddaye grrvrlffpt vqtdgvkvny ifnnvlvtsf pttlsntdet
+      421 tfefevsiqk dnngrffevq kiie
+//
+
+

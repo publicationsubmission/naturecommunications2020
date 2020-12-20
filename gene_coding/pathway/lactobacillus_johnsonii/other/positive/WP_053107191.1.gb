@@ -1,0 +1,45 @@
+LOCUS       WP_053107191             456 aa            linear   BCT 10-APR-2019
+DEFINITION  exodeoxyribonuclease VII large subunit [Lactobacillus johnsonii].
+ACCESSION   WP_053107191
+VERSION     WP_053107191.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF001405.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00286
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..456
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..456
+                     /product="exodeoxyribonuclease VII large subunit"
+                     /EC_number="3.1.11.6"
+                     /calculated_mol_wt=52146
+     Region          7..444
+                     /region_name="xseA"
+                     /note="exodeoxyribonuclease VII large subunit; Reviewed;
+                     PRK00286"
+                     /db_xref="CDD:234714"
+ORIGIN      
+        1 mvdnkvylsv sdlnfyisqk fkndpylhkv flqgelsnfr frmnshqyfs lkdekskinv
+       61 vmfrsffekl kfkpeegmkv yvsgyvdvyg pqgsyqfyaq tmepaglgal yeqlrqlqek
+      121 lakeglfnee hkkkiplfpd riavvtsasg avihdimvta nrrfphaeid lypakvqgde
+      181 aadtivaalq qiqaqgdkyd vviigrgggs ledlwpfnee kvvrqiyamq mpvissvghe
+      241 tdttladlva daraatptaa aeyatpnlvd vltqivqlra rlyaavqani htkrqildrl
+      301 knapvlqept riydqqiqqv dmlihrlnqa mdnrlqhdgs tlrllqerlk alspsrkleq
+      361 lerernfvvs nlfstmnnyl kdqrnrlnra mqqlddispl ktisrgyvyt tdqkgntvts
+      421 vdqlkidekl klhfkdgqvq vnvenirrek ngnqek
+//
+
+

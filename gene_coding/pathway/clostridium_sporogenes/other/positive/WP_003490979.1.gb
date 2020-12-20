@@ -1,0 +1,38 @@
+LOCUS       WP_003490979             212 aa            linear   BCT 29-OCT-2017
+DEFINITION  MULTISPECIES: peptide-methionine (S)-S-oxide reductase
+            [Clostridium].
+ACCESSION   WP_003490979
+VERSION     WP_003490979.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10483118
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..212
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..212
+                     /product="peptide-methionine (S)-S-oxide reductase"
+                     /calculated_mol_wt=24553
+     Region          9..141
+                     /region_name="PMSR"
+                     /note="Peptide methionine sulfoxide reductase; pfam01625"
+                     /db_xref="CDD:307654"
+ORIGIN      
+        1 mldkshikka yfsmgcfwsv ealfdsldgv iktyvgytgg stlfptynsi gdhletveiy
+       61 ydsskiafed llmvfeknhn yttranllqy nsailynnen ekelclnwkk sredeltkev
+      121 stkispiekf yyaefyhqky yvqlepvims nlrskfstgn dlissplchk lnaylagyrs
+      181 lenlnkeikd fnlskdsenr llsivegfkh tk
+//
+
+

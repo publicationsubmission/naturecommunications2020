@@ -1,0 +1,37 @@
+LOCUS       WP_046869924             117 aa            linear   BCT 12-OCT-2019
+DEFINITION  PRD domain-containing protein [Clostridium sporogenes].
+ACCESSION   WP_046869924
+VERSION     WP_046869924.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013070.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00874.18
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..117
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..117
+                     /product="PRD domain-containing protein"
+                     /calculated_mol_wt=13504
+     Region          26..112
+                     /region_name="PRD"
+                     /note="PRD domain; pfam00874"
+                     /db_xref="CDD:279246"
+ORIGIN      
+        1 mdltlrlkil kdgaqidedt ynnllkiies fkkdfqiels eenggmfith lavalerikk
+       61 kelvepieel ifeevrndkn fkkandilds lenhinisvp everpfilmh ivtllsk
+//
+
+

@@ -1,0 +1,50 @@
+LOCUS       WP_079996725             357 aa            linear   BCT 22-MAR-2017
+DEFINITION  chloride ion channel protein [Enterococcus faecalis].
+ACCESSION   WP_079996725
+VERSION     WP_079996725.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..357
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..357
+                     /product="chloride ion channel protein"
+                     /calculated_mol_wt=39991
+     Region          3..312
+                     /region_name="Voltage_gated_ClC"
+                     /note="CLC voltage-gated chloride channel. The ClC
+                     chloride channels catalyse the selective flow of Cl- ions
+                     across cell membranes, thereby regulating electrical
+                     excitation in skeletal muscle and the flow of salt and
+                     water across epithelial barriers. This...; cl02915"
+                     /db_xref="CDD:295552"
+     Site            order(35..39,69..73,276..280)
+                     /site_type="other"
+                     /note="Cl- selectivity filter"
+                     /db_xref="CDD:238233"
+     Site            order(36,38,71..72,276..278)
+                     /site_type="other"
+                     /note="Cl- binding residues [ion binding]"
+                     /db_xref="CDD:238233"
+     Site            71
+                     /site_type="other"
+                     /note="pore gating glutamate residue"
+                     /db_xref="CDD:238233"
+ORIGIN      
+        1 mkwpilyyfv lcvlgalvls ylkkrfgqip qtahealtel kakqsvdysg vfrnllaalv
+       61 ilifgagvgp eaallgaiis lsvwqsdklr ylyfhydeqe qqvfwtkiqr llhpqqfvqr
+      121 ydtmlapvdk kklkqvmngl fivnglvvft flmklvghps fitklgtgki emaslwlilp
+      181 alltafvign ayqwlqaala klcqpfeekq silvtfgaac iflfvilmpr llfsgqsfmh
+      241 lvpsfgsqqa wyilviaaim klvflqvclq tgwiggdifp vvfsailigf avaqffptid
+      301 slfvvaifat slttqilgti lvpgifvglf fpitlwpilv lvlflqwllk nkiiksn
+//
+
+

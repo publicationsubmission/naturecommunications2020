@@ -1,0 +1,61 @@
+LOCUS       WP_032884096             467 aa            linear   BCT 09-FEB-2016
+DEFINITION  MULTISPECIES: aminopeptidase [Clostridium].
+ACCESSION   WP_032884096
+VERSION     WP_032884096.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF002600.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK02256
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..467
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..467
+                     /product="aminopeptidase"
+                     /calculated_mol_wt=52447
+     Region          1..467
+                     /region_name="PRK02256"
+                     /note="putative aminopeptidase 1; Provisional"
+                     /db_xref="CDD:235018"
+     Site            order(42,81,83,112,114..116,118..119,121,124,127..134,
+                     136..139,142,144,152..154,163..164,166..167,169..173,
+                     175..183,196..198,200,202..206,218,220,224..225,233..235,
+                     237..240,247,250..258,296..297,300..303,306..308,312,
+                     315..316,328,330..331,334..335,346,348..353,360,363,
+                     372..373,378..381,385..388,390..391,394..395,398,404,406,
+                     409..413,416,422,425,428..430,439..443,445,447)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:193535"
+     Site            order(105,265..266,295..296,343..344,346,371,383,417..418,
+                     441..442)
+                     /site_type="active"
+                     /note="putative active site [active]"
+                     /db_xref="CDD:193535"
+     Site            order(105,265,295..296,343,442)
+                     /site_type="metal-binding"
+                     /note="metal binding site [ion binding]"
+                     /db_xref="CDD:193535"
+ORIGIN      
+        1 mekdltkkye lawdkysked ltnvfdlsqe ykdfmskckt erecvkefiv laekngyknl
+       61 eeiinnnekl epgdkvyann mdktlalfvv gkesmekglk ilgahvdspr ldlkqnplye
+      121 dtdlalfeth yyggikkyqw vtlplaihgv ivkkdgtkin vvvgeeesdp vfgvsdllih
+      181 lsadqmekka skviegenln lligsmpaed keakdrvkrn ilkllnekye ieeedfvsae
+      241 levvpagkar dygfdrsmim ayghddrics ytsfkammkm dkvdktcvtl lvdkeeigsv
+      301 gatgmqskff entvaeiinl tsdnysdlkl rrcltnskml ssdvsaafdp nypsvmekkn
+      361 saylgkgivf nkytgsrgkg gsndanpeyi aeirammekh nvswqtaelg kvdqggggti
+      421 ayilaqysme vidcgvalhn mhapweiask adiyeamrgy yafllea
+//
+
+

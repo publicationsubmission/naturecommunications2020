@@ -1,0 +1,60 @@
+LOCUS       WP_046869793             521 aa            linear   BCT 01-JUN-2019
+DEFINITION  murein biosynthesis integral membrane protein MurJ [Clostridium
+            sporogenes].
+ACCESSION   WP_046869793
+VERSION     WP_046869793.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+REFERENCE   1  (residues 1 to 521)
+  AUTHORS   Rudnick,P.A., Arcondeguy,T., Kennedy,C.K. and Kahn,D.
+  TITLE     glnD and mviN are genes of an essential operon in Sinorhizobium
+            meliloti
+  JOURNAL   J. Bacteriol. 183 (8), 2682-2685 (2001)
+   PUBMED   11274131
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01695.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01695
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..521
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     gene            1..521
+                     /gene="murJ"
+     Protein         1..521
+                     /product="murein biosynthesis integral membrane protein
+                     MurJ"
+                     /calculated_mol_wt=57152
+     Region          14..411
+                     /region_name="MATE_MurJ_like"
+                     /note="MurJ/MviN, a subfamily of the multidrug and toxic
+                     compound extrusion (MATE)-like proteins; cd13123"
+                     /db_xref="CDD:240528"
+     Region          352..500
+                     /region_name="Polysacc_synt_C"
+                     /note="Polysaccharide biosynthesis C-terminal domain;
+                     pfam14667"
+                     /db_xref="CDD:339314"
+ORIGIN      
+        1 mkenkalkns vfvmlliilg kvcalirdsl iaakfgatdi tdiyifslgi vnllttisyg
+       61 ltttfipmht enlesgnkke snkfvnnvln tfsmgtiilt ilmiifakyi iyifgpgfqk
+      121 dlivfntsik itrimllsli fislqsvitg vlqahkqfle paamamvsni vyiiylvflv
+      181 snygmvgfaa avvlgffaql iinipkykkm gykystyinl edsktrqmfk ltmpviists
+      241 viqlnlainr afattifgga atilenanki ntlayevfai giamivyptl selaakndkk
+      301 qykvelgrai niiliimvpa avgiailrep liniifkrga fsneaaslts qalllytpam
+      361 iaygvrdiln kafyaikdtk tpminsfigi iinvvinill ikhlgvrglt lattisaiii
+      421 tiimlldlnk klngidiknt itsfakiils alfmgvvvvf vnkfillnlg tgtkgsvisv
+      481 licmvvgvic yavaiyalkv eeiqaivkpv lkilkfkein s
+//
+
+

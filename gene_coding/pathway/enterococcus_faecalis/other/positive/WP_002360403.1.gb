@@ -1,0 +1,42 @@
+LOCUS       WP_002360403             428 aa            linear   BCT 06-AUG-2017
+DEFINITION  NAD(P)/FAD-dependent oxidoreductase [Enterococcus faecalis].
+ACCESSION   WP_002360403
+VERSION     WP_002360403.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 12044987
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..428
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..428
+                     /product="NAD(P)/FAD-dependent oxidoreductase"
+                     /calculated_mol_wt=47093
+     Region          4..413
+                     /region_name="HI0933_like"
+                     /note="HI0933-like protein; pfam03486"
+                     /db_xref="CDD:281484"
+ORIGIN      
+        1 mkkfdviivg agtsgmmati aaaeagaqvl lieknrrvgk kllmtgggrc nvtnnrpaee
+       61 iisfipgngk flysafsqfd nydimnffes ngihlkeedh grmfpvtdks ksivdalfnr
+      121 inelgvtvft ktqvtkllrk ddqiigvete lekiyapcvv lttggrtyps tgatgdgykl
+      181 akkmghtisp lyptespvis eepfildktl qglslqdvnl tvlnqkvkpl vnhqmdmlft
+      241 hfgisgpaal rcssfinqel trngnqpvtv aldvfptksf eevlknvdym ieeqpnkvak
+      301 nafhsliper lltfylekla ieevpakqlt ekqrlsfvel lkdfqftvtk tlpleksfvt
+      361 gggislkevt pktmesklvn glffagelld ingytggynv taafvtghva gshaaeiaey
+      421 tylpieev
+//
+
+

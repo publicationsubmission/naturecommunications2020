@@ -1,0 +1,52 @@
+LOCUS       WP_002359708             416 aa            linear   BCT 11-APR-2019
+DEFINITION  glycosyltransferase family 2 protein [Enterococcus faecalis].
+ACCESSION   WP_002359708
+VERSION     WP_002359708.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11440313
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..416
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..416
+                     /product="glycosyltransferase family 2 protein"
+                     /calculated_mol_wt=47700
+     Region          1..411
+                     /region_name="BcsA"
+                     /note="Glycosyltransferase, catalytic subunit of cellulose
+                     synthase and poly-beta-1,6-N-acetylglucosamine synthase
+                     [Cell motility]; COG1215"
+                     /db_xref="CDD:224136"
+     Region          47..234
+                     /region_name="Glyco_tranf_GTA_type"
+                     /note="Glycosyltransferase family A (GT-A) includes
+                     diverse families of glycosyl transferases with a common
+                     GT-A type structural fold; cl11394"
+                     /db_xref="CDD:325014"
+     Site            order(50,52,77,141,143)
+                     /site_type="active"
+                     /db_xref="CDD:132997"
+ORIGIN      
+        1 mitlyqlykv imfifltylf tslflsfrtr kktrreveva eeffcyflvp cvneekvige
+       61 tlkklvalpi kkkiiaiddg stdqtkammd siagpiqvls rqfpnvqqgk gaalnhafqi
+      121 vltdaekghy swdqvlvgvv dadgffseni vneltavftd ktvcaaqtri kmkdvtnfmf
+      181 iaqdveffti nnfiqkarra tktiglggng qffrlsmite hlgyqpwgna llddyeltik
+      241 lmlkelsiay ideafmaqea lrdvkrfirq rsrwvqgnld claylprvik sksltlrqkc
+      301 giyyflaqpf inlvagmlvf vltglqlqhl yrlgfslslv isfvlavsis lvfgifftin
+      361 yyrelknfql kvpaklglii lpftisymyl ilfvsvvmay yrfikgnstw iktern
+//
+
+

@@ -1,0 +1,24 @@
+LOCUS       WP_004893811              60 aa            linear   BCT 21-OCT-2017
+DEFINITION  MULTISPECIES: hypothetical protein [Lactobacillus].
+ACCESSION   WP_004893811
+VERSION     WP_004893811.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     Protein         1..60
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=6754
+ORIGIN      
+        1 mdykeildki isgelkeyrv spkdafqfql alrsygkrqs itgiaqrggd iiytlsdnen
+//
+
+

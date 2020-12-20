@@ -1,0 +1,42 @@
+LOCUS       WP_002359354             279 aa            linear   BCT 27-JUL-2019
+DEFINITION  MULTISPECIES: energy-coupling factor ABC transporter ATP-binding
+            protein [Bacilli].
+ACCESSION   WP_002359354
+VERSION     WP_002359354.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF010156.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK13635
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..279
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..279
+                     /product="energy-coupling factor ABC transporter
+                     ATP-binding protein"
+                     /calculated_mol_wt=30578
+     Region          1..279
+                     /region_name="cbiO"
+                     /note="cobalt transporter ATP-binding subunit;
+                     Provisional; PRK13635"
+                     /db_xref="CDD:184195"
+ORIGIN      
+        1 mqpiielnni qfnyqpedas palkdvsfsi qqgewvaiig hngsgkstla ktinglllpa
+       61 agtikvggke lneanvwdir rmvgmvfqnp dnqfvgstve ddvafglenq giprdemver
+      121 vhdalervrm ldfakrepar lsggqkqrva iagvvalrpd iiildeatsm ldpegraevi
+      181 atiqkikees nltvisithd ideaananri lvmrqgqltn egtpekifsa gealvemgld
+      241 lpfpeklkva lkergvvvpt nylteegmvd wlwtsvlnk
+//
+
+

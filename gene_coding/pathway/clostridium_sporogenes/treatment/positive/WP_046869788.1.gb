@@ -1,0 +1,48 @@
+LOCUS       WP_046869788             604 aa            linear   BCT 14-JUN-2019
+DEFINITION  aldehyde ferredoxin oxidoreductase family protein [Clostridium
+            sporogenes].
+ACCESSION   WP_046869788
+VERSION     WP_046869788.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11457442
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..604
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..604
+                     /product="aldehyde ferredoxin oxidoreductase family
+                     protein"
+                     /calculated_mol_wt=66129
+     Region          1..603
+                     /region_name="YdhV"
+                     /note="Aldehyde:ferredoxin oxidoreductase [Energy
+                     production and conversion]; COG2414"
+                     /db_xref="CDD:225277"
+ORIGIN      
+        1 mygyngkilr idltnrectl epldeekakk figleawvkt lleeidpkie plsienklvi
+       61 vtgpitgapm ptsgrymvvt kapltgtiai snsggkwgte lknagydmii vqgksdvpvy
+      121 vnieddkiei keanhlwgkt sletteilcn ennerakvlc igpageklsl maaimndidr
+      181 aagrggvgav mgsknlkaiv vkgsgkvkvf neeeakkvsl ekikilredp vaggglptyg
+      241 savlvniine ngvhpvrnfq ksytdeadki sgetltedcl vrknpcyrcp iacgrwvkld
+      301 dgtecggpey etlwsfgsdc dvydlnainv anmlcneygl dtisagatia aamelyekgy
+      361 ikdedikedg lslkwgdaea vvgwtkkmal regfgdkmad gsyrlcesyg vpefsmtvkk
+      421 qelpaydprg iqghgityav nnrggchikg ymispeilgy pekldrfsle gkaayakvfh
+      481 dltavidslg lcifttfglg vqdyvdmynv vvggklhdae simeagdriw tleklfnlea
+      541 gidsshdtlp krllkepipe gpskgcvhkl sellpeyyav rgwdkngipt edtlkklgle
+      601 eyik
+//
+
+

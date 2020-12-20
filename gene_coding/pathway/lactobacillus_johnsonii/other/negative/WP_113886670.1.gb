@@ -1,0 +1,115 @@
+LOCUS       WP_113886670            1549 aa            linear   BCT 10-OCT-2019
+DEFINITION  YSIRK-type signal peptide-containing protein [Lactobacillus
+            johnsonii].
+ACCESSION   WP_113886670
+VERSION     WP_113886670.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 1549)
+  AUTHORS   Yu,W., Missiakas,D. and Schneewind,O.
+  TITLE     Septal secretion of protein A in Staphylococcus aureus requires
+            SecA and lipoteichoic acid synthesis
+  JOURNAL   Elife 7 (2018)
+   PUBMED   29757141
+REFERENCE   2  (residues 1 to 1549)
+  AUTHORS   DeDent,A., Bae,T., Missiakas,D.M. and Schneewind,O.
+  TITLE     Signal peptides direct surface proteins to two distinct envelope
+            locations of Staphylococcus aureus
+  JOURNAL   EMBO J. 27 (20), 2656-2668 (2008)
+   PUBMED   18800056
+REFERENCE   3  (residues 1 to 1549)
+  AUTHORS   Carlsson,F., Stalhammar-Carlemalm,M., Flardh,K., Sandin,C.,
+            Carlemalm,E. and Lindahl,G.
+  TITLE     Signal sequence directs localized secretion of bacterial surface
+            proteins
+  JOURNAL   Nature 442 (7105), 943-946 (2006)
+   PUBMED   16929299
+REFERENCE   4  (residues 1 to 1549)
+  AUTHORS   Bae,T. and Schneewind,O.
+  TITLE     The YSIRK-G/S motif of staphylococcal protein A and its role in
+            efficiency of signal peptide processing
+  JOURNAL   J. Bacteriol. 185 (9), 2910-2919 (2003)
+   PUBMED   12700270
+REFERENCE   5  (residues 1 to 1549)
+  AUTHORS   Tettelin,H., Nelson,K.E., Paulsen,I.T., Eisen,J.A., Read,T.D.,
+            Peterson,S., Heidelberg,J., DeBoy,R.T., Haft,D.H., Dodson,R.J.,
+            Durkin,A.S., Gwinn,M., Kolonay,J.F., Nelson,W.C., Peterson,J.D.,
+            Umayam,L.A., White,O., Salzberg,S.L., Lewis,M.R., Radune,D.,
+            Holtzapple,E., Khouri,H., Wolf,A.M., Utterback,T.R., Hansen,C.L.,
+            McDonald,L.A., Feldblyum,T.V., Angiuoli,S., Dickinson,T.,
+            Hickey,E.K., Holt,I.E., Loftus,B.J., Yang,F., Smith,H.O.,
+            Venter,J.C., Dougherty,B.A., Morrison,D.A., Hollingshead,S.K. and
+            Fraser,C.M.
+  TITLE     Complete genome sequence of a virulent isolate of Streptococcus
+            pneumoniae
+  JOURNAL   Science 293 (5529), 498-506 (2001)
+   PUBMED   11463916
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            The YSIRK form of extended signal peptide directs nascent proteins
+            to the cross-wall site, while signal peptides lacking YSIRK direct
+            proteins instead to the cell pole. A large fraction of YSIRK
+            proteins are surface proteins anchored by sortase-mediated
+            processing of a C-terminal LPXTG motif.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01168.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01168
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1549
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..1549
+                     /product="YSIRK-type signal peptide-containing protein"
+                     /calculated_mol_wt=171968
+     Region          16..39
+                     /region_name="YSIRK_signal"
+                     /note="YSIRK type signal peptide; pfam04650"
+                     /db_xref="CDD:309682"
+     Region          <64..>157
+                     /region_name="Spr"
+                     /note="Cell wall-associated hydrolase, NlpC family [Cell
+                     wall/membrane/envelope biogenesis]; cl28464"
+                     /db_xref="CDD:333284"
+     Region          <1329..>1469
+                     /region_name="DUF4045"
+                     /note="Domain of unknown function (DUF4045); cl25751"
+                     /db_xref="CDD:330572"
+ORIGIN      
+        1 mkhkndlffi tklngkekfs frkisvglvt valgttffla ssntvqaadq nntdsnqnis
+       61 keltsnnsve ttqkqetsae nnshssdpst kdnnsstqss ltsknevtvp tnqtnnlnee
+      121 tnqnestvsi tgaktndsli agvtqgainv hinnhattpl tinhgeqvnv sindknnlls
+      181 fnvnptktse fdmnrtdtaa nkeftftytg sddgilsgfd atfpfnadtt attqyyekyg
+      241 typdltlpvt vtlpnkqsft qnlpikinpy edkvineeil hgfiigpkvi wtpgedgnpg
+      301 angvyteyga nytgpepsak adipvaqqkd arlmqyaidw nygsatnpsl kpllnvlahi
+      361 kfssgqrilp stikvfkips nikvvasdgq risindyysk istlpedtnf enflrnsisn
+      421 dgreividqk gdftvngedy skngpyfiql dtqldtnkis dwintpssgp sistpttnen
+      481 dwnpsgsgst tntftqtytn fkldptvdri ikirfident nqeipnsakn iitatnssvp
+      541 nptmdiikdl aarhyvldqe ategknsshs enltnyniat qnfkfdslnn synseeinvk
+      601 ntslkyyvyl yhetkpqsqt ssvtetinyv yangtkkgel aalpythtvt ytrngiedlv
+      661 tnyidwnswn pdstfnavns piasdsaysl idplvvpaie tnisengeit tqnsiplsyt
+      721 vnyyalekat lhfyddtdkq dltayllqnn qtavindiyd ksdnnstkqa isfagvdkvi
+      781 dflnskhyvf sgvsgigsts ssdyskisyg nfdddetqdq nfvlhfkhet episdtkevt
+      841 etihylyedn sqaandvkhs vtftktgtkd lvtgkenskw savqtfpevv spvisgytpt
+      901 qskiapisvd htsndidktv iytankqqat lrfyddsskk fidfakdliv tgsssspilf
+      961 tipksydfsn ynfvavnkgd nptqttdsls gtalndvtyg kfdtdnttdq yfiahfthki
+     1021 spanenksis ekailyaeng prkdnifktl nlgninfirt gqkdlvnqqi twdawnvenk
+     1081 aqnisipeii fnvyklnsqn isqpsstlkk felngheisp iefdkkqdqa liitlpnnfe
+     1141 flikvpyvlt enitviykdd ttneilerqv lsgqpdtssq ystkntitky laknyllvsd
+     1201 ptnqqtlsfd ntedpddqty vvhfkhqfee innsksiket inyiydngte aapsytnsiq
+     1261 fvqsgevdlv tnirkikdwt psissfsavk spiingyttd hkqidqqfit pnskdlvfnv
+     1321 vytaepvkpt kpveptkpvq ptkpveptkp vqptkpvqpt kpveptkpvq ptkpveptkp
+     1381 vqptksvqpt kpvqptkpve ptkpveptkp vqptkpvept kpvqptkpve ptkpveptkp
+     1441 vqptkpvept kpvqptkpve ptkpvqptkl tistslhkss dkltqithqs yqnskasrqn
+     1501 tnnvsvqkkk ilpqtgtktt digilglafa taasllglis dkvnrkkhn
+//
+
+

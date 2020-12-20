@@ -1,0 +1,39 @@
+LOCUS       WP_002357107             263 aa            linear   BCT 25-AUG-2017
+DEFINITION  MULTISPECIES: PTS sugar transporter subunit IIC [Bacilli].
+ACCESSION   WP_002357107
+VERSION     WP_002357107.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10508028
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..263
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..263
+                     /product="PTS sugar transporter subunit IIC"
+                     /calculated_mol_wt=27300
+     Region          4..234
+                     /region_name="EII-Sor"
+                     /note="PTS system sorbose-specific iic component;
+                     pfam03609"
+                     /db_xref="CDD:335397"
+ORIGIN      
+        1 migqaillgc iafiaqseya lgtsllsrpi vtglfvgivl gdvktgvimg atlelafigs
+       61 fsvgasippd vvtggilgta faitagagte talvlglpia tltlilkniy lgllipimsq
+      121 kadqyaeega ykgvermhll agfglsfmla livtisfavg sntikglldl ipefiqhgls
+      181 vatgiipalg famlarllin kqvapyfflg fvlmayfklp vtgvailgai tavivvnimn
+      241 yakgknetiq ttsgeviddd edf
+//
+
+

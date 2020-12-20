@@ -1,0 +1,39 @@
+LOCUS       WP_003490879             228 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: Crp/Fnr family transcriptional regulator
+            [Clostridium].
+ACCESSION   WP_003490879
+VERSION     WP_003490879.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11429533
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+FEATURES             Location/Qualifiers
+     source          1..228
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..228
+                     /product="Crp/Fnr family transcriptional regulator"
+                     /calculated_mol_wt=26253
+     Region          15..217
+                     /region_name="Crp"
+                     /note="cAMP-binding domain of CRP or a regulatory subunit
+                     of cAMP-dependent protein kinases [Signal transduction
+                     mechanisms]; COG0664"
+                     /db_xref="CDD:223736"
+ORIGIN      
+        1 mvknnrflpg ssidinsdfy kifeeagtik kynkdeiiyf qedvaenfyl iksgrvrmfl
+       61 ispegtelti eilrkgklfg esscfsygsr ltsvsaatdv elisvslenl ypyltkypel
+      121 mvqmfhlmsl tmknlsiqvs nmaflpaekk laqllvrlgv hfkknkndkc yiidysheei
+      181 aqligscrvt vtktlnsfqe kgmislgykk ikiidekrlk deyynyfv
+//
+
+

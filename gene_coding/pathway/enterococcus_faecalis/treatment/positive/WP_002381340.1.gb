@@ -1,0 +1,46 @@
+LOCUS       WP_002381340             338 aa            linear   BCT 31-MAY-2019
+DEFINITION  MULTISPECIES: Holliday junction branch migration DNA helicase RuvB
+            [Bacilli].
+ACCESSION   WP_002381340
+VERSION     WP_002381340.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF000868.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00080
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..338
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     gene            1..338
+                     /gene="ruvB"
+     Protein         1..338
+                     /product="Holliday junction branch migration DNA helicase
+                     RuvB"
+                     /EC_number="3.6.4.12"
+                     /calculated_mol_wt=37869
+     Region          6..332
+                     /region_name="ruvB"
+                     /note="Holliday junction DNA helicase RuvB; Reviewed;
+                     PRK00080"
+                     /db_xref="CDD:234619"
+ORIGIN      
+        1 mteeerllsa asqeaeasie kslrpqflaq yigqdkvkqe ltiyieaakn rnealdhtll
+       61 ygppglgktt mamvianemn vnirttsgpa ieragdlvai lnelepgdvl fideihrlpr
+      121 vveemlysam edfyidimvg qgttahpvhf plppftlvga ttragmlsap lrdrfgiish
+      181 meyyqeqdlk eivlrsadif qteifeegaf eiarrsrgtp rianrllkrv rdfaqvqsdg
+      241 kidraiadka ltllqvdhqg ldyvdqkllk tmidlygggp vglstlsvni geetetvedm
+      301 yepyliqkgf ikrtprgria tpfayahfgy dylegrkn
+//
+
+

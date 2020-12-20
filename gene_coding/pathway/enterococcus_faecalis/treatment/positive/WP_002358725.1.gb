@@ -1,0 +1,38 @@
+LOCUS       WP_002358725             243 aa            linear   BCT 13-MAY-2017
+DEFINITION  MULTISPECIES: WxL domain-containing protein [Bacilli].
+ACCESSION   WP_002358725
+VERSION     WP_002358725.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10617615
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..243
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..243
+                     /product="WxL domain-containing protein"
+                     /calculated_mol_wt=25909
+     Region          30..238
+                     /region_name="WxL"
+                     /note="WxL domain surface cell wall-binding; pfam13731"
+                     /db_xref="CDD:316270"
+ORIGIN      
+        1 mkktvlltsa tillgvgfqa inasaaetfp keyntegtit feagdneitp pvdpenpdpt
+       61 dpvdpidppg pgtggalsid ygskfkfgtq kistadqtyy aapdemkdgs kkptyvqvtd
+      121 krgtlagwkl tlsqpeqfkt atgeelvgaq ltftkaeaas mvdekykpse vsstisltpg
+      181 vnnnlamnak ketgvgtwvy rfgsneatnk eavqlfvpgk svklaqqyst klvwaledtp
+      241 ann
+//
+
+

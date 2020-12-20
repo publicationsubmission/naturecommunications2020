@@ -1,0 +1,40 @@
+LOCUS       WP_040109101             252 aa            linear   BCT 15-MAY-2017
+DEFINITION  MULTISPECIES: ABC transporter ATP-binding protein [Clostridium].
+ACCESSION   WP_040109101
+VERSION     WP_040109101.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11438141
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..252
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..252
+                     /product="ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=28137
+     Region          1..246
+                     /region_name="FepC"
+                     /note="ABC-type cobalamin/Fe3+-siderophores transport
+                     system, ATPase component [Inorganic ion transport and
+                     metabolism, Coenzyme transport and metabolism]; COG1120"
+                     /db_xref="CDD:224045"
+ORIGIN      
+        1 mklnienvni vlgkknivkd acvnvhkgef iavigpngsg kstllktiyh vcspksgviy
+       61 ldgknlltmp aknmacelsv vsqfnnvafd ikvedmvlmg rtphkkmleq dnendyrivr
+      121 kmlekvdmln yakrsfstls ggekqrvlla ralaqqveli ildeptnhld ikyqiqilnl
+      181 vkslgitvva alhdlnlaaa ycdrlyvmhk gsivssgkpk evlttklike vyevdctvya
+      241 qeepiyirfk ti
+//
+
+

@@ -1,0 +1,54 @@
+LOCUS       WP_004897452             589 aa            linear   BCT 20-JUN-2019
+DEFINITION  pyruvate kinase [Lactobacillus johnsonii].
+ACCESSION   WP_004897452
+VERSION     WP_004897452.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 589)
+  AUTHORS   Eijkel,J.C. and van den Berg,A.
+  TITLE     Nanofluidics and the chemical potential applied to solvent and
+            solute transport
+  JOURNAL   Chem Soc Rev 39 (3), 957-973 (2010)
+   PUBMED   20179818
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01064.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01064
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..589
+                     /gene="pyk"
+     Protein         1..589
+                     /product="pyruvate kinase"
+                     /EC_number="2.7.1.40"
+                     /calculated_mol_wt=63436
+     Region          1..589
+                     /region_name="PRK06354"
+                     /note="pyruvate kinase; Provisional"
+                     /db_xref="CDD:235784"
+ORIGIN      
+        1 mkktkivstl gpasndveti tklaeaganv frfnfshgdh eehrarmnmv revekktgkl
+       61 lgialdtkga eirtteqegg kftintgdti rismddtkkg nkdmihvtyd glyddthvgg
+      121 hvliddglvd llikdkddak relvceaqnt gvigskkgvn apgveirlpg itekdtndik
+      181 fglkeginfi fasfvrkaqd vldirqllee ahceyvkifp kiesqegidn ideilkvsdg
+      241 lmvargdmgv eipfinvpfv qkelikrcna lgkpvitatq mldsmqenpr ptraevtdva
+      301 navldgtdat mlsgesangl ypvkavkama eidmrtekql akrnklalqr feeykgsnvt
+      361 eaigesvvrt aeelgvktii aatesgytar miskyrpnad iiamtfndki qhslgvvwgv
+      421 kpmltekpks teemfekaae laketglakd gdlviivagv plgetgttnl mklqligtql
+      481 vkglgvgeqs vigkavvats aeeanskvqd gdilvakttd kdylpaikka sgmvveasgl
+      541 tshaavvgls lgipvivgat davekikdgs kitvdarrga vyqgeatnl
+//
+
+

@@ -1,0 +1,36 @@
+LOCUS       WP_069168780             672 aa            linear   BCT 31-AUG-2016
+DEFINITION  hypothetical protein [Lactobacillus johnsonii].
+ACCESSION   WP_069168780
+VERSION     WP_069168780.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..672
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..672
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=76737
+ORIGIN      
+        1 msytytlryv fdprtntpek dekllnfvqk akiddvafii ngeelnhshl tkeetqvwld
+       61 aiiplqkqla klgvttslnp wttimhsdrg fsvnpkigfn tfvdingnka kdmacpadpt
+      121 wrkylaqqya qyasihprrl wmeddfrhyn htplklmcfc dyhmklyqek lnkdesreef
+      181 vknmlkpgep tierkiyldq arkemieneh lieeavhkvs pdtdmgqmts fpdwhaiegr
+      241 dwaklfdaqa gpghprvarp hlpaynevap liygrkfeey srttaaflgp haelypelen
+      301 smwtpqvksn tfiafqiitt allgakgiml nifdmmgngi nedwgygkml adikpfasal
+      361 snhrlnmkel rgikvlvdqd saytahttwg kqpeellphe knwasllasf sfattilpiq
+      421 dnfeiedqti aiagqllrnl tdsqitklit qntvlldges iqvlldrdlg nllhiqsakw
+      481 haaksgyqsf eqadgvtvqg vknpritmlq htgnylqldy qpnsnvkiws saynsidqkl
+      541 gnfmaviddh iivlpmdqdp khgwesqfss ykqglmqqim asveptdyli nmphvklniq
+      601 engkvvwlan fnldsyteik whiseplpst tatlirkhgs siekevvkid vrdnlatiks
+      661 slspletiql if
+//
+
+

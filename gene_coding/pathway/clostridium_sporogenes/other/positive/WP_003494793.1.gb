@@ -1,0 +1,46 @@
+LOCUS       WP_003494793             401 aa            linear   BCT 26-SEP-2017
+DEFINITION  MULTISPECIES: S41 family peptidase [Clostridium].
+ACCESSION   WP_003494793
+VERSION     WP_003494793.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11435057
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..401
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..401
+                     /product="S41 family peptidase"
+                     /calculated_mol_wt=44816
+     Region          50..396
+                     /region_name="CtpA"
+                     /note="C-terminal processing protease CtpA/Prc, contains a
+                     PDZ domain [Posttranslational modification, protein
+                     turnover, chaperones]; COG0793"
+                     /db_xref="CDD:223864"
+     Site            order(304,329)
+                     /site_type="active"
+                     /note="Catalytic dyad [active]"
+                     /db_xref="CDD:143476"
+ORIGIN      
+        1 mkknkkwiiw tvvivlvtni ftflgtnlvs lylpngkvii gadqykdilk yqkmflirnq
+       61 iykyydgkid eskmaegavk gmteslndpy tvfmnakeyk efnaqtegny sgvgiqiqak
+      121 ddkiivastf egspakeagi lpkdeiqkvn nttvtgkele kavsimkgke gtdvklqlyr
+      181 kekgsfevtl krkkidipti ksemidnnig yiqvsmfdeh tsknfknald nlkdkgmksl
+      241 lldlrgnpgg lldecinmas nfiekgkvvv stidkyenkk eykskggdfi gfpvtilvde
+      301 gsasasevfl gamkdynaat sigkktfgkg vvqtiietgd ntalkvtisk yyspkginin
+      361 hkgitpdmei dypeelrkke ydrkvdpqfn kalniakski k
+//
+
+

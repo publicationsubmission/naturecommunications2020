@@ -1,0 +1,41 @@
+LOCUS       WP_086875219             308 aa            linear   BCT 14-JUN-2019
+DEFINITION  serine hydrolase [Lactobacillus johnsonii].
+ACCESSION   WP_086875219
+VERSION     WP_086875219.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012371.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00144.22
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..308
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..308
+                     /product="serine hydrolase"
+                     /calculated_mol_wt=34621
+     Region          1..283
+                     /region_name="Beta-lactamase"
+                     /note="pfam00144"
+                     /db_xref="CDD:333874"
+ORIGIN      
+        1 maiknnkvil nestgyanvs kkehntpkta ffinsvnkvf tgalvmkqve qkklklndkl
+       61 skfypqvsha nqitigqllt meaglqgkde ssygtpvfkn nqagikydik hnivfdkkqy
+      121 nqrfyssiny illsgvlekv thksyeslvk dtyikklgls etefywdipk nrhikvavpy
+      181 tknsqgylvp hsvsvdrvrg dlgagslvms nsdlyratsa ilngeiikps siqtvyapad
+      241 pakynagfyn fpdfhssngs gdgyttyyri sndtrdvlvv qsnypvkdyf kvreicndlm
+      301 enliksps
+//
+
+

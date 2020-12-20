@@ -1,0 +1,45 @@
+LOCUS       WP_003493215             342 aa            linear   BCT 03-JUN-2019
+DEFINITION  MULTISPECIES: 23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+            [Clostridium].
+ACCESSION   WP_003493215
+VERSION     WP_003493215.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF011025.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK14454
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..342
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..342
+                     /gene="rlmN"
+     Protein         1..342
+                     /product="23S rRNA (adenine(2503)-C(2))-methyltransferase
+                     RlmN"
+                     /calculated_mol_wt=38847
+     Region          1..342
+                     /region_name="PRK14454"
+                     /note="ribosomal RNA large subunit methyltransferase N;
+                     Provisional"
+                     /db_xref="CDD:184686"
+ORIGIN      
+        1 menildltle eleewliske ekafrakqif nwiydklifd fnnmknipek tknvlsdnfy
+       61 igvpkvvekl isqdkstykf lfeykdgnii esvvmkykhg nsicvstqvg crmgckfcas
+      121 tldgvirnlt sgeilsqima aqkeigeris nvvlmgsgep ldnfgnvtkf ldlvtsestl
+      181 nigqrhitls tcgivpkmke ladknynitl aislhspedl lrkemmpian kysikelmea
+      241 cdyyinktnr ritfeyalvk gkndsikeak klssllrrkl chvnlipvne ikensyekst
+      301 skniesfgni lkengietti rremgadina acgqlrrsyv sk
+//
+
+

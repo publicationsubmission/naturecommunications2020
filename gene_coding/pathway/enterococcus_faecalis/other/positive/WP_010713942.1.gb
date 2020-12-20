@@ -1,0 +1,56 @@
+LOCUS       WP_010713942             164 aa            linear   BCT 18-JUN-2019
+DEFINITION  trimethoprim-resistant dihydrofolate reductase DfrE [Enterococcus
+            faecalis].
+ACCESSION   WP_010713942
+VERSION     WP_010713942.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 164)
+  AUTHORS   Coque,T.M., Singh,K.V., Weinstock,G.M. and Murray,B.E.
+  TITLE     Characterization of dihydrofolate reductase genes from
+            trimethoprim-susceptible and trimethoprim-resistant strains of
+            Enterococcus faecalis
+  JOURNAL   Antimicrob. Agents Chemother. 43 (1), 141-147 (1999)
+   PUBMED   9869579
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF033473.1
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..164
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..164
+                     /gene="dfrE"
+     Protein         1..164
+                     /product="trimethoprim-resistant dihydrofolate reductase
+                     DfrE"
+                     /calculated_mol_wt=18449
+     Region          1..161
+                     /region_name="DHFR_1"
+                     /note="Dihydrofolate reductase; pfam00186"
+                     /db_xref="CDD:278610"
+     Site            order(5,22,27,58,96,103,116)
+                     /site_type="other"
+                     /note="folate binding site [chemical binding]"
+                     /db_xref="CDD:238127"
+     Site            order(7,14,44..46,65,97..100)
+                     /site_type="other"
+                     /note="NADP+ binding site [chemical binding]"
+                     /db_xref="CDD:238127"
+ORIGIN      
+        1 mlaaiwaqde qgvigkegkl pwhlpndlkf fkektihntl vlgratfegm gcrplpnrtt
+       61 ivltsnpdyq aegvlvmhsv eeilayadny egvtvigggs vvfkelipac dvlyrtmihe
+      121 tfegdtffpe idwsvwekva tvpgvvdekn lyardyetyh rndk
+//
+
+

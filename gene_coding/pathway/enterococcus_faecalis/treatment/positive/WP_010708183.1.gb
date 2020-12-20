@@ -1,0 +1,43 @@
+LOCUS       WP_010708183             282 aa            linear   BCT 01-JUN-2019
+DEFINITION  prephenate dehydratase [Enterococcus faecalis].
+ACCESSION   WP_010708183
+VERSION     WP_010708183.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF008865.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK11898
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..282
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..282
+                     /gene="pheA"
+     Protein         1..282
+                     /product="prephenate dehydratase"
+                     /EC_number="4.2.1.51"
+                     /calculated_mol_wt=31164
+     Region          1..282
+                     /region_name="PRK11898"
+                     /note="prephenate dehydratase; Provisional"
+                     /db_xref="CDD:237013"
+ORIGIN      
+        1 mkvgylgpig sftysatlaa fpeatlmpya sipaclkaie qqevawsiip ientiegtvn
+       61 asidylyhqa qlpvqaelvl piqqqlmvak enqaiwqqsq kilshpqala qsqmfleknf
+      121 peaileatps tayaakyiae hpelpfaaia pklsaemydl tivekniqdl svnqtrfwvl
+      181 gsenlaisfp lsekkitlai tmpsnvpgsl hkalsvfswr ginlskiesr plktklgeyf
+      241 flmdlvkdqp eklieaalte leligaeiki lgdypiyvls tl
+//
+
+

@@ -1,0 +1,45 @@
+LOCUS       WP_002359994             328 aa            linear   BCT 28-NOV-2019
+DEFINITION  MULTISPECIES: endolysin [Bacteria].
+ACCESSION   WP_002359994
+VERSION     WP_002359994.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (eubacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..328
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     Protein         1..328
+                     /product="endolysin"
+                     /calculated_mol_wt=36723
+     Region          1..200
+                     /region_name="GH25_LysA-like"
+                     /note="LysA is a cell wall endolysin produced by
+                     Lactobacillus fermentum, which degrades bacterial cell
+                     walls by catalyzing the hydrolysis of 1,4-beta-linkages
+                     between N-acetylmuramic acid and N-acetyl-D-glucosamine
+                     residues. The N-terminal glycosyl hydrolase...; cd06417"
+                     /db_xref="CDD:119379"
+     Site            order(5,28,57,59,92,94,122,144,174,189)
+                     /site_type="active"
+                     /db_xref="CDD:119379"
+     Region          223..327
+                     /region_name="ZoocinA_TRD"
+                     /note="Target recognition domain of lytic exoenzyme;
+                     pfam16775"
+                     /db_xref="CDD:293380"
+ORIGIN      
+        1 mngidisswq sninvgkegv padfvivkat ggtgyinpdc drafqqaiss gkkvavyhfa
+       61 nevglegtae qeaefflkni kgyigkavlv ldwestnkgd vawakrwldy vqgktgvkpm
+      121 fytytnvlqs ynfssiakad yglwladyga nnpqgysqpt pppvpywnfi smyqytsngq
+      181 lpgwngrldl nvffgdrsmw dkyanpksnp tpappvppkp krrygyrvdd lqfvngiwqv
+      241 rndvlgqpdf dwtenginva yidkidpatg enmpdqelkv gdyfafqpss vgiiteqysl
+      301 ngktishvqf pdefiwlyte svgkliyg
+//
+
+

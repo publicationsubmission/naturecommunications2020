@@ -1,0 +1,38 @@
+LOCUS       WP_002359188             560 aa            linear   BCT 26-MAY-2013
+DEFINITION  membrane protein [Enterococcus faecalis].
+ACCESSION   WP_002359188
+VERSION     WP_002359188.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..560
+                     /product="membrane protein"
+                     /calculated_mol_wt=64067
+     Region          82..>387
+                     /region_name="PMT_2"
+                     /note="Dolichyl-phosphate-mannose-protein
+                     mannosyltransferase; cl21590"
+                     /db_xref="CDD:328815"
+ORIGIN      
+        1 mgqqvkswcr qherllifis flllsglsly fvyfqenflr asdfrfhqnr veglasaikn
+       61 ndwfpkinyf flggygyass lfypdaylyl pallrvlgls fvasmaifvf avnlatfslt
+      121 yyagrlmals kkrsylfail yglsiyrmqd lfnrqalgef lalsffplvl aslfllrkgt
+      181 tkcwplltla mtgiglahfi siemvsiwig lyilfywqqf fkkevlwala kaagltllwl
+      241 afyllpvaeq mknqvfkvts npltyisers ypidslfins lkssvfhakt anlgtllfvg
+      301 lvvavvslas kkiqnkrfig ltlvlllmvt tlfpwhwlnh tplntiqfpw rflgilsvml
+      361 affiaqdewg vfrkswtval lvflaisnlg iyqyqsiqsq qghlltkaey eqptpfyiga
+      421 gheylpdein yqellkqkkr qldysaaqvt itnvrmpygk isfdyqvvkq sakvtvpfiy
+      481 ylgyqatiqm knqtgakkms ltnqgglaal slsgtghvdi ryqrtkvqki gtmmtllsvg
+      541 gfgfsrflqq kkkhkikeqr
+//
+
+

@@ -1,0 +1,67 @@
+LOCUS       WP_086875101             234 aa            linear   BCT 11-JAN-2018
+DEFINITION  ABC transporter ATP-binding protein [Lactobacillus johnsonii].
+ACCESSION   WP_086875101
+VERSION     WP_086875101.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10126257
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..234
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..234
+                     /product="ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=26188
+     Region          5..209
+                     /region_name="ABC_BcrA_bacitracin_resist"
+                     /note="ATP-binding cassette domain of the
+                     bacitracin-resistance transporter; cd03268"
+                     /db_xref="CDD:213235"
+     Site            37..44
+                     /site_type="other"
+                     /note="Walker A/P-loop"
+                     /db_xref="CDD:213235"
+     Site            order(40..41,43..45,81,153..154,186)
+                     /site_type="other"
+                     /note="ATP binding site [chemical binding]"
+                     /db_xref="CDD:213235"
+     Site            78..81
+                     /site_type="other"
+                     /note="Q-loop/lid"
+                     /db_xref="CDD:213235"
+     Site            129..138
+                     /site_type="other"
+                     /note="ABC transporter signature motif"
+                     /db_xref="CDD:213235"
+     Site            149..154
+                     /site_type="other"
+                     /note="Walker B"
+                     /db_xref="CDD:213235"
+     Site            157..160
+                     /site_type="other"
+                     /note="D-loop"
+                     /db_xref="CDD:213235"
+     Site            182..188
+                     /site_type="other"
+                     /note="H-loop/switch region"
+                     /db_xref="CDD:213235"
+ORIGIN      
+        1 mndilttkel gknfkhkrvl dqinlnvptg kiycimgpng agkstllkii sgiekptegv
+       61 vtfkdknwkr edlkvigsli eepglfdnlt veeniklklk lhrienknqe qilntlgfgd
+      121 hnhekvkgfs tgmrqrlgia lafmgnpdlv ildeptngld tfgihelrel lmlekkqgkt
+      181 iiiashmlse iqkvadriai lgdgklllee dyepetdlee lfistlekag ikhd
+//
+
+

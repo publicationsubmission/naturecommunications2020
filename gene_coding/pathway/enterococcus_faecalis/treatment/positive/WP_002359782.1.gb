@@ -1,0 +1,56 @@
+LOCUS       WP_002359782             431 aa            linear   BCT 10-OCT-2019
+DEFINITION  MULTISPECIES: adenylosuccinate lyase [Enterococcus].
+ACCESSION   WP_002359782
+VERSION     WP_002359782.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF006494.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK08937
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..431
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     gene            1..431
+                     /gene="purB"
+     Protein         1..431
+                     /product="adenylosuccinate lyase"
+                     /EC_number="4.3.2.2"
+                     /calculated_mol_wt=49041
+     Region          4..427
+                     /region_name="Adenylsuccinate_lyase_1"
+                     /note="Adenylsuccinate lyase (ASL)_subgroup 1; cd01360"
+                     /db_xref="CDD:176464"
+     Site            order(15..16,69,78,87..88,90..91,139..144,146,152..153,
+                     156,159..160,166..167,173,183..186,189,191,207,209..210,
+                     217,221,228,235,239,241..242,244..245,269..270,275,279,
+                     282..283,285..286,289..290,293..295,297..304,307..308,
+                     310..311,315,355,359,362..363,368..369,418,420,424)
+                     /site_type="other"
+                     /note="tetramer interface [polypeptide binding]"
+                     /db_xref="CDD:176464"
+     Site            order(68,89,141,212,268,270,275)
+                     /site_type="active"
+                     /db_xref="CDD:176464"
+ORIGIN      
+        1 midrytrpem gaiwtdknry kawleveila deawaelgei pkedvqkire nasfdvaril
+       61 eieaetrhdv vaftravset lgeerkwvhy gltstdvvdt aygyllkqan dilrkdlqtf
+      121 teivgakake ykhtvmmgrt hgvhaepttf glklalwyse mkrnierfeh aakgveagki
+      181 sgavgtfani spfveeyvce hlgiraqeis tqvlprdlha eyvsamalia tsiekfatei
+      241 rglqksetre veeffakgqk gssamphkrn pigsenmtgl arvirghvit afenvslwhe
+      301 rdishssaer iiipdttill nymlnrfgni vknltvfpen mkrnmdatyg liysqrvllk
+      361 lidhgmtree aydlvqpkta yawdhqtafr plldadekit svlskeeldd afdyhyhlkn
+      421 vdtifervgl g
+//
+
+

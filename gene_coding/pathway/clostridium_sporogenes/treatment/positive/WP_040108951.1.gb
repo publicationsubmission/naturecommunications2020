@@ -1,0 +1,44 @@
+LOCUS       WP_040108951             620 aa            linear   BCT 28-JUN-2015
+DEFINITION  MULTISPECIES: ABC transporter permease [Clostridium].
+ACCESSION   WP_040108951
+VERSION     WP_040108951.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10496603
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..620
+                     /product="ABC transporter permease"
+                     /calculated_mol_wt=70772
+     Region          58..174
+                     /region_name="FtsX"
+                     /note="FtsX-like permease family; pfam02687"
+                     /db_xref="CDD:308361"
+ORIGIN      
+        1 mnfrefstrn vvrnirayfa yllsstisaa llfsftmlvl hpnldvtifp mylqkafnit
+       61 tiiaylflcf fifysvsvfi ksrfkelgil yilgasdkqi kkmiaienvl isslsgisgv
+      121 tlglvfskif lvlsgkllgy nallfyfpvk amaitflafv lmgilisift tfiikedevl
+      181 nllkgtqkpk sepktsniia ilcvvlllgg yyfsitstmn nivyriipvt vaviiatyll
+      241 fsqlsvfvik ilkknrefym nktrvlwist llyrikdntr mfflvtitsa maftsigavs
+      301 afwvnkeaev drnfpqaffy asnkkdykkl dfiegslkke gynytkvqgq iksivskkdt
+      361 ipiniinest ynmlneslgq erihiksnes iagsplmink rdnilvdnmd ikvvtklker
+      421 vipalyddvy ivkddvynki ngsislfsal nvknykdtln icksykekfg ednhkenyii
+      481 lmkadilesh kigygvvlfl aifigiiffv ttgsflynky ymdvkedrvk yeqlnkiglt
+      541 freikkvsti eigvlflfpy ivavihssfa lsalkntfam dvnivaffvm gsfliiqiiy
+      601 ffiirgnyll dikkslanri
+//
+
+

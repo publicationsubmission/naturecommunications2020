@@ -1,0 +1,41 @@
+LOCUS       WP_044496651             337 aa            linear   BCT 20-AUG-2018
+DEFINITION  sugar transferase [Lactobacillus johnsonii].
+ACCESSION   WP_044496651
+VERSION     WP_044496651.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF007325.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK09814
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..337
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..337
+                     /product="sugar transferase"
+                     /calculated_mol_wt=38584
+     Region          1..332
+                     /region_name="PRK09814"
+                     /note="beta-1,6-galactofuranosyltransferase; Provisional"
+                     /db_xref="CDD:236626"
+ORIGIN      
+        1 mtvhitning mamnsvaqna qnmvvdfakq lgmnefgiyv yhwteeplqa rstrfdgiia
+       61 slnggdtvif qspswiaiew dqalidhinl ypnikkiifi hdviplmfev nrylmpqyid
+      121 yynkadvliv pskkmydllr englkekpyv vqhfwdhpat vnyfitpenn kvinfagnae
+      181 kfdfvkkwdc qnvklkvysd pvnndpehnv eltgwkhdpv lleelrqtgg fglvwseepy
+      241 wseymkvnas yklstylaag lpiivnsttp eaetiknkhl giiadsldea qakvlqinde
+      301 dykqmvdsvn nfsslirngy ftkkalvdav vkaqynn
+//
+
+

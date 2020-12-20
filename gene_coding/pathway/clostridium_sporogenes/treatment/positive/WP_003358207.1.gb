@@ -1,0 +1,63 @@
+LOCUS       WP_003358207             148 aa            linear   BCT 15-JUN-2018
+DEFINITION  MULTISPECIES: GTP-binding protein [Clostridium].
+ACCESSION   WP_003358207
+VERSION     WP_003358207.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..148
+                     /product="GTP-binding protein"
+                     /calculated_mol_wt=16541
+     Region          4..142
+                     /region_name="P-loop_NTPase"
+                     /note="P-loop containing Nucleoside Triphosphate
+                     Hydrolases; cl21455"
+                     /db_xref="CDD:328724"
+     Site            10..17
+                     /site_type="other"
+                     /note="G1 box"
+                     /db_xref="CDD:206648"
+     Site            order(12..18,47,99..100,102,128..130)
+                     /site_type="other"
+                     /note="GTP/Mg2+ binding site [chemical binding]"
+                     /db_xref="CDD:206648"
+     Site            33
+                     /site_type="other"
+                     /note="G2 box"
+                     /db_xref="CDD:206648"
+     Site            37..39
+                     /site_type="other"
+                     /note="Switch I region"
+                     /db_xref="CDD:206648"
+     Site            44..47
+                     /site_type="other"
+                     /note="G3 box"
+                     /db_xref="CDD:206648"
+     Site            order(46..47,67..68)
+                     /site_type="other"
+                     /note="Switch II region"
+                     /db_xref="CDD:206648"
+     Site            99..102
+                     /site_type="other"
+                     /note="G4 box"
+                     /db_xref="CDD:206648"
+     Site            128..130
+                     /site_type="other"
+                     /note="G5 box"
+                     /db_xref="CDD:206648"
+ORIGIN      
+        1 mrkkrimvig pskcgkttlv nalndydgpl rrtpdliygk ntidvpgsyi enawmykhii
+       61 aaaqdascvl ilvdqsncte iyshgfaksf rcpvigvitk cdlmpknkek cemqlkkigv
+      121 sepyfhisfe mgtgidalkk ylfekgee
+//
+
+

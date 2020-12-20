@@ -1,0 +1,46 @@
+LOCUS       WP_014567587             221 aa            linear   BCT 12-JAN-2018
+DEFINITION  DsbA family oxidoreductase [Lactobacillus johnsonii].
+ACCESSION   WP_014567587
+VERSION     WP_014567587.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10122494
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..221
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..221
+                     /product="DsbA family oxidoreductase"
+                     /calculated_mol_wt=24657
+     Region          3..207
+                     /region_name="DsbA_FrnE"
+                     /note="DsbA family, FrnE subfamily; FrnE is a DsbA-like
+                     protein containing a CXXC motif. It is presumed to be a
+                     thiol oxidoreductase involved in polyketide biosynthesis,
+                     specifically in the production of the aromatic antibiotics
+                     frenolicin and nanaomycins; cd03024"
+                     /db_xref="CDD:239322"
+     Site            order(11,14)
+                     /site_type="active"
+                     /note="catalytic residues [active]"
+                     /db_xref="CDD:239322"
+ORIGIN      
+        1 mkisiwgdya cpycyigetn lqkaieelgv qdkieydlna fqidldapks tkqtnavlla
+       61 yekaiplaka naaydhakam gkavgltine atayntntmd ahrmvqwaka tyhdsklien
+      121 laddlfyayf tenkeladhk vlldvakknk ldteevkkil dsnayqdvvm qeeadlesrg
+      181 vesvpyflin gqqfdgvqdv stfktvigag fgmkpdefln f
+//
+
+

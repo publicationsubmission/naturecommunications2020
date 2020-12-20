@@ -1,0 +1,23 @@
+# BLASTX 2.4.0+
+# Query: Sample:P3,Pos:367 <unknown description>
+# Database: User specified sequence set (Input: enterobacteria_phage_lambda_protein.faa)
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 17 hits found
+Sample:P3,Pos:367	ALA45756.1	88.889	63	1	1	14	184	115	177	1.53e-37	118
+Sample:P3,Pos:367	ALA45756.1	100.000	6	0	0	184	201	184	189	0.86	18.9
+Sample:P3,Pos:367	ALA45756.1	37.500	16	10	0	124	77	53	68	2.1	17.7
+Sample:P3,Pos:367	ALA45756.1	100.000	5	0	0	3	17	107	111	3.4	16.9
+Sample:P3,Pos:367	ALA45744.1	22.727	22	17	0	17	82	20	41	0.29	19.6
+Sample:P3,Pos:367	ALA45728.1	32.000	25	17	0	93	167	78	102	0.30	20.0
+Sample:P3,Pos:367	ALA45769.1	34.375	32	16	1	97	2	68	94	0.32	19.6
+Sample:P3,Pos:367	ALA45715.1	46.667	15	8	0	124	80	305	319	0.79	18.9
+Sample:P3,Pos:367	ALA45725.1	24.138	29	16	1	38	124	38	60	1.6	18.1
+Sample:P3,Pos:367	ALA45733.1	36.667	30	18	1	91	2	35	63	1.7	17.7
+Sample:P3,Pos:367	ALA45737.1	44.444	18	10	0	54	107	270	287	2.8	17.3
+Sample:P3,Pos:367	ALA45737.1	44.444	9	5	0	173	199	99	107	8.5	16.2
+Sample:P3,Pos:367	ALA45763.1	66.667	9	3	0	139	113	136	144	2.9	17.3
+Sample:P3,Pos:367	ALA45764.1	46.154	13	7	0	80	42	24	36	3.2	17.3
+Sample:P3,Pos:367	ALA45760.1	71.429	7	2	0	50	70	9	15	3.4	16.9
+Sample:P3,Pos:367	ALA45722.1	41.667	12	7	0	54	19	640	651	8.7	16.2
+Sample:P3,Pos:367	ALA45740.1	50.000	10	5	0	68	97	333	342	9.7	15.8
+# BLAST processed 1 queries

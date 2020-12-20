@@ -1,0 +1,38 @@
+LOCUS       WP_003493852             149 aa            linear   BCT 13-MAY-2017
+DEFINITION  MULTISPECIES: Lrp/AsnC family transcriptional regulator
+            [Clostridium].
+ACCESSION   WP_003493852
+VERSION     WP_003493852.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11445815
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..149
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..149
+                     /product="Lrp/AsnC family transcriptional regulator"
+                     /calculated_mol_wt=17096
+     Region          1..137
+                     /region_name="Lrp"
+                     /note="DNA-binding transcriptional regulator, Lrp family
+                     [Transcription]; COG1522"
+                     /db_xref="CDD:224439"
+ORIGIN      
+        1 mkldeidvli lqelqkdsrl sirelskrin lsppsvterv rrleddgvie gytikinkkk
+       61 lglsidcivk vtmkngqyek fkifikeykr sewcyriagd gcflvkllvk slndieefin
+      121 dissyaitet iiafsevtin nsinkflge
+//
+
+

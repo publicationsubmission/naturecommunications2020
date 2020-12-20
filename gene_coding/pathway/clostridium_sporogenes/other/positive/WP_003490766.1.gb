@@ -1,0 +1,46 @@
+LOCUS       WP_003490766             127 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: aspartate 1-decarboxylase [Clostridium].
+ACCESSION   WP_003490766
+VERSION     WP_003490766.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF003947.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05449
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..127
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..127
+                     /product="aspartate 1-decarboxylase"
+                     /EC_number="4.1.1.11"
+                     /calculated_mol_wt=14212
+     Region          1..126
+                     /region_name="PRK05449"
+                     /note="aspartate alpha-decarboxylase; Provisional"
+                     /db_xref="CDD:180090"
+     Site            order(3..7,9,11..12,20..23,37,39,42..43,47,49,52,54..58,
+                     74..75,77..78,86,90..92,101)
+                     /site_type="other"
+                     /note="tetramerization interface [polypeptide binding]"
+                     /db_xref="CDD:132994"
+     Site            order(9,11,24..25,58)
+                     /site_type="active"
+                     /db_xref="CDD:132994"
+ORIGIN      
+        1 mtitmlkski hraivteanl nyvgsitidk nlmdkanile yekvqivdid ngsrfetyvi
+       61 ageqnsgvic lngaaarmvq kgdkiiimsy cdltideakk fnpkvlfvdn knslekltny
+      121 erhseii
+//
+
+

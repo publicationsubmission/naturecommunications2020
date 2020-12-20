@@ -1,0 +1,72 @@
+LOCUS       WP_002379581             588 aa            linear   BCT 02-JUN-2019
+DEFINITION  MULTISPECIES: thiol reductant ABC exporter subunit CydC
+            [Enterococcus].
+ACCESSION   WP_002379581
+VERSION     WP_002379581.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+REFERENCE   1  (residues 1 to 588)
+  AUTHORS   Pittman,M.S., Robinson,H.C. and Poole,R.K.
+  TITLE     A bacterial glutathione transporter (Escherichia coli CydDC)
+            exports reductant to the periplasm
+  JOURNAL   J. Biol. Chem. 280 (37), 32254-32261 (2005)
+   PUBMED   16040611
+REFERENCE   2  (residues 1 to 588)
+  AUTHORS   Pittman,M.S., Corker,H., Wu,G., Binet,M.B., Moir,A.J. and
+            Poole,R.K.
+  TITLE     Cysteine is exported from the Escherichia coli cytoplasm by CydDC,
+            an ATP-binding cassette-type transporter required for cytochrome
+            assembly
+  JOURNAL   J. Biol. Chem. 277 (51), 49841-49849 (2002)
+   PUBMED   12393891
+REFERENCE   3  (residues 1 to 588)
+  AUTHORS   Cook,G.M., Membrillo-Hernandez,J. and Poole,R.K.
+  TITLE     Transcriptional regulation of the cydDC operon, encoding a
+            heterodimeric ABC transporter required for assembly of cytochromes
+            c and bd in Escherichia coli K-12: regulation by oxygen and
+            alternative electron acceptors
+  JOURNAL   J. Bacteriol. 179 (20), 6525-6530 (1997)
+   PUBMED   9335308
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02868.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02868
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     gene            1..588
+                     /gene="cydC"
+     Protein         1..588
+                     /product="thiol reductant ABC exporter subunit CydC"
+                     /calculated_mol_wt=66432
+     Region          17..580
+                     /region_name="CydC"
+                     /note="ABC-type transport system involved in cytochrome bd
+                     biosynthesis, fused ATPase and permease components [Energy
+                     production and conversion, Posttranslational modification,
+                     protein turnover, chaperones]; COG4987"
+                     /db_xref="CDD:227320"
+ORIGIN      
+        1 mmekqpttkd vwkndqwvrp flkrykktly falllgfltf fsagalmfts gylisraasl
+       61 penilliyip ivltrafgig rpvfryverl tshnwvlkmt sdlrlklynv lekdaiffkt
+      121 kyrtgdilgl lsedinhiqn lylrtifptv iawilyiflv ialgffswwf alcmllmlgv
+      181 vvfllplvsv lvngarqekh kyaknelyqt ltdnilgvsd wvfsqrgsef varyetdean
+      241 vraldekmkq fnrgrdfvlq llfgviaiav lawtsvrfpg nhggaanwig afvltvfpli
+      301 dafaplpaaa qettiykdsi rrfnelpege ddsteapvqp ngtslsiehl sfayenqakk
+      361 vlndlsltip ekqklailgr sgsgkstlas lirgdlrpts geillgnipt eafgetmtey
+      421 igvmhqapyl frttilnnir igreeaseae vwavlekvgl kemvaqlpeg lqtmvdeagl
+      481 rfsggerhrl alarillqdt pivlldeptt gldpiteqql letffealkd ktviwithhl
+      541 qgvtlmdqvi fiedgqlems gtpeellatn ahyqklyrid rgissfee
+//
+
+

@@ -1,0 +1,28 @@
+LOCUS       WP_041818568             230 aa            linear   BCT 06-FEB-2015
+DEFINITION  hypothetical protein [Lactobacillus johnsonii].
+ACCESSION   WP_041818568
+VERSION     WP_041818568.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..230
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..230
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=26863
+ORIGIN      
+        1 mllvspeqwa nwdkwfnytl pgyililgti flfvglipfl cvhnkitytl fgvttvflvt
+       61 flgiayfknk esteyvkenh yltpmvreyd aqifsnkyyd peeieafkyv adiqtpshlp
+      121 siykkmpvkq evtylgkndy yafielnnvv mkfsladckk ipgnkayftg yhfkiknrkf
+      181 lklgfidlkh nlrekvelpa nsynkqvssn ieenynhpgl vanwipdsek
+//
+
+

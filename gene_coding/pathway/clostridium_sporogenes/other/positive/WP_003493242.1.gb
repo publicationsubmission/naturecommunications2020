@@ -1,0 +1,45 @@
+LOCUS       WP_003493242             584 aa            linear   BCT 14-OCT-2015
+DEFINITION  MULTISPECIES: sigma-54-dependent Fis family transcriptional
+            regulator [Clostridium].
+ACCESSION   WP_003493242
+VERSION     WP_003493242.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..584
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..584
+                     /product="sigma-54-dependent Fis family transcriptional
+                     regulator"
+                     /calculated_mol_wt=66262
+     Region          11..64
+                     /region_name="CBS"
+                     /note="CBS domain; pfam00571"
+                     /db_xref="CDD:306942"
+     Region          43..583
+                     /region_name="RocR"
+                     /note="Transcriptional regulator containing PAS, AAA-type
+                     ATPase, and DNA-binding Fis domains [Transcription, Signal
+                     transduction mechanisms]; cl28069"
+                     /db_xref="CDD:332890"
+ORIGIN      
+        1 mnssieliyt vknvmktdfi kvlkneaiss afnrmaklyk devlivdedd niigiftknd
+       61 lyklenegkr fsdnlenyik rdvitiseek siisarnimv knkierlpiv hnrkiigivh
+      121 lddlnnelyt nveelyalqd rilenmheav citnnkgvvi ywnkssedly gvkrqeiigq
+      181 ylgsffpnal ilkvlkkprk itnvnnepsp gktvilsavp ifnsknklia vastdrdite
+      241 vislskelmq ekkkveffes aykkeiasny sfssiigksq riieniaiak kvaptsasvl
+      301 itgesgtgke vfakaihkas grtgnfvain csaipenlfe selfgyvggt ftgslkegki
+      361 gkfefanngt lfldeigdmp lsmqakllrv lqdgvvyrig sqkgtkvncr ilaatnrdlq
+      421 smikentfre dlfyrfavvh ielpplrerr ddikdfidlf inqisekegi kinsidkevy
+      481 nilcsykweg nirqlknvve rmvvlstnge vtissvpnhi vqdveeiege shhrydlnev
+      541 vkntekkiik evmeiakgnk kkaaeilnik rstlyyklnq ydli
+//
+
+

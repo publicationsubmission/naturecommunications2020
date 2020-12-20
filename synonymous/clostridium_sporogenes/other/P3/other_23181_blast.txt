@@ -1,0 +1,5 @@
+# BLASTX 2.4.0+
+# Query: Sample:P3,Pos:23181 <unknown description>
+# Database: User specified sequence set (Input: clostridium_sporogenes_protein.faa)
+# 0 hits found
+# BLAST processed 1 queries

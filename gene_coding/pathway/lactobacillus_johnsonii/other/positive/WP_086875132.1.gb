@@ -1,0 +1,49 @@
+LOCUS       WP_086875132             285 aa            linear   BCT 12-JAN-2018
+DEFINITION  aldo/keto reductase [Lactobacillus johnsonii].
+ACCESSION   WP_086875132
+VERSION     WP_086875132.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10002080
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..285
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..285
+                     /product="aldo/keto reductase"
+                     /calculated_mol_wt=31337
+     Region          5..285
+                     /region_name="ARA1"
+                     /note="Aldo/keto reductase, related to diketogulonate
+                     reductase [Secondary metabolites biosynthesis, transport
+                     and catabolism]; COG0656"
+                     /db_xref="CDD:223729"
+     Site            order(24..26,50,55,80,113..114,150..151,172,198..203,224,
+                     239..242,247,250..251)
+                     /site_type="active"
+                     /db_xref="CDD:119408"
+     Site            order(50,55,80,113)
+                     /site_type="active"
+                     /note="catalytic tetrad [active]"
+                     /db_xref="CDD:119408"
+ORIGIN      
+        1 mkfnsvedty tlnngvkipi igfgtwqtpd gdvakyavea alnsgyrhid taaaygnees
+       61 vgegiknsgi nrhdlfittk lwnadhsyke akaaidkslq nlgtdyldly lihwpnplal
+      121 rdhwaeanae swrameeavk agkiraigvs nfrkhhleel lktaeikpav nqimlnpsdl
+      181 qsdvvkvnee lgllseaysp lgtggllgne vvneianevg kspaqvlirw slehgflplp
+      241 ksvhdkyiaa nidvfdfeln deqmskldsl hgvsdlatdp dtanf
+//
+
+

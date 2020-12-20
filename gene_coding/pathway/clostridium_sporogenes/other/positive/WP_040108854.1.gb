@@ -1,0 +1,66 @@
+LOCUS       WP_040108854            1038 aa            linear   BCT 28-NOV-2019
+DEFINITION  MULTISPECIES: isoleucine--tRNA ligase [Clostridium].
+ACCESSION   WP_040108854
+VERSION     WP_040108854.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 1038)
+  AUTHORS   Fukunaga,R. and Yokoyama,S.
+  TITLE     Crystallization and preliminary X-ray crystallographic study of the
+            editing domain of Thermus thermophilus isoleucyl-tRNA synthetase
+            complexed with pre- and post-transfer editing-substrate analogues
+  JOURNAL   Acta Crystallogr. D Biol. Crystallogr. 60 (Pt 10), 1900-1902 (2004)
+   PUBMED   15388946
+REFERENCE   2  (residues 1 to 1038)
+  AUTHORS   Fukunaga,R., Fukai,S., Ishitani,R., Nureki,O. and Yokoyama,S.
+  TITLE     Crystal structures of the CP1 domain from Thermus thermophilus
+            isoleucyl-tRNA synthetase and its complex with L-valine
+  JOURNAL   J. Biol. Chem. 279 (9), 8396-8402 (2004)
+   PUBMED   14672940
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF004702.1
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK06039
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1038
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..1038
+                     /product="isoleucine--tRNA ligase"
+                     /EC_number="6.1.1.5"
+                     /calculated_mol_wt=120150
+     Region          1..1038
+                     /region_name="ileS"
+                     /note="isoleucyl-tRNA synthetase; Reviewed; PRK06039"
+                     /db_xref="CDD:235681"
+ORIGIN      
+        1 mynkidsnks fvqrekdian lwekngviek sfnlnqdgey ftfydgppta ngkphvghvl
+       61 trvmkdlipr ykvmkgykvl rkagwdthgl pveleiekkl gisgkpqiee ygiekfvtec
+      121 kdsvfkytsl wkqmseklgf wvdmdnpyit ydnnyiesvw walkemwkke llykghrvtp
+      181 ycprcgtals shevaqgykd vkeatafvkf kikgeenkyf lawtttpwtl psnlalaink
+      241 sydyveilnn gehyilakel lekviageye vvkefkgeei vgveyeqlfk fevpekkafy
+      301 vvhadyvtlt dgtgivhtap aygdddsktg kkydlplinl vdsegkfvds vepwkgmfvk
+      361 kadpkileyl kengmlykse kfthsyphcw rcntpllyyp kdswfvrmts lrddlvknnn
+      421 tinwypdnir tgrfgkfven vidwgisrdr ywgtplpiwe cecghrecig sveelkekgv
+      481 nvpenielhk pyidavklnc phcgkemtrt nevidcwfds gsmpfaqhhy pfenkevfen
+      541 tfpaqfisea vdqtrgwfyt llaistalfg kssyencivl ghvldkhgvk mskskgnvve
+      601 pfdvlenega datrwhfyta sapwlptrfs eedvketqrk flstlwnvys fyvlyadldn
+      661 fnpleykefk sehvmdkwil sklnsliknv eehldnyrit qaaleleefv delsnwyvrr
+      721 nrsrfwstel tddkigaytt lytvlttvik vaapfvpfvt eemyqnlvin ldkdakesih
+      781 lckwpsyneg vidkdleekm dlaykivklg rsarnsvnik nrqplqkmlv stkelpeyye
+      841 diireelntk eilsgadlsn yvnfeikpnl pilgkkygry ipairkeisa mnqmelaqsi
+      901 nngksvfinv egfedqielt aenllvtmqg legfafageg eigvvldthi teelkeegfl
+      961 reilskvqnm rkesgfevad kinlyvsgnn tlnaivkkye deikaetlsv kvsydenrdy
+     1021 ieckingedy niavevvk
+//
+
+

@@ -1,0 +1,43 @@
+LOCUS       WP_086874524             493 aa            linear   BCT 12-JAN-2018
+DEFINITION  APC family permease [Lactobacillus johnsonii].
+ACCESSION   WP_086874524
+VERSION     WP_086874524.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 12146941
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..493
+                     /product="APC family permease"
+                     /calculated_mol_wt=56236
+     Region          20..466
+                     /region_name="AA_permease_2"
+                     /note="Amino acid permease; pfam13520"
+                     /db_xref="CDD:316078"
+ORIGIN      
+        1 mdkpdvfndl epnkkhymsw pvialidfvt iisfenifyp fqnqglsvvi swifllftyv
+       61 ipyalissqm sltfdnqdgg laswvrrstn dtlgywtswm ywvqsvpyiv dvsnsvivsf
+      121 swiifgnnsl dkkmstfwfg iltfviilvf illenklrns leilsliggg amfimsmlfv
+      181 llaawsvmhg hhiatqpfnw gafkpsfsln yfsttgllif amsgaelaap yvkqmrnpkr
+      241 dfpkamwmla imtgfltifg tlalamffna hhiphdfkmn gpyyafqllg eslgmgkvlm
+      301 yifavvqaif mmaqlavlld assrvfagdv gekfmpkwlt kknkngrpih sytftvglsl
+      361 flllltgtlp nintiynwll nvngiispyk tcwvffafva mrmhqdkyhs syvfiknktg
+      421 altvgfwcll ftfvcatlgf ipqnvavgtk afthqlwmni itvvvlfglg fvlpwlrkie
+      481 qkreekmmve ike
+//
+
+

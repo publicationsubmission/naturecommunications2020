@@ -1,0 +1,43 @@
+LOCUS       WP_002392183             281 aa            linear   BCT 09-APR-2019
+DEFINITION  MULTISPECIES: helix-turn-helix transcriptional regulator
+            [Enterococcus].
+ACCESSION   WP_002392183
+VERSION     WP_002392183.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10648172
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..281
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..281
+                     /product="helix-turn-helix transcriptional regulator"
+                     /calculated_mol_wt=32607
+     Region          214..263
+                     /region_name="HTH_LUXR"
+                     /note="helix_turn_helix, Lux Regulon; smart00421"
+                     /db_xref="CDD:197715"
+     Site            order(215..217,230..232,240..241,243..244,246..250,261)
+                     /site_type="DNA binding"
+                     /note="DNA binding residues [nucleotide binding]"
+                     /db_xref="CDD:99777"
+ORIGIN      
+        1 mvificdnvi vymtefinsf ateynqtfmt apflktiifi ccnfaylaii ntisgrpfkn
+       61 yqfvwlflig lwmlaipfsq nsalkvwlyy lpnqlfliyl gcyalyqlri dplsalakky
+      121 lrfigwlsig fgvailledt fvifnidqys divfkinnrn vsediytiil siaiiyfcnr
+      181 dfplsvlekd aakleenqsd epvllapfcd ayqltqrere vlsllleckt nqdianelfl
+      241 sigtvkthih nifvklevnk raevfvsyql fsqqqtehla r
+//
+
+

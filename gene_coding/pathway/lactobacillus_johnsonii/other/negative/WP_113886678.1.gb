@@ -1,0 +1,39 @@
+LOCUS       WP_113886678             217 aa            linear   BCT 18-JUL-2018
+DEFINITION  SP_1767 family glycosyltransferase [Lactobacillus johnsonii].
+ACCESSION   WP_113886678
+VERSION     WP_113886678.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR03728.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR03728
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..217
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..217
+                     /product="SP_1767 family glycosyltransferase"
+                     /calculated_mol_wt=25129
+     Region          2..217
+                     /region_name="DUF1792"
+                     /note="Domain of unknown function (DUF1792); cl07392"
+                     /db_xref="CDD:298243"
+ORIGIN      
+        1 mlfaggnnky dvalpdvfes ledygqytkd fyetnfffnn qyllsevekt kniysntfis
+       61 rpyidridka ksagwfnklk qiwkekdili vegaltrsgv gndlfdntks vkrilapsrn
+      121 ayqkvnkieq mirenaedrl vllmlgptak vivddlqdld nqlidlghid seyewfkmga
+      181 tykvklknkh taefnfdeni eavhdqtyen eiigkie
+//
+
+

@@ -1,0 +1,39 @@
+LOCUS       WP_002360818             667 aa            linear   BCT 17-JUL-2019
+DEFINITION  MULTISPECIES: hypothetical protein [Bacteria].
+ACCESSION   WP_002360818
+VERSION     WP_002360818.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (eubacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..667
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     Protein         1..667
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=73842
+     Region          <406..570
+                     /region_name="MSCRAMM_SdrC"
+                     /note="MSCRAMM family adhesin SdrC; NF000535"
+                     /db_xref="CDD:333719"
+ORIGIN      
+        1 mssdeilkil itfddflkla nlgadigrni lfgiarfflw ivqnlenimt emltflgfyn
+       61 dsslkgeggl lqtlisfksf gvgiailtig lvlmfgkssq trdipmnvlm lllmslmlpt
+      121 imsdgmklvk atqgelsatq gdigfstikn nvtdvfvlad ggwkttkpen knyltdvtgf
+      181 dvnerildpd evengevlky klrnkqneeg keaveldegn ggvlgwliks mfapkyyrwk
+      241 vdwiplivtl gvlafslvis mvrvgrlgie lafnelwanv vvffsfretk rakmvlmeiv
+      301 ggfvmvisif tmyyvfiyyn sfvfatttsi waqlfavvgg awfiydgpai iqktlgidag
+      361 lstagsfvmg mgakkavdqi gsgvkttvga atsgtvatag fvaglasgna erkndedanl
+      421 nkfdtdnese kntedtnnap qdepsdtqmn dpskdvseep neavndedia nskseedsdq
+      481 etsdntntld nqekngedin dsavdengtn dgketedfes kntdtetndq nmsdydeqen
+      541 vnddtpkntt tanegqlndk kmadnedens kytgessnme hsdsdseses psnssseple
+      601 npfkkkvsqm vntnkyqknm knpignqvdr ykrnkefgqe vnewlaqrke qksqqlpkek
+      661 rpknkkg
+//
+
+

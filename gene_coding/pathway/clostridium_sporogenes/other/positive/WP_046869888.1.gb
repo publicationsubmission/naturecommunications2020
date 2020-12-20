@@ -1,0 +1,42 @@
+LOCUS       WP_046869888             283 aa            linear   BCT 02-JUN-2019
+DEFINITION  RNase adapter RapZ [Clostridium sporogenes].
+ACCESSION   WP_046869888
+VERSION     WP_046869888.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF003828.1
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05416
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..283
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     gene            1..283
+                     /gene="rapZ"
+     Protein         1..283
+                     /product="RNase adapter RapZ"
+                     /calculated_mol_wt=32613
+     Region          1..283
+                     /region_name="PRK05416"
+                     /note="glmZ(sRNA)-inactivating NTPase; Provisional"
+                     /db_xref="CDD:235450"
+ORIGIN      
+        1 mrfvivtgls gagktqairs ledlgffcvd nlpptlipkf aeacyqtevr lknsfsyryk
+       61 ggkffddlfe slkylkeegy kyeilfldas devlikrfke srrkhplspd grilngisme
+      121 rnrlrevkdr adniintsel atrelreain eiygeqdqie nqliitvlsf gfkygiplds
+      181 dlvfdvrflp npyyikqlke ysgkdkqvsd yvmsfdvtnk fvnrledmld flipnyfkeg
+      241 krqliisigc tggrhrsvai anaiyeglks kghkvnidhr din
+//
+
+

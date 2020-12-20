@@ -1,0 +1,44 @@
+LOCUS       WP_011162531             207 aa            linear   BCT 12-JUL-2017
+DEFINITION  TetR/AcrR family transcriptional regulator [Lactobacillus
+            johnsonii].
+ACCESSION   WP_011162531
+VERSION     WP_011162531.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11442315
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..207
+                     /product="TetR/AcrR family transcriptional regulator"
+                     /calculated_mol_wt=23377
+     Region          1..>111
+                     /region_name="AcrR"
+                     /note="DNA-binding transcriptional regulator, AcrR family
+                     [Transcription]; COG1309"
+                     /db_xref="CDD:224228"
+     Region          85..160
+                     /region_name="WHG"
+                     /note="WHG domain; pfam13305"
+                     /db_xref="CDD:338673"
+ORIGIN      
+        1 markkeidkq rildaaykla vrggieslta rniakavncs tqpiylefen mqdlrnqvla
+       61 risdelksnt lqqnftgepl idldlsylyf akehvdlfra mfvdckfgnq mivdtlmglg
+      121 lekfkqqfda eqfseerlnh ivisnwiaat glatllinkm anftqaqmis vlkaqiheam
+      181 lndrltnvee nplfaadsda sleerlg
+//
+
+

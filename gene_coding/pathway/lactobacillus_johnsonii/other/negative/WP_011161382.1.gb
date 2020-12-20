@@ -1,0 +1,35 @@
+LOCUS       WP_011161382             369 aa            linear   BCT 11-JUL-2013
+DEFINITION  transcriptional regulator [Lactobacillus johnsonii].
+ACCESSION   WP_011161382
+VERSION     WP_011161382.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..369
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..369
+                     /product="transcriptional regulator"
+                     /calculated_mol_wt=41396
+     Region          22..322
+                     /region_name="LytR_cpsA_psr"
+                     /note="Cell envelope-related transcriptional attenuator
+                     domain; cl00581"
+                     /db_xref="CDD:321052"
+ORIGIN      
+        1 mdnkpqepih srvelnrekh nkkkkvhiii givlflflgl giyassvylk aknafdktyd
+       61 pktavkqdsf sgkepfnill lgtdtgafgr kevrgnsdtm ilvtvnpakk klslmsiprd
+      121 tmarmigtdn fsvhkinaay niggakmamr ttskvlnvpi kyyismnmgg mrkivdgvgg
+      181 vtvtppltft ydgytftkgk tvhlngsqal aysrmryddp kgdygrqlrq revimsvleh
+      241 alsfntlknl dsilgsvsts lrtnltfdsm vkisknyrkc tnnmssdylh gvgamigdas
+      301 yqvmsdrelq rtsnivrndl gldsmdidnn etyqnsmnsq fdwnsgdsnq vyyiydpytd
+      361 elwngdray
+//
+
+

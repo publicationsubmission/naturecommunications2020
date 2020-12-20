@@ -1,0 +1,41 @@
+LOCUS       WP_002384107             401 aa            linear   BCT 25-AUG-2017
+DEFINITION  aminoacyltransferase [Enterococcus faecalis].
+ACCESSION   WP_002384107
+VERSION     WP_002384107.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10493260
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..401
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..401
+                     /product="aminoacyltransferase"
+                     /calculated_mol_wt=45877
+     Region          8..395
+                     /region_name="FemAB"
+                     /note="FemAB family; pfam02388"
+                     /db_xref="CDD:334916"
+ORIGIN      
+        1 mytfkigipa evhdtfvknh plcnllqsss wakvkdnwgs eivgvyekdt lvasslvlik
+       61 plpagftmly tprgpvmdyt nerlvsyfma elkkfgkkkr alfikmdpav hyqdfhlgee
+      121 hqphaeatai ietlkeagak yqgltmdmga tiqprfqani yredfseeql skstkkmikt
+      181 aekkgvvvqq ghvdfvdefe kviqstmerq hislrnsdyf kkllniyped sfimlaqvnl
+      241 kerldstrqr ydknqkdlsn lkenqvkkrh nleeldaslt relkeleeni aeageivtva
+      301 galavtfgpt seilyagldd rykrymptyv twrdaiqecf nrgcescnmg glegslndgl
+      361 ikfkanfnpt inefigefdl pvnkllfkas eyayklrkqk k
+//
+
+

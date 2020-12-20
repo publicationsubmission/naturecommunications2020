@@ -1,0 +1,50 @@
+LOCUS       WP_003495826             601 aa            linear   BCT 11-DEC-2017
+DEFINITION  MULTISPECIES: ATP-dependent metallopeptidase FtsH/Yme1/Tma family
+            protein [Clostridium].
+ACCESSION   WP_003495826
+VERSION     WP_003495826.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 12070764
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..601
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..601
+                     /product="ATP-dependent metallopeptidase FtsH/Yme1/Tma
+                     family protein"
+                     /calculated_mol_wt=66351
+     Region          10..>75
+                     /region_name="FtsH_ext"
+                     /note="FtsH Extracellular; pfam06480"
+                     /db_xref="CDD:310823"
+     Region          105..599
+                     /region_name="FtsH_fam"
+                     /note="ATP-dependent metalloprotease FtsH; TIGR01241"
+                     /db_xref="CDD:273520"
+ORIGIN      
+        1 mkkfssataw ivvlilvifs slmlvrtgtn stainfsefq knwiqneiks fqvkddkmtv
+       61 vgtlkdgtqy etvvpserlf qfinehpkng evkevyvkpt svpiwvqylp milivlmllg
+      121 fwfmfmqqaq ggggnrnvmn fgkskakmat pdkkkvtfdd vagadeekee laeivdflks
+      181 pkryidmgar ipkgvllvgp pgtgktllak aiageagvpf fsisgsdfve mfvgvgasrv
+      241 rdlfeqakkn spcivfidei davgrqrgag lggghdereq tlnqllvemd gfganegiim
+      301 iaatnrpdil dpallrpgrf drqivvgapd vkgreailkv hsknkhlaee ikleilakrt
+      361 pgftgadlen lmnesallav rkrkelidme dleeavtrvi agpekksrvi deedrkltay
+      421 heaghavvmk llphadpvhq isivprgmag gytmhlpekd ssymskskle deivgllggr
+      481 vaekliigdi stgakndidr attiarkmvm dygmsntlgp iafgsghdev flgrdlgkgr
+      541 nfsedvayki dqeikklidt gyneaerlln enisklhava qellkkekle anefeeifkn
+      601 s
+//
+
+

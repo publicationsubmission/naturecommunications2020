@@ -1,0 +1,44 @@
+LOCUS       WP_002364646             487 aa            linear   BCT 26-SEP-2017
+DEFINITION  MULTISPECIES: PTS sugar transporter subunit IIC [Enterococcus].
+ACCESSION   WP_002364646
+VERSION     WP_002364646.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10003683
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..487
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..487
+                     /product="PTS sugar transporter subunit IIC"
+                     /calculated_mol_wt=51657
+     Region          1..487
+                     /region_name="CelB"
+                     /note="Phosphotransferase system cellobiose-specific
+                     component IIC [Carbohydrate transport and metabolism];
+                     COG1455"
+                     /db_xref="CDD:224372"
+ORIGIN      
+        1 mnglmawmek yilptaakig aqkhlvalrd afigtlpatm agsvavmina iirdlpqefv
+       61 styaaslead kgifavlnvi igingfvwng tlaiaglifa fswgynlaka ynvnelaggi
+      121 vslatlisgv afapnntael avkvpekian aingaeigas iannqltvnp wgwlnlnhln
+      181 gnafftvmim galstiifck lmqadltikm pdsvppavsk afaailpati alyvvaiinf
+      241 tvsklsggql lidliqkyia epflglsqgl gavlivtvfv qifwffgihg pnvlapvleg
+      301 iwgqaqlini difqkgyegk tgtaavlaai ddgkaymwvr gsfdafawfg gsggtivlii
+      361 aillfskrad yltvgklslg pgifninepi mfglpvvlnp imfipfviap lvattigwva
+      421 tylglvapvs qqvawvtppl llsflatgad wrapivalvc mvvtfliwtp fviaankmdp
+      481 algeseq
+//
+
+

@@ -1,0 +1,41 @@
+LOCUS       WP_046869915             239 aa            linear   BCT 05-OCT-2019
+DEFINITION  ATP-binding cassette domain-containing protein [Clostridium
+            sporogenes].
+ACCESSION   WP_046869915
+VERSION     WP_046869915.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012235.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00005.25
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..239
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..239
+                     /product="ATP-binding cassette domain-containing protein"
+                     /calculated_mol_wt=26513
+     Region          1..216
+                     /region_name="AAA"
+                     /note="ATPases associated with a variety of cellular
+                     activities; cl28181"
+                     /db_xref="CDD:333001"
+ORIGIN      
+        1 mlelknvcfn vddnkkqilk ninliindsk ftaitgpngg gkstlakiis gikkptsgsi
+       61 ifdgkditnm siteraklgi sfafqqpvrf kgitvkdllt lsaqkdiskk nicehlhevg
+      121 lcakdyinre insslsggel krieiatila retklslfde peagidiwsf nnmikvfekm
+      181 rkdinksiii ishqerilni addiiliegg eikkhgkkdd ilpellsavd nckfykgdi
+//
+
+

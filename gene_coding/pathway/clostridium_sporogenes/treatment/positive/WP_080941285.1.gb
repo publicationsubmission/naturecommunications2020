@@ -1,0 +1,40 @@
+LOCUS       WP_080941285             213 aa            linear   BCT 04-OCT-2019
+DEFINITION  glycosyltransferase [Clostridium sporogenes].
+ACCESSION   WP_080941285
+VERSION     WP_080941285.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012744.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00534.18
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..213
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..213
+                     /product="glycosyltransferase"
+                     /calculated_mol_wt=25102
+     Region          <2..189
+                     /region_name="Glycosyltransferase_GTB-type"
+                     /note="glycosyltransferase family 1 and related proteins
+                     with GTB topology; cl10013"
+                     /db_xref="CDD:353042"
+ORIGIN      
+        1 makdkkiicr lhsyesftny iyqvnwsnvd kvifvaehik rfvlskifip qdkvyvipng
+       61 idlskqeyke rkkgfniayv gyinfkkgpm lllhafkkif dtdnryklhi agtfdeeryr
+      121 lyfnqmikef glekniifyg wqkdinkwle dknylictsv lesqglgime amskgirpli
+      181 hnfvgakevy pekyvwssld divnmlsden ipp
+//
+
+

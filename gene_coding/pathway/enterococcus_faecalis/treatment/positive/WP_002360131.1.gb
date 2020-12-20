@@ -1,0 +1,40 @@
+LOCUS       WP_002360131             288 aa            linear   BCT 02-FEB-2018
+DEFINITION  SPFH domain-containing protein [Enterococcus faecalis].
+ACCESSION   WP_002360131
+VERSION     WP_002360131.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10130451
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..288
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..288
+                     /product="SPFH domain-containing protein"
+                     /calculated_mol_wt=31571
+     Region          49..279
+                     /region_name="SPFH_like_u2"
+                     /note="Uncharacterized family; SPFH (stomatin, prohibitin,
+                     flotillin, and HflK/C) superfamily; cd03402"
+                     /db_xref="CDD:259800"
+ORIGIN      
+        1 meekktfyms gyagiasllv iliagiglfi ygashtngvl vvlgiillvg ailflsslti
+       61 vspnqakail ffgrylgtik englfitipf tqkmnislkv rnfnssllkv ndsdgnpiei
+      121 savivfrvvd takalfnvdy yqdfveiqse tairhvatqy pydtfsdndv tlrgnteqis
+      181 eeltkelqer lavagvevie trlnhlayat eiassmlqrq qakailaarq tivegavsmt
+      241 qmaleqieeg qeinftderk vqlinnllvs iitdkgtqpv intgdvss
+//
+
+

@@ -1,0 +1,34 @@
+LOCUS       WP_003491379              59 aa            linear   BCT 25-NOV-2019
+DEFINITION  MULTISPECIES: YvrJ family protein [Clostridium].
+ACCESSION   WP_003491379
+VERSION     WP_003491379.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10582295
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..59
+                     /product="YvrJ family protein"
+                     /calculated_mol_wt=6608
+     Region          8..42
+                     /region_name="YvrJ"
+                     /note="YvrJ protein family; pfam12841"
+                     /db_xref="CDD:315507"
+ORIGIN      
+        1 mydqliklis dvgfpiavsl ylllriekkl deitkalatl dktitsvmkq qkdekatkk
+//
+
+

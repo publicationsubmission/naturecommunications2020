@@ -1,0 +1,36 @@
+LOCUS       WP_002361365             171 aa            linear   BCT 13-MAY-2017
+DEFINITION  MULTISPECIES: GrpB family protein [Enterococcus].
+ACCESSION   WP_002361365
+VERSION     WP_002361365.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10514978
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..171
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..171
+                     /product="GrpB family protein"
+                     /calculated_mol_wt=19937
+     Region          2..163
+                     /region_name="GrpB"
+                     /note="GrpB protein; pfam04229"
+                     /db_xref="CDD:335675"
+ORIGIN      
+        1 mrvivteyqp awveqfeeea qalkqilken clkvehigst svpnlaakpi idflviveei
+       61 ekvdllqgef erigyeymge fglsgrrylr kgpikrthhv hiyqfdntqe ilrhlafrny
+      121 lrenpaiatt ygtlkkqlaq ahpdsidkym dgkdafikki ekealkkywe k
+//
+
+

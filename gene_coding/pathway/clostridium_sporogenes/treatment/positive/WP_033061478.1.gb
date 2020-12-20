@@ -1,0 +1,59 @@
+LOCUS       WP_033061478             500 aa            linear   BCT 27-JUL-2019
+DEFINITION  MULTISPECIES: NAD(P)H-hydrate dehydratase [Clostridium].
+ACCESSION   WP_033061478
+VERSION     WP_033061478.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00196.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00196
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..500
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..500
+                     /product="NAD(P)H-hydrate dehydratase"
+                     /calculated_mol_wt=54987
+     Region          24..191
+                     /region_name="YjeF_N"
+                     /note="YjeF-related protein N-terminus; pfam03853"
+                     /db_xref="CDD:281800"
+     Region          240..491
+                     /region_name="YXKO-related"
+                     /note="B.subtilis YXKO protein of unknown function and
+                     related proteins. Based on the conservation of the ATP
+                     binding site, the substrate binding site and the
+                     Mg2+binding site and structural homology this group is a
+                     member of the ribokinase-like superfamily; cd01171"
+                     /db_xref="CDD:238576"
+     Site            order(265,437,440)
+                     /site_type="other"
+                     /note="putative substrate binding site [chemical binding]"
+                     /db_xref="CDD:238576"
+     Site            order(374,411,438..439,442,468)
+                     /site_type="other"
+                     /note="putative ATP binding site [chemical binding]"
+                     /db_xref="CDD:238576"
+ORIGIN      
+        1 mkitssetfk kidnysieni gipsivlmen aalkvvsnid lqlnnrfviv cgkgnnggdg
+       61 lavarhlhcl nkevevfiie ksknsakdfr inynilknmn lniktirdye dldylresvi
+      121 ksdmildaif giglsrnieg iykdtisvin enskstlaid vpsglnantg eiegvciean
+      181 ttvsfemyke gflaydrdky lgniiiesig ipgevldlfs ngsyiinkym fknnfkernk
+      241 yahkgdfgka lviagskgfs gaaylcteav vksgtglvtl atsndiqdil ssklkeamti
+      301 nyenyedvks imvkssciai gpgmgknnnt eellrkiird yngtmvidad ginvlennld
+      361 iikkakgqiv ltphlgefsr itgygityik knrlklakef akenkiilll kgyntiitng
+      421 kevfvnstgn samasggmgd cltgiiasfi aqgykpldaa ylaaylhgyc geklslkmfc
+      481 vnathvldyi pfaikelqyt
+//
+
+

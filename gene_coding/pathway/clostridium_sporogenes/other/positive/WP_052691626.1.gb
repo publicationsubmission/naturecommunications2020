@@ -1,0 +1,41 @@
+LOCUS       WP_052691626             270 aa            linear   BCT 03-OCT-2019
+DEFINITION  anti-sigma factor domain-containing protein [Clostridium
+            sporogenes].
+ACCESSION   WP_052691626
+VERSION     WP_052691626.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024201.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF12791.5
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..270
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..270
+                     /product="anti-sigma factor domain-containing protein"
+                     /calculated_mol_wt=30262
+     Region          8..63
+                     /region_name="RsgI_N"
+                     /note="Anti-sigma factor N-terminus; pfam12791"
+                     /db_xref="CDD:315461"
+ORIGIN      
+        1 mnkkgivmei hknkigilts sgefiyvans tvspnlgeiy eseeiklkss ayknikkfsl
+       61 maaslliifi csifiktyna pvssvtikin psiklqanrw nkiinvtpln kdgtnllknl
+      121 nlknkglekg inlileeakk enyinndykn sskaisidft gdtsslnlsn iennlknlkv
+      181 kynietpqgi ktnynkdnik sndnnktkhn nnnrtpvnad ktikdndknn nsinktkskk
+      241 vdsevkkyne nkkdstsske nniknngkse
+//
+
+

@@ -1,0 +1,92 @@
+LOCUS       WP_002360176            1060 aa            linear   BCT 28-NOV-2019
+DEFINITION  carbamoyl-phosphate synthase large subunit [Enterococcus faecalis].
+ACCESSION   WP_002360176
+VERSION     WP_002360176.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 1060)
+  AUTHORS   Thoden,J.B., Huang,X., Kim,J., Raushel,F.M. and Holden,H.M.
+  TITLE     Long-range allosteric transitions in carbamoyl phosphate synthetase
+  JOURNAL   Protein Sci. 13 (9), 2398-2405 (2004)
+   PUBMED   15322282
+REFERENCE   2  (residues 1 to 1060)
+  AUTHORS   Miles,B.W., Thoden,J.B., Holden,H.M. and Raushel,F.M.
+  TITLE     Inactivation of the amidotransferase activity of carbamoyl
+            phosphate synthetase by the antibiotic acivicin
+  JOURNAL   J. Biol. Chem. 277 (6), 4368-4373 (2002)
+   PUBMED   11729189
+REFERENCE   3  (residues 1 to 1060)
+  AUTHORS   Thoden,J.B., Raushel,F.M., Benning,M.M., Rayment,I. and Holden,H.M.
+  TITLE     The structure of carbamoyl phosphate synthetase determined to 2.1 A
+            resolution
+  JOURNAL   Acta Crystallogr. D Biol. Crystallogr. 55 (Pt 1), 8-24 (1999)
+   PUBMED   10089390
+REFERENCE   4  (residues 1 to 1060)
+  AUTHORS   Thoden,J.B., Holden,H.M., Wesenberg,G., Raushel,F.M. and Rayment,I.
+  TITLE     Structure of carbamoyl phosphate synthetase: a journey of 96 A from
+            substrate to product
+  JOURNAL   Biochemistry 36 (21), 6305-6316 (1997)
+   PUBMED   9174345
+REFERENCE   5  (residues 1 to 1060)
+  AUTHORS   Trotta,P.P., Pinkus,L.M., Haschemeyer,R.H. and Meister,A.
+  TITLE     Reversible dissociation of the monomer of glutamine-dependent
+            carbamyl phosphate synthetase into catalytically active heavy and
+            light subunits
+  JOURNAL   J. Biol. Chem. 249 (2), 492-499 (1974)
+   PUBMED   4358555
+REFERENCE   6  (residues 1 to 1060)
+  AUTHORS   Khedouri,E., Anderson,P.M. and Meister,A.
+  TITLE     Selective inactivation of the glutamine binding site of Escherichia
+            coli carbamyl phosphate synthetase by
+            2-amino-4-oxo-5-chloropentanoic acid
+  JOURNAL   Biochemistry 5 (11), 3552-3557 (1966)
+   PUBMED   5339592
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF003671.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05294
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1060
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..1060
+                     /product="carbamoyl-phosphate synthase large subunit"
+                     /EC_number="6.3.5.5"
+                     /calculated_mol_wt=116557
+     Region          1..1055
+                     /region_name="carB"
+                     /note="carbamoyl phosphate synthase large subunit;
+                     Reviewed; PRK05294"
+                     /db_xref="CDD:235393"
+ORIGIN      
+        1 mpkrtdikki mvigsgpiii gqaaefdyag tqaclalkee gyevvlvnsn patimtdkei
+       61 adhvyiepit lefvsrilrk erpdallptl ggqtglnmam elsgsgilde lnvellgtkl
+      121 saidqaedrd lfkqlmeele qpipeseivn tveqavafak qigypiivrp aftlggtggg
+      181 mcdteeelrq iaenglklsp vtqclieksi agfkeieyev mrdsadnaiv vcnmenfdpv
+      241 gihtgdsivf apsqtlsdye yqmlrdaslk iiralkiegg cnvqlaldph sfnyyvievn
+      301 prvsrssala skatgypiak laakiavglt ldemknpvtg ttyaefepal dyvvskiprw
+      361 pfdkfekgar elgtqmkatg evmaigrnie esllkavrsl eigayhnela elthvsdlel
+      421 tkkmvhaqdd rlfylseair rgysieelqs ltkidlffld kllhiieiet tleshvnnva
+      481 vlkeakqngf sdrkiaalwg qteqaiadfr ranqivpvyk mvdtcaaefe shtpyfysty
+      541 evenesnvsk kpsvlvlgsg pirigqgvef dyatvhsvka iqaagyeaii mnsnpetvst
+      601 dfsvsdklyf epltledvmn vidlenpigv ivqfggqtai nlaepltkqg vkilgttied
+      661 ldraenrdlf eqalqelaip qppgdtatsa eeavviadri gypvlvrpsy vlggrameiv
+      721 enqkdledym rhavkaspeh pvlvdsyllg qecevdaicd getvlipgim ehieragvhs
+      781 gdsmavyppq ylsqeiqati adytkklalg lncvgmmniq fvihenrvyv ievnprasrt
+      841 vpflskitgi pmaqvatkai lgekltdlgy qdglypeskq vhvkapvfsf tklqkvdtyl
+      901 gpemkstgev mgsdyyleka lykafeasgl hlpsygavlf tiadetkeea leiakrfsai
+      961 gyslvategt adflakhqlp vkkvtkisnp egetvldvir ngnaqvvint mdknrssanq
+     1021 dgfsirreav ehgiplftsl dtanailkvl esraftteai
+//
+
+

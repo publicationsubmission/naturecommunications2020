@@ -1,0 +1,42 @@
+LOCUS       WP_134789360             295 aa            linear   BCT 13-OCT-2019
+DEFINITION  quinolinate synthase NadA [Clostridium sporogenes].
+ACCESSION   WP_134789360
+VERSION     WP_134789360.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF006878.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK09375
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..295
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     gene            1..295
+                     /gene="nadA"
+     Protein         1..295
+                     /product="quinolinate synthase NadA"
+                     /calculated_mol_wt=33311
+     Region          15..295
+                     /region_name="NadA"
+                     /note="Quinolinate synthetase A protein; pfam02445"
+                     /db_xref="CDD:334933"
+ORIGIN      
+        1 mktnlkdkia hlkkernaii lahyyqkpei qdiadsvgds yylskiakdc sestilfcgv
+       61 kfmaesakil spnktillpv fdagcpmadm iskkdvlnlr knhsnakvvc yinssaevks
+      121 vsdvcctssn ainiiknlpe kkiifipdkn lgeyiqiqip dkeiilwngf cithkkvrle
+      181 eiekikslht nikvlchgec ekeirhvsdl vgstgdiikf atksndkkfl ivteegilhq
+      241 lkiknpekqf yfpgkgmnci nmkktslknv ydsllnlnyk ieldeslrlk aydal
+//
+
+

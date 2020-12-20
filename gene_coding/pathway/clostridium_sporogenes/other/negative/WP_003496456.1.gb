@@ -1,0 +1,43 @@
+LOCUS       WP_003496456             467 aa            linear   BCT 07-APR-2017
+DEFINITION  MULTISPECIES: amino acid permease [Clostridium].
+ACCESSION   WP_003496456
+VERSION     WP_003496456.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024910.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13520.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..467
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..467
+                     /product="amino acid permease"
+                     /calculated_mol_wt=51950
+     Region          1..467
+                     /region_name="PRK15238"
+                     /note="inner membrane transporter YjeM; Provisional;
+                     cl26066"
+                     /db_xref="CDD:330887"
+ORIGIN      
+        1 msknkdkria wymlafmafs tvwgfgnvin gfseyeglka ivswiiifai yfvpyalmvg
+       61 elgsafkdcg ggvsswinet igpklayyag wtywvvhmpy isqkpsglmi atswaifqdk
+      121 rissmntklm qlicliifli aiyiaskgln plkklatlag tsmfvmsilf iilmvaapai
+      181 ttahlneikw sfntfmptfd tkfftnlail vfavggceki spyvnkmknp stgfskgmia
+      241 laimvavcai lgtvslgmmf dsnnvpndlm tngayyafqk lgeyyklgnf fviiyaitni
+      301 iaqfavliis idaplrmlld saderfipkk mfeknkygsy kngnklilvi vsilivvpal
+      361 gigsvdelvk wlvklnavcm plrylwvfaa yvalkkagkk fnreyyfvrn dklgiilgaw
+      421 cfvftafaci ggmystdmfk lvlnivtpfv liglgvimpy lakknna
+//
+
+

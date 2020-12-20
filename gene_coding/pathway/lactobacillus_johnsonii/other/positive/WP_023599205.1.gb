@@ -1,0 +1,61 @@
+LOCUS       WP_023599205            1223 aa            linear   BCT 19-JUN-2019
+DEFINITION  DNA-directed RNA polymerase subunit beta' [Lactobacillus
+            johnsonii].
+ACCESSION   WP_023599205
+VERSION     WP_023599205.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02386.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02386
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1223
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..1223
+                     /gene="rpoC"
+     Protein         1..1223
+                     /product="DNA-directed RNA polymerase subunit beta'"
+                     /EC_number="2.7.7.6"
+                     /calculated_mol_wt=136230
+     Region          3..1195
+                     /region_name="PRK00566"
+                     /note="DNA-directed RNA polymerase subunit beta';
+                     Provisional"
+                     /db_xref="CDD:234794"
+ORIGIN      
+        1 midvnkfesm qiglaspnki rswsygevkk petinyrtlk pekdglfder ifgptkdwsc
+       61 acgkykgiry rgivcdrcgv evtsakvrre rmghielaap vshiwyfkgi psrmglvldi
+      121 spraleeviy faayividag dtdledkqll teaeyrekka kfgdrfeakm gaeavkelle
+      181 qvdidkevhe lkeelktatg qkrtrairrl dildafknsg nkpswmvmdc ipvippdlrp
+      241 mvqldggrfa tsdlndlyrr vinrnnrlkr lldlnaprii vqnekrmlqe avdalidngr
+      301 rgrpvvgpgn rplkslshml kgkqgrfrqn llgkrvdysg rsvidvspel kfyqcgvprp
+      361 malelfkpfv mhelvkrgla sniknakrki dredddiwdi ledvikerpv llnraptlhr
+      421 lgiqafepvl vpgksirlhp laceaynadf dgdqmaihvp lsdeavaesr llmlaahhil
+      481 apkdgkpivt psqdivlgny wltqaergre gegmifdspa eaaiayangd ihyhtrigla
+      541 adsmpekpwp kgyehgifvt tygklvfnqi fpkdfyyind ptqenlthpv deryflqpge
+      601 dihekldnmk lgqafkkgfl sdsiaqiykd ykvqrtsdfl ddlkelgytv cttsgltigv
+      661 ediptisdkd divaearkkv dvvskqyrrg litdeerhdr visiwnnckd ivqneiaqih
+      721 aprnpitima dsgargnisn ftqlagmrgl maapnggmme ipvtsnfreg lsvlemfmst
+      781 hgarkgmtdt alktansgyl trrlvdvaqd viireedcgt drgltvhait egdemieplf
+      841 drlvgrytsk svydpethev icpadvlmde dmahkivdag vtevtirsvf tcntqhgvck
+      901 kcygmnlatg ddvevgeavg tvaaqsigep gtqltmrnfh nggvagaadi tqglprvqel
+      961 fearnpkgra tisevtgevt sieedpaeht rqitvkgqtd trtydvpyta svavaegdhv
+     1021 vrgdkltlgs idpkelirvr dalttekyil seiqkayrmq gveiadkhve vmarqmlqkv
+     1081 rildpgetdi lpgelmdige fkarnrevii sggipataqs vilgitkaal etnsflsaas
+     1141 fqettrvltd asirgkndpl lglkenviig kiipagtgmp vyremepkvd vpedekkksv
+     1201 ysiadiekkl aaadaekdng sad
+//
+
+

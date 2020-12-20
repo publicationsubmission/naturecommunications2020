@@ -1,0 +1,47 @@
+LOCUS       WP_032883815             701 aa            linear   BCT 14-JUN-2019
+DEFINITION  MULTISPECIES: MMPL family transporter [Clostridium].
+ACCESSION   WP_032883815
+VERSION     WP_032883815.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF015155.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF03176.13
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..701
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..701
+                     /product="MMPL family transporter"
+                     /calculated_mol_wt=77603
+     Region          6..682
+                     /region_name="COG1033"
+                     /note="Predicted exporter protein, RND superfamily
+                     [General function prediction only]; cl26367"
+                     /db_xref="CDD:331188"
+ORIGIN      
+        1 mipvkkfgkf itekrvlvli vaiallipsf ygmaktkiny dilsylpeql dtvkgqkild
+       61 ktfssaatsm vvidnmeakd ivkikdkiak vdgvekvlwv ddlmdtsipk eilpdkikds
+      121 fynkdstlmi ikfnespase rtqeaianvr thlnkqcfls gmsaiikdtk dlsdketpfy
+      181 vltavalsvv vlmltmestl vpfiflisig favaynmgtn vllgeisyit kalaavlqlg
+      241 vtmdysifll hryeeekekf enrneamaea vsntitaigg sslttiagfl alcamnltlg
+      301 kdiglvmakg vilgvistvt ilpafilyfd kaihkythkt ilpefnktag lvtkryklfi
+      361 lifliaflpa vygeknakvy ynldetlpkd mqsivalnkl kdnynmttth fiivrdkvkp
+      421 yeikemveki ekvdgigkvl sydkiigsav penflpqevk dtfkkggynl iianseykaa
+      481 rdeenaqiae inkivknydk eamiagegpl tkdlieiadk dfknvsyvsi laifaiiffv
+      541 fksvsipvvl vsaiqlaifi nmgipfytgt eipfvasivi gtiqlgatvd yailmtnrfk
+      601 eelgyghdkf eamkisiqgs aksiitsslt ffsatagvai vskmelidsl cilmargaii
+      661 smfvtvfilp silmvtepii akttkgwrks nttkevnkms a
+//
+
+

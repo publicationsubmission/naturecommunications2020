@@ -1,0 +1,83 @@
+LOCUS       WP_113886648             779 aa            linear   BCT 28-JUL-2019
+DEFINITION  ABC transporter ATP-binding protein/permease [Lactobacillus
+            johnsonii].
+ACCESSION   WP_113886648
+VERSION     WP_113886648.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 13298066
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..779
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..779
+                     /product="ABC transporter ATP-binding protein/permease"
+                     /calculated_mol_wt=85227
+     Region          1..779
+                     /region_name="PRK10535"
+                     /note="macrolide transporter ATP-binding /permease
+                     protein; Provisional; cl28180"
+                     /db_xref="CDD:333000"
+     Region          2..218
+                     /region_name="ABC_MJ0796_LolCDE_FtsE"
+                     /note="ATP-binding cassette domain of the transporters
+                     involved in export of lipoprotein and macrolide, and cell
+                     division protein; cd03255"
+                     /db_xref="CDD:213222"
+     Site            38..45
+                     /site_type="other"
+                     /note="Walker A/P-loop"
+                     /db_xref="CDD:213222"
+     Site            order(41..42,44..46,90,166..167,198)
+                     /site_type="other"
+                     /note="ATP binding site [chemical binding]"
+                     /db_xref="CDD:213222"
+     Site            87..90
+                     /site_type="other"
+                     /note="Q-loop/lid"
+                     /db_xref="CDD:213222"
+     Site            142..151
+                     /site_type="other"
+                     /note="ABC transporter signature motif"
+                     /db_xref="CDD:213222"
+     Site            162..167
+                     /site_type="other"
+                     /note="Walker B"
+                     /db_xref="CDD:213222"
+     Site            170..173
+                     /site_type="other"
+                     /note="D-loop"
+                     /db_xref="CDD:213222"
+     Site            194..200
+                     /site_type="other"
+                     /note="H-loop/switch region"
+                     /db_xref="CDD:213222"
+ORIGIN      
+        1 mlqllhlkkt yhvgdtvtha lddvtinfrn sefvailgps gsgkttllnv iggldhydsg
+       61 diiingkstk nfsqtdwday rnnsvgfifq synlishlsi ienvelgmtl sgvssnerhe
+      121 kaiaalkrvg lgdhlkkrpn qlsggqmqrv aiaraiandp dillcdeptg aldtktsesi
+      181 melikelshd klvimvthnp elaeeyasri vhfqdgkils dsnafepkke vkdtfklkkt
+      241 kmsywnalkl sftnimtkkg rtfltafass igiigiaivl alshgfqkqi ketqsktlak
+      301 fpisisqtat dmnaatsrte sdknvknkgy lvaakpdnek nthenkitqs yinyvkkinp
+      361 syannisfir gtqlnlltnd ngkikhvefs nvnnsgsaia saqlqgmnsv gintsvfpkt
+      421 ldskqgtflk dnyqllagsw pksnnevvlv lnnknqanin alknlgisik dgqkidlnkl
+      481 vgrtfkvisn nnyyqelptg nfvpqkasks mydssnltlk lsavirgknn sqmalldngi
+      541 aysdgltqei ikqnensniv kaqknsttnv mtnqpmnqtq keqfiaslgg ssipsgiliy
+      601 pnsfkskdkv ldyldkynkg kakkdqviyt dmsgtvtklt gglldgitdv lvafaaislv
+      661 tsmimigilt ytsvlertke igvlkalgar krditrvfda etfilglfsg ilgiliaylc
+      721 tfpinavlya itnmsnvaql dpmqalilvi istvltmlgg hiparmaakk daaialrse
+//
+
+

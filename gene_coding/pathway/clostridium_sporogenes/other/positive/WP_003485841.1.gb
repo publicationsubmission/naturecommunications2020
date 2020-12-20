@@ -1,0 +1,40 @@
+LOCUS       WP_003485841             185 aa            linear   BCT 03-JUN-2019
+DEFINITION  MULTISPECIES: elongation factor P [Clostridium].
+ACCESSION   WP_003485841
+VERSION     WP_003485841.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00038.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00038
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..185
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..185
+                     /gene="efp"
+     Protein         1..185
+                     /product="elongation factor P"
+                     /calculated_mol_wt=20685
+     Region          1..185
+                     /region_name="PRK00529"
+                     /note="elongation factor P; Validated"
+                     /db_xref="CDD:234788"
+ORIGIN      
+        1 misagdlrkg ttfeqdgqvy vvveflhvkp gkgaafvrtk lknaitgavt ettfnptakl
+       61 qeavierkem qylytdgely yfmdqetfeq iplnydkvee aikflkenmf atikffkgea
+      121 fsveapnfve ltishtepga kgnttsnvmk patletgati qvplfvnege tirvdtrtge
+      181 ymerv
+//
+
+

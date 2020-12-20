@@ -1,0 +1,46 @@
+LOCUS       WP_003491424             471 aa            linear   BCT 05-OCT-2019
+DEFINITION  MULTISPECIES: DUF3492 domain-containing protein [Clostridium].
+ACCESSION   WP_003491424
+VERSION     WP_003491424.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF023423.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF11997.6
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..471
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..471
+                     /product="DUF3492 domain-containing protein"
+                     /calculated_mol_wt=53989
+     Region          2..465
+                     /region_name="GT1_like_3"
+                     /note="This family is most closely related to the GT1
+                     family of glycosyltransferases. Glycosyltransferases
+                     catalyze the transfer of sugar moieties from activated
+                     donor molecules to specific acceptor molecules, forming
+                     glycosidic bonds. The acceptor molecule can...; cd03813"
+                     /db_xref="CDD:99984"
+ORIGIN      
+        1 mriciiaegs ypyvtggvss wiqslvrlmp ehefvifaig aeeslkgkfk yklpeniiqv
+       61 keifldtylk dsgeviiqmn lkenekniik nlilgenlnw ndlfsfieeh knysvseflm
+      121 skdfydiire iceekypyig fndffwtirs miltlfqilr neipkadiyh svstgyagvi
+      181 aslgkykyhv pmiltehgiy trereeelik adwvqsdlkd fwikffytls rcaykfsdkv
+      241 itlfernkni qvklgckenk isiipngvnc kdfnninrkk ekdeiiniga llrvvpikdv
+      301 ktiiqgfava yekvknihlf imgpededpi yteeckafak slklknitft gqinvkeyvg
+      361 kmdilvlgsi segqplavle gmacgkphvl tdvgsckelm ygtmddtaqa giivpvmdye
+      421 afgaaiikls nnkklmdklg gnayarvstr ytienfinsy kkiynevvre i
+//
+
+

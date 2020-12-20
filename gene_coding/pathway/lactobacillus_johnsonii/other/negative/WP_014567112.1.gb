@@ -1,0 +1,46 @@
+LOCUS       WP_014567112             553 aa            linear   BCT 12-JAN-2018
+DEFINITION  amino acid permease [Lactobacillus johnsonii].
+ACCESSION   WP_014567112
+VERSION     WP_014567112.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024910.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13520.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..553
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..553
+                     /product="amino acid permease"
+                     /calculated_mol_wt=60862
+     Region          16..494
+                     /region_name="PRK15238"
+                     /note="inner membrane transporter YjeM; Provisional;
+                     cl26066"
+                     /db_xref="CDD:330887"
+ORIGIN      
+        1 menshkagsa kkqafisiwt ltlmnvaiia glgndvqeaf yglssvtyfa igaicffipt
+       61 alvaaelasg wsnrggifrw vgeglgkgwa ltcllilwfq vminfgmgmp ssaatilfyt
+      121 pmynkavafa qnpthvvlim tgwiilywim aiianrgvkt fttitkygvl igtliplavm
+      181 iiltivwlcq ghtpaismap kqlipkwngm stlalaagvf fsytgidena afikrlrhpe
+      241 kdfvssifit lilvflifvv gtviiamivp ekqinvlysl vtvfkvlget fafpwlylvl
+      301 mwvglfnlva stvtelaaps vmlaqaggsg flpkwlqkkn khgmparlvy vqmagmtiia
+      361 ylfklipnve gfvilltqcv tvlylfyyil mfvaflrlry qqpnrprsfk vpggkvgawi
+      421 iagvglissi fgivlafypp aqvkaevgsp vtyviviavl vavvlltclg lyllskkhps
+      481 wvnpknefap ftweieglpk pekvtsnipt vlmsknqnpm gmpikrpykp dqqvaksvvd
+      541 adeqnesvee nqs
+//
+
+

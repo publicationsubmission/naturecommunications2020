@@ -1,0 +1,35 @@
+LOCUS       WP_086874641             344 aa            linear   BCT 29-OCT-2018
+DEFINITION  hypothetical protein [Lactobacillus johnsonii].
+ACCESSION   WP_086874641
+VERSION     WP_086874641.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..344
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..344
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=38306
+     Region          4..304
+                     /region_name="LytR_cpsA_psr"
+                     /note="Cell envelope-related transcriptional attenuator
+                     domain; cl00581"
+                     /db_xref="CDD:321052"
+ORIGIN      
+        1 mrfkkkylff sivgilivav lgifgyeyqk iqsaantist nhslasrqql kqgkpfsilv
+       61 lgtdvgalgr gtsyagntdt lelitvnpkk qtltttaipr dtlvrvetkn kleytkinaa
+      121 yslggpteik kqvhelldvp vdyyalvnmg glektvdavg gvtvnnpfaf kyeghtypkg
+      181 kqylngseal gysrmryddp dndygrqkrg qqvllsaltk vnksknimqm nslldtakdn
+      241 vrtdlplddl mtlyknyhga lantqsdhlq gknatidnfs fqiapnkemq rlsdntrqal
+      301 gltkvkvnni qtkmndmqtn wngynnvnyv lpndaqvyip vnkv
+//
+
+

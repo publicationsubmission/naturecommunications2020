@@ -1,0 +1,38 @@
+LOCUS       WP_002357444             280 aa            linear   BCT 25-AUG-2017
+DEFINITION  MULTISPECIES: DegV family protein [Bacilli].
+ACCESSION   WP_002357444
+VERSION     WP_002357444.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10017369
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..280
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..280
+                     /product="DegV family protein"
+                     /calculated_mol_wt=30550
+     Region          4..277
+                     /region_name="DegV"
+                     /note="EDD domain protein, DegV family; TIGR00762"
+                     /db_xref="CDD:273257"
+ORIGIN      
+        1 mtnvkivtds sctmekslrd elnihmmpls imvdgvvypd ddhlpgekfm dmmanakalp
+       61 ktsqppigef velydrlged gsevisihmt kglsgtveaa rqasnlsssk vtvidsdftd
+      121 qglsfqviqa aklaqagagv peilaeierv kqntklyigi stldnlvkgg risrttglls
+      181 nifnmkvvmd fentelipva kgrgvktfnk wfdelksels kipnvrqigi shadglelan
+      241 gfkeglqaif kdmdipvlht npviathtgk nafaimyytd
+//
+
+

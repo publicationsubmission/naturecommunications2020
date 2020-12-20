@@ -1,0 +1,41 @@
+LOCUS       WP_003494442             272 aa            linear   BCT 02-NOV-2019
+DEFINITION  TIM barrel protein [Clostridium sporogenes].
+ACCESSION   WP_003494442
+VERSION     WP_003494442.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013429.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF01261.22
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..272
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..272
+                     /product="TIM barrel protein"
+                     /calculated_mol_wt=30730
+     Region          3..266
+                     /region_name="Nfo"
+                     /note="Endonuclease IV [Replication, recombination and
+                     repair]; cl28448"
+                     /db_xref="CDD:333268"
+ORIGIN      
+        1 mdrllfgisg lpigdgttkf nyksgitylk nigldamelp fvrsvnvtdk nkegileekn
+       61 nnnfylsahg syfinlnade iekqeksler iikgaeglkk vqgkslifhp gfylkdskee
+      121 tfktilenlk klpdlgvdyr lettgkgtqf gsleenvalc kevatcklci dfshiharsn
+      181 gglrtykdfy nilsyveknl grsalddmhi hlsgihysek gernhlpfee sdfnyiaclk
+      241 afkdfningc iicespilek dalllknsyy el
+//
+
+

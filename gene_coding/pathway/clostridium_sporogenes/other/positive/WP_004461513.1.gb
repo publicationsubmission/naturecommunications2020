@@ -1,0 +1,44 @@
+LOCUS       WP_004461513             352 aa            linear   BCT 13-MAY-2017
+DEFINITION  MULTISPECIES: cell wall-binding repeat-containing protein
+            [Clostridium].
+ACCESSION   WP_004461513
+VERSION     WP_004461513.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10513923
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..352
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..352
+                     /product="cell wall-binding repeat-containing protein"
+                     /calculated_mol_wt=36783
+     Region          34..120
+                     /region_name="CW_binding_2"
+                     /note="Putative cell wall binding repeat 2; pfam04122"
+                     /db_xref="CDD:309306"
+     Region          134..222
+                     /region_name="CW_binding_2"
+                     /note="Putative cell wall binding repeat 2; pfam04122"
+                     /db_xref="CDD:309306"
+ORIGIN      
+        1 mlkknkkils vitatlvmvl gisftnvqaa sikrmngsnr idtanktake ifkkapavvl
+       61 vngngypdav taaplaklqg apvlltgnng nlesdvltti ndigakkvfi vggtgvvssk
+      121 ieselkgkgf tvqryagkdr ystnvavgqe ilknnngett aflvnggesy adalsvtsia
+      181 aakgypvlfa nmrevpkvvk dfignkklkp lavggtsilp tnvvssvnak ritqksknrf
+      241 etnlevltyf kgngidfssv yvatggqggk igenqfadal vaaaaasktg aplvlsgpaa
+      301 ssndltnaen fietnikdeg elyivggsaa vsdsieqkld ekvgdfrild if
+//
+
+

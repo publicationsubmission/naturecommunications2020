@@ -1,0 +1,35 @@
+LOCUS       WP_046869891             128 aa            linear   BCT 17-MAY-2015
+DEFINITION  RNA polymerase sigma24 factor [Clostridium sporogenes].
+ACCESSION   WP_046869891
+VERSION     WP_046869891.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..128
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..128
+                     /product="RNA polymerase sigma24 factor"
+                     /calculated_mol_wt=14831
+     Region          79..128
+                     /region_name="Sigma70_r4_2"
+                     /note="Sigma-70, region 4; pfam08281"
+                     /db_xref="CDD:311954"
+     Site            order(90,100,106..107,117,119..120,122..124,126..127)
+                     /site_type="DNA binding"
+                     /note="DNA binding residues [nucleotide binding]"
+                     /db_xref="CDD:100119"
+ORIGIN      
+        1 makinlrdyy pfynsdffve isdeikdall eaerleknyi rrrfynkahy sldaddgiek
+       61 dilfeslspc eiyerkitse qlhsaiaylp dkqgkriyah yilgmsksdi araegineka
+      121 vrvaiekg
+//
+
+

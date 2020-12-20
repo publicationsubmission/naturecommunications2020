@@ -1,0 +1,36 @@
+LOCUS       WP_002358711             528 aa            linear   BCT 26-MAY-2013
+DEFINITION  amidase [Enterococcus faecalis].
+ACCESSION   WP_002358711
+VERSION     WP_002358711.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..528
+                     /product="amidase"
+                     /calculated_mol_wt=57517
+     Region          1..508
+                     /region_name="PRK06707"
+                     /note="amidase; Provisional"
+                     /db_xref="CDD:235855"
+ORIGIN      
+        1 mskflkvigi iavllviiga aaywfilkkf tpeaetpamy nqerivktie dqlketdvqk
+       61 artkapliie knitelqqai angtltyeel tafyldrilq fdqidngmns iseinpqaik
+      121 eakafdqqas qtpkkplygi pvtlkenint tnmissagay alrtfkpked aevvkkltea
+      181 qalvlgkvnl selanymsmk apsgysskhg qtlnpygplk itpsgsssgs gasvtmniga
+      241 fslgtetmgs ivspashqsv vgfkpthssv sgegvlplap sldtvgpiar svvdaaqgyn
+      301 afkkdtvpsi dstkftknnl qgqrigllem psaeeefraa kkalqkagae vipvtpdmeg
+      361 idggavisne fkfalekfak rydlpfktle eliaynqqdk kvrakygqdl leadvkkkqp
+      421 dkeiiqttik kaqqtfdall kkqqldgyaf idsegtglsa vagypeltvp laknsegqpy
+      481 gltftqtank eqtlfeqays feqstkgriv lsdnellans kkinrdeq
+//
+
+

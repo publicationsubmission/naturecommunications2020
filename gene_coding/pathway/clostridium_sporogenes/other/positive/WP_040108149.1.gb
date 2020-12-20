@@ -1,0 +1,40 @@
+LOCUS       WP_040108149             200 aa            linear   BCT 27-JUL-2019
+DEFINITION  MULTISPECIES: MptD family putative ECF transporter S component
+            [Clostridium].
+ACCESSION   WP_040108149
+VERSION     WP_040108149.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10560307
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..200
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..200
+                     /product="MptD family putative ECF transporter S
+                     component"
+                     /calculated_mol_wt=21645
+     Region          11..196
+                     /region_name="Trep_Strep"
+                     /note="Hypothetical bacterial integral membrane protein
+                     (Trep_Strep); pfam09605"
+                     /db_xref="CDD:312940"
+ORIGIN      
+        1 mlktetnklq ikdlvtigif saiyfavnli vmvcggispi iwifmpaiia llcgvifmlm
+       61 takvqkfgai limsiitali yfatgqftvv llisfaivsi iaefirrsfg yksftgnlia
+      121 ysifslgmtg splpiwlfgd sflksimeqg msasyveglk tltstgmlvs myvatfiaal
+      181 iggfigksml kkhfkkagiv
+//
+
+

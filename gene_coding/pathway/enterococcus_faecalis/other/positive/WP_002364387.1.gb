@@ -1,0 +1,44 @@
+LOCUS       WP_002364387             288 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: glucose-1-phosphate thymidylyltransferase RfbA
+            [Bacilli].
+ACCESSION   WP_002364387
+VERSION     WP_002364387.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01207.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01207
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..288
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     gene            1..288
+                     /gene="rfbA"
+     Protein         1..288
+                     /product="glucose-1-phosphate thymidylyltransferase RfbA"
+                     /EC_number="2.7.7.24"
+                     /calculated_mol_wt=31917
+     Region          2..286
+                     /region_name="rmlA"
+                     /note="glucose-1-phosphate thymidylyltransferase, short
+                     form; TIGR01207"
+                     /db_xref="CDD:130274"
+ORIGIN      
+        1 mkgiilaggs gtrlypltka tskqlmpiyd kpmiyypmst lmlagineil iistpedtpr
+       61 feslfgdghd lgihieyavq espdglaqaf iigeefigdd svclvlgdni yyggglskml
+      121 qraaskesga tvfgyhvndp erfgvvefde emralsieek paqpksnyav tglyfydnev
+      181 veiakgikps ergeleitdv nkvyleknkl svevmgrgfa wldtgthesl leastfieti
+      241 ekrqnlkvac leeiayrmgy itkeqlvela qplkkngygq yllrlaae
+//
+
+

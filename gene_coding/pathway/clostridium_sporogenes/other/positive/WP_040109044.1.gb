@@ -1,0 +1,42 @@
+LOCUS       WP_040109044             267 aa            linear   BCT 28-JUN-2015
+DEFINITION  MULTISPECIES: amino acid ABC transporter substrate-binding protein
+            [Clostridium].
+ACCESSION   WP_040109044
+VERSION     WP_040109044.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10098910
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..267
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..267
+                     /product="amino acid ABC transporter substrate-binding
+                     protein"
+                     /calculated_mol_wt=29820
+     Region          36..261
+                     /region_name="PBP2_AatB_like"
+                     /note="Polar amino acids-binding domain of ATP-binding
+                     cassette transporter-like systems that belong to the type
+                     2 periplasmic binding fold protein superfamily; cd00996"
+                     /db_xref="CDD:270217"
+ORIGIN      
+        1 mkkknilfsi limglifmlt gcgnkskedt slkdikdkge fvvglddsfp pmgfkndkge
+       61 ivgfdidlak evakqmgvkv vfkpvqwdgv vlslnnkdid viwngltite krkeqinfsk
+      121 pyvenkqiiv vnndsniksk kdlnkktvai qlgssseval dsdkdfvksl kelkkysnnt
+      181 ealmdlqskr vdavvvdevv gryyiskkpn vfkvldedfg gesygvgfrk tdnsfreavd
+      241 kaldevikdg tadkisekwf gkgilkk
+//
+
+

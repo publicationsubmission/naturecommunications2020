@@ -1,0 +1,38 @@
+LOCUS       WP_003495464             297 aa            linear   BCT 13-MAY-2017
+DEFINITION  MULTISPECIES: DegV family protein [Clostridium].
+ACCESSION   WP_003495464
+VERSION     WP_003495464.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10017369
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..297
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..297
+                     /product="DegV family protein"
+                     /calculated_mol_wt=33234
+     Region          6..284
+                     /region_name="DegV"
+                     /note="EDD domain protein, DegV family; TIGR00762"
+                     /db_xref="CDD:273257"
+ORIGIN      
+        1 mkeyiimtds ccdlsseyie kndipyvplt csvegkeyid nfgqslpyke fyeamikgei
+       61 pktsqpspea yykvfkdlid kdkdilyvcv ssglsgtyns aniaknmild efrnarieiv
+      121 dvltaslgqg imvikamdmk kngltidevt nyleenklnl nsymvvndli hlkrggrist
+      181 aaaligtvln ikpiltlnde grvitvrkak grkvairklt eiviermknp eeeivaishg
+      241 dsdldaeklk erilkeikvk dviinyvgpv vgtyggpgsl nvffmsdhrq nhiidin
+//
+
+

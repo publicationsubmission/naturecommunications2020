@@ -1,0 +1,81 @@
+LOCUS       WP_077143750            1987 aa            linear   BCT 15-JUL-2019
+DEFINITION  fibrinogen-binding MSCRAMM adhesin Fss1 [Enterococcus faecalis].
+ACCESSION   WP_077143750
+VERSION     WP_077143750.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 1987)
+  AUTHORS   Sillanpaa,J., Nallapareddy,S.R., Houston,J., Ganesh,V.K.,
+            Bourgogne,A., Singh,K.V., Murray,B.E. and Hook,M.
+  TITLE     A family of fibrinogen-binding MSCRAMMs from Enterococcus faecalis
+  JOURNAL   Microbiology (Reading, Engl.) 155 (Pt 7), 2390-2400 (2009)
+   PUBMED   19389755
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: BlastRule
+            Evidence Accession :: NBR008962
+            Evidence Source    :: NCBI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1987
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..1987
+                     /gene="fss1"
+     Protein         1..1987
+                     /product="fibrinogen-binding MSCRAMM adhesin Fss1"
+                     /calculated_mol_wt=216549
+     Region          120..1494
+                     /region_name="COG4932"
+                     /note="Uncharacterized surface anchored protein [Function
+                     unknown]"
+                     /db_xref="CDD:227268"
+     Region          1955..1987
+                     /region_name="LPXTG_anchor"
+                     /note="LPXTG-motif cell wall anchor domain; TIGR01167"
+                     /db_xref="CDD:273478"
+ORIGIN      
+        1 mkqtsqqemt lalqgkaqpv tqevvvhysa nvsikaahwa apnntrkiqv ddqkkqiqie
+       61 lnqqaladtl vltlnptvte dvtfsygqqq raltlntgtd ptestaitss paasanegpt
+      121 eeastnssvp rsseetvast tkaiesktte sttvkprvag ptdisdyftg dettiidnfe
+      181 dpiylnpdgt patppykedv tihwnfnwsi pedvreqmka gdyfefqlpg nlkpnkpgsg
+      241 dlvdaegnvy gtytisedgt vrftfnerit sesdihgdfs ldthlndsdg rgpgdwvidi
+      301 ptqedlppvv ipivpdteqq idkqghfdrt pnpsaitwtv dinqamkdqt nptvtetwpt
+      361 gntfksvkvy elvmnldgti kevgrelspd eyivdkngnv tikgdtnkay rleyqttide
+      421 avipdgggdv pfknhatlts dnnpngldae atvtatygkm ldkrnidyde anqeftwein
+      481 ynygeqtipk dqavitdtmg dnltfepdsl hlysvtfddk gnevvgaelv egkdykvvin
+      541 gdgsfaidfl hdvtgavkid yktkvdgive gdvavnnrvd vgtgqhsegd gtasqqniik
+      601 ntgavdyqns tigwtlavnq nnylmenavi tdtyepvpgl tmvpnslvvk dtttgaqltl
+      661 gkdfmveitr nadgetgfkv sfigayakts dafhityttf fdvteldann paldhyrnta
+      721 aidwtdeagn nhhsedskpf kplpafdlna qksgvynavt keitwtiavn lsnnrlvdaf
+      781 ltdpilanqt ylagslkvye gntkpdgsve kvkptqpltd itmeepsekn qntwrvdfpn
+      841 dsrtyviefk tsvdekvieg sasydntasy tnqgssrdvt gkvsiqhgge svkkggeyhk
+      901 ddpdhvywhv mingaqsvld dvvitdtpsp nqvldpeslv iygtnvtedg titpdksvil
+      961 eegkdytlev ttdnetgqqk ivvkmahiea pyymeyrslv tssaagstdt vsnqvsitgn
+     1021 gsevvhgddn gdvvvdidhs gghatgtkgk iqlkktamdg ttilagahfq iwdqaktqvl
+     1081 regtvdatgv itfgglpqgq yilvetkape gytvsdelak grvitideet saegaqptii
+     1141 kndvnkvfle kmdekgkklv narfklehav ttpfthweev plapdrtnan gqlevdslkp
+     1201 glyqfteiea ptgylldttp krfivtqnts gqihdvhvkm lnyqgsaeli kkdqagnpla
+     1261 gaefsvldtt gqavrehvvs dangkvtvtd lapgkyqfve tkapagylln tepsaftiaa
+     1321 sdrgkpatvi atanfvnyqg aaklikkdvn ghllsgatfk vldakgqtiq tglttnnqge
+     1381 ivaehlapgk yrfvetkapt gyllnttpvp feiaeknagk pavvvasdnf vnykgafqiv
+     1441 ktnsadqpla gavfelydhn kqslgitats gkdgkiifrd lapgtyyyke ikapklpdga
+     1501 dyiiypelvk veirgdfkgd peifqlgafa nfkgravfkk idananplpg tifklyrien
+     1561 gekiferevt aekdgslame dlgagsyeld eldatdgyiv nkqpiyfvvk knsndkqpld
+     1621 elefvnyqae vtgrkvneqg qtlagavfai ynadnqnqpq gspitflnra gekvseittd
+     1681 ktgeiyakgl neghyvlvet kaptgylldt tphpfdvtaq lgkeqpialg dlinyqgtaq
+     1741 ltkenetgea lagavfkvid etgqtvagqa nlmsdkqgkv iaknlapgty rfvetqaptg
+     1801 yllnetpsas ftiakdnqgk patvvlkapf inyqgaaklv kidqqknala gaefkvtdae
+     1861 tgqtvarslr sdnqglvqvn hlqprkytfv etkapdgyql skqavaftia atakdkpelv
+     1921 dagtfvnekq pvskktkpnq pttkqaaret gwlglpktnt qvnyffvfig lllvslaswl
+     1981 fykkskk
+//
+
+

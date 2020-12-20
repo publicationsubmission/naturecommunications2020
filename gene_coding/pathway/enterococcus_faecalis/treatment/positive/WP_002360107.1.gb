@@ -1,0 +1,39 @@
+LOCUS       WP_002360107             284 aa            linear   BCT 26-MAY-2013
+DEFINITION  LysR family transcriptional regulator [Enterococcus faecalis].
+ACCESSION   WP_002360107
+VERSION     WP_002360107.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11426483
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+FEATURES             Location/Qualifiers
+     source          1..284
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..284
+                     /product="LysR family transcriptional regulator"
+                     /calculated_mol_wt=32770
+     Region          1..>228
+                     /region_name="LysR"
+                     /note="DNA-binding transcriptional regulator, LysR family
+                     [Transcription]; COG0583"
+                     /db_xref="CDD:223656"
+ORIGIN      
+        1 mtiekleyfy tiakynsisk aaselhvsks tlsaslkdle selghllfdr ngnsltlnsy
+       61 gdkivqsvyi ilneakkmkl nlhemienpv mrlgfgntsl mykvtenedq lnrfwecyhg
+      121 ssfellnkle nheldfvits advnspvlkk eqlielkmyl cvsreikqei eeegftcltn
+      181 ypflflphhl dhleatksvl emlqltspiv ccydtlmltr liekskgvya vislrkeqlq
+      241 eidsklfflp ierkqkfyly rnvsssvfvq pgqikatlqk llet
+//
+
+

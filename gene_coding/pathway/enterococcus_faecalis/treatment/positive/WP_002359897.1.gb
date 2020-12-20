@@ -1,0 +1,51 @@
+LOCUS       WP_002359897             241 aa            linear   BCT 04-JUL-2017
+DEFINITION  MULTISPECIES: glycosyltransferase family 2 protein [Enterococcus].
+ACCESSION   WP_002359897
+VERSION     WP_002359897.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10135280
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..241
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..241
+                     /product="glycosyltransferase family 2 protein"
+                     /calculated_mol_wt=26795
+     Region          5..191
+                     /region_name="DPM_DPG-synthase_like"
+                     /note="DPM_DPG-synthase_like is a member of the
+                     Glycosyltransferase 2 superfamily; cd04179"
+                     /db_xref="CDD:133022"
+     Site            order(8,10,95)
+                     /site_type="other"
+                     /note="Ligand binding site"
+                     /db_xref="CDD:133022"
+     Site            order(44,94..95)
+                     /site_type="other"
+                     /note="Putative Catalytic site"
+                     /db_xref="CDD:133022"
+     Site            93..95
+                     /site_type="other"
+                     /note="DXD motif"
+                     /db_xref="CDD:133022"
+ORIGIN      
+        1 mkvlliipay neeenilrti asietfkqev thfqheldyv vindgstdgt kqilevnqin
+       61 aihlvlnlgi ggavqtgyky aleneydvav qfdgdgqhdi nslpillepl aegkcdfsig
+      121 srfipgneaa fqstkmrrfg irllsfcirm asgktiydvt sgyragnrkv iaffakrypt
+      181 nypepesivh likkrfvive rpvnmmerlg gvssiralas vkymlevgsa iliaafmkeg
+      241 d
+//
+
+

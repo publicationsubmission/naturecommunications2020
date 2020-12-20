@@ -1,0 +1,42 @@
+LOCUS       WP_033060986             265 aa            linear   BCT 30-MAY-2019
+DEFINITION  MULTISPECIES: septum site-determining protein MinD [Clostridium].
+ACCESSION   WP_033060986
+VERSION     WP_033060986.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01968.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01968
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..265
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..265
+                     /gene="minD"
+     Protein         1..265
+                     /product="septum site-determining protein MinD"
+                     /calculated_mol_wt=28912
+     Region          2..262
+                     /region_name="CbiA"
+                     /note="CobQ/CobB/MinD/ParA nucleotide binding domain;
+                     cl27521"
+                     /db_xref="CDD:332342"
+ORIGIN      
+        1 mgevivvtsg kggvgkttts anistalaam dkkvvvidgd tglrnldvlm glenrivftl
+       61 ldvieerckl kqalikdkrl nslyllptaq trdkedvnvd dmlkivndlk qdfdyvildc
+      121 pagiergfes siagadralv vvnpevtsvr dadrvigkld akgidnhqli vnrlnyemtq
+      181 sgdmldiedi idslaiklig vvpddrniti atnkgepivl dngaiagqaf rniakriige
+      241 evpimdlrsk eqgffksfkk lfglk
+//
+
+

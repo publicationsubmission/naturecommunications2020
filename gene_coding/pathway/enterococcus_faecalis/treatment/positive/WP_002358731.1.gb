@@ -1,0 +1,36 @@
+LOCUS       WP_002358731             482 aa            linear   BCT 27-OCT-2016
+DEFINITION  MULTISPECIES: hypothetical protein [Enterococcus].
+ACCESSION   WP_002358731
+VERSION     WP_002358731.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..482
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..482
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=56286
+     Region          82..164
+                     /region_name="HTH"
+                     /note="Helix-turn-helix domains; cl21459"
+                     /db_xref="CDD:354815"
+ORIGIN      
+        1 mmnyeiflnk edqrsysllr hleesptlsg tfialreels msnflvkktl eklkadidnl
+       61 klsdsltlvv sdvdvtleid gnyssklllt kylteslsfk lvlsyfrgny sltkfaecnh
+      121 vstsvaystl qrlkkalkey qiyfskreiv gnqkaisffl yklftlsnqp iselysvkvy
+      181 neakrvlqsv elnytfttye rrnffhylai minnegrave gidtralntf seelikksqv
+      241 awalaskslt ytivfflylh gklekkyvih edptiesltr vfigsfekaf ncleestrnt
+      301 leeglaiihf nviyfpinmf ddfemdlqff kqtypefyfy lieyirwlta khkkiakanh
+      361 clffnyllll inhvpvhlia epakvlidfs ygkeynqfik knlsvyvnln veiidplsdt
+      421 lpdvvitnln nlyqeeqskv mvwldpprsi dwvnltqsll tiqeekyqqq kestktsgdp
+      481 ie
+//
+
+

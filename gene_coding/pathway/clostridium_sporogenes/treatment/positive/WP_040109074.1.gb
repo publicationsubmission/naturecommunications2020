@@ -1,0 +1,51 @@
+LOCUS       WP_040109074             822 aa            linear   BCT 27-JUL-2019
+DEFINITION  MULTISPECIES: ABC transporter permease [Clostridium].
+ACCESSION   WP_040109074
+VERSION     WP_040109074.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 13249047
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..822
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..822
+                     /product="ABC transporter permease"
+                     /calculated_mol_wt=92709
+     Region          1..362
+                     /region_name="FtsX"
+                     /note="FtsX-like permease family; cl27391"
+                     /db_xref="CDD:332212"
+     Region          709..814
+                     /region_name="FtsX"
+                     /note="FtsX-like permease family; pfam02687"
+                     /db_xref="CDD:308361"
+ORIGIN      
+        1 mklflkiafn sikknkirym lltctlvlst iimlstsiik dsaikiredq lrkttlnsql
+       61 vittadekdp ffnpkdiins ikdidgishi vpriggmakd aktlkdinii gvdlnkqkaa
+      121 fpielidkyk ikdkenqiii nekyakensl kvgakiklli gtknkefiis giskntgvfd
+      181 psmntamisi dnaqylldqk dnaysigiti knlddinnmi eeikpkvssk fiiqqrydmd
+      241 yfksyvgtid malkiigvls ifitlfltys tfsliiyerl hqigilrslg ipkkdikvst
+      301 ivenllivls sivigsvlti pfvrlilnyi vqdgyftldl rkflfidlii vifsalvilv
+      361 alrkilnmsv inllkgigkk yytnkigkif kssfgvvlli asiiilisey krengplvli
+      421 lgalffiisf vflaklllii fnwifqkifs ifkgsvsilf kelvmqfsni vdiviitsii
+      481 icsiyvsvtl knminngvmn vygnadlmls idgtveedft dkiknikyik nsllqsrtte
+      541 vikdtkvdia gidgsqykkd fsteiikkge nnifdkldng kniiitttfs kntgvnlnds
+      601 lkinevnykv vgvvssfenm gkvlflskdn fnkdikvkdk dlclikvnsk qikattneie
+      661 klfkdkyenk ysiqeltvln eennnnnkkt ftivnvlici stiiciisms nnvtinllsr
+      721 kkvyatkgal giskgylskc ilfeaivlgs ysgifglglg vtlsnyinki lsyyigdmvf
+      781 ikdykimvil vlisigitvi syiypmrkiy riniideiks de
+//
+
+

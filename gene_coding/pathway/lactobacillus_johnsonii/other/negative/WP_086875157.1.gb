@@ -1,0 +1,47 @@
+LOCUS       WP_086875157             142 aa            linear   BCT 11-JAN-2018
+DEFINITION  multidrug transporter [Lactobacillus johnsonii].
+ACCESSION   WP_086875157
+VERSION     WP_086875157.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..142
+                     /product="multidrug transporter"
+                     /calculated_mol_wt=15274
+     Region          1..121
+                     /region_name="PTS_IIA_man"
+                     /note="PTS_IIA, PTS system, mannose/sorbose specific IIA
+                     subunit. The bacterial phosphoenolpyruvate: sugar
+                     phosphotransferase system (PTS) is a multi-protein system
+                     involved in the regulation of a variety of metabolic and
+                     transcriptional processes. This family...; cl00025"
+                     /db_xref="CDD:350867"
+     Site            order(8,22..23,34,67,100)
+                     /site_type="other"
+                     /note="active pocket/dimerization site"
+                     /db_xref="CDD:237978"
+     Site            order(8,62,67)
+                     /site_type="active"
+                     /db_xref="CDD:237978"
+     Site            8
+                     /site_type="phosphorylation"
+                     /note="phosphorylation site [posttranslational
+                     modification]"
+                     /db_xref="CDD:237978"
+ORIGIN      
+        1 mqiivtghgn fasgiestvk llagsiknik yidftedmne eslmkkfeea iklnehivff
+       61 cdllggtpyk qaailstksk kdisvicgcn vgsllenglt gldkfndste laqaliestk
+      121 kgirqfgvsn hstateklsd gi
+//
+
+

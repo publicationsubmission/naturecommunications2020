@@ -1,0 +1,4 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"efq03030","DNA replication","1/1","17/959",0.0177267987486968,0.0208550573514078,NA,"DR75_103",1
+"efq03430","Mismatch repair","1/1","20/959",0.0208550573514078,0.0208550573514078,NA,"DR75_103",1
+"efq03440","Homologous recombination","1/1","20/959",0.0208550573514078,0.0208550573514078,NA,"DR75_103",1

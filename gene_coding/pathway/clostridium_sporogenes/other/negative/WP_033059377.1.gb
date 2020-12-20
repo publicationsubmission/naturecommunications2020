@@ -1,0 +1,51 @@
+LOCUS       WP_033059377             460 aa            linear   BCT 03-OCT-2019
+DEFINITION  MULTISPECIES: NADPH-dependent glutamate synthase [Clostridium].
+ACCESSION   WP_033059377
+VERSION     WP_033059377.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 460)
+  AUTHORS   Jongsareejit,B., Rahman,R.N., Fujiwara,S. and Imanaka,T.
+  TITLE     Gene cloning, sequencing and enzymatic properties of glutamate
+            synthase from the hyperthermophilic archaeon Pyrococcus sp. KOD1
+  JOURNAL   Mol. Gen. Genet. 254 (6), 635-642 (1997)
+   PUBMED   9202379
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01316.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01316
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..460
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..460
+                     /gene="gltA"
+     Protein         1..460
+                     /product="NADPH-dependent glutamate synthase"
+                     /EC_number="1.4.1.13"
+                     /calculated_mol_wt=49960
+     Region          1..460
+                     /region_name="PRK12831"
+                     /note="putative oxidoreductase; Provisional"
+                     /db_xref="CDD:183780"
+ORIGIN      
+        1 mnkmkkipvr eqdpkvratn feevclgyne eeavkeasrc lnckkpmcvt kcpvsigipe
+       61 fiqhvknkef edaaktiaky salpavcgrv cpqesqcegk cvlgikgepv aigklerfva
+      121 dwsrehnvdl sereesknkk vavigsgpag ltcagdlakk gydvtifeal hepggvlvyg
+      181 ipefrlpket vvkheienvk klgvkietnv iigrtvtide lveeekfdav figsgaglpr
+      241 fmgipgenan gvfsaneflt rnnlmkafka eydtpikvgq kvavvgggnv amdaartalr
+      301 lgaevhivyr rseeelparv eevhhakeeg iifnlltnpv eiledekgwv kgmkcikmel
+      361 gepdqsgrrr pveikgseft mdvdtvimsl gtspnpliss ttkgleinkr kclvaeeetg
+      421 lttregvyag gdavtgaatv ilamgagkqa anaideylsk
+//
+
+

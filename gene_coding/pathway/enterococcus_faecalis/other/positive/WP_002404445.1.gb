@@ -1,0 +1,48 @@
+LOCUS       WP_002404445            1196 aa            linear   BCT 27-MAY-2013
+DEFINITION  ATP-dependent helicase [Enterococcus faecalis].
+ACCESSION   WP_002404445
+VERSION     WP_002404445.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..1196
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..1196
+                     /product="ATP-dependent helicase"
+                     /calculated_mol_wt=138816
+     Region          1..1191
+                     /region_name="AddB"
+                     /note="ATP-dependent helicase/DNAse subunit B
+                     [Replication, recombination and repair]; cl28251"
+                     /db_xref="CDD:333071"
+ORIGIN      
+        1 msvqfirgta vadleapliq atkqwleeda qhevfylvpn hikfeqeiqv lqklrqlqtt
+       61 tsdsitstrl qvfsfyrlaw yylqhtpfys advlsdagaa mifrkilvea eeelqifrge
+      121 inkpgfiqql fqlyqemreg nieiaelypf lekqtenpkg qdlqlkfqdl tliftrfqlq
+      181 msqygyesae iiqhlseylq tvdlsnvqfv isgyqqftar elklievlma qagsvkvalv
+      241 ldkqyphdlp dprslfyeag qtyhqlyqla rqkqipilsd yvekkevlit npdlqglndy
+      301 wiqsqehlpp lstsdwsgdg lflwraenvk eelthvatei rrlvveegyr ykeiqvltrd
+      361 ldcyenllep ifaeheipvy vdrdmamdrh plvewieslf aihsynyryr dvlrflrtel
+      421 fmpmnqlats eesltdwlnq rnawrrkvdi tenvvlaygy egyywsqekd wefirydfea
+      481 eeqedvatme eesnairqsl qrllpsyfqa misaktglea atvfyhfllq sgvatqlkmw
+      541 rlqaieagql etarnheqtw dalmslldey vtvygessfd fttfqeifvs gleglhyskv
+      601 ptaidqvqvr amdltrpgaa kvtfaigmte eifpqkienk tllsdeerqt indtltenqy
+      661 lrgttgrkia qepyvaylvf ssarerlylt ypsvkdtaqe vkpspyfkni qkdlnlpvfe
+      721 knettifdde ttslahisty rtligeltrl krqrketqea llpfwlnmek almnqsiapl
+      781 akqvfeslth qnipekidev laeplygkdi ytsvsrmesf yrcqyqyfsr yglrlkerdv
+      841 fglspaatge ffhealdqff klliinqrnl seltdqevnl laeevlnsil gdarfsvltt
+      901 ssrmnyiryq lsqtikkvsw alkrqsqrsg mttvqtevlf gqiaakkgis glelplknqg
+      961 kihvrgkidr idqlvtpest ylgvidykss hrkfnmteay yglamqmlty ldvalmdavq
+     1021 lvgqeakpag slylhvhnpt lsyegkddie qqmlkkyqfd gllmkdpdll dhldtslqak
+     1081 qssllfpiee sakeqikpgr rqedkfvtep elgallshnr nkfieagnqi iggevqlnpa
+     1141 yqgkeriacr ycpfrsvcdf dvmlkennyh rienlskeei marllnkdee gatede
+//
+
+

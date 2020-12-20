@@ -1,0 +1,37 @@
+LOCUS       WP_046869950             252 aa            linear   BCT 17-MAY-2015
+DEFINITION  acetyltransferase [Clostridium sporogenes].
+ACCESSION   WP_046869950
+VERSION     WP_046869950.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..252
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..252
+                     /product="acetyltransferase"
+                     /calculated_mol_wt=29223
+     Region          <59..145
+                     /region_name="Acetyltransf_10"
+                     /note="Acetyltransferase (GNAT) domain; cl26092"
+                     /db_xref="CDD:330913"
+     Region          203..243
+                     /region_name="YoaP"
+                     /note="YoaP-like; pfam14268"
+                     /db_xref="CDD:316760"
+ORIGIN      
+        1 mniisvdnen idkehiccai sdkkgetris skknwmkkqf neglvfkkfn vrgkvfieyi
+       61 psenawcpie apgymfincf wvsgqfkgqg cgnklleeci mdakqqnkkg lvilsskkkm
+      121 pflsdpkylk ykgfktcdia epyyellyfp fdenevkpkf kecckngtin ekgmvlyysn
+      181 qcphtdkyal ltkdiaqlkk ikfsliryes kqqaqnapsp fttyslfydg kfvtneilse
+      241 nkfkkflekk gf
+//
+
+

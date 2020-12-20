@@ -1,0 +1,42 @@
+LOCUS       WP_086875191             299 aa            linear   BCT 11-JAN-2018
+DEFINITION  metal ABC transporter substrate-binding protein [Lactobacillus
+            johnsonii].
+ACCESSION   WP_086875191
+VERSION     WP_086875191.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..299
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..299
+                     /product="metal ABC transporter substrate-binding protein"
+                     /calculated_mol_wt=33175
+     Region          39..298
+                     /region_name="TroA-like"
+                     /note="Helical backbone metal receptor (TroA-like domain).
+                     These proteins have been shown to function in the ABC
+                     transport of ferric siderophores and metal ions such as
+                     Mn2+, Fe3+, Cu2+ and/or Zn2+. Their ligand binding site is
+                     formed in the interface between...; cl00262"
+                     /db_xref="CDD:320865"
+     Site            order(106..107,110,150)
+                     /site_type="other"
+                     /note="intersubunit interface [polypeptide binding]"
+                     /db_xref="CDD:238347"
+ORIGIN      
+        1 mqnfnskitk fisimglvtl lslitvgcsn kqnstsqsnk isivtttnvy sdiaknivgk
+       61 ygtataiidk ssvdphdfdp ttadakkvaq aniivanglg ydswmnklak svdkkpvlvg
+      121 edlmglksgd nphiwynldm ptkyvdylvk rlskldkkha ayfkengeky lakidkikql
+      181 akankgdqkp vfvsepvfdy alqeagykig dkefeeaien gtdpspktin emnnsikqkk
+      241 iaffvnntqa ssstvksfvk lakknnvpvl nvretipnnt tylawmkeny qkladiqkn
+//
+
+

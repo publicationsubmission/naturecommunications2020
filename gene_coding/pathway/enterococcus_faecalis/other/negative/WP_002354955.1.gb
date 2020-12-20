@@ -1,0 +1,62 @@
+LOCUS       WP_002354955             756 aa            linear   BCT 01-JUN-2019
+DEFINITION  bifunctional glutamate--cysteine ligase/glutathione synthetase
+            [Enterococcus faecalis].
+ACCESSION   WP_002354955
+VERSION     WP_002354955.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 756)
+  AUTHORS   Kino,K., Kuratsu,S., Noguchi,A., Kokubo,M., Nakazawa,Y., Arai,T.,
+            Yagasaki,M. and Kirimura,K.
+  TITLE     Novel substrate specificity of glutathione synthesis enzymes from
+            Streptococcus agalactiae and Clostridium acetobutylicum
+  JOURNAL   Biochem. Biophys. Res. Commun. 352 (2), 351-359 (2007)
+   PUBMED   17123467
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01435.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01435
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..756
+                     /gene="gshAB"
+     Protein         1..756
+                     /product="bifunctional glutamate--cysteine
+                     ligase/glutathione synthetase"
+                     /EC_number="6.3.2.2"
+                     /EC_number="6.3.2.3"
+                     /calculated_mol_wt=86982
+     Region          12..751
+                     /region_name="glu_cys_lig_rel"
+                     /note="glutamate--cysteine ligase/glutathione synthase,
+                     Streptococcus agalactiae type; TIGR01435"
+                     /db_xref="CDD:273622"
+ORIGIN      
+        1 mnyrelmqkk nvrpyvlmar fglekenqrs tregllattd hptvfgnrsy hpyiqtdfse
+       61 tqlelitpva nsgtemlrfl daihdvarrs ipedemlwpl smppqlptkd eeikiakldq
+      121 ydavlyrryl akeygkrkqm vsgihfnfey dqaliqqlyd eqsevtdckq fktkvymkva
+      181 rnflryrwli tylfgaspvs edgyfrvydd qpqepirsir nstygyrnhd nvkvsyasle
+      241 ryledihrmv engllseeke fyapvrlrgg kqmsdlpktg iryielrnld lnpfsrlgiv
+      301 edtvdflhyf mlyllwtdek eeadewvktg difneqvalg hphetiklia egdrifsemi
+      361 dmldalgirk gkevvgkyyq qlrnpqdtvs gkmwtiiqen snselgnifg nqyqsmafer
+      421 pyqlagfrem elstqiflfd aiqkgleiei ldeqeqflkl qhgehieyvk nanmtskdny
+      481 vvplimenkt vtkkilsaag fhvpggeefs sfieaqeahl ryankafvvk pkstnyglgi
+      541 tifkegasle dftealriaf kedtavliee flpgteyrff vldndvkaim lrvpanvtgd
+      601 gkhtveelva aknsdplrgt nhrapleliq lndleklmlk eqgltiysvp ekeqivylre
+      661 nsnvstggds idmtdvidds ykqiaieava algakicgid liipdkdvkg trdsltygii
+      721 eanfnpamhm hvypyagqgr rltmdvlkll ypevvq
+//
+
+

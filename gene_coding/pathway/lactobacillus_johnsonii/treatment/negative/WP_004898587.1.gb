@@ -1,0 +1,37 @@
+LOCUS       WP_004898587             443 aa            linear   BCT 26-MAY-2016
+DEFINITION  hypothetical protein [Lactobacillus johnsonii].
+ACCESSION   WP_004898587
+VERSION     WP_004898587.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..443
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..443
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=51585
+     Region          9..416
+                     /region_name="COG3919"
+                     /note="Predicted ATP-dependent carboligase, ATP-grasp
+                     superfamily [General function prediction only]"
+                     /db_xref="CDD:226433"
+ORIGIN      
+        1 mvqakftpil lgsdinvygm arsfneaygi kvqawaasql aatryskivd vevhegfeed
+       61 pgfmnvmkqk ieeyknhpep viliacgdgy aellakhkge lkdtfvvpyi dydlleklis
+      121 kegfyeiaek yglpyphtki vtmddykaen ylnlpfdypv elkpedpvsw lncqfegrkk
+      181 aftihdeael vdivgkiytn gytedlilqd fipgddsnmr vlnayvdkdh kvkmmclghp
+      241 lledptpqsi gnymailpaf sqklydtvqs fleklnytgm anfdikydpr dgeykffein
+      301 lrqgrssfyv tlngynlakw yvddyvednl kdkptvygnk dganymlwlg vpkkifkeya
+      361 ydngskrlae klideghygt tvfydkdrsl krwllmhymf hnyyarykky yqvnkgqyfe
+      421 eeakklekqa lrdgqqenhe nei
+//
+
+

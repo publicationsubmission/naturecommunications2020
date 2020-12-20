@@ -1,0 +1,51 @@
+LOCUS       WP_086874594             200 aa            linear   BCT 16-SEP-2018
+DEFINITION  nitroreductase family protein [Lactobacillus johnsonii].
+ACCESSION   WP_086874594
+VERSION     WP_086874594.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10114839
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..200
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..200
+                     /product="nitroreductase family protein"
+                     /calculated_mol_wt=22451
+     Region          5..197
+                     /region_name="Nitroreductase_4"
+                     /note="Nitroreductase-like family 4. A subfamily of the
+                     nitroreductase family containing uncharacterized proteins
+                     that are similar to nitroreductase. Nitroreductase
+                     catalyzes the reduction of nitroaromatic compounds such as
+                     nitrotoluenes, nitrofurans and...; cd02140"
+                     /db_xref="CDD:239055"
+     Site            order(5,9..10,12,26,34,36,38..39,41,45,47,49..55,58,123,
+                     125..126,130,133..134,141,150,163,188..190,192,195..197)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:239055"
+     Site            order(12..14,16,148..150,187)
+                     /site_type="other"
+                     /note="FMN binding site [chemical binding]"
+                     /db_xref="CDD:239055"
+ORIGIN      
+        1 mksefnnlla krrsiyalgd nvkesleniy tlikdtvrns ptafnsqtvr tvvlfgkasn
+       61 kvwdivedrl ksevpneeaf aktkekiatf ragfgtilfl tdtaivekle rdfplyaanf
+      121 adwaeqgigg aqqavwaala eqhigaslqh ynpliddaih eafdlpkewk lraqmpfgsi
+      181 eapanekdyl denevfklik
+//
+
+

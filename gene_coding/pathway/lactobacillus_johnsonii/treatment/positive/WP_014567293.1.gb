@@ -1,0 +1,48 @@
+LOCUS       WP_014567293             559 aa            linear   BCT 20-JUN-2019
+DEFINITION  DNA repair protein RecN [Lactobacillus johnsonii].
+ACCESSION   WP_014567293
+VERSION     WP_014567293.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00634.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00634
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..559
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..559
+                     /gene="recN"
+     Protein         1..559
+                     /product="DNA repair protein RecN"
+                     /calculated_mol_wt=63083
+     Region          1..559
+                     /region_name="RecN"
+                     /note="DNA repair ATPase RecN [Replication, recombination
+                     and repair]; COG0497"
+                     /db_xref="CDD:223571"
+ORIGIN      
+        1 mlveldiknf aiiktlkvrf qekmtvlige tgagksiiid avslllgsra qsemirsgee
+       61 kavitglfvl seqkdliedl cekyglpfed dqliisrelt hkgrnvvrin gqlttinvlr
+      121 eigrnlvdih gqndqqilmd qdrqidlidn yaepefkkel hsykvdfekw rhltsqlrkl
+      181 redaqeiaqk qdilefqnne lesadlndpn edekleeefn elnnyqkiad tanyfmqlyd
+      241 ddehglatll gdaqnaaedl snygkkfenf atslndgiys lndarselst lmdqmdfdee
+      301 ryqyvssrld tlntlkkkyg ptlddvfkfa qkvkselnkf etgdldegki qkelaiieks
+      361 lsqkaqnlhe qrekiardle ekikkeladl ymekarfsir inetnsftkl gtdevifmia
+      421 pnpgealmpl vkivsggeqs rlilalkaif srvepvgtmi fdeidtgvsg rvsaaigkkm
+      481 haigqekqvi tithspqvaa agdqrysvvk qvkdgatytq vgpltqeeai taiaqmmags
+      541 dvtdaakrna adlmesfke
+//
+
+

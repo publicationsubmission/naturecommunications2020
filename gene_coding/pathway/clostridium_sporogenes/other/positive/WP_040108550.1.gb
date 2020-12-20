@@ -1,0 +1,49 @@
+LOCUS       WP_040108550             702 aa            linear   BCT 02-JUN-2019
+DEFINITION  MULTISPECIES: polyribonucleotide nucleotidyltransferase
+            [Clostridium].
+ACCESSION   WP_040108550
+VERSION     WP_040108550.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF008805.1
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK11824
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..702
+                     /product="polyribonucleotide nucleotidyltransferase"
+                     /EC_number="2.7.7.8"
+                     /calculated_mol_wt=77293
+     Region          1..693
+                     /region_name="PRK11824"
+                     /note="polynucleotide phosphorylase/polyadenylase;
+                     Provisional"
+                     /db_xref="CDD:236995"
+ORIGIN      
+        1 mihtlettva grkmkvdfgk tgmlsnaaif msygdtvvmi nanaskepre gidffplsvd
+       61 yeerlysvgk ipggfikreg kpsdksilha rsidrplrpl fpkgyrndvq ivntvlsveq
+      121 dnlpeilain gsslalclss ipfttpvaav svglvdgefi inptvaqren tildltvcat
+      181 kervmmveag gqeideetmy naimfgfeec knivafqeea vakfgkakde pslykadeev
+      241 ekevksfafd mikeamyimd kdernaaldk vkekiseefs ekyedkgadi keviyktqke
+      301 ivrnmllned rrpdgrafne vrpiscevgi lprthgtglf trgltqvmtv atlgalgdvq
+      361 ildgiaeees krymhhynfp sysvgevrpl rgpgrreigh galaeralep lipseaefpy
+      421 tirlvsevls sngstsqasv cgstlallda gvpikrpaag iamglitsed lekekvitdi
+      481 qgiedffgdm dfkvagtekg itsiqfdtki aglsnncvkd alegakkarl hilekikeci
+      541 peprkelsky aprteiicid pekirdviga ggkvinkiia dtnvkieike dgkifvtsnn
+      601 epegvkkais iiegltkevv qgeiylgkvt kttnfgafve ilpgkeglvh iskldfarve
+      661 kvedvvsvgd eilvkitdid nqgrinlsrk daiakkeeek dk
+//
+
+

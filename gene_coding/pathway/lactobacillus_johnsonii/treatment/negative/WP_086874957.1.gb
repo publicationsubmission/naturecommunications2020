@@ -1,0 +1,48 @@
+LOCUS       WP_086874957             326 aa            linear   BCT 11-NOV-2018
+DEFINITION  choloylglycine hydrolase family protein [Lactobacillus johnsonii].
+ACCESSION   WP_086874957
+VERSION     WP_086874957.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10087987
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..326
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..326
+                     /product="choloylglycine hydrolase family protein"
+                     /calculated_mol_wt=36623
+     Region          2..301
+                     /region_name="Ntn_PVA"
+                     /note="Penicillin V acylase (PVA), also known as
+                     conjugated bile salt acid hydrolase (CBAH), catalyzes the
+                     hydrolysis of penicillin V to yield 6-amino penicillanic
+                     acid (6-APA), an important key intermediate of
+                     semisynthetic penicillins. PVA has an N-terminal...;
+                     cd00542"
+                     /db_xref="CDD:238303"
+     Site            order(2,17,19,25,59,66,130,134,139)
+                     /site_type="active"
+                     /db_xref="CDD:238303"
+ORIGIN      
+        1 mctsivyssn nhhyfgrnld leisfgehpv itprnyefqy rklpskkaky amvgmaiven
+       61 nyplyfdaan eeglgiagln fdgpchyfpe naeknnvtpf elipyllsqy ttvaevkdal
+      121 kdvslvninf seklplsplh wlmadrtges ivvestlsgl hvydnpvhvl tnnpefpgql
+      181 rnlanysnia paqpkntlvp gvdlnlysrg lgthflpggm dsasrfvkva fvrahspqgn
+      241 nelssvtnyf hilhsveqpk gtdevgpnsy eytiysdgtn letgtfyytn yennqinaie
+      301 lnkenlncde lidykliekq tinyqn
+//
+
+

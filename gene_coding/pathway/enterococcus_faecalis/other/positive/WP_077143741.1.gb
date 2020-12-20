@@ -1,0 +1,41 @@
+LOCUS       WP_077143741             171 aa            linear   BCT 13-MAY-2018
+DEFINITION  GNAT family N-acetyltransferase [Enterococcus faecalis].
+ACCESSION   WP_077143741
+VERSION     WP_077143741.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10456837
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..171
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..171
+                     /product="GNAT family N-acetyltransferase"
+                     /calculated_mol_wt=19842
+     Region          40..147
+                     /region_name="Acetyltransf_1"
+                     /note="Acetyltransferase (GNAT) family; pfam00583"
+                     /db_xref="CDD:306954"
+     Site            order(96..98,108..109)
+                     /site_type="other"
+                     /note="Coenzyme A binding pocket [chemical binding]"
+                     /db_xref="CDD:173926"
+ORIGIN      
+        1 mmgeikqlti edapalqeis ietytdtfgp yntpenmqay lveaynlekl qkelanphsd
+       61 fyfifvdnql agymklnrer aqtepmgtek leverlyilp afkgkklgtq llelaeekar
+      121 efgknalwlg vwehndaara fyktigyryy sqhsffmgdd eqtdfillke l
+//
+
+

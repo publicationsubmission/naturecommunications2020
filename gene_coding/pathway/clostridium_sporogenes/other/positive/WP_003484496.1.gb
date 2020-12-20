@@ -1,0 +1,29 @@
+LOCUS       WP_003484496             139 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: flagellar biosynthesis protein [Clostridium].
+ACCESSION   WP_003484496
+VERSION     WP_003484496.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..139
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..139
+                     /product="flagellar biosynthesis protein"
+                     /calculated_mol_wt=15702
+     Region          51..139
+                     /region_name="Flagellar_put"
+                     /note="Putative flagellar; cl11797"
+                     /db_xref="CDD:325125"
+ORIGIN      
+        1 msfkiingkl hliedynyas lknknikteh kvgsfeevln kkldntdkan kknreesfii
+       61 skhafdrlks rninlseedm mginkainia dkkgsrecli lckdaalits iknrtiitam
+      121 tkeeskdnvf tnidsavii
+//
+
+

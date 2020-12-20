@@ -1,0 +1,33 @@
+LOCUS       WP_003491209             318 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: chemotaxis protein [Clostridium].
+ACCESSION   WP_003491209
+VERSION     WP_003491209.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..318
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..318
+                     /product="chemotaxis protein"
+                     /calculated_mol_wt=35138
+     Region          62..288
+                     /region_name="MCPsignal"
+                     /note="Methyl-accepting chemotaxis protein (MCP)
+                     signalling domain; cl28165"
+                     /db_xref="CDD:332985"
+ORIGIN      
+        1 minifskkds ekdnkndtie qkviveekhe vettdtmefl kemtvqiegi iqqhnkvnge
+       61 hevleklakq ienhmatvsn ltertnestd klfsqgesll eitkdtvsks legkksiegm
+      121 vkvienldie tkdtyenina lgeklkeige iaqlisgias ktnllalnaa ieaarageqg
+      181 kgfavvadev rklaemtges ssnitnlisg idsqtknvls svekstlvvt egvesskgal
+      241 ekieevldsf nrveddtdsl iktintqked iskifsgine vdniltktnd qivnhidean
+      301 kvdkkleesv yhiaqyvk
+//
+
+

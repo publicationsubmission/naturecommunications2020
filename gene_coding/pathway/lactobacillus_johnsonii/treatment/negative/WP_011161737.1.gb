@@ -1,0 +1,41 @@
+LOCUS       WP_011161737             261 aa            linear   BCT 14-MAY-2017
+DEFINITION  DeoR/GlpR transcriptional regulator [Lactobacillus johnsonii].
+ACCESSION   WP_011161737
+VERSION     WP_011161737.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11442564
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..261
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..261
+                     /product="DeoR/GlpR transcriptional regulator"
+                     /calculated_mol_wt=29663
+     Region          4..249
+                     /region_name="GlpR"
+                     /note="DNA-binding transcriptional regulator of sugar
+                     metabolism, DeoR/GlpR family [Transcription, Carbohydrate
+                     transport and metabolism]; COG1349"
+                     /db_xref="CDD:224268"
+ORIGIN      
+        1 mqsqverldl irqkldekkt istreimklc hvsfdtarrd vikltstgqa irihgglmki
+       61 kqgtvpdyns rvhvlspikn kiakmtakyl tadkliylna sttisqlcry lnglnatvmt
+      121 nsidnagalm mdnlpnvill ggylnkenhy tsslnslkei dqyefdiavi gtssvnkngv
+      181 fvvnhsdaqi erevvnrtkt villaeeykf kedrsspykv mdckqadili tdnkldpqyr
+      241 kyfkknikir evleeeniks k
+//
+
+

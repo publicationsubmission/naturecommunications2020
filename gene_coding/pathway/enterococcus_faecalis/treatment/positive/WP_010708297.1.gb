@@ -1,0 +1,39 @@
+LOCUS       WP_010708297             250 aa            linear   BCT 05-AUG-2018
+DEFINITION  tyrosine-protein phosphatase [Enterococcus faecalis].
+ACCESSION   WP_010708297
+VERSION     WP_010708297.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10595285
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..250
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..250
+                     /product="tyrosine-protein phosphatase"
+                     /calculated_mol_wt=27716
+     Region          1..235
+                     /region_name="Y_phosphatase3"
+                     /note="Tyrosine phosphatase family; pfam13350"
+                     /db_xref="CDD:315917"
+ORIGIN      
+        1 mnsvvnfrdi ggfptqqgts vktghffrsg elvniaqadq qklvedyqik riydfrsaae
+       61 tqerpddsiq gtnylhidil adiqaqtasl egmlktvgsp daamdmayke mvlsnsgrkg
+      121 yqtffenfls ypqeailfhc fagkdrtgig aalilsalgv ehsyiledyl ktneqrktan
+      181 eqiiaqyqan gtppaeiqql etllyvkkey latalqaiek efgsvegylk eglglplsak
+      241 kdmlslytks
+//
+
+

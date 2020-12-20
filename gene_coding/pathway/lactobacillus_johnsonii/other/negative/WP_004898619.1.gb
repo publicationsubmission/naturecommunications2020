@@ -1,0 +1,46 @@
+LOCUS       WP_004898619             683 aa            linear   BCT 15-JUN-2019
+DEFINITION  KUP/HAK/KT family potassium transporter [Lactobacillus johnsonii].
+ACCESSION   WP_004898619
+VERSION     WP_004898619.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10497063
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..683
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..683
+                     /product="KUP/HAK/KT family potassium transporter"
+                     /calculated_mol_wt=75708
+     Region          15..557
+                     /region_name="K_trans"
+                     /note="K+ potassium transporter; pfam02705"
+                     /db_xref="CDD:308372"
+ORIGIN      
+        1 mnektrknis aaglliaigi vygdigtspl yvmksivagn ggianvnrdf ivgsislvlw
+       61 tvtllttlqt vfialkatnh geggifalyt lvrkrakwlv lpaliggaai ladgtltpav
+      121 tvttaieglk giefghgnvp vstqgtviai tvvillllfs iqrmgtsiig kafgpimfiw
+      181 ftflgviglm nmmgdlsilq alnpyyaikl lfspynkagi filgsiflat tgaealysdv
+      241 ghvgkgniig swpyvfvcls lnyfgqgvwi lnnpnynagn gdfnpffeii pqnirlaaiv
+      301 latiaavias qalitgsftl vaeasglkfl prmnimypst kkgqiyipsv nkmicaatia
+      361 ivlcfqtsah meaayglsit ismlmttill yewlamkgvh tiwnwlflif fgfldvmfml
+      421 aslskfmhgg yvslviagfi giimyvwyyg nkirdkresr nayvrldeyv dmltnlshde
+      481 dyptfatnlv ymakvkynkf ikreilysil dkrpkraray wfvtvnvtne pftaeyavnt
+      541 ygtknvinvq lflgfkqqts vnvylrqivh dliadgties qpqeytttpg rdvgdfsfvi
+      601 vndvispqtq lrsyekflve arvwlqnlss npaswfgldy adtviervpl ilgnqrrqhi
+      661 trippkkfed ikkklqaege lke
+//
+
+

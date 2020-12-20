@@ -1,0 +1,40 @@
+LOCUS       WP_033058088             342 aa            linear   BCT 21-JUL-2016
+DEFINITION  rod shape-determining protein [Clostridium sporogenes].
+ACCESSION   WP_033058088
+VERSION     WP_033058088.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11487007
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..342
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..342
+                     /product="rod shape-determining protein"
+                     /calculated_mol_wt=36254
+     Region          6..338
+                     /region_name="PRK13928"
+                     /note="rod shape-determining protein Mbl; Provisional"
+                     /db_xref="CDD:237563"
+ORIGIN      
+        1 mffsvgtdmg idlgtatvlv ymkgkgviln epsvvaidrn knrvlavgqe aremigrtpg
+       61 nivairpmrd gvisdydite kmlkyfigka cgkkkisapr vvicipseat evekravmda
+      121 arnagakkvf lieeplaaai gadlditkas gsmiidiggg ttdiavislg givvrssikv
+      181 agdkfddaii kyirkkhklm igertaedlk ikigsafskg qntsmdirgr dlvtglpknl
+      241 nvtsdemrea lqdtvnsiae lthsvlektp pelsadiadk giimtgggal ltglsdlien
+      301 vnkvpvhiae npvscvaegt gkmleyldkm gisesgdgln lv
+//
+
+

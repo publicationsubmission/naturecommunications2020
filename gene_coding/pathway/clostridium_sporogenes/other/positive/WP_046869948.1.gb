@@ -1,0 +1,37 @@
+LOCUS       WP_046869948             145 aa            linear   BCT 23-SEP-2019
+DEFINITION  YjdF family protein [Clostridium sporogenes].
+ACCESSION   WP_046869948
+VERSION     WP_046869948.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10567862
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..145
+                     /product="YjdF family protein"
+                     /calculated_mol_wt=17398
+     Region          4..133
+                     /region_name="DUF2992"
+                     /note="Protein of unknown function (DUF2992); pfam11208"
+                     /db_xref="CDD:337949"
+ORIGIN      
+        1 mikltvlfde pfwigifekq aqdkiqicrv vfgqepkdye vydfilknyy nlkfsnpiai
+       61 dekpkkeinp krmqrkikkt vqekgigtka qqalkldhen kkterkiklk enrenkkelk
+      121 fqkktgkesq krkrdiniem fsysw
+//
+
+

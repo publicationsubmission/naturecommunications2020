@@ -1,0 +1,47 @@
+LOCUS       WP_030033705             370 aa            linear   BCT 01-JUN-2019
+DEFINITION  MULTISPECIES: glycine cleavage system aminomethyltransferase GcvT
+            [Clostridium].
+ACCESSION   WP_030033705
+VERSION     WP_030033705.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00528.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00528
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..370
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..370
+                     /gene="gcvT"
+     Protein         1..370
+                     /product="glycine cleavage system aminomethyltransferase
+                     GcvT"
+                     /EC_number="2.1.2.10"
+                     /calculated_mol_wt=41602
+     Region          3..368
+                     /region_name="gcvT"
+                     /note="glycine cleavage system aminomethyltransferase T;
+                     Reviewed; PRK00389"
+                     /db_xref="CDD:234742"
+ORIGIN      
+        1 menlkvtplr gvyeeyggki vdfagyelpt qfkgflhehh tvrekaglfd vshmgeamvt
+       61 gkdagkfiqy lmtndinvlk dnevlytfmc nedggviddl lvykfaedef flvinasnkd
+      121 kdvkwimdhk gdfnveivde sdsiaqlalq gplaeeilqk ivdidlqeik ffkfkrdvlv
+      181 dgkkclvsrt gytgedgfei yckledakgl whailnagke egaepiglga rdtlrfeasl
+      241 llygnemdet vtplevgmgf fvklkvqedf igkdalikqk eegvtrklvg felldkgipr
+      301 hgyevikdgk vighvttgyk sptlnkaigl alveeqyski gtefnikvrk kelkavaidk
+      361 rfytkktksk
+//
+
+

@@ -1,0 +1,48 @@
+LOCUS       WP_003490446             203 aa            linear   BCT 31-MAY-2019
+DEFINITION  MULTISPECIES: DNA-3-methyladenine glycosylase [Clostridium].
+ACCESSION   WP_003490446
+VERSION     WP_003490446.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF002001.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK00802
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..203
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..203
+                     /product="DNA-3-methyladenine glycosylase"
+                     /EC_number="3.2.2.-"
+                     /calculated_mol_wt=23537
+     Region          7..201
+                     /region_name="AAG"
+                     /note="Alkyladenine DNA glycosylase catalyzes the first
+                     step in base excision repair; cd00540"
+                     /db_xref="CDD:187726"
+     Site            order(41,43,52,73,78,85,98,100,177)
+                     /site_type="active"
+                     /db_xref="CDD:187726"
+     Site            order(43,50,52,57,59,61,75,78,81,85,98,100,111,134..137,
+                     146,177..178)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:187726"
+ORIGIN      
+        1 mrltrdfyak darvlakell gkvlvreidg itlrgkivet eayigaidka shayggrrtk
+       61 rteplygkpg iayvyfiygk yfcfniickk egeaegvlir aieplenmnf isklrfnkef
+      121 qelnnyqrkn ltsgpsklcm afsinkynnw edlcesssly vedafyndfe iieakrvgid
+      181 yaeeardflw ryyikdnafi svk
+//
+
+

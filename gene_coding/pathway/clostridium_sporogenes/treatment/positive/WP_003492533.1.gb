@@ -1,0 +1,40 @@
+LOCUS       WP_003492533             151 aa            linear   BCT 12-APR-2019
+DEFINITION  MULTISPECIES: GNAT family N-acetyltransferase [Clostridium].
+ACCESSION   WP_003492533
+VERSION     WP_003492533.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10607277
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..151
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..151
+                     /product="GNAT family N-acetyltransferase"
+                     /calculated_mol_wt=17452
+     Region          49..130
+                     /region_name="Acetyltransf_7"
+                     /note="Acetyltransferase (GNAT) domain; pfam13508"
+                     /db_xref="CDD:316066"
+     Site            order(81..83,93..94)
+                     /site_type="other"
+                     /note="Coenzyme A binding pocket [chemical binding]"
+                     /db_xref="CDD:173926"
+ORIGIN      
+        1 mniivkrate edaadlievq nkaflsdyll ygecpgynkt nesmkksikq chtfkimden
+       61 tfigdvivry ngnnnyylga lcvipeyenr gigqkvmsfi fdyfvdakhw sletpadkkr
+      121 nhyfykklgf nitkeymags vkvvlfeknl q
+//
+
+

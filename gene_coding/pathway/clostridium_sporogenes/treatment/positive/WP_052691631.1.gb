@@ -1,0 +1,38 @@
+LOCUS       WP_052691631             551 aa            linear   BCT 19-AUG-2015
+DEFINITION  hypothetical protein [Clostridium sporogenes].
+ACCESSION   WP_052691631
+VERSION     WP_052691631.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..551
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..551
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=62203
+     Region          <172..>527
+                     /region_name="PRK12467"
+                     /note="peptide synthase; Provisional"
+                     /db_xref="CDD:237108"
+ORIGIN      
+        1 mggvlekrli elnskeiiew gvfdkskekv eltcktigni ssgivvkngl ieeekhnvyd
+       61 mvialgtlht mneniatair sasimckkea pilvmempvl pplglisaal lengfvskds
+      121 iskgynkymk dkviwrkile knhvtgivdg digkfsiiag llpeskania hirshikkvl
+      181 pevmhpskif itpeielnkn gkidrkkisy tlsnslesik desrgnlpka gtteeviaei
+      241 wkellsvgkv ylgddffslg gdsliatrfv frarqmgykd aslsilfahp klkdfserlq
+      301 pteiinkeei kflsnekyry lpfpctavqr aylvgrrsdf ilggvgthvy nefdsecldi
+      361 srlerainil vnrhemlrti fndegtqkil syvpkysvve lsdnmskeea ikklrkemsh
+      421 qafdakkwpl fdvqvahyvd eeqvvrtrlg isldnivadg lsmmiilsel sslyenplid
+      481 lnleygttgv sfrdyvlatm pnkvsldksr eywkkrvktl pappdlplca npedlsaptf
+      541 vrrqmvvtkm r
+//
+
+

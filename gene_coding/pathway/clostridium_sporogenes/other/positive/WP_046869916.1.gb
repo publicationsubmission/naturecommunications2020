@@ -1,0 +1,47 @@
+LOCUS       WP_046869916             375 aa            linear   BCT 17-MAY-2015
+DEFINITION  ROK family transcriptional regulator [Clostridium sporogenes].
+ACCESSION   WP_046869916
+VERSION     WP_046869916.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 12137909
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..375
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..375
+                     /product="ROK family transcriptional regulator"
+                     /calculated_mol_wt=41874
+     Region          18..58
+                     /region_name="HTH_24"
+                     /note="Winged helix-turn-helix DNA-binding; pfam13412"
+                     /db_xref="CDD:315975"
+     Region          80..339
+                     /region_name="NagC"
+                     /note="Sugar kinase of the NBD/HSP70 family, may contain
+                     an N-terminal HTH domain [Transcription, Carbohydrate
+                     transport and metabolism]; COG1940"
+                     /db_xref="CDD:224851"
+ORIGIN      
+        1 mtkkevnnme vkknnrnrif ryickcdkts npeisyelkm slptvtqntk elmergliae
+       61 vgefqstggr rakafsvvad sklavgldit knhvgllltn ltgkilkhdt fyypysaedd
+      121 yyreinkrle sfldesvker ekilgigisf pgivnlekkv vsyshmlglk alplatvspf
+      181 fsydcyflnd anagayaegi nmekkerlfy lslsntvgga ifncneliqg knfrcgevgh
+      241 mtivpdgvsc ycgksgcldv ycsakclsda tggklelffe alergekeit diwdryttyl
+      301 svainnihmi ldcdiiiggy vgsfieshiq direkvskrn tfaedgmfvr tcnykigaaa
+      361 lgaalkviet fieqv
+//
+
+

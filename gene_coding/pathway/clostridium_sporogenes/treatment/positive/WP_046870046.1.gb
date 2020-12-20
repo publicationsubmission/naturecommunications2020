@@ -1,0 +1,36 @@
+LOCUS       WP_046870046             111 aa            linear   BCT 17-MAY-2015
+DEFINITION  CoA-binding protein [Clostridium sporogenes].
+ACCESSION   WP_046870046
+VERSION     WP_046870046.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10596747
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..111
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..111
+                     /product="CoA-binding protein"
+                     /calculated_mol_wt=12218
+     Region          1..107
+                     /region_name="CoA_binding_2"
+                     /note="CoA binding domain; pfam13380"
+                     /db_xref="CDD:338711"
+ORIGIN      
+        1 magsvlsedk yaykifnrlk nkgynvvgik pgveerdvfn nirdipynie vldlcinpik
+       61 gldivkeaak lginkiliqp gaesneiinf crenninaie gcalvelskl v
+//
+
+

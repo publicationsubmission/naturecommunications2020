@@ -1,0 +1,36 @@
+LOCUS       WP_142423904             707 aa            linear   BCT 16-JUL-2019
+DEFINITION  FUSC family protein [Enterococcus faecalis].
+ACCESSION   WP_142423904
+VERSION     WP_142423904.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..707
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..707
+                     /product="FUSC family protein"
+                     /calculated_mol_wt=80091
+ORIGIN      
+        1 mkkklfrivg ivfisiltli vllslvgtva eatglvddtv esgnlyskys lnnyqldffv
+       61 dsswdwlpwn wgdglgksvm yglyaitnfi wtvslylsna tgyvvqeayk ldfisdtaes
+      121 igkniqtlad itenglqtsg fyfgflllmi lalgvyvayt gllkrettka vravinfvmi
+      181 fllsgsfiay aptyitkind fssdvseaal tlgteivvpn sesqgkdsvd lirdslfsiq
+      241 vqqpwlllqf ddsnieeige drvnkilsvs pdenkgkdre eavkaeiedn dnanlsitkt
+      301 mnrlgivvfl vlfnigisff vflltgimlf sqilfiifam flpisfllsm lptyeslgkm
+      361 aiirlfntim mragvtlvit tafsistmff nisatypffm vaflqivafa giyfklgdim
+      421 smfnlqsnds qsmgrrvmrr pqmlmnrklr qlnrnvgrtl afggaaavgn klakeqskpk
+      481 fkpsdsslrk nsrlpndrev ssdsakenpi snnkkqsrmn ltgrkigkvl dtqalvkdka
+      541 kqvkdqvrnt ptnlkyilhk glektkkapk efkrglvqek adreklrdkq rqrrdekmde
+      601 krknlgevtd rhgkrrsnvs ikedpkpqkd rilknelpkr ivmvkpnsev rrrlvkqnlv
+      661 arennqllsk knsfqqvkqr stlpkranqk vqrimkarpk pksgdkk
+//
+
+

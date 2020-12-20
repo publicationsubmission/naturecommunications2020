@@ -1,0 +1,48 @@
+LOCUS       WP_033060351             252 aa            linear   BCT 13-JAN-2016
+DEFINITION  MULTISPECIES: isoprenyl transferase [Clostridium].
+ACCESSION   WP_033060351
+VERSION     WP_033060351.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF011405.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK14830
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..252
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..252
+                     /product="isoprenyl transferase"
+                     /calculated_mol_wt=29242
+     Region          1..251
+                     /region_name="PRK14830"
+                     /note="undecaprenyl pyrophosphate synthase; Provisional"
+                     /db_xref="CDD:184840"
+     Site            order(30..35,44,48,52,55,74,82,86,93..94,97,146,199,205,
+                     207)
+                     /site_type="active"
+                     /db_xref="CDD:259850"
+     Site            order(153..154,156..157,160..161,177..179,182,193,
+                     204..208,211..213,215..219,221)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:259850"
+ORIGIN      
+        1 mkiffsnnkk asidmdldmn nipkhiaiim dgngrwaker slprtmghka gvetireivk
+       61 ecnklgvkyl tlyafstenw krpkdevsal mtllvqylrk evkelnennv ivnaigniek
+      121 lpevcikele kayeetknnt glvlnlalny ggrdeiirav kniyeditag kikeeeinee
+      181 lisnylytkg madpdliirp sgekrisnfl lwqcaysefw ysdikwpdfk kehlhkaiyd
+      241 yqnrdrrfga vk
+//
+
+

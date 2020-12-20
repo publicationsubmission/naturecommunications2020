@@ -1,0 +1,53 @@
+LOCUS       WP_002359213             430 aa            linear   BCT 20-JUN-2019
+DEFINITION  MULTISPECIES: adenylosuccinate synthase [Bacilli].
+ACCESSION   WP_002359213
+VERSION     WP_002359213.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF002223.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK01117
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..430
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..430
+                     /product="adenylosuccinate synthase"
+                     /EC_number="6.3.4.4"
+                     /calculated_mol_wt=47372
+     Region          1..428
+                     /region_name="PRK01117"
+                     /note="adenylosuccinate synthetase; Provisional"
+                     /db_xref="CDD:234904"
+     Site            order(11..18,38..42,126..128,222..223,227,237..238,
+                     272..273,297..300,302,304,330,332..333,412..415)
+                     /site_type="active"
+                     /db_xref="CDD:349762"
+     Site            order(70,101,103,116,125,133,136..144,146,204..205,208,
+                     229..232,234..235,237,239,245..246,248..249,252..253,316,
+                     319..322)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:349762"
+ORIGIN      
+        1 mssvvvvgtq wgdegkgkit dflsenaevi aryqggdnag htikfdgvty klhlipsgif
+       61 ykekisvign gvvvnpkslv kelaylkenn vatdnlrisd rahvilpyhi kldqlqedak
+      121 genkigttik gigpaymdka arvgiriadl ldkeifaerl qinleeknrq fvkmfdseai
+      181 efddifeeyy eygqqikqyv tdtsvilnda ldagkrvlfe gaqgvmldid qgtypfvtss
+      241 npvaggvtig sgvgpskink vvgvckayts rvgdgpfpte lfdetgetir rvgkeygttt
+      301 grprrvgwfd svvmrhskrv sgitnlslns idvlsgletv kictayeldg eliyhypasl
+      361 kelsrckpvy eelpgwsedi tgcktladlp anarnyvhri selvgvrist fsvgpdrnqt
+      421 nvlesvwaqi
+//
+
+

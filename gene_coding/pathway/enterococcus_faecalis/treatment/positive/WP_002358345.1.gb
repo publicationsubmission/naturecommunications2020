@@ -1,0 +1,42 @@
+LOCUS       WP_002358345             476 aa            linear   BCT 09-NOV-2018
+DEFINITION  6-phospho-beta-glucosidase [Enterococcus faecalis].
+ACCESSION   WP_002358345
+VERSION     WP_002358345.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10013293
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..476
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..476
+                     /product="6-phospho-beta-glucosidase"
+                     /calculated_mol_wt=54582
+     Region          1..476
+                     /region_name="celA"
+                     /note="6-phospho-beta-glucosidase; Reviewed; PRK09589"
+                     /db_xref="CDD:181973"
+ORIGIN      
+        1 msilkndflw ggavaahqle ggwdqggkgv svadvmtaga hgvprkitag vlpdehypnh
+       61 eaidfyhryq ediqlfkelg lncfrtsiaw trifpngdee tpneeglrfy dalfdeclkn
+      121 giepvvtlsh fempyhlvtk yggfrnrqvi dffvkfaevc ftryqkkvky wmtfneinnq
+      181 anyeedfapf tnsgiayqeg edreaimyqa ahyelvasar avkighainp dfqigcmiam
+      241 vpiypyscnp edmmmsvsam qkrywftdvh vrghypsaiq cylkrknisl dvtkedltdl
+      301 angcvdyigf syymsfavkg aekaptfdyn eakdlvrnpy vatsdwgwqi dpmglryamn
+      361 wfndryelpl fivengfgai delepdgtin dtyriaylre hiemmkeava ydgidlmgyt
+      421 pwgfidlvsa stgemkkryg fiyvdkdndg hgtlerrkkk sfawyqqvia tngeel
+//
+
+

@@ -1,0 +1,29 @@
+LOCUS       WP_043921384             285 aa            linear   BCT 20-JUN-2016
+DEFINITION  hypothetical protein [Lactobacillus johnsonii].
+ACCESSION   WP_043921384
+VERSION     WP_043921384.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..285
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..285
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=31827
+ORIGIN      
+        1 medskdkkkv ltreeyrkrl ashgkvnvwd lflnrpyisv alivlailfi mtkwwlglvi
+       61 liiaaiagaf iivksknpdr tlslefklgg nktlhllkal qlgasmimfl stymrqvvti
+      121 nfqttgsqdm lkmlqgaaas tnnvyaaqga nvvglldsll ggslwgtyry atnsgqfmnd
+      181 pagrwimiwt fllmvapaic vlaqffrepy srramlvgsg isivlfvltp tminrwayqf
+      241 ainhqinpaq igqmfsvgym ayfgmgcsil vfviaiirsi krdkf
+//
+
+

@@ -1,0 +1,44 @@
+LOCUS       WP_002360419             324 aa            linear   BCT 20-JUN-2019
+DEFINITION  GTP 3',8-cyclase MoaA [Enterococcus faecalis].
+ACCESSION   WP_002360419
+VERSION     WP_002360419.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02666.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02666
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..324
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..324
+                     /gene="moaA"
+     Protein         1..324
+                     /product="GTP 3',8-cyclase MoaA"
+                     /calculated_mol_wt=35946
+     Region          4..324
+                     /region_name="moaA"
+                     /note="molybdenum cofactor biosynthesis protein A,
+                     bacterial; TIGR02666"
+                     /db_xref="CDD:274250"
+ORIGIN      
+        1 mnsmkdafnr eidyvrlslt drcdlrctyc mpatglcflk keqlltddei ifllrilake
+       61 gikkvkltgg eplvrpnlls likrikqisg iekvtlttng mklareaqgl keagldgini
+      121 sldtldpeef reitrvgqlr nilagleqai dvglpnikin tvarkelsea tivelaeiak
+      181 ketvhlrfie mmpiglgkeh pgkqqeevea iltkyygtlq pyqkplgngp asyyalkdfk
+      241 gkigfisalg hcfcetcnri ritadghlkt clhsadgysl kealakeqta ellgiiksgi
+      301 ackpekhlfl eqqgeqrfms qigg
+//
+
+

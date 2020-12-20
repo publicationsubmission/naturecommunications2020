@@ -1,0 +1,37 @@
+LOCUS       WP_046870000             177 aa            linear   BCT 27-MAY-2019
+DEFINITION  amidase domain-containing protein [Clostridium sporogenes].
+ACCESSION   WP_046870000
+VERSION     WP_046870000.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10577240
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..177
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..177
+                     /product="amidase domain-containing protein"
+                     /calculated_mol_wt=20497
+     Region          11..173
+                     /region_name="Amidase_6"
+                     /note="Putative amidase domain; pfam12671"
+                     /db_xref="CDD:315363"
+ORIGIN      
+        1 mnwtmqrqni ylrekavnya ityalnpnpq yryfpiinnn ggdcanfisq cllaggapmk
+       61 fsseypwwyn hsnainvldd twsiswavah slyyylkvnq ekgsfgakgl evynknelni
+      121 gdliffednn shifhsaiit afqdkeplis hhtfnalnip ikyswkydki hflkisl
+//
+
+

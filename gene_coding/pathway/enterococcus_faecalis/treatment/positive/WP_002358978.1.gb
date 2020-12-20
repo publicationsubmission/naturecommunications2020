@@ -1,0 +1,56 @@
+LOCUS       WP_002358978             839 aa            linear   BCT 12-OCT-2019
+DEFINITION  PRD domain-containing protein [Enterococcus faecalis].
+ACCESSION   WP_002358978
+VERSION     WP_002358978.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013070.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00874.18
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..839
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..839
+                     /product="PRD domain-containing protein"
+                     /calculated_mol_wt=95355
+     Region          24..379
+                     /region_name="PspF"
+                     /note="Transcriptional regulators containing an AAA-type
+                     ATPase domain and a DNA-binding domain [Transcription,
+                     Signal transduction mechanisms]; COG1221"
+                     /db_xref="CDD:224142"
+     Region          429..839
+                     /region_name="LevR"
+                     /note="Transcriptional regulatory protein LevR, contains
+                     PRD, AAA+ and EIIA domains [Transcription]; COG3933"
+                     /db_xref="CDD:226443"
+ORIGIN      
+        1 mrletyqhlv diletsntpm stqeiatkiq lsrsvtslyl nkllekgevq qtgkkpvywq
+       61 ltrattpttd vfrqyigsqg sakkaieqck aamlypplgm pllihgasgv gksflakliy
+      121 eylkneqiig lekfytfnca dyannpells silfghtkga ftgaesekqg llaqannsvl
+      181 fldevhrlsn enqeklfqfm dtgtfrpige egkmvhskvr llfattenpk kvllptfyrr
+      241 isvivslpnf kerpireria ilknlfhrea krmtkdinvd eeiftallen depgnvgsls
+      301 nkvqllcasq lrktlpnqpv vigdatqpmi aipldkevle edtlssdifa tfealftkek
+      361 tlahlktelt qfikycldde itlendyflq nlvtevqtkn kliinqpeqt ekpmkdvakl
+      421 lkilpptfne tmllpvqaql kehyprtvsl vknlvsplpe eyrfltevll svllsgeise
+      481 tipyqallva hgestatsiq avanklcgty ifdainmplt ssvrdivaev kdwlsqrdts
+      541 qgvimlvdmg sltqlykslk pqilgellvi nnlttayale ighqlmneql fygiaktaek
+      601 kfktdvqyfe gfsvekniiv ssisgldiak qikqicqkyl ytdikvitlk ykdlvntldi
+      661 anaeenylke tslilttsyl dnhtnvasvn lldmldedag tqlmepfqnl mhpnnidsmi
+      721 nefvhffske glseklefln pdviikqven vtkniekrfd ltlsgkmkfn lmmhnalmve
+      781 rtmlgvedye ipanleelti nqkpffqnak nifytleqfy rieisnwely viyeilssr
+//
+
+

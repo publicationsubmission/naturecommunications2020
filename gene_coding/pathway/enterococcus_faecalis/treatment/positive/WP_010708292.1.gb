@@ -1,0 +1,35 @@
+LOCUS       WP_010708292             387 aa            linear   BCT 07-JUN-2013
+DEFINITION  glucuronyl hydrolase [Enterococcus faecalis].
+ACCESSION   WP_010708292
+VERSION     WP_010708292.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..387
+                     /product="glucuronyl hydrolase"
+                     /calculated_mol_wt=44424
+     Region          61..380
+                     /region_name="LanC_like"
+                     /note="Cyclases involved in the biosynthesis of
+                     lantibiotics, and similar proteins; cl04955"
+                     /db_xref="CDD:322884"
+ORIGIN      
+        1 mcsqenkqrl islgenvtde wiqtqlnecv skiaknmqrf gtqfpsacat ngryrlkand
+       61 dwtngfwtgm lwlayewshq ekfrllamen idsfqqrlee hfvldhhdig flyslsagag
+      121 ykitgderck qevlaaaevl sarfqengsf iqawghygdp keyrliidsl mnlpllfeat
+      181 klsgnrvyee iasrhyhtlm ktviksdatt yhtyyfdpet gkpkhgathq ghsdtsiwar
+      241 gqswailgip lnetflhsqp fpemypqive vflahlpadl ipywdfdfnd qmpsdkdssa
+      301 laiatcglle adklqafpqa kelakgmiyq lgeyyrtknd seneglllhg vyahaegkgi
+      361 depnlwgdyf ymealirlak pswqryw
+//
+
+

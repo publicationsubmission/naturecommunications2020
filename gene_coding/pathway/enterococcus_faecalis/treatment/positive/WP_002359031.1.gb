@@ -1,0 +1,53 @@
+LOCUS       WP_002359031             217 aa            linear   BCT 27-JUN-2018
+DEFINITION  bifunctional 4-hydroxy-2-oxoglutarate
+            aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase [Enterococcus
+            faecalis].
+ACCESSION   WP_002359031
+VERSION     WP_002359031.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10087408
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..217
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..217
+                     /product="bifunctional 4-hydroxy-2-oxoglutarate
+                     aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase"
+                     /calculated_mol_wt=23616
+     Region          14..200
+                     /region_name="KDPG_aldolase"
+                     /note="KDPG and KHG aldolase; cd00452"
+                     /db_xref="CDD:188632"
+     Site            order(22,47,51,74,134,136,162)
+                     /site_type="active"
+                     /db_xref="CDD:188632"
+     Site            order(51,74,76,95..98,118..121,123,127,136..137,149,
+                     153..154)
+                     /site_type="other"
+                     /note="intersubunit interface [polypeptide binding]"
+                     /db_xref="CDD:188632"
+     Site            134
+                     /site_type="active"
+                     /note="catalytic residue [active]"
+                     /db_xref="CDD:188632"
+ORIGIN      
+        1 metkveknql yqqlatckll plytatdlry lpqvesvlve nelpfievtf rsqlalpaik
+       61 qlaasgnliv gagtvrtlke aqeavangaq fivspaivpe vidfclanev pifpgtatpg
+      121 eiqralaygl rvvkffpadi ygglkaiksl sgpfydvqfl ptggidetnf ieyveaeevl
+      181 avggsfilse kmlqedeasa rqhvqslltk ikerqak
+//
+
+

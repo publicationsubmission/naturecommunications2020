@@ -1,0 +1,59 @@
+LOCUS       WP_086875057             844 aa            linear   BCT 12-APR-2019
+DEFINITION  M1 family metallopeptidase [Lactobacillus johnsonii].
+ACCESSION   WP_086875057
+VERSION     WP_086875057.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10176184
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..844
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..844
+                     /product="M1 family metallopeptidase"
+                     /calculated_mol_wt=95749
+     Region          14..442
+                     /region_name="M1_APN_2"
+                     /note="Peptidase M1 Aminopeptidase N family incudes
+                     tricorn interacting factor F3, Endoplasmic reticulum
+                     aminopeptidase 1 (ERAP1), Aminopeptidase Q (APQ); cd09601"
+                     /db_xref="CDD:189008"
+     Site            order(289,293,312)
+                     /site_type="other"
+                     /note="Zn binding site [ion binding]"
+                     /db_xref="CDD:189008"
+     Region          508..815
+                     /region_name="ERAP1_C"
+                     /note="ERAP1-like C-terminal domain; pfam11838"
+                     /db_xref="CDD:314669"
+ORIGIN      
+        1 mtevkrfyet fypehydiyl disrekkrfh gktvvigeaq eelvklnqky lkitsvrvdq
+       61 kkadfnyndk devinieagk vgkmkievdf egkltdtmmg iypsyyevdg ekkqligtqf
+      121 ettfarqafp cvdepeakat falaikfdek tgesiisnqp eekfkdgvhy fkptlrmssy
+      181 lvafvfgdmq rkltktksgv eigvfatrah qakeldfald iakrsieffe dfyetpyple
+      241 hsyqvalpdf sagamenwgc vtyreaylll dpdntslemk qlvatviahe lahqwfgdlv
+      301 tmkwwdnlwl nesfanmmey vaidalepnw kiwemfqtse vpaalqrdat dgvqsvhvmv
+      361 ndpaeidalf dsaivyakgs rmlvmvrall gdealreglk nyfaahkygn atgddlwkal
+      421 geasgldiga imhswleqpg ypvvnakved gklvltqkqf figegkevgr kwqiplnsny
+      481 aavpkimkde klvvgdyadl iadngvpfrl nvgnnsdfiv kydktllddi lnhideldav
+      541 dklqllqdfr llaegghmsy adivpllpkf adstspivnn alyrimttlr nfvtpdskee
+      601 kdlkklynll sekqvkrlgl lpkagesndd nltrpyvvaa slyagndeti nglhtiysen
+      661 sdnlegisad irsavlvnev knfgnmtlfd kllkkyqets daslkqdlca gitstkmpei
+      721 idaivddfen seiikpqdlr awyrnvlanp fgqeqawnwi rlewpwleat vggdmefatf
+      781 itvtanifht eerlnqfkdf fepkintpgl treikmdtkv ietkvnlvkk eqsavnaaia
+      841 kavd
+//
+
+

@@ -1,0 +1,40 @@
+LOCUS       WP_045903783             710 aa            linear   BCT 05-APR-2017
+DEFINITION  MULTISPECIES: protein translocase subunit SecDF [Clostridium].
+ACCESSION   WP_045903783
+VERSION     WP_045903783.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..710
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..710
+                     /product="protein translocase subunit SecDF"
+                     /calculated_mol_wt=77614
+     Region          9..710
+                     /region_name="PRK13024"
+                     /note="bifunctional preprotein translocase subunit
+                     SecD/SecF; Reviewed"
+                     /db_xref="CDD:237276"
+ORIGIN      
+        1 msynkrksnk gksviiftll ivviavlaya gsyglkvgny rfksfgetin kgldlqggvs
+       61 mleeiqankv dektvdrtie lismrvnkmg vsettvtreg qkririeipg kynakevids
+      121 vgktgelkfv gpdksiiltg kdvkdatayi nqednsptvg ldlneagakk fadatkkfig
+      181 qpiaiymdee eltkpvvqah itngkavitg sksieeakrq aniiksgalp vavkpvevrt
+      241 vgatlganal dlsvkagvvg vgivflfmil yyrvpgllad ialvlyivlv latfstikat
+      301 ltlsgiagfl ltigmavdan vliferiree lktgksiksa lesgyhrals sildsnttti
+      361 iagivlynlg sgavkgfalt lmigiilsmf taivvtrlll klgydmgiln slvcfrvkrg
+      421 knsmlkiiek tkiwfsisli iiltgmfflm kdglnygidf kggtvvqini gkdfkkeevd
+      481 qiikkhtsds vtnkvnntqi eirsnsltde einklfsdvk skyklkdqdl vsqqrigpsv
+      541 gkelkrkall aliianiaml iyvgirfefk falaailglv hdilitisvy aifklpvsss
+      601 fiaavltivg ysindtivif drirenqkkm rrkdvsevan isitqtmsrs intvlttlft
+      661 ivsvyifvps irdfafpliv givsgcyssi fissplwilf kksklgnksa
+//
+
+

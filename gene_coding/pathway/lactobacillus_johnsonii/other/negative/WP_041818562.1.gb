@@ -1,0 +1,46 @@
+LOCUS       WP_041818562             554 aa            linear   BCT 09-JUL-2017
+DEFINITION  amino acid permease [Lactobacillus johnsonii].
+ACCESSION   WP_041818562
+VERSION     WP_041818562.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024910.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13520.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..554
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..554
+                     /product="amino acid permease"
+                     /calculated_mol_wt=61089
+     Region          17..494
+                     /region_name="put_Glu_GABA_T"
+                     /note="putative glutamate/gamma-aminobutyrate antiporter;
+                     TIGR03813"
+                     /db_xref="CDD:163525"
+ORIGIN      
+        1 medakekekk svkqiyisil altlmnvtii agigndvqqa fyglssvtyf aigaicffip
+       61 talvaaelas gwsnrggifr wvgeglgkgw altcllilwf qtminfgmgm psyaatimfy
+      121 tpmydkavqf aqhpqhevli mtgfiilywv ltfvatkgvk afanvakygv ligtfiplal
+      181 miiltivwlc eghqpaipmt pkglipkwng mstlalaagv ffsytgidmn aahikqlkhp
+      241 ekdftkamfi smilvflifv vgtviiamvv penqinviyt lntvfrtlga tigipwlymv
+      301 lvwaglcnvl asvitnmagp sfmlgqaggs gflphwfqek nkhempahlm ytqiagmtii
+      361 aylvkllpnv egfvimltqt itvlylfyyi lmfttflklr ydqpnrpraf kvpggkfgaw
+      421 fvaglgllss ifgiilaiyp paqvkaevgs pvvyisvili lvavilgicf vmyqlskhhn
+      481 wvdptnkfap ftweieglkk pgkvssnvpt dimskdqnpm gmpikrpysp daqvstkvvk
+      541 aaednkltss dadn
+//
+
+

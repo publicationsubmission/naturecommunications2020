@@ -1,0 +1,47 @@
+LOCUS       WP_033058865             586 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: dihydroxyacetone kinase subunit DhaK [Clostridium].
+ACCESSION   WP_033058865
+VERSION     WP_033058865.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF011050.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK14481
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..586
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..586
+                     /gene="dhaK"
+     Protein         1..586
+                     /product="dihydroxyacetone kinase subunit DhaK"
+                     /EC_number="2.7.1.121"
+                     /calculated_mol_wt=63006
+     Region          1..586
+                     /region_name="PRK14479"
+                     /note="dihydroxyacetone kinase; Provisional"
+                     /db_xref="CDD:237723"
+ORIGIN      
+        1 mkkiinkpet vvmemcngia mahpelefvr kykimkkksi nknkvslisg ggsghepaha
+       61 gfigkgmlda avcgdvfasp sqiqvykaik atasekgtll iiknysgdim nfknaahlas
+      121 edgikvdyvk vdddiaveds lytvgrrgva gtvlvhklag aaaelglsle evksiaekai
+      181 anvrslgfal ssctvpakrt ptfqlgedei efgvgihgep givrekiasa delakkivds
+      241 ilkdmkidgs nneevallin gfgatplqel ylfnnsvtae lskrnikinr ifvgnymtsi
+      301 dmegasvsim kldkelkell skesdtpafk vsgpvepvey valesnndai kevtfdletc
+      361 dchseikdek itldnmiyii dkmseviian evhfceldsh agdgdfgmsv akgfkqlkre
+      421 wkhilkeddm nigkflnecs lvimehcgga sgpiwgsafr aagkkvgdkk elslsdfaem
+      481 mqaavkgiqs tgersfgrga vvgdktlida lvpcadlwse ssnnntsihe afqkgaaaav
+      541 kgakmteeiv armgragtvg ersigypdag ayglgvifte isnslk
+//
+
+

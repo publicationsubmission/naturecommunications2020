@@ -1,0 +1,41 @@
+LOCUS       WP_040108499             410 aa            linear   BCT 15-MAY-2017
+DEFINITION  MULTISPECIES: 2-hydroxyacyl-CoA dehydratase [Clostridium].
+ACCESSION   WP_040108499
+VERSION     WP_040108499.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10532756
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..410
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..410
+                     /product="2-hydroxyacyl-CoA dehydratase"
+                     /calculated_mol_wt=46427
+     Region          41..400
+                     /region_name="HGD-D"
+                     /note="2-hydroxyglutaryl-CoA dehydratase, D-component;
+                     pfam06050"
+                     /db_xref="CDD:310558"
+ORIGIN      
+        1 madkkddkkk aakvingila ksyadawkak eegrpvgwst svfpqelvet fgldvlypen
+       61 qaagvaakke slslceaaes agysidlcay artnfgllek ggsenlnmpk pdficccnni
+      121 cnqvikwyen iakeldipli midttfnned evtenrikyl raqfeeaikq lekisgkkfd
+      181 pkkfeevmki saengklwky smslpsgsfp spmngfdlft ymavivcyrg kketteafkl
+      241 liselednik nkatsfrgee kyrimmegip cwpyigykmr tlagygvnmt gsvyphawal
+      301 qyevndldgm akaystmfnn vnletmckyr idslidgncd gafyhmnrsc klmsfiqyem
+      361 erkvfeetgi pyagfdgdqa dprnfskaqf etrlqglvev meerkkggnk
+//
+
+

@@ -1,0 +1,355 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+149981712	RefSeq	NZ_CP029614.1	1284159	1285766	-	WP_086874539.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981712	RefSeq	NZ_MWIK01000001.1	83437	85044	+	WP_086874539.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981712	INSDC	CP029614.1	1284159	1285766	-	AYN49750.1	Lipid A export ATP-binding/permease protein MsbA	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149981712	INSDC	MWIK01000001.1	83437	85044	+	OUL55666.1	ABC transporter permease	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149981712	RefSeq	NZ_CP029614.1	1284159	1285766	-	WP_086874539.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981712	RefSeq	NZ_MWIK01000001.1	83437	85044	+	WP_086874539.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981712	INSDC	CP029614.1	1284159	1285766	-	AYN49750.1	Lipid A export ATP-binding/permease protein MsbA	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149981712	INSDC	MWIK01000001.1	83437	85044	+	OUL55666.1	ABC transporter permease	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149981046	RefSeq	NZ_CP029614.1	590991	592607	-	WP_086875056.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981046	RefSeq	NZ_MWIK01000029.1	129956	131572	-	WP_086875056.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981046	INSDC	CP029614.1	590991	592607	-	AYN49135.1	Putative multidrug export ATP-binding/permease protein	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149981046	INSDC	MWIK01000029.1	129956	131572	-	OUL53535.1	ABC transporter permease	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149980838	RefSeq	NZ_CABIWE010000020.1	26449	28029	+	WP_086875212.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii		GCF_902362355.1
+149980838	RefSeq	NZ_CP029614.1	1467717	1469297	-	WP_086875212.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149980838	RefSeq	NZ_MWIK01000043.1	73099	74679	+	WP_086875212.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149980838	RefSeq	NZ_SRYU01000035.1	1764	3344	-	WP_086875212.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	NM60_B2-8	GCF_004793575.1
+149980838	INSDC	MWIK01000043.1	73099	74679	+	OUL52901.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149980838	INSDC	SRYU01000035.1	1764	3344	-	TGY26954.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	NM60_B2-8	GCA_004793575.1
+149981437	RefSeq	NZ_CP029614.1	650482	652644	-	WP_086874732.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981437	RefSeq	NZ_MWIK01000017.1	345	2507	+	WP_086874732.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981437	INSDC	CP029614.1	650482	652644	-	AYN49194.1	Lactococcin-G-processing and transport ATP-binding protein LagD	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149981437	INSDC	MWIK01000017.1	345	2507	+	OUL54513.1	peptide ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149981141	RefSeq	NZ_CP029614.1	396490	398109	-	WP_086874932.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981141	RefSeq	NZ_MWIK01000026.1	20501	22120	-	WP_086874932.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981141	INSDC	CP029614.1	396490	398109	-	AYN48944.1	Lactococcin-G-processing and transport ATP-binding protein LagD	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149981141	INSDC	MWIK01000026.1	20501	22120	-	OUL53705.1	ABC transporter permease	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149981173	RefSeq	NZ_CP029614.1	357605	359182	+	WP_086874912.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981173	RefSeq	NZ_MWIK01000025.1	115370	116947	+	WP_086874912.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981173	INSDC	CP029614.1	357605	359182	+	AYN48910.1	putative ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149981173	INSDC	MWIK01000025.1	115370	116947	+	OUL53845.1	ABC transporter	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149980826	RefSeq	NZ_CP029614.1	1506147	1507877	+	WP_086875197.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149980826	RefSeq	NZ_MWIK01000043.1	34517	36247	-	WP_086875197.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149980826	INSDC	CP029614.1	1506147	1507877	+	AYN49928.1	putative ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149980826	INSDC	MWIK01000043.1	34517	36247	-	OUL52851.1	ABC transporter	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+197224021	RefSeq	NZ_CP029614.1	1400775	1402343	+	WP_113886650.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+197224021	INSDC	CP029614.1	1400775	1402343	+	AYN49843.1	Multidrug resistance-like ATP-binding protein MdlB	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+2012365	RefSeq	NC_005362.1	665125	667284	+	WP_011161709.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii NCC 533	NCC 533	GCF_000008065.1
+2012365	RefSeq	NZ_CP029614.1	656226	658385	-	WP_011161709.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+2012365	RefSeq	NZ_LIGY01000133.1	1867	4026	-	WP_011161709.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii 16	16	GCF_001270785.1
+2012365	RefSeq	NZ_MWIK01000015.1	3570	5729	+	WP_011161709.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+2012365	RefSeq	NZ_PHNP01000007.1	2937	5096	-	WP_011161709.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii	DPPM	GCF_002803395.1
+2012365	RefSeq	NZ_SPPI01000026.1	1999	4158	-	WP_011161709.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii	CC3	GCF_004569425.1
+2012365	INSDC	AE017198.1	665125	667284	+	AAS08586.1	lactacin F ABC transporter permease component	Lactobacillus johnsonii NCC 533	NCC 533	GCA_000008065.1
+2012365	INSDC	CP029614.1	656226	658385	-	AYN49202.1	Lactococcin-G-processing and transport ATP-binding protein LagD	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+2012365	INSDC	LIGY01000133.1	1867	4026	-	KOH01695.1	peptide ABC transporter ATP-binding protein	Lactobacillus johnsonii 16	16	GCA_001270785.1
+2012365	INSDC	MWIK01000015.1	3570	5729	+	OUL54551.1	bacteriocin cleavage/export ABC transporter	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+2012365	INSDC	PHNP01000007.1	2937	5096	-	PJN79119.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii	DPPM	GCA_002803395.1
+2012365	INSDC	SPPI01000026.1	1999	4158	-	TFU78757.1	peptide cleavage/export ABC transporter	Lactobacillus johnsonii	CC3	GCA_004569425.1
+17147560	RefSeq	NC_005362.1	711861	712043	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii NCC 533	NCC 533	GCF_000008065.1
+17147560	RefSeq	NC_017477.1	1439935	1440117	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii DPC 6026	DPC 6026	GCF_000204985.1
+17147560	RefSeq	NC_022909.1	1390410	1390592	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii N6.2	N6.2	GCF_000498675.1
+17147560	RefSeq	NZ_AZCY01000004.1	81728	81910	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCF_001433975.1
+17147560	RefSeq	NZ_CABIWE010000001.1	69819	70001	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii		GCF_902362355.1
+17147560	RefSeq	NZ_CP016400.1	735887	736069	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	BS15	GCF_001714745.1
+17147560	RefSeq	NZ_CP021703.1	599866	600048	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ21	GCF_002176855.1
+17147560	RefSeq	NZ_CP021704.1	1881893	1882075	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ22	GCF_002176835.1
+17147560	RefSeq	NZ_CP029614.1	1845529	1845711	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+17147560	RefSeq	NZ_CP031701.1	1800759	1800941	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	IDCC9203	GCF_003428395.1
+17147560	RefSeq	NZ_CP032680.1	1509964	1510146	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	ZLJ010	GCF_004011315.1
+17147560	RefSeq	NZ_GG670120.1	162368	162550	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCF_000159355.1
+17147560	RefSeq	NZ_LIGY01000047.1	10136	10318	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii 16	16	GCF_001270785.1
+17147560	RefSeq	NZ_LSNG01000036.1	49313	49495	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	W1	GCF_001572665.1
+17147560	RefSeq	NZ_MWIK01000030.1	2300	2482	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+17147560	RefSeq	NZ_NFJY01000001.1	160446	160628	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	An197	GCF_002160105.1
+17147560	RefSeq	NZ_NGOD01000043.1	34798	34980	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	117x	GCF_002253185.1
+17147560	RefSeq	NZ_NGOE01000012.1	109900	110082	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	117q	GCF_002253165.1
+17147560	RefSeq	NZ_NGOF01000033.1	109900	110082	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	117k	GCF_002253205.1
+17147560	RefSeq	NZ_NGOG01000022.1	109900	110082	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	117d	GCF_002253245.1
+17147560	RefSeq	NZ_NGOH01000055.1	34798	34980	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	117c	GCF_002253275.1
+17147560	RefSeq	NZ_NGOI01000033.1	109900	110082	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	117a	GCF_002253285.1
+17147560	RefSeq	NZ_NIBB01000015.1	14349	14531	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ54	GCF_002269975.1
+17147560	RefSeq	NZ_NIBC01000047.1	45183	45365	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ95	GCF_002270045.1
+17147560	RefSeq	NZ_PCYR01000005.1	42118	42300	-	WP_004893811.1	hypothetical protein	Lactobacillus sp. UMNPBX19	UMNPBX19	GCF_002553805.1
+17147560	RefSeq	NZ_PCZK01000044.1	11360	11542	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ94	GCF_002553695.1
+17147560	RefSeq	NZ_PHNP01000017.1	177182	177364	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	DPPM	GCF_002803395.1
+17147560	RefSeq	NZ_QFBA01000005.1	80775	80957	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	CRL1647	GCF_003122525.1
+17147560	RefSeq	NZ_QGQW01000001.1	1612222	1612404	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	LBJ456	GCF_007876425.1
+17147560	RefSeq	NZ_RRWU01000001.1	200801	200983	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	CH32	GCF_004010015.1
+17147560	RefSeq	NZ_SPPI01000006.1	83676	83858	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	CC3	GCF_004569425.1
+17147560	RefSeq	NZ_SRKQ01000002.1	385432	385614	-	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	Q1-7	GCF_004684975.1
+17147560	RefSeq	NZ_SRYU01000005.1	34722	34904	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	NM60_B2-8	GCF_004793575.1
+17147560	RefSeq	NZ_WBNZ01000002.1	125695	125877	+	WP_004893811.1	hypothetical protein	Lactobacillus johnsonii	BIO5467	GCF_008868555.1
+17147560	INSDC	CP006811.1	1390410	1390592	-	AHA97706.1	hypothetical protein	Lactobacillus johnsonii N6.2	N6.2	GCA_000498675.1
+17147560	INSDC	CP016400.1	735887	736069	-	AOG26009.1	hypothetical protein	Lactobacillus johnsonii	BS15	GCA_001714745.1
+17147560	INSDC	CP021703.1	599866	600048	+	ARW74622.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ21	GCA_002176855.1
+17147560	INSDC	CP021704.1	1881893	1882075	-	ARW77419.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ22	GCA_002176835.1
+17147560	INSDC	CP031701.1	1800759	1800941	+	AXQ20436.1	hypothetical protein	Lactobacillus johnsonii	IDCC9203	GCA_003428395.1
+17147560	INSDC	CP029614.1	1845529	1845711	+	AYN50216.1	hypothetical protein	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+17147560	INSDC	CP032680.1	1509964	1510146	-	AZZ67945.1	hypothetical protein	Lactobacillus johnsonii	ZLJ010	GCA_004011315.1
+17147560	INSDC	ACGR01000032.1	24477	24659	+	EEJ59966.1	hypothetical protein	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCA_000159355.1
+17147560	INSDC	GG670120.1	162368	162550	+	EEJ59966.1	hypothetical protein	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCA_000159355.1
+17147560	INSDC	AFQJ01000004.1	554259	554441	-	EGP12766.1	hypothetical protein	Lactobacillus johnsonii pf01	pf01	GCA_000219475.2
+17147560	INSDC	DOBV01000027.1	43953	44136	-	HBN37101.1	hypothetical protein	Lactobacillus johnsonii		GCA_003503615.1
+17147560	INSDC	WBNZ01000002.1	125695	125877	+	KAB1960096.1	hypothetical protein	Lactobacillus johnsonii	BIO5467	
+17147560	INSDC	LIGY01000047.1	10136	10318	+	KOH02578.1	hypothetical protein	Lactobacillus johnsonii 16	16	GCA_001270785.1
+17147560	INSDC	AZCY01000004.1	81728	81910	+	KRK55153.1	hypothetical protein	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCA_001433975.1
+17147560	INSDC	LSNG01000036.1	49313	49495	+	KXN75431.1	hypothetical protein	Lactobacillus johnsonii	W1	GCA_001572665.1
+17147560	INSDC	WKKC01000015.1	34715	34898	+	MTE03417.1	hypothetical protein	Lactobacillus johnsonii	LL8	
+17147560	INSDC	MWIK01000030.1	2300	2482	-	OUL53221.1	hypothetical protein	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+17147560	INSDC	NFJY01000001.1	160446	160628	+	OUP17337.1	hypothetical protein	Lactobacillus johnsonii	An197	GCA_002160105.1
+17147560	INSDC	NGOD01000043.1	34798	34980	+	OYS03089.1	hypothetical protein	Lactobacillus johnsonii	117x	GCA_002253185.1
+17147560	INSDC	NGOE01000012.1	109900	110082	-	OYS08251.1	hypothetical protein	Lactobacillus johnsonii	117q	GCA_002253165.1
+17147560	INSDC	NGOF01000033.1	109900	110082	-	OYS08442.1	hypothetical protein	Lactobacillus johnsonii	117k	GCA_002253205.1
+17147560	INSDC	NGOG01000022.1	109900	110082	-	OYS09531.1	hypothetical protein	Lactobacillus johnsonii	117d	GCA_002253245.1
+17147560	INSDC	NGOH01000055.1	34798	34980	+	OYS12710.1	hypothetical protein	Lactobacillus johnsonii	117c	GCA_002253275.1
+17147560	INSDC	NGOI01000033.1	109900	110082	-	OYS13076.1	hypothetical protein	Lactobacillus johnsonii	117a	GCA_002253285.1
+17147560	INSDC	NIBB01000015.1	14349	14531	+	PAB52965.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ54	GCA_002269975.1
+17147560	INSDC	NIBC01000047.1	45183	45365	+	PAB54696.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ95	GCA_002270045.1
+17147560	INSDC	PCZK01000044.1	11360	11542	-	PEG69285.1	hypothetical protein	Lactobacillus johnsonii	UMNLJ94	GCA_002553695.1
+17147560	INSDC	PCYR01000005.1	42118	42300	-	PEG77829.1	hypothetical protein	Lactobacillus sp. UMNPBX19	UMNPBX19	GCA_002553805.1
+17147560	INSDC	PHNP01000017.1	177182	177364	+	PJN78614.1	hypothetical protein	Lactobacillus johnsonii	DPPM	GCA_002803395.1
+17147560	INSDC	QFBA01000005.1	80775	80957	+	PWF23655.1	hypothetical protein	Lactobacillus johnsonii	CRL1647	GCA_003122525.1
+17147560	INSDC	SPPI01000006.1	83676	83858	+	TFU79980.1	hypothetical protein	Lactobacillus johnsonii	CC3	GCA_004569425.1
+17147560	INSDC	SRKQ01000002.1	385432	385614	-	TGA94218.1	hypothetical protein	Lactobacillus johnsonii	Q1-7	GCA_004684975.1
+17147560	INSDC	SRYU01000005.1	34722	34904	+	TGY31073.1	hypothetical protein	Lactobacillus johnsonii	NM60_B2-8	GCA_004793575.1
+17147560	INSDC	QGQW01000001.1	1612222	1612404	-	TWU80877.1	hypothetical protein	Lactobacillus johnsonii	LBJ456	
+149980959	RefSeq	NZ_CP029614.1	1739799	1740503	+	WP_086875101.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149980959	RefSeq	NZ_MWIK01000031.1	15095	15799	-	WP_086875101.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149980959	RefSeq	NZ_SPPI01000007.1	79924	80628	+	WP_086875101.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	CC3	GCF_004569425.1
+149980959	INSDC	CP029614.1	1739799	1740503	+	AYN50102.1	ABC transporter ATP-binding protein NatA	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149980959	INSDC	MWIK01000031.1	15095	15799	-	OUL53155.1	lantibiotic ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149980959	INSDC	SPPI01000007.1	79924	80628	+	TFU79862.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	CC3	GCA_004569425.1
+1903708	RefSeq	NC_005362.1	909010	910200	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii NCC 533	NCC 533	GCF_000008065.1
+1903708	RefSeq	NC_013504.1	1123842	1125032	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii FI9785	FI9785	GCF_000091405.1
+1903708	RefSeq	NC_017477.1	1240999	1242189	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii DPC 6026	DPC 6026	GCF_000204985.1
+1903708	RefSeq	NC_022909.1	1182226	1183416	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii N6.2	N6.2	GCF_000498675.1
+1903708	RefSeq	NZ_AZCY01000007.1	74383	75573	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCF_001433975.1
+1903708	RefSeq	NZ_CABIWE010000010.1	33655	34845	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii		GCF_902362355.1
+1903708	RefSeq	NZ_CP016400.1	544248	545438	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	BS15	GCF_001714745.1
+1903708	RefSeq	NZ_CP021703.1	814881	816071	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ21	GCF_002176855.1
+1903708	RefSeq	NZ_CP021704.1	1664065	1665255	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ22	GCF_002176835.1
+1903708	RefSeq	NZ_CP029614.1	91463	92653	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+1903708	RefSeq	NZ_CP031701.1	121624	122814	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	IDCC9203	GCF_003428395.1
+1903708	RefSeq	NZ_CP032680.1	1320508	1321698	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	ZLJ010	GCF_004011315.1
+1903708	RefSeq	NZ_GG670120.1	372303	373493	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCF_000159355.1
+1903708	RefSeq	NZ_LIGY01000045.1	10304	11494	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii 16	16	GCF_001270785.1
+1903708	RefSeq	NZ_LSNG01000036.1	238033	239223	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	W1	GCF_001572665.1
+1903708	RefSeq	NZ_MWIK01000024.1	87307	88497	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+1903708	RefSeq	NZ_NFJY01000017.1	19838	21028	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	An197	GCF_002160105.1
+1903708	RefSeq	NZ_NGOD01000011.1	95081	96271	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	117x	GCF_002253185.1
+1903708	RefSeq	NZ_NGOE01000009.1	20544	21734	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	117q	GCF_002253165.1
+1903708	RefSeq	NZ_NGOF01000011.1	179084	180274	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	117k	GCF_002253205.1
+1903708	RefSeq	NZ_NGOG01000044.1	44721	45911	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	117d	GCF_002253245.1
+1903708	RefSeq	NZ_NGOH01000088.1	95081	96271	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	117c	GCF_002253275.1
+1903708	RefSeq	NZ_NGOI01000011.1	175092	176282	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	117a	GCF_002253285.1
+1903708	RefSeq	NZ_NIBA01000019.1	5846	7036	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ50	GCF_002270005.1
+1903708	RefSeq	NZ_NIBB01000054.1	14298	15488	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ54	GCF_002269975.1
+1903708	RefSeq	NZ_NIBC01000063.1	16203	17393	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ95	GCF_002270045.1
+1903708	RefSeq	NZ_NIBD01000041.1	24574	25764	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ114	GCF_002269965.1
+1903708	RefSeq	NZ_PCYR01000001.1	26122	27312	-	WP_004894320.1	elongation factor Tu	Lactobacillus sp. UMNPBX19	UMNPBX19	GCF_002553805.1
+1903708	RefSeq	NZ_PCZJ01000043.1	5882	7072	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ113	GCF_002553705.1
+1903708	RefSeq	NZ_PCZK01000063.1	26627	27817	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ94	GCF_002553695.1
+1903708	RefSeq	NZ_PHNP01000014.1	99846	101036	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	DPPM	GCF_002803395.1
+1903708	RefSeq	NZ_QFBA01000006.1	93230	94420	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	CRL1647	GCF_003122525.1
+1903708	RefSeq	NZ_QGQW01000001.1	1418601	1419791	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	LBJ456	GCF_007876425.1
+1903708	RefSeq	NZ_RRWU01000001.1	415791	416981	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	CH32	GCF_004010015.1
+1903708	RefSeq	NZ_SPPI01000008.1	63955	65145	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	CC3	GCF_004569425.1
+1903708	RefSeq	NZ_SRKQ01000002.1	160437	161627	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	Q1-7	GCF_004684975.1
+1903708	RefSeq	NZ_SRYU01000029.1	20971	22161	+	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	NM60_B2-8	GCF_004793575.1
+1903708	RefSeq	NZ_WBNZ01000001.1	154543	155733	-	WP_004894320.1	elongation factor Tu	Lactobacillus johnsonii	BIO5467	GCF_008868555.1
+1903708	Swiss-Prot	N/A				Q74JU6.1	Elongation factor Tu	Lactobacillus johnsonii NCC 533		
+1903708	INSDC	AY372049.1	3693	4883	+	AAR25444.1	Tuf	Lactobacillus johnsonii	NCC 533	
+1903708	INSDC	AE017198.1	909010	910200	+	AAS08831.1	elongation factor Tu (EF-Tu)	Lactobacillus johnsonii NCC 533	NCC 533	GCA_000008065.1
+1903708	INSDC	CP002464.1	1240999	1242189	-	AEB93469.1	elongation factor Tu	Lactobacillus johnsonii DPC 6026	DPC 6026	GCA_000204985.1
+1903708	INSDC	CP006811.1	1182226	1183416	-	AHA97511.1	elongation factor Tu	Lactobacillus johnsonii N6.2	N6.2	GCA_000498675.1
+1903708	INSDC	CP016400.1	544248	545438	-	AOG25839.1	translation elongation factor Tu	Lactobacillus johnsonii	BS15	GCA_001714745.1
+1903708	INSDC	CP021703.1	814881	816071	+	ARW74822.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ21	GCA_002176855.1
+1903708	INSDC	CP021704.1	1664065	1665255	-	ARW77217.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ22	GCA_002176835.1
+1903708	INSDC	CP031701.1	121624	122814	+	AXQ19003.1	elongation factor Tu	Lactobacillus johnsonii	IDCC9203	GCA_003428395.1
+1903708	INSDC	CP029614.1	91463	92653	+	AYN48675.1	Elongation factor Tu	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+1903708	INSDC	CP032680.1	1320508	1321698	-	AZZ67762.1	elongation factor Tu	Lactobacillus johnsonii	ZLJ010	GCA_004011315.1
+1903708	INSDC	FN298497.1	1123842	1125032	-	CAX67058.1	translation elongation factor EF-Tu	Lactobacillus johnsonii FI9785	FI9785	GCA_000091405.1
+1903708	INSDC	ACGR01000036.1	82095	83285	+	EEJ59743.1	translation elongation factor Tu	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCA_000159355.1
+1903708	INSDC	GG670120.1	372303	373493	+	EEJ59743.1	translation elongation factor Tu	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCA_000159355.1
+1903708	INSDC	AFQJ01000004.1	354191	355381	-	EGP12563.1	translation elongation factor Tu	Lactobacillus johnsonii pf01	pf01	GCA_000219475.2
+1903708	INSDC	WBNZ01000001.1	154543	155733	-	KAB1960421.1	elongation factor Tu	Lactobacillus johnsonii	BIO5467	
+1903708	INSDC	LIGY01000045.1	10304	11494	-	KOH02669.1	elongation factor Tu	Lactobacillus johnsonii 16	16	GCA_001270785.1
+1903708	INSDC	AZCY01000007.1	74383	75573	-	KRK54493.1	elongation factor Tu	Lactobacillus johnsonii ATCC 33200	ATCC 33200	GCA_001433975.1
+1903708	INSDC	LSNG01000036.1	238033	239223	+	KXN75613.1	elongation factor Tu	Lactobacillus johnsonii	W1	GCA_001572665.1
+1903708	INSDC	WKKC01000010.1	87241	88432	+	MTE02963.1	elongation factor Tu	Lactobacillus johnsonii	LL8	
+1903708	INSDC	MWIK01000024.1	87307	88497	+	OUL53975.1	translation elongation factor Tu	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+1903708	INSDC	NFJY01000017.1	19838	21028	-	OUP14657.1	elongation factor Tu	Lactobacillus johnsonii	An197	GCA_002160105.1
+1903708	INSDC	NGOD01000011.1	95081	96271	+	OYS05022.1	elongation factor Tu	Lactobacillus johnsonii	117x	GCA_002253185.1
+1903708	INSDC	NGOG01000044.1	44721	45911	-	OYS08029.1	elongation factor Tu	Lactobacillus johnsonii	117d	GCA_002253245.1
+1903708	INSDC	NGOE01000009.1	20544	21734	-	OYS08598.1	elongation factor Tu	Lactobacillus johnsonii	117q	GCA_002253165.1
+1903708	INSDC	NGOF01000011.1	179084	180274	-	OYS09789.1	elongation factor Tu	Lactobacillus johnsonii	117k	GCA_002253205.1
+1903708	INSDC	NGOH01000088.1	95081	96271	+	OYS11659.1	elongation factor Tu	Lactobacillus johnsonii	117c	GCA_002253275.1
+1903708	INSDC	NGOI01000011.1	175092	176282	-	OYS14187.1	elongation factor Tu	Lactobacillus johnsonii	117a	GCA_002253285.1
+1903708	INSDC	NIBA01000019.1	5846	7036	+	PAB49223.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ50	GCA_002270005.1
+1903708	INSDC	NIBB01000054.1	14298	15488	-	PAB52207.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ54	GCA_002269975.1
+1903708	INSDC	NIBC01000063.1	16203	17393	+	PAB54096.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ95	GCA_002270045.1
+1903708	INSDC	NIBD01000041.1	24574	25764	-	PAB54444.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ114	GCA_002269965.1
+1903708	INSDC	PCZJ01000043.1	5882	7072	+	PEG67106.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ113	GCA_002553705.1
+1903708	INSDC	PCZK01000063.1	26627	27817	-	PEG69000.1	elongation factor Tu	Lactobacillus johnsonii	UMNLJ94	GCA_002553695.1
+1903708	INSDC	PCYR01000001.1	26122	27312	-	PEG78182.1	elongation factor Tu	Lactobacillus sp. UMNPBX19	UMNPBX19	GCA_002553805.1
+1903708	INSDC	PHNP01000014.1	99846	101036	+	PJN78786.1	elongation factor Tu	Lactobacillus johnsonii	DPPM	GCA_002803395.1
+1903708	INSDC	QFBA01000006.1	93230	94420	+	PWF23447.1	elongation factor Tu	Lactobacillus johnsonii	CRL1647	GCA_003122525.1
+1903708	INSDC	SPPI01000008.1	63955	65145	+	TFU79756.1	elongation factor Tu	Lactobacillus johnsonii	CC3	GCA_004569425.1
+1903708	INSDC	SRKQ01000002.1	160437	161627	-	TGA93991.1	elongation factor Tu	Lactobacillus johnsonii	Q1-7	GCA_004684975.1
+1903708	INSDC	SRYU01000029.1	20971	22161	+	TGY27189.1	elongation factor Tu	Lactobacillus johnsonii	NM60_B2-8	GCA_004793575.1
+1903708	INSDC	QGQW01000001.1	1418601	1419791	-	TWU80684.1	Elongation factor Tu	Lactobacillus johnsonii	LBJ456	
+45779718	RefSeq	NC_022909.1	751714	752724	+	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii N6.2	N6.2	GCF_000498675.1
+45779718	RefSeq	NZ_CABIWE010000006.1	17062	18072	+	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii		GCF_902362355.1
+45779718	RefSeq	NZ_CP029614.1	539241	540251	-	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+45779718	RefSeq	NZ_CP032680.1	777699	778709	+	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	ZLJ010	GCF_004011315.1
+45779718	RefSeq	NZ_LSNG01000031.1	119295	120305	-	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	W1	GCF_001572665.1
+45779718	RefSeq	NZ_MWIK01000029.1	78197	79207	-	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+45779718	RefSeq	NZ_PHNP01000011.1	25019	26029	-	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	DPPM	GCF_002803395.1
+45779718	RefSeq	NZ_QGQW01000001.1	988490	989500	+	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LBJ456	GCF_007876425.1
+45779718	RefSeq	NZ_SPPI01000002.1	106327	107337	+	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	CC3	GCF_004569425.1
+45779718	RefSeq	NZ_SRKQ01000001.1	420251	421261	-	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Q1-7	GCF_004684975.1
+45779718	RefSeq	NZ_SRYU01000019.1	25081	26091	-	WP_023599461.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	NM60_B2-8	GCF_004793575.1
+45779718	INSDC	CP006811.1	751714	752724	+	AHA97159.1	peptide ABC transporter ATPase	Lactobacillus johnsonii N6.2	N6.2	GCA_000498675.1
+45779718	INSDC	CP029614.1	539241	540251	-	AYN49078.1	Oligopeptide transport ATP-binding protein OppD	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+45779718	INSDC	CP032680.1	777699	778709	+	AZZ67287.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	ZLJ010	GCA_004011315.1
+45779718	INSDC	LSNG01000031.1	119295	120305	-	KXN76049.1	dipeptide/oligopeptide/nickel ABC transporter ATP-binding protein	Lactobacillus johnsonii	W1	GCA_001572665.1
+45779718	INSDC	MWIK01000029.1	78197	79207	-	OUL53483.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+45779718	INSDC	PHNP01000011.1	25019	26029	-	PJN78965.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	DPPM	GCA_002803395.1
+45779718	INSDC	SPPI01000002.1	106327	107337	+	TFU80560.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	CC3	GCA_004569425.1
+45779718	INSDC	SRKQ01000001.1	420251	421261	-	TGA94880.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Q1-7	GCA_004684975.1
+45779718	INSDC	SRYU01000019.1	25081	26091	-	TGY28516.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	NM60_B2-8	GCA_004793575.1
+45779718	INSDC	QGQW01000001.1	988490	989500	+	TWU80301.1	Oligopeptide transport ATP-binding protein OppD	Lactobacillus johnsonii	LBJ456	
+149980993	RefSeq	NZ_CP029614.1	489917	491428	-	WP_086875023.1	ABC-F type ribosomal protection protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149980993	RefSeq	NZ_MWIK01000029.1	28872	30383	-	WP_086875023.1	ABC-F type ribosomal protection protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149980993	INSDC	CP029614.1	489917	491428	-	AYN49034.1	Energy-dependent translational throttle protein EttA	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149980993	INSDC	MWIK01000029.1	28872	30383	-	OUL53442.1	ABC-F type ribosomal protection protein	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149981581	RefSeq	NZ_CP029614.1	832276	834201	+	WP_086874672.1	ABC-F family ATP-binding cassette domain-containing protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981581	RefSeq	NZ_MWIK01000010.1	60525	62450	-	WP_086874672.1	ABC-F family ATP-binding cassette domain-containing protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981581	INSDC	CP029614.1	832276	834201	+	AYN49349.1	Energy-dependent translational throttle protein EttA	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149981581	INSDC	MWIK01000010.1	60525	62450	-	OUL54879.1	ABC transporter	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+197224038	RefSeq	NZ_CP029614.1	1597447	1602096	-	WP_113886670.1	YSIRK-type signal peptide-containing protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+197224038	INSDC	CP029614.1	1597447	1602096	-	AYN50002.1	Levansucrase	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+197224038	RefSeq	NZ_CP029614.1	1597447	1602096	-	WP_113886670.1	YSIRK-type signal peptide-containing protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+197224038	INSDC	CP029614.1	1597447	1602096	-	AYN50002.1	Levansucrase	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+197224038	RefSeq	NZ_CP029614.1	1597447	1602096	-	WP_113886670.1	YSIRK-type signal peptide-containing protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+197224038	INSDC	CP029614.1	1597447	1602096	-	AYN50002.1	Levansucrase	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+197224038	RefSeq	NZ_CP029614.1	1597447	1602096	-	WP_113886670.1	YSIRK-type signal peptide-containing protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+197224038	INSDC	CP029614.1	1597447	1602096	-	AYN50002.1	Levansucrase	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+197223922	RefSeq	NZ_CP029614.1	1253072	1257841	-	WP_113886636.1	LPXTG cell wall anchor domain-containing protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+197223922	INSDC	CP029614.1	1253072	1257841	-	AYN49729.1	hypothetical protein	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+197224051	RefSeq	NZ_CP029614.1	1389259	1391598	-	WP_113886648.1	ABC transporter ATP-binding protein/permease	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+197224051	INSDC	CP029614.1	1389259	1391598	-	AYN49830.1	putative ABC transporter ATP-binding protein YknY	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+23068741	RefSeq	NC_017477.1	977817	979760	+	WP_014567430.1	M13 family metallopeptidase	Lactobacillus johnsonii DPC 6026	DPC 6026	GCF_000204985.1
+23068741	RefSeq	NZ_CP016400.1	240116	242059	+	WP_014567430.1	M13 family metallopeptidase	Lactobacillus johnsonii	BS15	GCF_001714745.1
+23068741	RefSeq	NZ_CP029614.1	363962	365905	-	WP_014567430.1	M13 family metallopeptidase	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+23068741	RefSeq	NZ_MWIK01000025.1	128153	130096	-	WP_014567430.1	M13 family metallopeptidase	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+23068741	INSDC	CP002464.1	977817	979760	+	AEB93238.1	neutral endopeptidase	Lactobacillus johnsonii DPC 6026	DPC 6026	GCA_000204985.1
+23068741	INSDC	CP016400.1	240116	242059	+	AOG25597.1	peptidase M13	Lactobacillus johnsonii	BS15	GCA_001714745.1
+23068741	INSDC	CP029614.1	363962	365905	-	AYN48915.1	Neutral endopeptidase	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+23068741	INSDC	MWIK01000025.1	128153	130096	-	OUL53855.1	peptidase M13	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149981717	RefSeq	NZ_CP029614.1	1335515	1336858	-	WP_086874527.1	MFS transporter	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981717	RefSeq	NZ_MWIK01000001.1	32345	33688	+	WP_086874527.1	MFS transporter	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981717	INSDC	MWIK01000001.1	32345	33688	+	OUL55626.1	MFS transporter	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+23068563	RefSeq	NC_017477.1	738515	740194	+	WP_014567293.1	DNA repair protein RecN	Lactobacillus johnsonii DPC 6026	DPC 6026	GCF_000204985.1
+23068563	RefSeq	NZ_CP016400.1	2069068	2070747	+	WP_014567293.1	DNA repair protein RecN	Lactobacillus johnsonii	BS15	GCF_001714745.1
+23068563	RefSeq	NZ_CP029614.1	557248	558927	-	WP_014567293.1	DNA repair protein RecN	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+23068563	RefSeq	NZ_CP032680.1	759024	760703	+	WP_014567293.1	DNA repair protein RecN	Lactobacillus johnsonii	ZLJ010	GCF_004011315.1
+23068563	RefSeq	NZ_MWIK01000029.1	96203	97882	-	WP_014567293.1	DNA repair protein RecN	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+23068563	RefSeq	NZ_SRYU01000010.1	147	1826	-	WP_014567293.1	DNA repair protein RecN	Lactobacillus johnsonii	NM60_B2-8	GCF_004793575.1
+23068563	INSDC	CP002464.1	738515	740194	+	AEB93006.1	DNA repair protein RecN	Lactobacillus johnsonii DPC 6026	DPC 6026	GCA_000204985.1
+23068563	INSDC	CP016400.1	2069068	2070747	+	AOG27059.1	DNA repair protein RecN	Lactobacillus johnsonii	BS15	GCA_001714745.1
+23068563	INSDC	CP029614.1	557248	558927	-	AYN49096.1	DNA repair protein RecN	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+23068563	INSDC	CP032680.1	759024	760703	+	AZZ67269.1	DNA repair protein RecN	Lactobacillus johnsonii	ZLJ010	GCA_004011315.1
+23068563	INSDC	WKKC01000006.1	99502	101182	+	MTE02621.1	DNA repair protein RecN	Lactobacillus johnsonii	LL8	
+23068563	INSDC	MWIK01000029.1	96203	97882	-	OUL53501.1	DNA repair protein RecN	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+23068563	INSDC	SRYU01000010.1	147	1826	-	TGY30645.1	DNA repair protein RecN	Lactobacillus johnsonii	NM60_B2-8	GCA_004793575.1
+149980942	RefSeq	NZ_CP029614.1	1681846	1682703	+	WP_086875132.1	aldo/keto reductase	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149980942	RefSeq	NZ_MWIK01000035.1	2224	3081	-	WP_086875132.1	aldo/keto reductase	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149980942	INSDC	CP029614.1	1681846	1682703	+	AYN50054.1	putative oxidoreductase	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149980942	INSDC	MWIK01000035.1	2224	3081	-	OUL53068.1	2,5-diketo-D-gluconic acid reductase	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+197223957	RefSeq	NZ_CP029614.1	773073	775892	+	WP_113886603.1	penicillin-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+197223957	INSDC	CP029614.1	773073	775892	+	AYN49307.1	Penicillin-binding protein 1F	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+117235963	RefSeq	NZ_CP016400.1	1306541	1308559	-	WP_069168780.1	hypothetical protein	Lactobacillus johnsonii	BS15	GCF_001714745.1
+117235963	RefSeq	NZ_CP029614.1	1297679	1299697	+	WP_069168780.1	hypothetical protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+117235963	RefSeq	NZ_MWIK01000001.1	69506	71524	-	WP_069168780.1	hypothetical protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+117235963	INSDC	CP016400.1	1306541	1308559	-	AOG26425.1	hypothetical protein	Lactobacillus johnsonii	BS15	GCA_001714745.1
+117235963	INSDC	CP029614.1	1297679	1299697	+	AYN49762.1	hypothetical protein	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+117235963	INSDC	WKKC01000007.1	32559	34578	-	MTE02690.1	hypothetical protein	Lactobacillus johnsonii	LL8	
+117235963	INSDC	MWIK01000001.1	69506	71524	-	OUL55655.1	hypothetical protein	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+149981420	RefSeq	NZ_CP029614.1	617161	618471	+	WP_086874749.1	amino acid permease	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+149981420	RefSeq	NZ_MWIK01000018.1	13581	14891	-	WP_086874749.1	amino acid permease	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+149981420	INSDC	CP029614.1	617161	618471	+	AYN49157.1	Serine/threonine exchanger SteT	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+149981420	INSDC	MWIK01000018.1	13581	14891	-	OUL54448.1	amino acid permease	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+23068813	RefSeq	NC_017477.1	1077555	1079306	-	WP_014567493.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii DPC 6026	DPC 6026	GCF_000204985.1
+23068813	RefSeq	NZ_CP029614.1	271316	273067	+	WP_014567493.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+23068813	RefSeq	NZ_MWIK01000025.1	30550	32301	+	WP_014567493.1	ABC transporter ATP-binding protein	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+23068813	INSDC	CP002464.1	1077555	1079306	-	AEB93326.1	ABC transporter ATPase and permease components	Lactobacillus johnsonii DPC 6026	DPC 6026	GCA_000204985.1
+23068813	INSDC	CP029614.1	271316	273067	+	AYN48830.1	Multidrug resistance ABC transporter ATP-binding and permease protein	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+23068813	INSDC	MWIK01000025.1	30550	32301	+	OUL53773.1	multidrug ABC transporter permease	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+2012389	RefSeq	NC_005362.1	984149	985918	+	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii NCC 533	NCC 533	GCF_000008065.1
+2012389	RefSeq	NC_017477.1	1170259	1172028	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii DPC 6026	DPC 6026	GCF_000204985.1
+2012389	RefSeq	NC_022909.1	1116345	1118114	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii N6.2	N6.2	GCF_000498675.1
+2012389	RefSeq	NZ_CP016400.1	474065	475834	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	BS15	GCF_001714745.1
+2012389	RefSeq	NZ_CP029614.1	168887	170656	+	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+2012389	RefSeq	NZ_CP032680.1	1239021	1240790	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	ZLJ010	GCF_004011315.1
+2012389	RefSeq	NZ_LIGY01000030.1	21366	23135	+	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii 16	16	GCF_001270785.1
+2012389	RefSeq	NZ_LSNG01000006.1	14872	16641	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	W1	GCF_001572665.1
+2012389	RefSeq	NZ_MWIK01000024.1	164768	166537	+	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+2012389	RefSeq	NZ_NGOD01000011.1	180033	181802	+	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	117x	GCF_002253185.1
+2012389	RefSeq	NZ_NGOE01000034.1	89562	91331	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	117q	GCF_002253165.1
+2012389	RefSeq	NZ_NGOF01000011.1	93553	95322	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	117k	GCF_002253205.1
+2012389	RefSeq	NZ_NGOG01000055.1	93553	95322	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	117d	GCF_002253245.1
+2012389	RefSeq	NZ_NGOH01000027.1	13772	15541	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	117c	GCF_002253275.1
+2012389	RefSeq	NZ_NGOI01000011.1	89562	91331	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	117a	GCF_002253285.1
+2012389	RefSeq	NZ_PHNP01000019.1	54950	56719	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	DPPM	GCF_002803395.1
+2012389	RefSeq	NZ_QGQW01000001.1	1355129	1356898	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	LBJ456	GCF_007876425.1
+2012389	RefSeq	NZ_RRWU01000001.1	498539	500308	+	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	CH32	GCF_004010015.1
+2012389	RefSeq	NZ_SPPI01000021.1	17231	19000	-	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	CC3	GCF_004569425.1
+2012389	RefSeq	NZ_SRYU01000001.1	41409	43178	+	WP_004897452.1	pyruvate kinase	Lactobacillus johnsonii	NM60_B2-8	GCF_004793575.1
+2012389	INSDC	AE017198.1	984149	985918	+	AAS08902.1	pyruvate kinase	Lactobacillus johnsonii NCC 533	NCC 533	GCA_000008065.1
+2012389	INSDC	CP002464.1	1170259	1172028	-	AEB93407.1	pyruvate kinase	Lactobacillus johnsonii DPC 6026	DPC 6026	GCA_000204985.1
+2012389	INSDC	CP006811.1	1116345	1118114	-	AHA97461.1	pyruvate kinase	Lactobacillus johnsonii N6.2	N6.2	GCA_000498675.1
+2012389	INSDC	CP016400.1	474065	475834	-	AOG25780.1	pyruvate kinase	Lactobacillus johnsonii	BS15	GCA_001714745.1
+2012389	INSDC	CP029614.1	168887	170656	+	AYN48748.1	Pyruvate kinase	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+2012389	INSDC	CP032680.1	1239021	1240790	-	AZZ67684.1	pyruvate kinase	Lactobacillus johnsonii	ZLJ010	GCA_004011315.1
+2012389	INSDC	AFQJ01000004.1	275740	277509	-	EGP12483.1	pyruvate kinase	Lactobacillus johnsonii pf01	pf01	GCA_000219475.2
+2012389	INSDC	DOBV01000032.1	21817	23587	+	HBN37235.1	pyruvate kinase	Lactobacillus johnsonii		GCA_003503615.1
+2012389	INSDC	LIGY01000030.1	21366	23135	+	KOH02888.1	pyruvate kinase	Lactobacillus johnsonii 16	16	GCA_001270785.1
+2012389	INSDC	LSNG01000006.1	14872	16641	-	KXN76754.1	pyruvate kinase	Lactobacillus johnsonii	W1	GCA_001572665.1
+2012389	INSDC	WKKC01000035.1	26008	27778	+	MTE04012.1	pyruvate kinase	Lactobacillus johnsonii	LL8	
+2012389	INSDC	MWIK01000024.1	164768	166537	+	OUL54043.1	pyruvate kinase	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+2012389	INSDC	NGOD01000011.1	180033	181802	+	OYS05093.1	pyruvate kinase	Lactobacillus johnsonii	117x	GCA_002253185.1
+2012389	INSDC	NGOE01000034.1	89562	91331	-	OYS07198.1	pyruvate kinase	Lactobacillus johnsonii	117q	GCA_002253165.1
+2012389	INSDC	NGOG01000055.1	93553	95322	-	OYS07564.1	pyruvate kinase	Lactobacillus johnsonii	117d	GCA_002253245.1
+2012389	INSDC	NGOF01000011.1	93553	95322	-	OYS09718.1	pyruvate kinase	Lactobacillus johnsonii	117k	GCA_002253205.1
+2012389	INSDC	NGOI01000011.1	89562	91331	-	OYS14116.1	pyruvate kinase	Lactobacillus johnsonii	117a	GCA_002253285.1
+2012389	INSDC	NGOH01000027.1	13772	15541	-	OYS14994.1	pyruvate kinase	Lactobacillus johnsonii	117c	GCA_002253275.1
+2012389	INSDC	PHNP01000019.1	54950	56719	-	PJN78255.1	pyruvate kinase	Lactobacillus johnsonii	DPPM	GCA_002803395.1
+2012389	INSDC	SPPI01000021.1	17231	19000	-	TFU78851.1	pyruvate kinase	Lactobacillus johnsonii	CC3	GCA_004569425.1
+2012389	INSDC	SRYU01000001.1	41409	43178	+	TGY31551.1	pyruvate kinase	Lactobacillus johnsonii	NM60_B2-8	GCA_004793575.1
+2012389	INSDC	QGQW01000001.1	1355129	1356898	-	TWU80621.1	Pyruvate kinase	Lactobacillus johnsonii	LBJ456	
+2012389	PAT	N/A				AGX58136.1	Sequence 16585 from patent US 8541208	Unknown		
+2012389	PAT	XM_013440228.1	1	1	+	AKW54631.1	Sequence 7453 from patent US 8952217	Unknown		
+2012389	PAT	N/A				AKW56589.1	Sequence 11349 from patent US 8952217	Unknown		
+2012389	PAT	XM_013450791.1	1	1	+	AKW67851.1	Sequence 33585 from patent US 8952217	Unknown		
+2012389	PAT	N/A				AKW73479.1	Sequence 44728 from patent US 8952217	Unknown		
+2012389	PAT	N/A				APN63213.1	Sequence 19578 from patent US 9315822	Unknown		
+2012389	PAT	N/A				AZJ86536.1	Sequence 19578 from patent US 10093943	Unknown		
+2012389	PAT	HB883909.1	1	1770	+	CBF66171.1	unnamed protein product	Lactobacillus johnsonii		
+2012389	PAT	HC897300.1	1	1770	+	CBN63060.1	unnamed protein product	Lactobacillus johnsonii		
+2012389	PAT	HC901196.1	1	1770	+	CBN65060.1	unnamed protein product	Lactobacillus johnsonii		
+2012389	PAT	HC941318.1	1	1770	+	CBU91044.1	unnamed protein product	Lactobacillus johnsonii		
+23068237	RefSeq	NC_017477.1	221637	222098	+	WP_004898668.1	transcription elongation factor GreA	Lactobacillus johnsonii DPC 6026	DPC 6026	GCF_000204985.1
+23068237	RefSeq	NZ_CP029614.1	1100337	1100798	-	WP_004898668.1	transcription elongation factor GreA	Lactobacillus johnsonii	Byun-jo-01	GCF_003316915.1
+23068237	RefSeq	NZ_CP032680.1	200592	201053	+	WP_004898668.1	transcription elongation factor GreA	Lactobacillus johnsonii	ZLJ010	GCF_004011315.1
+23068237	RefSeq	NZ_MWIK01000003.1	125893	126354	+	WP_004898668.1	transcription elongation factor GreA	Lactobacillus johnsonii	LJ0	GCF_002156645.1
+23068237	RefSeq	NZ_SRKQ01000003.1	182546	183007	+	WP_004898668.1	transcription elongation factor GreA	Lactobacillus johnsonii	Q1-7	GCF_004684975.1
+23068237	INSDC	CP002464.1	221637	222098	+	AEB92525.1	transcription elongation factor GreA	Lactobacillus johnsonii DPC 6026	DPC 6026	GCA_000204985.1
+23068237	INSDC	CP029614.1	1100337	1100798	-	AYN49591.1	Transcription elongation factor GreA	Lactobacillus johnsonii	Byun-jo-01	GCA_003316915.1
+23068237	INSDC	CP032680.1	200592	201053	+	AZZ66746.1	transcription elongation factor GreA	Lactobacillus johnsonii	ZLJ010	GCA_004011315.1
+23068237	INSDC	AFQJ01000004.1	1256322	1256783	+	EGP13428.1	transcription elongation factor GreA	Lactobacillus johnsonii pf01	pf01	GCA_000219475.2
+23068237	INSDC	WKKC01000013.1	103917	104379	+	MTE03156.1	transcription elongation factor GreA	Lactobacillus johnsonii	LL8	
+23068237	INSDC	MWIK01000003.1	125893	126354	+	OUL55491.1	transcription elongation factor GreA	Lactobacillus johnsonii	LJ0	GCA_002156645.1
+23068237	INSDC	SRKQ01000003.1	182546	183007	+	TGA93362.1	transcription elongation factor GreA	Lactobacillus johnsonii	Q1-7	GCA_004684975.1

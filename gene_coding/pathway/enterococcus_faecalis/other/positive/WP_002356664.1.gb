@@ -1,0 +1,64 @@
+LOCUS       WP_002356664             348 aa            linear   BCT 02-JUN-2019
+DEFINITION  MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase
+            complex transferase subunit TsaD [Enterococcus].
+ACCESSION   WP_002356664
+VERSION     WP_002356664.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+REFERENCE   1  (residues 1 to 348)
+  AUTHORS   Deutsch,C., El Yacoubi,B., de Crecy-Lagard,V. and Iwata-Reuyl,D.
+  TITLE     Biosynthesis of threonylcarbamoyl adenosine (t6A), a universal tRNA
+            nucleoside
+  JOURNAL   J. Biol. Chem. 287 (17), 13666-13673 (2012)
+   PUBMED   22378793
+REFERENCE   2  (residues 1 to 348)
+  AUTHORS   Zheng,L., Yu,C., Bayles,K., Lasa,I. and Ji,Y.
+  TITLE     Conditional mutation of an essential putative glycoprotease
+            eliminates autolysis in Staphylococcus aureus
+  JOURNAL   J. Bacteriol. 189 (7), 2734-2742 (2007)
+   PUBMED   17237169
+REFERENCE   3  (residues 1 to 348)
+  AUTHORS   Abdullah,K.M., Lo,R.Y. and Mellors,A.
+  TITLE     Cloning, nucleotide sequence, and expression of the Pasteurella
+            haemolytica A1 glycoprotease gene
+  JOURNAL   J. Bacteriol. 173 (18), 5597-5603 (1991)
+   PUBMED   1885539
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR03723.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR03723
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..348
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     gene            1..348
+                     /gene="tsaD"
+     Protein         1..348
+                     /product="tRNA
+                     (adenosine(37)-N6)-threonylcarbamoyltransferase complex
+                     transferase subunit TsaD"
+                     /EC_number="2.3.1.234"
+                     /calculated_mol_wt=37235
+     Region          10..345
+                     /region_name="PRK09604"
+                     /note="UGMP family protein; Validated"
+                     /db_xref="CDD:236585"
+ORIGIN      
+        1 mtiftkerkl llavesscde tsvaviedgd kilsnivasq ikshqrfggv vpevasrhhv
+       61 eqvticieea lteakvtpee lsgvavtygp glvgalligl saakafawah qlplipvnhm
+      121 aghiyaarfv aplefplmal lvsgghtelv ymkedgsfei vgetrddaag eaydkvgrvl
+      181 glpypsgkei dalahegtdt yqfpramlke dnydfsfsgl ksafintvhn aeqrgevlst
+      241 kdlaasfqas vvevlvtkti racqeypvkq lliaggvaan qglreamrha iseqlpavtl
+      301 lipplklcgd naamigaaaf ieaeknhfas ynlnaepgvs fmtiseeg
+//
+
+

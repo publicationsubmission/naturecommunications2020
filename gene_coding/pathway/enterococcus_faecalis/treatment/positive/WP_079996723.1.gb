@@ -1,0 +1,40 @@
+LOCUS       WP_079996723             702 aa            linear   BCT 22-MAR-2017
+DEFINITION  mannonate oxidoreductase [Enterococcus faecalis].
+ACCESSION   WP_079996723
+VERSION     WP_079996723.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..702
+                     /product="mannonate oxidoreductase"
+                     /calculated_mol_wt=80275
+     Region          66..>576
+                     /region_name="MutS_III"
+                     /note="MutS domain III; cl27055"
+                     /db_xref="CDD:331876"
+ORIGIN      
+        1 mvclesdtcq sshllnasfk rgffsnlypm ikrtavercp lfsietgfyl kapgilfmie
+       61 rkkkqmnhet iqklqfttil kevqtraige yskerlakmv patrletvqs rltettearl
+      121 iidsgqhvpf mglsqitrll hqvkkglilt pnelievadf lrssqriqkf feknqyqtpr
+      181 lfsysqhlad fraieeqiyt kihnqkvatd asrqlrkirr qinecqqeie tkvtkflrnk
+      241 nnqlyiqenm mvkkgehytv pikasyknkv sgtiieqsnk gqtvfiepva isklneqltl
+      301 lkaeetaeey qilaeltgli neqerlvdqa vdtmttldii fargkysrei ggitpkvnke
+      361 erlrivqgkh plllehavpl tfslgaeyrg lvitganagg ktvvlktvgl ltvmtqfglq
+      421 ipaqagteip vldeifvdig dqqnlenals tfsghmknia emlrnvkrht lvlldeigsg
+      481 tepnegagla iaimetmyqk galvvatthy geikrfaqeh ddfvpaamaf dretltpkyq
+      541 lkigevgdsq alwiarkmkm epqliekaah yiqrkeyptn rslfkplkak ettfatfvee
+      601 tdryqkgdrv lltetqqigl vftdegeqei qvfvndkien vprrrlklqa kaqdlypqdy
+      661 dleslftdfh erkklkdier gskkaqkqlr keaekraarr dk
+//
+
+

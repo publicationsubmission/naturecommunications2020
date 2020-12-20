@@ -1,0 +1,43 @@
+LOCUS       WP_003492760             258 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: iron transporter FeoB [Clostridium].
+ACCESSION   WP_003492760
+VERSION     WP_003492760.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..258
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..258
+                     /product="iron transporter FeoB"
+                     /calculated_mol_wt=28633
+     Region          <4..>50
+                     /region_name="YlqF_related_GTPase"
+                     /note="Circularly permuted YlqF-related GTPases; cl25406"
+                     /db_xref="CDD:330227"
+     Site            7..9
+                     /site_type="other"
+                     /note="G5 box"
+                     /db_xref="CDD:206746"
+     Region          28..180
+                     /region_name="FeoB_N"
+                     /note="Ferrous iron transport protein B; pfam02421"
+                     /db_xref="CDD:308172"
+     Site            33..40
+                     /site_type="other"
+                     /note="G1 box"
+                     /db_xref="CDD:206746"
+ORIGIN      
+        1 mgltytsgkk ealkdlfnve kdnkndivva lagnpntgks tvfnaltglh qhtgnwpgkt
+       61 vtnaqgkynh kerdfivvdl pgtysllass veeqvardfi cfgkpdvvvv vvdatsvern
+      121 lnlllqilei tpkvvvslnl mdeakkkeik idvnklrsel gvpvvptiar snkgiyelkd
+      181 niynlalgki ktnpvkveys neieceikki syllekvfpr eislqwlalr lldgdesiln
+      241 siskylnydm ksalikgd
+//
+
+

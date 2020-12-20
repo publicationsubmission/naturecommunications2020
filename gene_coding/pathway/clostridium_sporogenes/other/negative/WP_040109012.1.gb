@@ -1,0 +1,66 @@
+LOCUS       WP_040109012            1171 aa            linear   BCT 10-JUN-2016
+DEFINITION  MULTISPECIES: cell wall-binding repeat 2 family protein
+            [Clostridium].
+ACCESSION   WP_040109012
+VERSION     WP_040109012.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1171
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..1171
+                     /product="cell wall-binding repeat 2 family protein"
+                     /calculated_mol_wt=122384
+     Region          35..127
+                     /region_name="CW_binding_2"
+                     /note="Putative cell wall binding repeat 2; pfam04122"
+                     /db_xref="CDD:309306"
+     Region          141..228
+                     /region_name="CW_binding_2"
+                     /note="Putative cell wall binding repeat 2; pfam04122"
+                     /db_xref="CDD:309306"
+     Region          237..327
+                     /region_name="CW_binding_2"
+                     /note="Putative cell wall binding repeat 2; pfam04122"
+                     /db_xref="CDD:309306"
+     Region          <343..553
+                     /region_name="COG4223"
+                     /note="Uncharacterized conserved protein [Function
+                     unknown]"
+                     /db_xref="CDD:226676"
+     Region          <347..>412
+                     /region_name="CR6_interact"
+                     /note="Growth arrest and DNA-damage-inducible
+                     proteins-interacting protein 1; pfam10147"
+                     /db_xref="CDD:313387"
+ORIGIN      
+        1 mkktskalas taalclvlst ssvfaaenta vaperlsgan rvdtavkiae ksfneawkgq
+       61 gnailsaaad anlvdslava plsyqlkapi llndakdsin adtlkalkan nvktvyiatg
+      121 egvisnkaka qlekegfkve rlggknryet aknildtfkk nggdtknval vsgngladal
+      181 svapeaarkg mpilltdgkd avaanlaeva kaadtvyaig gngiisdalv qqlkadrvsg
+      241 hsryetnaav ikkfagdkef skiylgngqd ghlvdsltgs vlaaqsgspi vladknlada
+      301 tkdalkgkvs dqtgvvalgg eavvsdnlvk evtnianesp eyvaaekavk ayedakitta
+      361 eeitaakalk apavkaieav kdqaqkdaln ariaakdkai eeaeaklgfk vesvnainat
+      421 qvevkfntai dkndidgkvk idgltftsav lsedgkvltl tanaaidvkn atvvvdpikt
+      481 kadanvktek yvglfnykde vaptivsvea ktngtvatem tvkvsepvkt galakvdgsy
+      541 vsidfagkdk atikgvslda gkahtlelin ledlagnkvv stsanfnvsv dsvaptatit
+      601 aqgdkeilvt fnksmdedsv kaalangsvk dealanvttd avkvvpdtes kqfvisitep
+      661 nifankdsri ftvvlpktik dklgnefvat tqkvtltkdt vkpvatgysv vkdsdgkvka
+      721 ieitfseglk aandnavafg svvdengvld tktfvdfksk aivagdkkvv fesaaakein
+      781 gkyaisfgkd lvsdlaeten ksdafnytid fgktetettf elektklpsa vnnvitvtfq
+      841 eavkggavag satdlanytl agkplpagtt itldetqkva tiklpaesie kddkaaiftv
+      901 aniknvagik tlktytgtvd vkdnvnpqlk sakvvdnkti iltydedmne ldkakvgkef
+      961 eikegqevkq lkdeelqask vegfknqikl tvskttggna eipealptal tldggltigf
+     1021 eagtganlng tkfvlgtiad gttttvtyde atktftingd fdnttnsgma nvgeiqqalr
+     1081 satgapdaak yitvtgtvte fkstptekev sggvtyvpgs agtsealdlt kdltikalvd
+     1141 dkkdgstidi tdlagngqka sdkaititva k
+//
+
+

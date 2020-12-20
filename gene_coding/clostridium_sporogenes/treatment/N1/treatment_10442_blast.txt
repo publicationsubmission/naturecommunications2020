@@ -1,0 +1,15 @@
+# BLASTX 2.4.0+
+# Query: Sample:N1,Pos:10442 <unknown description>
+# Database: User specified sequence set (Input: clostridium_sporogenes_protein.faa)
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+Sample:N1,Pos:10442	WP_033061272.1	37.500	48	25	2	36	176	375	418	0.016	28.1
+Sample:N1,Pos:10442	WP_003493087.1	28.571	35	25	0	96	200	37	71	0.47	23.5
+Sample:N1,Pos:10442	WP_003401983.1	44.000	25	13	1	54	125	7	31	0.66	23.5
+Sample:N1,Pos:10442	WP_040109502.1	25.926	54	37	1	27	188	261	311	1.4	22.3
+Sample:N1,Pos:10442	WP_003482909.1	30.000	60	36	3	24	188	104	162	2.4	21.9
+Sample:N1,Pos:10442	WP_003491112.1	42.857	21	12	0	6	68	5	25	3.1	21.6
+Sample:N1,Pos:10442	WP_003495501.1	50.000	14	7	0	170	129	450	463	5.8	20.8
+Sample:N1,Pos:10442	WP_003496774.1	70.000	10	3	0	129	158	93	102	6.5	20.8
+Sample:N1,Pos:10442	WP_003490394.1	45.000	20	11	0	66	125	130	149	8.8	20.4
+# BLAST processed 1 queries

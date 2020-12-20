@@ -1,0 +1,43 @@
+LOCUS       WP_086874749             436 aa            linear   BCT 12-JAN-2018
+DEFINITION  amino acid permease [Lactobacillus johnsonii].
+ACCESSION   WP_086874749
+VERSION     WP_086874749.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024910.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13520.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..436
+                     /product="amino acid permease"
+                     /calculated_mol_wt=47399
+     Region          1..428
+                     /region_name="AA_permease_2"
+                     /note="Amino acid permease; cl26159"
+                     /db_xref="CDD:330980"
+ORIGIN      
+        1 mkrqisfgqa latvvgtvig ggvffkigsi shetgtsslt lfvwilagiv siasgltvse
+       61 iaaalpvtgg sikyieytyg kiwgflfgwa qmlvyfpani aalsvifgqq fvvlfnlpak
+      121 yatligllla iflmglnfis tkfstrmqsv mtilkaipia livifglfns skvdinlfpl
+      181 saghntsfwt glsggllaal faydgwinvt nlageiekpe knlsraiiig lsaitliyvl
+      241 vnyafltalp fkeiignqnt aylaslklfg slggklvtig ilisvygain gfmltgmrip
+      301 ytlaqnkmlp fsdkisrtnv ntgvptlsal iilfvslimi llgtfdlltn mlvfvmwtft
+      361 tlisiavvil ryrepklerp yvvpwypivp iisiggglfi vistvinefw lsitgigltl
+      421 lglpiyyymk kqnnrq
+//
+
+

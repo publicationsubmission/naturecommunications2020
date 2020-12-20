@@ -1,0 +1,49 @@
+LOCUS       WP_077143653             402 aa            linear   BCT 09-FEB-2017
+DEFINITION  peptidase M23 [Enterococcus faecalis].
+ACCESSION   WP_077143653
+VERSION     WP_077143653.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..402
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..402
+                     /product="peptidase M23"
+                     /calculated_mol_wt=43265
+     Region          9..224
+                     /region_name="CwlO1"
+                     /note="Uncharacterized N-terminal domain of peptidoglycan
+                     hydrolase CwlO [Function unknown]; COG3883"
+                     /db_xref="CDD:226400"
+     Region          307..401
+                     /region_name="3D"
+                     /note="3D (Asp-Asp-Asp) domain [Function unknown];
+                     COG3584"
+                     /db_xref="CDD:226112"
+     Site            order(345,369..371,393..394)
+                     /site_type="other"
+                     /note="putative ligand binding site [chemical binding]"
+                     /db_xref="CDD:270620"
+     Site            order(347,369,380)
+                     /site_type="active"
+                     /note="active site aspartates [active]"
+                     /db_xref="CDD:270620"
+ORIGIN      
+        1 mkvkklipfl ttmmlinfgl pvaaaaesld slqekeaqak qsgeliskei nsalddvnak
+       61 yaeierlktq iskaedtlkt skeeiektek nisrrkeavg drmkdiqlng dqrtwqalld
+      121 aenlsdffnr ayamtvlqnf erekieslts ekeklaalqe kventqttlk qneeklqvea
+      181 ssmnnkvsel kakmadneel laqistdkqk eqqrlvseka aaeaqkkraa etakaeaakk
+      241 qaaadkqaqa daaakleaea aeesssqass sststessst essssassse sssttesstg
+      301 esstpgtgsg rvlqmestay swreagasnl satgidlskq snvvavdpsv iplgslvkvs
+      361 gygfaiagdt ggaiqgniid vhfdsvdqcr lwgrrqvtve iq
+//
+
+

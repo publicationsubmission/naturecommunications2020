@@ -1,0 +1,39 @@
+LOCUS       WP_040108634             184 aa            linear   BCT 04-JUL-2017
+DEFINITION  MULTISPECIES: PhzF family phenazine biosynthesis protein
+            [Clostridium].
+ACCESSION   WP_040108634
+VERSION     WP_040108634.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11417635
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..184
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..184
+                     /product="PhzF family phenazine biosynthesis protein"
+                     /calculated_mol_wt=20823
+     Region          1..>106
+                     /region_name="YHI9"
+                     /note="Predicted epimerase YddE/YHI9, PhzF superfamily
+                     [General function prediction only]; COG0384"
+                     /db_xref="CDD:223461"
+ORIGIN      
+        1 mniyqvntft nkvflgnsig vcllnepaek dymknvalel nlsetiflck etdgyktnif
+       61 spkgelclcv ksilaashil wqeglideke hikfycredv letklntdfi eikipltlek
+      121 klcllhnfsk alkieedlti dyleslkeqk tyikgnskfk iklegeniil sgsaitvivg
+      181 dlii
+//
+
+

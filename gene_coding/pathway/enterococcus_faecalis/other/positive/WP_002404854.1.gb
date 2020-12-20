@@ -1,0 +1,52 @@
+LOCUS       WP_002404854             869 aa            linear   BCT 27-JUL-2019
+DEFINITION  ATP-dependent RecD-like DNA helicase [Enterococcus faecalis].
+ACCESSION   WP_002404854
+VERSION     WP_002404854.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01448.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01448
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..869
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..869
+                     /product="ATP-dependent RecD-like DNA helicase"
+                     /calculated_mol_wt=97746
+     Region          14..748
+                     /region_name="RecD"
+                     /note="ATP-dependent exoDNAse (exonuclease V), alpha
+                     subunit, helicase superfamily I [Replication,
+                     recombination and repair]; cl26262"
+                     /db_xref="CDD:331083"
+ORIGIN      
+        1 mvtlfgedee kafivgtvqa iffenpsnfy kvvlvnvtdt ntdylekeiv vtgsfgqvqe
+       61 eepyrffghf vdhprygrqf qvdsyqqerp tsasgvvnyl ssdkfpgigk rtaekivevl
+      121 gesaidriid dpsvleevtv lnekkrqviv etirlnhgme qvivglnryg fgsqlafsiy
+      181 qtyqeetlsv iqenpyqlve diegvgfkra dniaeqigiq adsavriraa ilhevfehsi
+      241 rsgntyvqad vlleeairtl easrpveisp dqvaneiitl vehgkiqqee tklfenslyf
+      301 sewgigtsiq rllsrkkeih yeeeevqkni rmiekrlniq ygdsqqaaie eaiksplfil
+      361 tggpgtgktt vingivslfa elnglsldlk dytqemfpil laaptgraak rmnettglpa
+      421 stihrllglt greknpslta kelegglliv demsmvdtwl antllkaipt nmqvifvgdk
+      481 dqlpsvgpgq vlhdllqine ipkcelneiy rqgdgssiip laheikegkl padfqknqkd
+      541 rsffasdigh ieeyirqivt kakakgftpq diqvlapmyr gaagidalnk mmqeifnpnd
+      601 gkkkevkwnd tvyrigdkvl qlvntpelnv fngdmgeivg itlakdsedk vdelvlqfdn
+      661 nevtykrnew nkitlsyccs ihkaqgsefr mvllpmvhqy srmlqrnlly tavtrskell
+      721 illgevsafe tcvknesasr mtmlkerivn aeqmtlttrt qleayeeglt adhpfteket
+      781 kavsyeteqq stkadqiket deqlvdttvq evslfadege estpetanka tkvveeslpk
+      841 eprltveiiq tnavdpmigm kdttpyqfm
+//
+
+

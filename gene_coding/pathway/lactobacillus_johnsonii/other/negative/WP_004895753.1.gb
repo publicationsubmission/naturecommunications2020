@@ -1,0 +1,43 @@
+LOCUS       WP_004895753             183 aa            linear   BCT 19-JUN-2019
+DEFINITION  MULTISPECIES: transcription termination/antitermination protein
+            NusG [Lactobacillus].
+ACCESSION   WP_004895753
+VERSION     WP_004895753.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF004115.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05609
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..183
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     gene            1..183
+                     /gene="nusG"
+     Protein         1..183
+                     /product="transcription termination/antitermination
+                     protein NusG"
+                     /calculated_mol_wt=20665
+     Region          3..182
+                     /region_name="nusG"
+                     /note="transcription antitermination protein NusG;
+                     Validated; PRK05609"
+                     /db_xref="CDD:180161"
+ORIGIN      
+        1 mvetsekkwy vlhtysgyee kvkkdllsra qsmgmqnyif rvivpeeqkt etvrgkkqev
+       61 dekvfpgyvl vemvmtdesw yvvrntpnvt gfvgshgggs kpsplyddei erilasqgqp
+      121 akepkadyev getvtiidga fsgmsgkite inpekdklyv sidmfgretn aeldynqvke
+      181 fdq
+//
+
+

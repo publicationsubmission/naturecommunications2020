@@ -1,0 +1,48 @@
+LOCUS       WP_086874525             699 aa            linear   BCT 02-FEB-2018
+DEFINITION  putative ornithine decarboxylase [Lactobacillus johnsonii].
+ACCESSION   WP_086874525
+VERSION     WP_086874525.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR04318.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR04318
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..699
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..699
+                     /product="putative ornithine decarboxylase"
+                     /calculated_mol_wt=79079
+     Region          1..696
+                     /region_name="OKR_DC_1_C"
+                     /note="Orn/Lys/Arg decarboxylase, C-terminal domain;
+                     cl27246"
+                     /db_xref="CDD:332067"
+ORIGIN      
+        1 mnflkialsn qlknndfnsw qttnlndktq aselaaivva etdksslkta qdlqkksglg
+       61 ipiikvshet isnneknqii daanqytaem vpgfltdlvn faedrpvnft tpghhnglyy
+      121 ekhpagvvfn rffgknlmfa dtsdtvpelg dtmthegtpl taeqkaaety hadkvyfctn
+      181 gttsansica nalltkddlv lfdrnnhksl ynsalvmtga kpvyiptdrn algligemdp
+      241 dflseekira eiakvdpeka kakrpfrlai iqsetydglf ydakwmidki gklcdyilfd
+      301 cawggfeqfv pimnhlspln ldfgpedpgi lvtqslhkqq agmgqasqil kkdahikgqk
+      361 ryvdhkhfnh aylkfvtssy syplyasltv nsyltsgegn kkwwdqilrl giewrkelir
+      421 ksklfkplvi dnfenistde latnekywnl dstnlwhgfs kiasgqamid plkitvvtpg
+      481 idvknakyee tgipgpvvae flmekriira kddlysllfl ltpgdtkael aillnaflef
+      541 eqyynedapl ekvlpkltkv ygarykgytl kqlcqemhey yrgnntftlq qelfakpdmq
+      601 nyqmtpehad ylfmknesel vnledvkdri aaegalpypp gvfivapgek wsdidqkyfe
+      661 vlvgaierfp gfvpeiqgvy wdqksdgkir vqaevlkek
+//
+
+

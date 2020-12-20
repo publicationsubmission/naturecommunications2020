@@ -1,0 +1,46 @@
+LOCUS       WP_002359190             590 aa            linear   BCT 19-JUN-2019
+DEFINITION  oleate hydratase [Enterococcus faecalis].
+ACCESSION   WP_002359190
+VERSION     WP_002359190.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF010584.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK13977
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..590
+                     /product="oleate hydratase"
+                     /EC_number="4.2.1.53"
+                     /calculated_mol_wt=67685
+     Region          1..590
+                     /region_name="PRK13977"
+                     /note="myosin-cross-reactive antigen; Provisional"
+                     /db_xref="CDD:237575"
+ORIGIN      
+        1 mrytngnyea farprkpkgv ddksayivgg glaglatavf lirdgqmkge nihifeeltl
+       61 sggsldgkfi phdgfvtrgg remenhfecl wdlfrsvpsl evedasvlde fyrldlddpn
+      121 ssncriihnr gervpddgqf tlskkaqkei vdlfmtsedq ligkkiedvf geeffesnfw
+      181 iywcsmfafe kwhsaiemrr yimrfihhik glpdftalkf tkynqyeslv kpllsfltnq
+      241 gvdfqyetti ndiqvdikga tkvarrlllt qagktkeipl tendlvfvtn gsitesstqg
+      301 dhhtpapith elggswnlwk nlakqspefg hpevfcenlp deswfvsati twenfdiepy
+      361 lsrlthrklr tgkivtggii tikdsnwmms famhrqphfk eqndqqsitw vygllsnkpg
+      421 nyikkpieqc tgqeitkell yhlgvpegei eriseesatt ipvympfits yfmlrepgdr
+      481 plvvpngskn lafignfadt erdtvfttey svrtameavy qllevergvp evfasaydlr
+      541 vlansvyyls dkkkltemdm pfverkmveh fvkkfedtyi gdilrenhli
+//
+
+

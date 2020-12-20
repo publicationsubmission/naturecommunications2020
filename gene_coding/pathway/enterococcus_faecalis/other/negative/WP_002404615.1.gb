@@ -1,0 +1,66 @@
+LOCUS       WP_002404615             713 aa            linear   BCT 04-JUL-2017
+DEFINITION  glycosyltransferase family 2 protein [Enterococcus faecalis].
+ACCESSION   WP_002404615
+VERSION     WP_002404615.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10135485
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..713
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..713
+                     /product="glycosyltransferase family 2 protein"
+                     /calculated_mol_wt=81145
+     Region          180..383
+                     /region_name="GT2_RfbC_Mx_like"
+                     /note="Myxococcus xanthus RfbC like proteins are required
+                     for O-antigen biosynthesis; cd04184"
+                     /db_xref="CDD:133027"
+     Site            order(218,271..272,355)
+                     /site_type="other"
+                     /note="Probable Catalytic site"
+                     /db_xref="CDD:133027"
+     Site            order(272,355,357)
+                     /site_type="metal-binding"
+                     /db_xref="CDD:133027"
+     Region          442..660
+                     /region_name="GT_2_like_c"
+                     /note="Subfamily of Glycosyltransferase Family GT2 of
+                     unknown function; cd04186"
+                     /db_xref="CDD:133029"
+     Site            order(476,530..531)
+                     /site_type="other"
+                     /note="Probable Catalytic site"
+                     /db_xref="CDD:133029"
+     Site            order(531,634,636)
+                     /site_type="metal-binding"
+                     /db_xref="CDD:133029"
+ORIGIN      
+        1 mnedikvifd siyrdkttnn ltitgwaldt itkesptfti nnenqvsayn iqrvlredvn
+       61 qiyqtkpaie agfvvtlegi kqkkvlpfhf qssahvvtvd fplnkkypvi pgtedkvtrl
+      121 wikakkgfky makngishti qrakieklrn qasypnwlar nevldieamt qeiatfhyqp
+      181 kisiampvyn veekwlrlci dsilnqvytn welcmaddas tdpnvkkilt eyqqlderir
+      241 vvfreqnghi seatnsalti atgefvalld nddelainaf yevvkvlnen peldliysde
+      301 dkidmdgnrs dpafkpdwsp dlllgtnyis hlgvyrrsil eeiggfrkgy egsqdydlvl
+      361 rftekttker ithipkvlyy wrmlptstav dqgskgyafe aglravqdal vrrginghat
+      421 hgaanglydv yydieseklv siiiptkngy kdvqrcvssi iekttyqnye iimadngstd
+      481 pkmhelyaef eqqlpgrffv esidipfnfs tinnraakka hgeyllflnn dtevitenwl
+      541 tlmvsfaqqe rigcvgakll ypnntvqhag vilglggvag hghygyphgd lgyfgrlain
+      601 vnysavtaac llmkkadfda vggfeeaftv afndvdlclk vqalgrdnvw lheaelyhfe
+      661 sqtrgyddkg kkkkrfeqek vmmeekwgpl iendpfynpn ltrdipnfsl rid
+//
+
+

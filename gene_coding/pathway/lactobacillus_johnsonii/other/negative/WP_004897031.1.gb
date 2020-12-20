@@ -1,0 +1,40 @@
+LOCUS       WP_004897031             221 aa            linear   BCT 02-DEC-2018
+DEFINITION  response regulator transcription factor [Lactobacillus johnsonii].
+ACCESSION   WP_004897031
+VERSION     WP_004897031.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11433066
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..221
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..221
+                     /product="response regulator transcription factor"
+                     /calculated_mol_wt=24833
+     Region          1..200
+                     /region_name="OmpR"
+                     /note="DNA-binding response regulator, OmpR family,
+                     contains REC and winged-helix (wHTH) domain [Signal
+                     transduction mechanisms, Transcription]; COG0745"
+                     /db_xref="CDD:223816"
+ORIGIN      
+        1 mkillaedee qlsrvlvaam qsvnyevdpv fngrdavela rknsydviil dimmpvmdgi
+       61 talkeirksg dktyvlmlta kaevddrvtg ldsgaddylt kpfslkella rlrskerrdd
+      121 qytpnevevg dlalnvaeqe lvshnsirlg sketqllnyl mlnegkefst sdllahvwkd
+      181 deeasedvvw iyisylrqkl qsiqssvqiv gekggsfsli r
+//
+
+

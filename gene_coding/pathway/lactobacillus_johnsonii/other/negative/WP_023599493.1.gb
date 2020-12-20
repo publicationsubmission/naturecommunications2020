@@ -1,0 +1,48 @@
+LOCUS       WP_023599493             502 aa            linear   BCT 30-MAY-2019
+DEFINITION  glutamate/gamma-aminobutyrate family transporter YjeM
+            [Lactobacillus johnsonii].
+ACCESSION   WP_023599493
+VERSION     WP_023599493.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF011775.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK15238
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..502
+                     /gene="yjeM"
+     Protein         1..502
+                     /product="glutamate/gamma-aminobutyrate family transporter
+                     YjeM"
+                     /calculated_mol_wt=54630
+     Region          1..494
+                     /region_name="PRK15238"
+                     /note="inner membrane transporter YjeM; Provisional"
+                     /db_xref="CDD:237929"
+ORIGIN      
+        1 mkkdksvkig lkslvlmifs aifgfsnslt ayyqmgyasi vwyiitailf flpsalifae
+       61 ygaafkgvkg gifswlkgsv sektafigtf iwlaawvvwl vsstqfflvs vstaisghdt
+      121 tqswhflnlt stqllgilev vflvvvtffa akgvdkiaav snvggfftla itigftlvsi
+      181 lvfflnhgkl aepltaqslv hspnpafqsp iavvsfivya lfaygglets agvidsvdkp
+      241 ektfpkalit amiwmtalyv lnilmcgvaa nwssqlsgkn vdlanveyvl innlgvetgk
+      301 afglshsasl algsafsrfa gladvlagis aaflmvyspv ksfiegcdpk llpkslvkln
+      361 rhgmpersmw lqavivsvii lfisfggnaa gqfytilmdm mnvsssapyl fligaypffk
+      421 mkkdidrpfi fiegkkrvwa vtivvwlvva vgivftciep lftgdyatsf wtaigpvafg
+      481 viawiyysyq erktvtvvde ee
+//
+
+

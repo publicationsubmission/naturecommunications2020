@@ -1,0 +1,57 @@
+LOCUS       WP_002362548             453 aa            linear   BCT 04-OCT-2019
+DEFINITION  MULTISPECIES: magnesium transporter [Bacilli].
+ACCESSION   WP_002362548
+VERSION     WP_002362548.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+REFERENCE   1  (residues 1 to 453)
+  AUTHORS   Smith,R.L. and Maguire,M.E.
+  TITLE     Microbial magnesium transport: unusual transporters searching for
+            identity
+  JOURNAL   Mol. Microbiol. 28 (2), 217-226 (1998)
+   PUBMED   9622348
+REFERENCE   2  (residues 1 to 453)
+  AUTHORS   Smith,R.L., Thompson,L.J. and Maguire,M.E.
+  TITLE     Cloning and characterization of MgtE, a putative new class of Mg2+
+            transporter from Bacillus firmus OF4
+  JOURNAL   J. Bacteriol. 177 (5), 1233-1238 (1995)
+   PUBMED   7868596
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00400.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR00400
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..453
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     gene            1..453
+                     /gene="mgtE"
+     Protein         1..453
+                     /product="magnesium transporter"
+                     /calculated_mol_wt=50189
+     Region          4..452
+                     /region_name="MgtE"
+                     /note="Mg/Co/Ni transporter MgtE (contains CBS domain)
+                     [Inorganic ion transport and metabolism]; COG2239"
+                     /db_xref="CDD:225148"
+ORIGIN      
+        1 mnegqemeeq fallletlkn qqmnefrelf lalhiyeqgq fyqsldekdr qhlynylspk
+       61 eladmfdvie ednenmkdyl aemrpsyaad mlaemytdna vdllnmldks qkakylslls
+      121 seeageikel lhyedetaga imttefvsiv anqtvrsamy vlknqadmae tiyyvyvvdq
+      181 enhlvgvisl rdlivndddt liadilnerv isvhvgddqe dvaqtirdyd flavpvtdyd
+      241 dhllgivtvd diidviddea asdysglagv dveevsenpl kaaskrlpwl itllflgmst
+      301 aslisnyesl vseasilavf islitgtagn agtqslavav rrlamkdekd snfgrlilse
+      361 vltglvtgav tgltimivvg vwqhnlplgf vigmamlcai tvanlagsli pmlmdklgfd
+      421 pavasgpfit tlsdltsvli yfniasmfmr yfv
+//
+
+

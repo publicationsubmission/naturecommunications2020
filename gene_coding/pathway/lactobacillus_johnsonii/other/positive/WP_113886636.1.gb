@@ -1,0 +1,79 @@
+LOCUS       WP_113886636            1589 aa            linear   BCT 04-OCT-2019
+DEFINITION  LPXTG cell wall anchor domain-containing protein [Lactobacillus
+            johnsonii].
+ACCESSION   WP_113886636
+VERSION     WP_113886636.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (residues 1 to 1589)
+  AUTHORS   Novick,R.P.
+  TITLE     Sortase: the surface protein anchoring transpeptidase and the LPXTG
+            motif
+  JOURNAL   Trends Microbiol. 8 (4), 148-151 (2000)
+   PUBMED   10754567
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01167.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01167
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1589
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..1589
+                     /product="LPXTG cell wall anchor domain-containing
+                     protein"
+                     /calculated_mol_wt=171011
+     Region          109..>399
+                     /region_name="Flagellin_C"
+                     /note="Bacterial flagellin C-terminal helical region;
+                     cl28143"
+                     /db_xref="CDD:332964"
+     Region          <1321..1423
+                     /region_name="PRK00708"
+                     /note="sec-independent translocase; Provisional; cl26677"
+                     /db_xref="CDD:331498"
+     Region          1551..1586
+                     /region_name="LPXTG_anchor"
+                     /note="LPXTG-motif cell wall anchor domain; TIGR01167"
+                     /db_xref="CDD:273478"
+ORIGIN      
+        1 mlsknnyqer lrkmddkqev fqsvnflsva asvlvgtavl tmqnvqtara dttsntttkt
+       61 tdlsseaeeq nkqnaydktl neaqpttkpa dapvesqdsk vasfsvpkne gtfvektltp
+      121 niteeteamq dkaelaqvns edksaennkt nvkeesqtve enqmdkrsae anisdtentl
+      181 vsnttlnvpk ttpattrfsa talseskfqv naprvgqdtp dtqvkknnyk lvtnatalqq
+      241 aintgvagvn idrsidasnv dlairntfti vglndaaaln lgqkslnnsg nltlqdikin
+      301 gsisgsgtvn ikgnvtsnvn stnssvptqd qynaqnytgs rtnfknsnia arnvnienga
+      361 sltinssein dginladggt vkvgdnatln vnltntstta tryhvagvfa knggnfisgy
+      421 ksnvnfntgl gqaiaigatr ptstdadryg gygtrsrndg ptlvqlgdss tfnftgrdgi
+      481 ilgnnanfis gensnvhfen kgrgvaldla nnsnieiskh sitsfhsvgk tgtsgsfdgy
+      541 nyigvneggn itvdeyatfr vilegrgdnp wddvisldsr nantnaafts ktgaivdird
+      601 dntnfyaeli sfplgsansr idiqdplmln lqrysnggat tgwmatggdk inttsaqyta
+      661 nliymsgnkg vfsvsggdyd psnpnssgfv vyqqiksdgs kqiwlnvnsv dipmngfqtk
+      721 diwnnqanpd vsiagnglta gikanqvhnf dgspltgpna pyygistqra shqiwiphrt
+      781 slevtgehks tikyvdengk eifpentqsl dmkrslildi tqdkiqdiqn yalshtadet
+      841 leyiknsqav vqdsgwdftd angkavidpy stidspklag yaatiqstnv stlkvgadas
+      901 avtakfmvep sqdmvqngel staykqngtt gipadyvtvv vynkqatyqa gktdsksvvr
+      961 dinyldgktg kkipanlikd npvsqtvtmh rteildnsgk vigygtised gksytlnndw
+     1021 iidgnweavk spdlttngyk tprfengdia kvvpaetvne ntpdttvnvy ydhneipvgp
+     1081 dtpdkhgvdl neltkdvnet vhyvysdgtk aapdvvqtsk wtrtltidav tnevisdgqy
+     1141 ttdwaipkge ktvydqvdtp vikgyhadkr qinatvvtqn nieetvtyqp ngkiipvdpn
+     1201 gdpipnvptp typtdptdpt kvvpdepvpe ipglipsvpt vtpenpgkdt svpynpvkdp
+     1261 dkvttvegkq iihfvdgdnn kplkdpniqt yefkitngvp nesshtftlv nvpvipgyva
+     1321 eiksaggktv tpdkplaevt vvyhkigkiv pvdpngnpip nvptpsytnd ptdptkvvpn
+     1381 epvpaipgkt pdkttvtpvd ptkdtpvvyk ddkvppapnt qkavvnfidv ntgkiistsg
+     1441 ilsgrpgedi nklfssaevi kqleaagyev vynafdgdgv tkyfdndgnt vqqftialkl
+     1501 kekaktpdpv lpdpevpvek etrseqpvkq nvavptpekp vekkttdnke vlpqtgadsn
+     1561 eaatilgava taigmtslig akrrkkddk
+//
+
+

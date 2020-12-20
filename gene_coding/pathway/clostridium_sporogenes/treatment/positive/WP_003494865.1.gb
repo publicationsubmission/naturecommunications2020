@@ -1,0 +1,46 @@
+LOCUS       WP_003494865             220 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: hypothetical protein [Clostridium].
+ACCESSION   WP_003494865
+VERSION     WP_003494865.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..220
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=25025
+     Region          7..>65
+                     /region_name="RecA-like_NTPases"
+                     /note="RecA-like NTPases. This family includes the NTP
+                     binding domain of F1 and V1 H+ATPases, DnaB and related
+                     helicases as well as bacterial RecA and related eukaryotic
+                     and archaeal recombinases. This group also includes
+                     bacterial conjugation proteins and...; cl28885"
+                     /db_xref="CDD:333705"
+     Site            order(9..10,14..16)
+                     /site_type="other"
+                     /note="Walker A motif"
+                     /db_xref="CDD:238540"
+     Region          12..>39
+                     /region_name="Fer4_NifH"
+                     /note="The Fer4_NifH superfamily contains a variety of
+                     proteins which share a common ATP-binding domain.
+                     Functionally, proteins in this superfamily use the energy
+                     from hydrolysis of NTP to transfer electron or ion;
+                     cl28886"
+                     /db_xref="CDD:333706"
+ORIGIN      
+        1 msriniftgh fgsgkteiai nyamklakeg kkvalvdidi vnpyfcsrsl keefdklgir
+       61 viasdsklmn aelmvvpgev mavfndksye vvmdiggddq gatvlgqynk yfneedydmy
+      121 fvvnnnrplt sneketedyi ksieissrlk vkylisntnl syettvdhil kgdeivlels
+      181 kktglpykyi vcrkdfiddi kgkvhgeifp idiymkppwr
+//
+
+

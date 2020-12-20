@@ -1,0 +1,59 @@
+LOCUS       WP_011161760             380 aa            linear   BCT 13-JUL-2017
+DEFINITION  undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl
+            1-phosphate transferase [Lactobacillus johnsonii].
+ACCESSION   WP_011161760
+VERSION     WP_011161760.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10160596
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..380
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..380
+                     /product="undecaprenyl/decaprenyl-phosphate
+                     alpha-N-acetylglucosaminyl 1-phosphate transferase"
+                     /calculated_mol_wt=42614
+     Region          38..287
+                     /region_name="GT_WecA_like"
+                     /note="This subfamily contains Escherichia coli WecA,
+                     Bacillus subtilis TagO and related proteins. WecA is an
+                     UDP-N-acetylglucosamine (GlcNAc):undecaprenyl-phosphate
+                     (Und-P) GlcNAc-1-phosphate transferase that catalyzes the
+                     formation of a phosphodiester bond...; cd06853"
+                     /db_xref="CDD:133463"
+     Site            91..92
+                     /site_type="other"
+                     /note="Mg++ binding site [ion binding]"
+                     /db_xref="CDD:133463"
+     Site            213..216
+                     /site_type="active"
+                     /note="putative catalytic motif [active]"
+                     /db_xref="CDD:133463"
+     Site            order(263,277..280)
+                     /site_type="other"
+                     /note="substrate binding site [chemical binding]"
+                     /db_xref="CDD:133463"
+ORIGIN      
+        1 mfqtivkifl lviitaaitp firklafvlg avdnpnarri nkkpmptigg laifvafnig
+       61 efvllrkdfp thelfsvlla ssviiltgli ddilelkprq kmfgifvasl vvyflagikv
+      121 relslpflgh iqlgwwsfpl tifwilaltn avnlidgldg latgvtlisl vtmgivgfff
+      181 lkswqhyvpi mcimlaacll gflpynfhpa kiflgdtgal yigfmisvls lkglknvtfv
+      241 sllvpililg vpitdtvyam irrklnkkni sqadkhhlhh qlmrmglshr qtvlaiygis
+      301 lifsfvslls lvsprwgiwl lilgllfave lfvetigllg ekykpllhfl qhtinkmera
+      361 dpevkvrrln kkntnkkdlr
+//
+
+

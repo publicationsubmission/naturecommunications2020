@@ -1,0 +1,37 @@
+LOCUS       WP_086874770             325 aa            linear   BCT 12-JAN-2018
+DEFINITION  competence protein [Lactobacillus johnsonii].
+ACCESSION   WP_086874770
+VERSION     WP_086874770.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..325
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..325
+                     /product="competence protein"
+                     /calculated_mol_wt=36685
+     Region          <3..>266
+                     /region_name="PulE"
+                     /note="Type II secretory pathway ATPase GspE/PulE or T4P
+                     pilus assembly pathway ATPase PilB [Cell motility,
+                     Intracellular trafficking, secretion, and vesicular
+                     transport, Extracellular structures]; cl28318"
+                     /db_xref="CDD:333138"
+ORIGIN      
+        1 mnemserile eaierhasdi fifpiingye vkirtamgld kiqelsrhgg rellnyfkfq
+       61 aqmdiserrr pqvgayqtef krkkiflrfs svgefagaes lvvrliygek nnnyflpeqf
+      121 nlikkltnqr glivtsgptg sgktstmyel aqvigknkvv mtiedpvevw npyflqtqvn
+      181 liagitypdl lkaalrhrpd iliigeirdq etakisinaa lsghlvlati haktalqtis
+      241 rleglgitkd elsncltavs yqrllpikdk ndvaclmdig ygemlnqait nndkrgnlhd
+      301 wqnslnqlvk rgkisektqq lfeeg
+//
+
+

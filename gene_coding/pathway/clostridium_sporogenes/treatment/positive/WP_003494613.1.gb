@@ -1,0 +1,41 @@
+LOCUS       WP_003494613             329 aa            linear   BCT 02-DEC-2018
+DEFINITION  MULTISPECIES: HAMP domain-containing histidine kinase
+            [Clostridium].
+ACCESSION   WP_003494613
+VERSION     WP_003494613.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11428264
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..329
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..329
+                     /product="HAMP domain-containing histidine kinase"
+                     /calculated_mol_wt=36720
+     Region          2..329
+                     /region_name="BaeS"
+                     /note="Signal transduction histidine kinase [Signal
+                     transduction mechanisms]; COG0642"
+                     /db_xref="CDD:223715"
+ORIGIN      
+        1 mlrnreiqql viffsliaat tvtlgfainr lagilaiasa vafgtvffaf tkaryksiaq
+       61 isdqidlvlh nadhlyiges eegelsilqs eitkmtlrir eqndalkkek ehladsladi
+      121 ahqlrtplts vslilsllen nsdenerkal ireikelfvq mdwlltsllk lsrldagivi
+      181 fqskqidvnn lisaslhpfl ipielhdidv eidvqkevii qgdfawlsea iqnifkncme
+      241 svgekgkiei vcrdnplfte iaihdsgagf ekedlpclfd rfyrgknpns tgygiglalc
+      301 kmiitrqggt itaknhprgg aifnirfpk
+//
+
+

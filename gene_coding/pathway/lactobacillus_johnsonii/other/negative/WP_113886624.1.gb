@@ -1,0 +1,45 @@
+LOCUS       WP_113886624             275 aa            linear   BCT 18-JUL-2018
+DEFINITION  phosphofructokinase [Lactobacillus johnsonii].
+ACCESSION   WP_113886624
+VERSION     WP_113886624.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..275
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..275
+                     /product="phosphofructokinase"
+                     /calculated_mol_wt=29798
+     Region          7..264
+                     /region_name="ribokinase_pfkB_like"
+                     /note="ribokinase/pfkB superfamily: Kinases that accept a
+                     wide variety of substrates, including carbohydrates and
+                     aromatic small molecules, all are phosphorylated at a
+                     hydroxyl group. The superfamily includes ribokinase,
+                     fructokinase, ketohexokinase; cl00192"
+                     /db_xref="CDD:320807"
+     Site            order(24,212,215)
+                     /site_type="other"
+                     /note="substrate binding site [chemical binding]"
+                     /db_xref="CDD:238177"
+     Site            order(145,183,210,213..214,217)
+                     /site_type="other"
+                     /note="ATP binding site [chemical binding]"
+                     /db_xref="CDD:238177"
+ORIGIN      
+        1 mediiliytv tldpsesvvg kginislilk klgidsiatg ivnhknveqv aeeldkaeie
+       61 nqfieqtrgi kitaknqqkl ldylkvlkag dilvitgsfa kgidpvyltd lakvadqraa
+      121 alvvdvpyen vldilpmnpl likpnetelk hwfekddkev ttkelidmah slvvkgaqhv
+      181 llslgangaa ivnmmdalma hapeieevds sgsgdallgt flagmlkgyt pvrnladaia
+      241 agsdtaqskw ltdfrttpal qkqviarrit feeae
+//
+
+

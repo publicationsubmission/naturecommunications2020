@@ -1,0 +1,39 @@
+LOCUS       WP_002298831             303 aa            linear   BCT 13-MAY-2017
+DEFINITION  MULTISPECIES: conjugal transfer protein [Enterococcus].
+ACCESSION   WP_002298831
+VERSION     WP_002298831.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus
+  ORGANISM  Enterococcus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10576919
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..303
+                     /organism="Enterococcus"
+                     /db_xref="taxon:1350"
+     Protein         1..303
+                     /product="conjugal transfer protein"
+                     /calculated_mol_wt=35018
+     Region          77..300
+                     /region_name="TpcC"
+                     /note="Conjugative transposon protein TcpC; pfam12642"
+                     /db_xref="CDD:338433"
+ORIGIN      
+        1 mkikieriqk ekmskkkker tisvgkhrkm vlalwlllsc slafgiyknf taidqhtthv
+       61 kmvvkekvin tsgvesftkn fvkeyfswkn nkeviekrms nlgqylteeg lalsqdmvrv
+      121 diptssevns vkildvekrs kdfvvsflvd qkitegkkse qissayrvki fedekenhiv
+      181 tslptmiskp gkakyevkqv esdsdidakt tqeiteflet ffklyptase keleyysene
+      241 smsqvssdlr fveitnpiyl ekdgsvqvki vvkylneiek vtnsfqynll lnkeenwkii
+      301 nge
+//
+
+

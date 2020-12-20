@@ -1,0 +1,41 @@
+LOCUS       WP_003486009             294 aa            linear   BCT 13-MAY-2017
+DEFINITION  MULTISPECIES: MurR/RpiR family transcriptional regulator
+            [Clostridium].
+ACCESSION   WP_003486009
+VERSION     WP_003486009.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11448252
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..294
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..294
+                     /product="MurR/RpiR family transcriptional regulator"
+                     /calculated_mol_wt=32857
+     Region          7..283
+                     /region_name="RpiR"
+                     /note="DNA-binding transcriptional regulator, MurR/RpiR
+                     family, contains HTH and SIS domains [Transcription];
+                     COG1737"
+                     /db_xref="CDD:224651"
+ORIGIN      
+        1 meenkqdlmr iiqvkfprls kgqkliaefi lkhydkaafm taaklgtsvg vsestvvrfa
+       61 nelgftgypk lqkalqelik nklttvqrie lsndyvsees alkgvlksdm eniratleki
+      121 nhntfqdvvd nifkakriyi lglrsstala eflgfylnli ldnvniiayg isdifeqmin
+      181 vsendlvigi gfpryaarti ealtfaqnrg akvvaitdsl lsplaakady tliaqsnmas
+      241 fvdslvapls vinaliiavg lrekdkisst fstlediwqe yevysyrdnk dkky
+//
+
+

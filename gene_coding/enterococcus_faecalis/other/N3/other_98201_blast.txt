@@ -1,0 +1,12 @@
+# BLASTX 2.4.0+
+# Query: Sample:N3,Pos:98201 <unknown description>
+# Database: User specified sequence set (Input: enterococcus_faecalis_protein.faa)
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+Sample:N3,Pos:98201	WP_002358813.1	100.000	66	0	0	2	199	37	102	1.03e-42	137
+Sample:N3,Pos:98201	WP_010708172.1	38.710	31	13	1	179	105	267	297	1.8	22.7
+Sample:N3,Pos:98201	WP_002382878.1	33.333	24	16	0	17	88	71	94	3.1	21.9
+Sample:N3,Pos:98201	WP_002359131.1	42.105	19	11	0	123	67	242	260	3.8	21.9
+Sample:N3,Pos:98201	WP_002357964.1	36.364	22	13	1	156	91	153	173	6.4	21.2
+Sample:N3,Pos:98201	WP_077143772.1	41.176	17	10	0	164	114	213	229	9.2	20.8
+# BLAST processed 1 queries

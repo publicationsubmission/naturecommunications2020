@@ -1,0 +1,41 @@
+LOCUS       WP_046869990             279 aa            linear   BCT 28-JUL-2019
+DEFINITION  SLAP domain-containing protein [Clostridium sporogenes].
+ACCESSION   WP_046869990
+VERSION     WP_046869990.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR04398.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR04398
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..279
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..279
+                     /product="SLAP domain-containing protein"
+                     /calculated_mol_wt=31804
+     Region          <49..275
+                     /region_name="acc_Sec_SLAP"
+                     /note="accessory Sec system S-layer assembly protein;
+                     TIGR04399"
+                     /db_xref="CDD:275192"
+ORIGIN      
+        1 mwrnldeaak evnreealdi klsllekdqe vmskvqreil eeeldelvpi kegqvnvagi
+       61 yaydlgdkye vkaylrngmk neinfekipf kiinskgell asqafdlkpm gnipsycarp
+      121 wilyfdkenv fvdkipvkdw klvfdnslka lrnltvdien lpdgidaesk kvytdfleel
+      181 palkegevsf skfsigined gyllvtivvr ngcnkginie klpmtikdkk gnfvasevfn
+      241 lkdlkvspmk akvcnfafpl qikekavipl dswqieyni
+//
+
+

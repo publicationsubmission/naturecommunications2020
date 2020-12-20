@@ -1,0 +1,43 @@
+LOCUS       WP_023599461             336 aa            linear   BCT 02-AUG-2016
+DEFINITION  ABC transporter ATP-binding protein [Lactobacillus johnsonii].
+ACCESSION   WP_023599461
+VERSION     WP_023599461.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11418519
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..336
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..336
+                     /product="ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=37646
+     Region          8..321
+                     /region_name="DppD"
+                     /note="ABC-type dipeptide/oligopeptide/nickel transport
+                     system, ATPase component [Amino acid transport and
+                     metabolism, Inorganic ion transport and metabolism];
+                     COG0444"
+                     /db_xref="CDD:223521"
+ORIGIN      
+        1 mekqsdllld iehlhtayrl hgkfydaadd inltlkrnei lavvgesgcg kstiassiig
+       61 lydhkntkvt gdilynelnl vnlneslfnk irgnnigmif qdplaslnpl mkvgdqvaet
+      121 lyyhtdmdek arharvielf nqvgmprpee myemyphels gglrqrvvia iaiackpeii
+      181 iadepttald vtiqaqildl lkeiqkeshs givlithdlg vvaetadqva vmyagqivek
+      241 advktifenp lhpytrsllh smpqtddese dlhvihgtvp slinmprtgd rfaaripwip
+      301 asaheenpki hevepghfvr ctcwqsfhfq deekkg
+//
+
+

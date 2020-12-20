@@ -1,0 +1,37 @@
+LOCUS       WP_004897682             129 aa            linear   BCT 24-APR-2018
+DEFINITION  MULTISPECIES: CrcB family protein [Lactobacillus].
+ACCESSION   WP_004897682
+VERSION     WP_004897682.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10495063
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..129
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     Protein         1..129
+                     /product="CrcB family protein"
+                     /calculated_mol_wt=14406
+     Region          11..113
+                     /region_name="CRCB"
+                     /note="CrcB-like protein, Camphor Resistance (CrcB);
+                     pfam02537"
+                     /db_xref="CDD:334961"
+ORIGIN      
+        1 mnrrlknyls vgifaffggg lraylnliws qtgtltanii gcfllaffty ffveyregrd
+       61 wlvtglstgf vgsfttfssf nldtlkqles gmnsqatiyf fssifigflf aylgmlvgkr
+      121 tgrklaeka
+//
+
+

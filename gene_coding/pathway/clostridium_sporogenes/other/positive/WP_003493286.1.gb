@@ -1,0 +1,54 @@
+LOCUS       WP_003493286             270 aa            linear   BCT 22-JAN-2015
+DEFINITION  MULTISPECIES: polysaccharide deacetylase [Clostridium].
+ACCESSION   WP_003493286
+VERSION     WP_003493286.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10180996
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+FEATURES             Location/Qualifiers
+     source          1..270
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..270
+                     /product="polysaccharide deacetylase"
+                     /calculated_mol_wt=30839
+     Region          79..268
+                     /region_name="CE4_SmPgdA_like"
+                     /note="Catalytic NodB homology domain of Streptococcus
+                     mutans polysaccharide deacetylase PgdA, Bacillus subtilis
+                     YheN, and similar proteins; cd10944"
+                     /db_xref="CDD:200569"
+     Site            order(84..87,136..141,177,179..180,204,210..211,238,240)
+                     /site_type="other"
+                     /note="NodB motif"
+                     /db_xref="CDD:200569"
+     Site            order(86..87,136,140,179..181,204,238,240)
+                     /site_type="active"
+                     /db_xref="CDD:200569"
+     Site            order(86,177,210,240)
+                     /site_type="active"
+                     /note="catalytic site [active]"
+                     /db_xref="CDD:200569"
+     Site            order(87,136,140)
+                     /site_type="other"
+                     /note="Zn binding site [ion binding]"
+                     /db_xref="CDD:200569"
+ORIGIN      
+        1 mdkknkilli ticalffiag ffvtknivdk knkeqfmkke mindnskmvi kqmddkvvfs
+       61 eyikdkydak evfkkdgkki afltfddgps ylsndildil kkynikatff vvgnlakenk
+      121 siierqikeg hsignhtyth nykniyssvd vfvnevdktq nviksivgsn ydiklvrfpg
+      181 gsfgdrlnpy keaiknkgyy nmdwnalngd aegnnipkek liqnikstie gknhvvilmh
+      241 dcaakkttve alpdiieyli sqgyefkalk
+//
+
+

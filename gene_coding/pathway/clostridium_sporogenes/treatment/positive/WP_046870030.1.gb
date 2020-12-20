@@ -1,0 +1,44 @@
+LOCUS       WP_046870030             416 aa            linear   BCT 04-JUL-2017
+DEFINITION  glycosyltransferase family 2 protein [Clostridium sporogenes].
+ACCESSION   WP_046870030
+VERSION     WP_046870030.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10455355
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..416
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..416
+                     /product="glycosyltransferase family 2 protein"
+                     /calculated_mol_wt=48285
+     Region          23..184
+                     /region_name="Glycos_transf_2"
+                     /note="Glycosyl transferase family 2; pfam00535"
+                     /db_xref="CDD:334132"
+     Site            order(27,29,55,108,110)
+                     /site_type="active"
+                     /db_xref="CDD:132997"
+ORIGIN      
+        1 mlqknlnekr viiensnkdp fisviiptrn saqvlkyalm tcidqnydny eiivsdnssp
+       61 gnnetkklvn elnckkikyf rtpeeyamke nyefayeqss geyillmgsd dglllhclev
+      121 lsefikklnr pgsitwdpva ygwpnvgins iknglfipyp sqknnikfsy ydesmlnavl
+      181 nfkarysilp mfyynsiikr elveeakkts gkifyasadv stgimfaylq kkyihvnmpm
+      241 tiggssqnsv glsyvndink seydkfrcdm dqlkkynnit skcnlfymps fvteetavli
+      301 sfiiakslyl keyknfdvdm hqyykvcakh lfndnnletk kkylyqsike ygnneiikwy
+      361 eknyinnkdf kgytnyekep lipsyrpngg lvidcskfna snvfeastly rnivgy
+//
+
+

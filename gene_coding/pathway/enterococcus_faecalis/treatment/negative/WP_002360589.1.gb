@@ -1,0 +1,67 @@
+LOCUS       WP_002360589            1264 aa            linear   BCT 20-JUN-2019
+DEFINITION  helicase-exonuclease AddAB subunit AddA [Enterococcus faecalis].
+ACCESSION   WP_002360589
+VERSION     WP_002360589.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+REFERENCE   1  (residues 1 to 1264)
+  AUTHORS   Zuniga-Castillo,J., Romero,D. and Martinez-Salazar,J.M.
+  TITLE     The recombination genes addAB are not restricted to gram-positive
+            bacteria: genetic analysis of the recombination initiation enzymes
+            RecF and AddAB in Rhizobium etli
+  JOURNAL   J. Bacteriol. 186 (23), 7905-7913 (2004)
+   PUBMED   15547262
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR02785.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR02785
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1264
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     gene            1..1264
+                     /gene="addA"
+     Protein         1..1264
+                     /product="helicase-exonuclease AddAB subunit AddA"
+                     /calculated_mol_wt=146377
+     Region          13..1254
+                     /region_name="addA_Gpos"
+                     /note="helicase-exonuclease AddAB, AddA subunit,
+                     Firmicutes type; TIGR02785"
+                     /db_xref="CDD:274299"
+ORIGIN      
+        1 msktiplrpa neqftdsqwq avfdgdenil vsasagsgkt tvlvrrviek vksgvdidrl
+       61 livtyteaaa remkeriqva lqkamneeqd perrrhfsrq iallptanis tlhafcltvi
+      121 rrfyylidid pvfrmltdet etlllkedvw dalreqfyae nqeefyqlta nfsndrsddg
+      181 ltnlifsfye fakanpdpea wingltqaye vgdqlgestl fqtylkplav etlqrtlqry
+      241 eemvtltege eklqkiwyla qnekeqtkqf lqflerndle saynltells fdryptvrae
+      301 elkptaeqak qlreqnkkal ndlkkqlftl spdamkqvlk eatpivqema hvgkqfmeay
+      361 gtekrlknlv dfndlehytl ailaknqadg whaseaslyy rekfdevlvd eyqdinqlqe
+      421 silywlrrpl saegnlfmvg dvkqsiysfr ladptlfiek ynqygqgkeg kriilaenfr
+      481 srkdvldftn lvfsqlmder vgqiaydesa allhgfdqfs eaadystell iyekkatesv
+      541 efpelqspel liedktegel yvtalkirel idqnfliydk klktdrpity qdivlltptk
+      601 knnltildvf ksleipvqvn daqnyfqate irtmiallql idnpyqdipl aavlrspivg
+      661 lkenelvlir lanketsyye afltfnqkme ptmeeavvqe ktirfaesle kwreqarrnq
+      721 istllwtiyr etayldyvgg lpvgkqrqan lyalvdraaa yekttfhglf qfvrfiekmq
+      781 ekdkdlaepv vlseenavrv mtihaskgle fpvvfvldmt kefnvsdlne ryifeenlgv
+      841 girylqpeer vmydtlpfla ikqvrlrkll seemrklyva ltraeqklfl vgsykdqaam
+      901 wkewlkvgdv etlvlpaenr lqsksslmnw vgmtlvrhqk adeyqqevvv snvpqvkkhp
+      961 anfhiqwfne eqlraaiqql qlperqaedl aekaqlsadk inrglarlsf nypfevatrt
+     1021 tsyqsvseik rvfddpdnke igkievredn tiqaqplivn rmiegdlskp kfldtvqaps
+     1081 aaeigtathy llqlidlskq psyeevravq erlvenklil paiaekmnle qivaffdtal
+     1141 gkqliqhhqt vrreqpfsml ieaeeliqny pettqddlli hgiidgyiel dnqcilydyk
+     1201 tdhvkstspq aiseiveryr gqmnlyrral qeathkevsh vylillnggv iidmqtgnvv
+     1261 dfik
+//
+
+

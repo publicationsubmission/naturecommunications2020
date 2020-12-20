@@ -1,0 +1,38 @@
+LOCUS       WP_002357555             175 aa            linear   BCT 08-APR-2019
+DEFINITION  MULTISPECIES: GNAT family N-acetyltransferase [Bacilli].
+ACCESSION   WP_002357555
+VERSION     WP_002357555.1
+KEYWORDS    RefSeq.
+SOURCE      Bacilli
+  ORGANISM  Bacilli
+            Bacteria; Firmicutes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11418877
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..175
+                     /organism="Bacilli"
+                     /db_xref="taxon:91061"
+     Protein         1..175
+                     /product="GNAT family N-acetyltransferase"
+                     /calculated_mol_wt=20315
+     Region          3..172
+                     /region_name="RimI"
+                     /note="Ribosomal protein S18 acetylase RimI and related
+                     acetyltransferases [Translation, ribosomal structure and
+                     biogenesis]; COG0456"
+                     /db_xref="CDD:223532"
+ORIGIN      
+        1 msvfirectv advpeleaic qetfadtygd geneedlqah yerkfspavl eseilhkdsq
+       61 yffafynnel agyvklnhgd aqityqhpqa lqveriyirk sfkrlglgkh litkaielae
+      121 eaeketvwlg vwehnhpaqk fyqslgfvkt dehdfymgne rhtdytmtkq lkest
+//
+
+

@@ -1,0 +1,40 @@
+LOCUS       WP_002360250             477 aa            linear   BCT 12-MAY-2013
+DEFINITION  sensor histidine kinase [Enterococcus faecalis].
+ACCESSION   WP_002360250
+VERSION     WP_002360250.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..477
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..477
+                     /product="sensor histidine kinase"
+                     /calculated_mol_wt=54394
+     Region          9..147
+                     /region_name="H_kinase_N"
+                     /note="Signal transduction histidine kinase; pfam12282"
+                     /db_xref="CDD:315048"
+     Region          260..463
+                     /region_name="COG3920"
+                     /note="Two-component sensor histidine kinase, HisKA and
+                     HATPase domains [Signal transduction mechanisms]"
+                     /db_xref="CDD:226434"
+ORIGIN      
+        1 mkrleqlchq ytnlsesdik elqrtaryls sttlyqsadv fidvykemsq qalvvyhkpp
+       61 akttslysgd vvgmeallkn epgvlrtmqt slnsigllav tqenrlikqn iypirnehrt
+      121 igviiveiaa deeiqadlqk eelnncqlak vekstsqvda lfidqlaeav lifdaaghll
+      181 itnhnaqely rklgyrdnii gmsydnlsid yttfeyvlyq mkykmsnqpi eskttylnyy
+      241 fkvrkvwlas eeqlimiiqd ntefkekeae iisksvaire ihhrvknnlq svvsllriqe
+      301 rrtqspeakk vlhesvnrim aiaathells kqvkddvalr qtleavmynf rhlfqgaqpi
+      361 emmmdvdpai mvsseqmvti slvvnellqn ifdhafepqt sgvvklsgtl dnkmititvt
+      421 dngkgydvhq snetslglmi vksyvkdklk gkitiesnkq gtktcfyfeq ntsdvvh
+//
+
+

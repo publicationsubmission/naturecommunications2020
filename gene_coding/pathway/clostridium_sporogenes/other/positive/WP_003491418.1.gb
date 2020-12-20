@@ -1,0 +1,41 @@
+LOCUS       WP_003491418             425 aa            linear   BCT 27-JUL-2019
+DEFINITION  MULTISPECIES: homoserine dehydrogenase [Clostridium].
+ACCESSION   WP_003491418
+VERSION     WP_003491418.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11482218
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..425
+                     /product="homoserine dehydrogenase"
+                     /calculated_mol_wt=46732
+     Region          1..422
+                     /region_name="PRK06349"
+                     /note="homoserine dehydrogenase; Provisional"
+                     /db_xref="CDD:235783"
+ORIGIN      
+        1 mekvkiallg lgnvgkgvwn ilktnkeaii kragydieis kilvkdinkq rgievpkell
+       61 ttdveeifnd dsirivvevi gglepakeyi lrsirnkkhv itankmliat ngkeifkeae
+      121 kqgiivnfea svaggipvin sinesltank ieeivgiing ttnyiltkmt legmsfeeal
+      181 keaqqkgyae adptsdvegy davyklailt tlafetnvdv ediyvegitk ikakdieyak
+      241 elgyviklla ivkevnekle lrvhptmips ihplanvnds fnsifikgna vgdlmlygrg
+      301 agelptgsav vgdiisvvrn egvpqidkny nnkevapves iksqyylris vkekpgvlak
+      361 itailgenkv silsfiqkpk kgdfvsivlv tydtlegnin ksieeikhle vvdkiksvir
+      421 ienls
+//
+
+

@@ -1,0 +1,40 @@
+LOCUS       WP_003491240             219 aa            linear   BCT 02-DEC-2018
+DEFINITION  MULTISPECIES: response regulator transcription factor
+            [Clostridium].
+ACCESSION   WP_003491240
+VERSION     WP_003491240.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11433066
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..219
+                     /product="response regulator transcription factor"
+                     /calculated_mol_wt=24750
+     Region          3..219
+                     /region_name="OmpR"
+                     /note="DNA-binding response regulator, OmpR family,
+                     contains REC and winged-helix (wHTH) domain [Signal
+                     transduction mechanisms, Transcription]; COG0745"
+                     /db_xref="CDD:223816"
+ORIGIN      
+        1 makilaidde edililiknv lskdnhlvti vkeakdipln dfvkfdlill dvmmpdidgf
+       61 tlckeiremv dcpilfltak tmesdimfgl giggddyitk pfgvgelkar vnahlrrehr
+      121 ekrhifvasd iifnlsskei kigdvkvpft kgeyaiceyl arnsgqvfsk eqiyeavygy
+      181 dgesdssait ehiknirakl kvfdmspiet vwgigykwv
+//
+
+

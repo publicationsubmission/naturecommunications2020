@@ -1,0 +1,53 @@
+LOCUS       WP_002404456             590 aa            linear   BCT 10-OCT-2019
+DEFINITION  DUF262 domain-containing protein [Enterococcus faecalis].
+ACCESSION   WP_002404456
+VERSION     WP_002404456.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF015210.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF03235.12
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..590
+                     /product="DUF262 domain-containing protein"
+                     /calculated_mol_wt=69455
+     Region          15..269
+                     /region_name="DUF262"
+                     /note="Protein of unknown function DUF262; pfam03235"
+                     /db_xref="CDD:308714"
+     Region          452..582
+                     /region_name="HNHc"
+                     /note="HNH nucleases; HNH endonuclease signature which is
+                     found in viral, prokaryotic, and eukaryotic proteins. The
+                     alignment includes members of the large group of homing
+                     endonucleases, yeast intron 1 protein, MutS, as well as
+                     bacterial colicins, pyocins, and...; cl00083"
+                     /db_xref="CDD:320750"
+ORIGIN      
+        1 mskeilkmgy vnftiknlik kidnneyvlp alqrefvwkp eqierlfdsi mkgypigsfl
+       61 fwnvqnenin kyefynilke yhqrdarhnt kinishkdsv taildgqqri tsiyialkgt
+      121 ysykikgawk nndnaypsrq lylnivspnl dtnkdvqfdf rfltneeaed ftedtlwypv
+      181 sdilqfevge mftviaryqe lyrknfpnes vektsyimns lgtlhqmmek dilayyeens
+      241 qeidkvldif irmnsggttl tysdlllsla takwqnlnar eeiyslvdel nmigngfnfn
+      301 kdnilkaalv ltdkknikfr asnfdkqttn lietnwektk kaislavnll snfgfngdtl
+      361 iansviipvv yylykidcpn nyleadryln drnkikyfvq isllkrifgg tpdsillkmr
+      421 enmqdlsegf plskllkvrd tnksliltde didylldtki gkysftllsv ifpaidlknk
+      481 fhqdhifpss kyknkknlre igyseeeitf ivehidtivn lqllegipnt eknnkyfddw
+      541 llkrynsnee ldyylnrnll nkvykknefi qmytdrkeel rkrllqnlsf
+//
+
+

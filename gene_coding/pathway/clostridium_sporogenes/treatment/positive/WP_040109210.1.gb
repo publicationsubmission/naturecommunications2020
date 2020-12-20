@@ -1,0 +1,67 @@
+LOCUS       WP_040109210             230 aa            linear   BCT 15-MAY-2017
+DEFINITION  MULTISPECIES: ABC transporter ATP-binding protein [Clostridium].
+ACCESSION   WP_040109210
+VERSION     WP_040109210.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10125865
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..230
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..230
+                     /product="ABC transporter ATP-binding protein"
+                     /calculated_mol_wt=25451
+     Region          4..219
+                     /region_name="ABC_MJ0796_LolCDE_FtsE"
+                     /note="ATP-binding cassette domain of the transporters
+                     involved in export of lipoprotein and macrolide, and cell
+                     division protein; cd03255"
+                     /db_xref="CDD:213222"
+     Site            40..47
+                     /site_type="other"
+                     /note="Walker A/P-loop"
+                     /db_xref="CDD:213222"
+     Site            order(43..44,46..48,92,166..167,200)
+                     /site_type="other"
+                     /note="ATP binding site [chemical binding]"
+                     /db_xref="CDD:213222"
+     Site            89..92
+                     /site_type="other"
+                     /note="Q-loop/lid"
+                     /db_xref="CDD:213222"
+     Site            142..151
+                     /site_type="other"
+                     /note="ABC transporter signature motif"
+                     /db_xref="CDD:213222"
+     Site            162..167
+                     /site_type="other"
+                     /note="Walker B"
+                     /db_xref="CDD:213222"
+     Site            170..173
+                     /site_type="other"
+                     /note="D-loop"
+                     /db_xref="CDD:213222"
+     Site            196..202
+                     /site_type="other"
+                     /note="H-loop/switch region"
+                     /db_xref="CDD:213222"
+ORIGIN      
+        1 mellkvkdlc ksygkgeikv dalkninlti nqgefvaivg psgsgkstll hllggvdkpt
+       61 sgkvvlegtd iyslkenela ilrrrkigfi fqfynlipvl taeenmempv lldnkkpdkk
+      121 ymeelldilg lrerknhlps qlsggqqqrv sigralankp siiladeptg nldsknskei
+      181 iellrysvkk ynqtlvlith dlniakmadr vitiadgevk gdevtkvekl
+//
+
+

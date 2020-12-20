@@ -1,0 +1,42 @@
+LOCUS       WP_002359562             219 aa            linear   BCT 09-JUN-2016
+DEFINITION  DsbA family protein [Enterococcus faecalis].
+ACCESSION   WP_002359562
+VERSION     WP_002359562.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10617855
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..219
+                     /product="DsbA family protein"
+                     /calculated_mol_wt=25278
+     Region          5..182
+                     /region_name="Thioredoxin_5"
+                     /note="pfam13743"
+                     /db_xref="CDD:316280"
+     Site            order(12,15)
+                     /site_type="active"
+                     /note="catalytic residues [active]"
+                     /db_xref="CDD:239323"
+ORIGIN      
+        1 mveiylfvnp lggvcleiek eiiqlsvndk kkiqlrfipl lnmktinefl srqhipindi
+       61 krrnrifedl ysaaldykaa qlqgrkkgrq lliglqkava edglayspel seelllaagg
+      121 didmyrkdrq sdfvkesfqt dqkvaremgi kqhptavvyn ytcendfgil venfenmdei
+      181 kqlcrvhphn ellldqgdat fefkrrsnyh fpnghlhll
+//
+
+

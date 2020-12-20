@@ -1,0 +1,41 @@
+LOCUS       WP_046869860             410 aa            linear   BCT 08-JUN-2016
+DEFINITION  aminopeptidase [Clostridium sporogenes].
+ACCESSION   WP_046869860
+VERSION     WP_046869860.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10489131
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..410
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..410
+                     /product="aminopeptidase"
+                     /calculated_mol_wt=46445
+     Region          5..408
+                     /region_name="Peptidase_M29"
+                     /note="Thermophilic metalloprotease (M29); pfam02073"
+                     /db_xref="CDD:307958"
+ORIGIN      
+        1 mndfkkllek yadiaikigi niepnqtlvi nspiecaefv riianktyda gaknvhvkwn
+       61 deelslikym kapfetfeef ptweveeles lakenaafls isasnpellk nvdpqkiata
+      121 nktrgkalkk yyeyimnsfv swcvlsvptk awakkvfpdl kedmaveklw enifnivrid
+      181 kedpvkawee hlnnladkvn flndqkltkl hykskdtdlt ielpkghiwc gggeynknkr
+      241 yfvanmptee vftlplktgv ngivkstkpl nysgnlinnf tlkfkngkii dfsseegyet
+      301 lkklietdeg scylgevalv pfhspisdsn iifyntlfde naschlalge ayptciengd
+      361 nmtkeeleka gannslthvd fmigssdlni igenkkgeki eifqngdwaf
+//
+
+

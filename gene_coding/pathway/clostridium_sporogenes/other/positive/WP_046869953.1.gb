@@ -1,0 +1,74 @@
+LOCUS       WP_046869953             988 aa            linear   BCT 30-JUN-2019
+DEFINITION  MULTISPECIES: DEAD/DEAH box helicase [Clostridium].
+ACCESSION   WP_046869953
+VERSION     WP_046869953.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11582197
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..988
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..988
+                     /product="DEAD/DEAH box helicase"
+                     /calculated_mol_wt=114510
+     Region          65..202
+                     /region_name="PLDc_N_DEXD_b2"
+                     /note="N-terminal putative catalytic domain of
+                     uncharacterized prokaryotic and archeal HKD family
+                     nucleases fused to a DEAD/DEAH box helicase domain;
+                     cd09204"
+                     /db_xref="CDD:197298"
+     Site            order(144..149,162,164,166,174..178,180,182)
+                     /site_type="other"
+                     /note="putative homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:197298"
+     Site            order(146,148,164,166,177)
+                     /site_type="active"
+                     /note="putative active site [active]"
+                     /db_xref="CDD:197298"
+     Site            146
+                     /site_type="active"
+                     /note="catalytic site [active]"
+                     /db_xref="CDD:197298"
+     Region          220..597
+                     /region_name="SSL2"
+                     /note="Superfamily II DNA or RNA helicase [Transcription,
+                     Replication, recombination and repair]; COG1061"
+                     /db_xref="CDD:223989"
+     Region          709..987
+                     /region_name="DUF3427"
+                     /note="Domain of unknown function (DUF3427); pfam11907"
+                     /db_xref="CDD:314736"
+ORIGIN      
+        1 mdmitknkmv titdniefks ienvndnlir neilkasetg lvnklidsnl altpklvvnd
+       61 yskgskvlse iiselnkcee ffisvafitn sgilplletl kvlkkkgvkg kilttdylnf
+      121 sepkalkkll efpniemkly skenfhtkgy ifrykdhykl ivgssnltqt altknkewnl
+      181 kvssleegsl tegvisefnq lwndadelti kwietyegiy rkqvefarks kvprlsqykl
+      241 kpnkmqveai qgleklreng qnkgllisat gtgktylsaf elrnynpkra lfivhreqia
+      301 kqalnsfsnv fgdtrsmgil sgtskdvekd fifctiqtls kdevlqsfgk nkfdyiiide
+      361 vhkagansyq kivnyfnpkf llgmtatper sddfdifkmf nyniayeirl qqaleedllc
+      421 pfhyfgvsdv tidgielddk tdfkylvaee rvkhiidkin fygycgervk glifcsdkke
+      481 akelsdifnk kgyktvfltg ensqeereta ierleqdetl nsldyiftvd ifnegidips
+      541 vnqvvmlrpt kssivfvqql grglrknkfk eyvviidfvg nynsnflipv alsgdrtfnk
+      601 dtirkyvmeg trvipgcsti nfdeiskkki fesidlanfn nlklikesyf nlkqkigrip
+      661 slsdfdkfds idplrifgtk lgsyynflkk ydkeytveln dlealfiefi skklasgkrp
+      721 helimiknii hnkvdligel khelkemyni dfkeitetnv invltnefpt gsakktyskc
+      781 iflkkqdnyy iissefkkci eniyfkemvm elidfglsry nknysnrymn tnfqlyqkyt
+      841 yedvcrllew eqgevalnig gykydkitkt ypvfinydks ddientinye drfesesqli
+      901 aisksgrtte sqdivqayna ekdgvemtlf vrknkddkis kefyflgkik avgkphqftm
+      961 knttktavei ryklitpvre diyyyits
+//
+
+

@@ -1,0 +1,41 @@
+LOCUS       WP_046869756             326 aa            linear   BCT 02-NOV-2019
+DEFINITION  ketoacyl-ACP synthase III [Clostridium sporogenes].
+ACCESSION   WP_046869756
+VERSION     WP_046869756.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11483998
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..326
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..326
+                     /product="ketoacyl-ACP synthase III"
+                     /calculated_mol_wt=35636
+     Region          1..309
+                     /region_name="PRK09352"
+                     /note="3-oxoacyl-(acyl carrier protein) synthase III;
+                     Reviewed"
+                     /db_xref="CDD:236475"
+ORIGIN      
+        1 msnisvigtg syvpnniitn dflstivdtn dewirtrtgi lerriskgen tiymatesak
+       61 eaiknanida ndldliivat ltpdnfmpst acsvqkeiga inalcfdisa acsgfiygle
+      121 iacsmlknsf rnkaliigae nlskivdwed rntcvlfgdg agaailskte eegilefhsg
+      181 snglkgehlt cgalksnnkf nkndmlqtnn fikmngkeif rfavgamset icniqektkw
+      241 dlnevkyiis hqansriiey takklnthkd kfymnldkyg ntsaasipia ldemnkkgll
+      301 nkqdkiilvg fgggltfggv aivwsi
+//
+
+

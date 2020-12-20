@@ -1,0 +1,43 @@
+LOCUS       WP_011162489             216 aa            linear   BCT 14-MAY-2017
+DEFINITION  histidine phosphatase family protein [Lactobacillus johnsonii].
+ACCESSION   WP_011162489
+VERSION     WP_011162489.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10447784
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..216
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..216
+                     /product="histidine phosphatase family protein"
+                     /calculated_mol_wt=24738
+     Region          4..212
+                     /region_name="His_Phos_1"
+                     /note="Histidine phosphatase superfamily (branch 1);
+                     pfam00300"
+                     /db_xref="CDD:306748"
+     Site            order(8..9,58,169..170)
+                     /site_type="active"
+                     /note="catalytic core [active]"
+                     /db_xref="CDD:132718"
+ORIGIN      
+        1 mkriyivrhg qtyinrydkm qgwcdtpltd egiqgakdag kalsevpfdi aissdlkras
+       61 dtcdyiinen cnrdelqhia tpffreqfyg ffegmnsdea wrmiggphgy prrdellkev
+      121 dintikdymk eadpyheaen aeeywnrvdk gfdlisqldg aenillvthg ftirsivsrf
+      181 apgeynlahg prnasitimn mtdkdmkits ynkmsv
+//
+
+

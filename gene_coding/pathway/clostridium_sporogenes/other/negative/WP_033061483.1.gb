@@ -1,0 +1,50 @@
+LOCUS       WP_033061483             263 aa            linear   BCT 05-OCT-2019
+DEFINITION  MULTISPECIES: MerR family transcriptional regulator [Clostridium].
+ACCESSION   WP_033061483
+VERSION     WP_033061483.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024803.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13411.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..263
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..263
+                     /product="MerR family transcriptional regulator"
+                     /calculated_mol_wt=30518
+     Region          2..94
+                     /region_name="HTH_MerR-SF"
+                     /note="Helix-Turn-Helix DNA binding domain of
+                     transcription regulators from the MerR superfamily;
+                     cl02600"
+                     /db_xref="CDD:322007"
+     Site            order(3..5,19,37..39)
+                     /site_type="DNA binding"
+                     /note="DNA binding residues [nucleotide binding]"
+                     /db_xref="CDD:133389"
+     Region          122..262
+                     /region_name="AraC_E_bind"
+                     /note="Bacterial transcription activator, effector binding
+                     domain; smart00871"
+                     /db_xref="CDD:214874"
+ORIGIN      
+        1 mytigqlali lkvstrtlrh yddigllkpy cineengyry yeqeqirlak niiklkgygl
+       61 aleeikeiva nsninrheii kkrlniiese iarltvmkdn lykmlkenkv ikskgfnyki
+      121 heveivqldn inviskrcti ntkdiakvvg slyelinkng lrikgphivk yfekeydpen
+      181 adveicipie prkegklnih iipkgryvts tansigekgd vyesiinwiq dnnykingnp
+      241 feeynvnyet glfniniyyp ied
+//
+
+

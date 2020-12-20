@@ -1,0 +1,51 @@
+LOCUS       WP_002360507             489 aa            linear   BCT 09-OCT-2019
+DEFINITION  HAMP domain-containing protein [Enterococcus faecalis].
+ACCESSION   WP_002360507
+VERSION     WP_002360507.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF012876.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF00672.23
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..489
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..489
+                     /product="HAMP domain-containing protein"
+                     /calculated_mol_wt=55821
+     Region          20..>266
+                     /region_name="NtrY"
+                     /note="Signal transduction histidine kinase involved in
+                     nitrogen fixation and metabolism regulation [Signal
+                     transduction mechanisms]; COG5000"
+                     /db_xref="CDD:227333"
+     Region          162..482
+                     /region_name="BaeS"
+                     /note="Signal transduction histidine kinase [Signal
+                     transduction mechanisms]; COG0642"
+                     /db_xref="CDD:223715"
+ORIGIN      
+        1 mkylyqqlla figvialiil ivgtsftqlt krtmqennye qlygyaesal etrdffinva
+       61 gvsdrdvlsy sfqltervlq kqdvqfvfin kdrevqyppv dstkkldfsl idknwdqimk
+      121 gnrvyateni diygarntss yvmlpvyasn qssdkkviig slvitqpakn vdrsvqsvtq
+      181 nlikgfifsg vialllsylf atfqvkrinr mrkatkeits gnfdiqlpvh dkdefddlae
+      241 dfnkmaaslk esqeeinrqe errrqfmada shemrtpltt inglleglqy naipenqken
+      301 aiklmqneta rlirlvnenl dyekirtnqi qivvkkfngt ealenivtql takaeaagnq
+      361 lyldttepid vyadydrfvq vvvnivqnai qftengeihi vlekgyleti vrisdtgigm
+      421 teeqilniwd ryykvdpsrk ntkygesglg lpivqqlvrl hkgkinvese lgkgttfiis
+      481 fpdveiten
+//
+
+

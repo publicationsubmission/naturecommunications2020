@@ -1,0 +1,50 @@
+LOCUS       WP_086874846             693 aa            linear   BCT 06-OCT-2019
+DEFINITION  type I DNA topoisomerase [Lactobacillus johnsonii].
+ACCESSION   WP_086874846
+VERSION     WP_086874846.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF004077.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK05582
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..693
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     gene            1..693
+                     /gene="topA"
+     Protein         1..693
+                     /product="type I DNA topoisomerase"
+                     /EC_number="5.6.2.2"
+                     /calculated_mol_wt=79355
+     Region          8..657
+                     /region_name="PRK05582"
+                     /note="DNA topoisomerase I; Validated"
+                     /db_xref="CDD:235516"
+ORIGIN      
+        1 mptkrknkkn lvivesphka ktiekylgrn yhviaskghi rdlpksqmgv dvehdyepky
+       61 isirgkgdti kelkseakka kyvylasdpd regeaiawhv ahalnldpke hnrvafneit
+      121 kdavknafkn prtidmdivd aqqarrvldr lvgysispil wqkvkkglsa grvqsialkl
+      181 vidreneikn fkpeeywtid adfekgsekf kgafygikgk kqelpnneav qdvlkridkr
+      241 knfevtkvvk kerrrqptap fttstmqqea nkrlgyrtrr tmriaqslye gvnlgkgsvg
+      301 litymrtdsk rianvakhea skfiheeyge nyaavkpqhf kndadaqdah eairptsafr
+      361 tpasvkeylt teeyrlytli wsrfiasqmt pavydtvrad ieqndvtfrt tgsklkfagf
+      421 tkvydnqkek snelpelneg dkvklkktdd rqhftqppar yteaslvral eengvgrpst
+      481 yaptidtiqk ryyvklegrs ivptelgeiv dklieeffpd ivnvdftaql endldgvevg
+      541 kknwikvvde yykpfskeld kadqqiekvq ikdepagfnc dicgapmvik mgrygkfyac
+      601 srfpdcrntk pivkkigvtc pkcgkgevie kkskrnrkfy gcsrypdcdf vswdqpigrn
+      661 cpndghflvq kknkkglvil cpngdyreep een
+//
+
+

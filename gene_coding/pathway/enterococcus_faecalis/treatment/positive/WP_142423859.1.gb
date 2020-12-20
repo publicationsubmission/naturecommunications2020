@@ -1,0 +1,37 @@
+LOCUS       WP_142423859             337 aa            linear   BCT 22-JUL-2019
+DEFINITION  zinc-binding dehydrogenase [Enterococcus faecalis].
+ACCESSION   WP_142423859
+VERSION     WP_142423859.1
+KEYWORDS    RefSeq.
+SOURCE      Enterococcus faecalis
+  ORGANISM  Enterococcus faecalis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae;
+            Enterococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024989.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13602.4
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..337
+                     /organism="Enterococcus faecalis"
+                     /db_xref="taxon:1351"
+     Protein         1..337
+                     /product="zinc-binding dehydrogenase"
+                     /calculated_mol_wt=37137
+ORIGIN      
+        1 mkatlihkyg qkelsieevp lptihdndvl vkiiaasinp idlktkdgkv kmllnyqmpl
+       61 ilgsdfagiv vsvgkkvqnf rlgdavygrv pknrvgtfae yiavdqaava mkpknltfee
+      121 aaaiplvglt syqalhdimn vqpgqkvliq agsggigtia iqlaklagay vatttssknk
+      181 ewvqalgade vidyrtqnfe evlsdydyvf dtmggtilek afsvvkpqgk vvtlsgipne
+      241 rfakeyglpl wkqwafkiat rkihrleqdt dvsyhflfmr pdgeqlallt efieqgklqp
+      301 iidrvvpfsq iqeavdyslt graqgkivmk iadvdhd
+//
+
+

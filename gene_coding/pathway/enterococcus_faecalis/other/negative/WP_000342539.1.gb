@@ -1,0 +1,36 @@
+LOCUS       WP_000342539             165 aa            linear   BCT 28-AUG-2013
+DEFINITION  MULTISPECIES: antirestriction protein ArdA [Bacteria].
+ACCESSION   WP_000342539
+VERSION     WP_000342539.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (eubacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10538058
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..165
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     Protein         1..165
+                     /product="antirestriction protein ArdA"
+                     /calculated_mol_wt=18994
+     Region          6..162
+                     /region_name="ArdA"
+                     /note="Antirestriction protein (ArdA); pfam07275"
+                     /db_xref="CDD:336654"
+ORIGIN      
+        1 mddmqvyian lgkynegelv gawftfpidf eevkekigln deyeeyaihd yelpftvdey
+       61 tsigelnrlw emvselpeel qselsallth fssieelseh qediiihsdc ddmydvaryy
+      121 ieetgalgev paslqnyidy qaygrdldls gtfistnhgi feivy
+//
+
+

@@ -1,0 +1,43 @@
+LOCUS       WP_004898102             460 aa            linear   BCT 14-APR-2016
+DEFINITION  amino acid permease [Lactobacillus johnsonii].
+ACCESSION   WP_004898102
+VERSION     WP_004898102.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11438095
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..460
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..460
+                     /product="amino acid permease"
+                     /calculated_mol_wt=50008
+     Region          1..460
+                     /region_name="AnsP"
+                     /note="L-asparagine transporter and related permeases
+                     [Amino acid transport and metabolism]; COG1113"
+                     /db_xref="CDD:224038"
+ORIGIN      
+        1 menkqnhppk lkrsmtagqm emislggaig vglfmgstst ikwtgpsvll aymfvglily
+       61 ivmralgeml yvspgtgsfa dyateyispl agylaewanv fqyivvgise vvaateylkf
+      121 wwpevsvfws giiiiaflll anlasakayg tlefwfamik vvtivimiil gllvillgvg
+      181 nhgkpigfsn lwshggfftg gvkgfffsma iiagsyegie ligisageva npqeaivksv
+      241 ksvlwrilif yvgaifvivt iypwnqlsni gspfvetftk vgitaaagii nfvvltaals
+      301 gansgiysss rmlfklaheg eapkafgkls krivpdraiv gitsgiligf ilnlimstmn
+      361 ksmgelfvvv ysssvlpgmv awfviliael kfrknnshlm aehpfklply pysnyfafam
+      421 llvivvfmfi npetrisvgv gagvlvlasl vymlkhrnkk
+//
+
+

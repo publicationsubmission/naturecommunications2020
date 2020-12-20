@@ -1,0 +1,41 @@
+LOCUS       WP_046869881             403 aa            linear   BCT 13-MAY-2017
+DEFINITION  YeeE/YedE family protein [Clostridium sporogenes].
+ACCESSION   WP_046869881
+VERSION     WP_046869881.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10514231
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..403
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..403
+                     /product="YeeE/YedE family protein"
+                     /calculated_mol_wt=44396
+     Region          31..391
+                     /region_name="Sulf_transp"
+                     /note="Sulphur transport; pfam04143"
+                     /db_xref="CDD:309319"
+ORIGIN      
+        1 miifaiiqsn rnyklglfli sglaigylmq rsrfgfaggi rklyvtgess ltkallflfs
+       61 islivtaaih ygahvngaev ayrvsegvki ipgtqsvypv nlatilggil fgigmmlggg
+      121 casgtltdag egearalivl lffitgslwg ahdmpwwkst pfytwntsvy lpdvfgymga
+      181 ilvsllgflg iyiftkkyen krkrentyip leydswqkel pepnkhkfls ketyhkffvk
+      241 rwsfytgavl lmimfevill ttgknwgvts tfvewgawly qslgivdvsn wpyfadkmkt
+      301 inagfindpg smrnlgiiig alispllagh fsfkrgfklr diifyalggi fmgygarlas
+      361 gcnigalyaa issmslsgwv flpsltlggi igvnlikkfn ins
+//
+
+

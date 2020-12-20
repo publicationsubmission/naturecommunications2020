@@ -1,0 +1,46 @@
+LOCUS       WP_003496710             213 aa            linear   BCT 12-APR-2019
+DEFINITION  MULTISPECIES: helix-turn-helix transcriptional regulator
+            [Clostridium].
+ACCESSION   WP_003496710
+VERSION     WP_003496710.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10550332
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..213
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     Protein         1..213
+                     /product="helix-turn-helix transcriptional regulator"
+                     /calculated_mol_wt=23650
+     Region          11..60
+                     /region_name="HTH_11"
+                     /note="HTH domain; pfam08279"
+                     /db_xref="CDD:285479"
+     Region          85..205
+                     /region_name="CBS_pair_4"
+                     /note="The CBS domain, named after human CBS, is a small
+                     domain originally identified in cystathionine
+                     beta-synthase and is subsequently found in a wide range of
+                     different proteins. CBS domains usually occur in tandem
+                     repeats. They associate to form a so-called...; cd04617"
+                     /db_xref="CDD:239989"
+ORIGIN      
+        1 mkaiklserq eqivelvknn epitsenlag clgvtraalr pdlailtmig ileakpkvgy
+       61 iyshkpsysl lqdyindikv kdimskpvmv nenttvydsi lhlflndvgt lfvhneqilv
+      121 gavsrkdflk vamggtdmhk vpvgiimtrm pnivcvnied sayyaaqkii ehevdslpvv
+      181 ekviknnvee fkiigkvskt nitklfvkvg ekv
+//
+
+

@@ -1,0 +1,46 @@
+LOCUS       WP_046870023             175 aa            linear   BCT 02-OCT-2019
+DEFINITION  phosphatase PAP2 family protein [Clostridium sporogenes].
+ACCESSION   WP_046870023
+VERSION     WP_046870023.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium sporogenes
+  ORGANISM  Clostridium sporogenes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+            Clostridium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013718.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF01569.19
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..175
+                     /organism="Clostridium sporogenes"
+                     /db_xref="taxon:1509"
+     Protein         1..175
+                     /product="phosphatase PAP2 family protein"
+                     /calculated_mol_wt=19419
+     Region          3..170
+                     /region_name="PAP2_like"
+                     /note="PAP2_like proteins, a super-family of histidine
+                     phosphatases and vanadium haloperoxidases, includes type 2
+                     phosphatidic acid phosphatase or lipid phosphate
+                     phosphatase (LPP), Glucose-6-phosphatase,
+                     Phosphatidylglycerophosphatase B and bacterial acid...;
+                     cl00474"
+                     /db_xref="CDD:320992"
+     Site            order(77,84,106..108,141,147,151)
+                     /site_type="active"
+                     /db_xref="CDD:238813"
+ORIGIN      
+        1 mnfiqnvdiy lldfihrnia ndfldkimif itsignlgli wigisvflli skkyrkvgml
+       61 ciaslvlssl igevvlknlv qrgrpftaie ginllikspk sfsfpsghta ssfavatvig
+      121 rriksfklpi yilafsiafs rlylyvhyps dvlvgaligi isaniilyiy nkgnf
+//
+
+

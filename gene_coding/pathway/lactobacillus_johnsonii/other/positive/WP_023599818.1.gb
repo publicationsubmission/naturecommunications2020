@@ -1,0 +1,55 @@
+LOCUS       WP_023599818             133 aa            linear   BCT 02-JUN-2019
+DEFINITION  MULTISPECIES: transcriptional regulator Spx [Lactobacillus].
+ACCESSION   WP_023599818
+VERSION     WP_023599818.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus
+  ORGANISM  Lactobacillus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae.
+REFERENCE   1  (residues 1 to 133)
+  AUTHORS   Birch,C.A., Davis,M.J., Mbengi,L. and Zuber,P.
+  TITLE     Exploring the Amino Acid Residue Requirements of the RNA Polymerase
+            (RNAP) alpha Subunit C-Terminal Domain for Productive Interaction
+            between Spx and RNAP of Bacillus subtilis
+  JOURNAL   J. Bacteriol. 199 (14) (2017)
+   PUBMED   28484046
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF009210.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK12559
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..133
+                     /organism="Lactobacillus"
+                     /db_xref="taxon:1578"
+     gene            1..133
+                     /gene="spxA"
+     Protein         1..133
+                     /product="transcriptional regulator Spx"
+                     /calculated_mol_wt=15653
+     Region          1..129
+                     /region_name="Thioredoxin_like"
+                     /note="Protein Disulfide Oxidoreductases and Other
+                     Proteins with a Thioredoxin fold; cl00388"
+                     /db_xref="CDD:351069"
+     Site            order(10,58,92,105)
+                     /site_type="active"
+                     /note="putative catalytic residues [active]"
+                     /db_xref="CDD:239330"
+     Site            order(10,13)
+                     /site_type="other"
+                     /note="thiol/disulfide switch"
+                     /db_xref="CDD:239330"
+ORIGIN      
+        1 mlnlytspsc tscrkakawl kehdisfker nifanplnke eimqvlrmte ngteeiistr
+       61 srtfqnlkin lddlsidqli dlveknpsll rrpiimddrr lqvgynedei rrflprkvrr
+      121 leleeiqamt adf
+//
+
+

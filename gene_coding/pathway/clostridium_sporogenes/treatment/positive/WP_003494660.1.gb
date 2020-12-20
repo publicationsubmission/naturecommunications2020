@@ -1,0 +1,50 @@
+LOCUS       WP_003494660             159 aa            linear   BCT 01-JUN-2019
+DEFINITION  MULTISPECIES: 5-(carboxyamino)imidazole ribonucleotide mutase
+            [Clostridium].
+ACCESSION   WP_003494660
+VERSION     WP_003494660.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium
+  ORGANISM  Clostridium
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae.
+REFERENCE   1  (residues 1 to 159)
+  AUTHORS   Meyer,E., Kappock,T.J., Osuji,C. and Stubbe,J.
+  TITLE     Evidence for the direct transfer of the carboxylate of
+            N5-carboxyaminoimidazole ribonucleotide (N5-CAIR) to generate
+            4-carboxy-5-aminoimidazole ribonucleotide catalyzed by Escherichia
+            coli PurE, an N5-CAIR mutase
+  JOURNAL   Biochemistry 38 (10), 3012-3018 (1999)
+   PUBMED   10074353
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR01162.1
+            Evidence Source    :: JCVI
+            Source Identifier  :: TIGR01162
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..159
+                     /organism="Clostridium"
+                     /db_xref="taxon:1485"
+     gene            1..159
+                     /gene="purE"
+     Protein         1..159
+                     /product="5-(carboxyamino)imidazole ribonucleotide mutase"
+                     /EC_number="4.1.1.21"
+                     /EC_number="5.4.99.18"
+                     /calculated_mol_wt=17231
+     Region          2..148
+                     /region_name="AIRC"
+                     /note="AIR carboxylase; pfam00731"
+                     /db_xref="CDD:307053"
+ORIGIN      
+        1 mkvaiifgsk sdtdkmkgaa kalkefniey kayilsahrv peklmetied lekegyecii
+       61 agaglaahlp gviashtvlp vigvpieaav ggmdsllsiv qmpksipvat vginnsynag
+      121 mlavqilslk yknlreklie yrkdmkekfi ndnkegvel
+//
+
+

@@ -1,0 +1,38 @@
+LOCUS       WP_086875146             152 aa            linear   BCT 12-JAN-2018
+DEFINITION  MarR family transcriptional regulator [Lactobacillus johnsonii].
+ACCESSION   WP_086875146
+VERSION     WP_086875146.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013231.0
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF01047.20
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..152
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..152
+                     /product="MarR family transcriptional regulator"
+                     /calculated_mol_wt=17404
+     Region          24..123
+                     /region_name="HTH"
+                     /note="Helix-turn-helix domains; cl21459"
+                     /db_xref="CDD:354815"
+ORIGIN      
+        1 maeedilrei gsisraldsi aniefkdlel nrgqylyltr vfehpgiisd hlatllnidr
+       61 tttahgirkl eraglvfked detnkkikhl fvtdtgkkla keierenvys ntlvtkgltk
+      121 deqaqlqkyl svleknaren wnfvknggkr ky
+//
+
+

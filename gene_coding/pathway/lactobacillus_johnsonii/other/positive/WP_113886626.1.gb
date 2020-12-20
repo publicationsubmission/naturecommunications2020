@@ -1,0 +1,42 @@
+LOCUS       WP_113886626             252 aa            linear   BCT 07-OCT-2018
+DEFINITION  MurR/RpiR family transcriptional regulator [Lactobacillus
+            johnsonii].
+ACCESSION   WP_113886626
+VERSION     WP_113886626.1
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus johnsonii
+  ORGANISM  Lactobacillus johnsonii
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11448252
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..252
+                     /organism="Lactobacillus johnsonii"
+                     /db_xref="taxon:33959"
+     Protein         1..252
+                     /product="MurR/RpiR family transcriptional regulator"
+                     /calculated_mol_wt=28454
+     Region          2..248
+                     /region_name="RpiR"
+                     /note="DNA-binding transcriptional regulator, MurR/RpiR
+                     family, contains HTH and SIS domains [Transcription];
+                     COG1737"
+                     /db_xref="CDD:224651"
+ORIGIN      
+        1 mqnndlsnae lhlwetvqkn pqkiakmsiv klsqfshvst ativrtmqkm gysgytsyre
+       61 slklqdrsns nfdvlndadd kiksvitkne iemnntlhnl sysniedsis mtkqakvvyi
+      121 farglsesig qeimvklqlt gkyvefhsdp niiktaskri kedalvifis lngntpelve
+      181 aaqnlsrhdv ptvtfttnpn gqlaslstlt fmgymsktny fpdyevrsrl plqimtrifs
+      241 daysvrtgfa rq
+//
+
+
